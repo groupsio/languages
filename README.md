@@ -20,7 +20,7 @@ Note that you don't have to clone your fork to make the edits; you can do everyt
 
 ## Translating
 
-The translations use the Gettext PO file format.
+The translations use the Gettext PO file format. The original template, containing the English version of the site, is `en.pot`.
 
 When you fix a translation, remove the `#, fuzzy` line above it. This signals that the translation has been fixed.
 
