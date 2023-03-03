@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2023-02-27 09:05-0800\n"
+"PO-Revision-Date: 2023-03-03 09:33-0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -268,6 +268,15 @@ msgstr "%[1]s a ajouté le tableau Trello %[2]s"
 msgid "%[1]s added wiki page %[2]s"
 msgstr "%[1]s a ajouté une page wiki %[2]s"
 
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:91
+#, fuzzy
+msgid ""
+"%[1]s applied to join your group %[2]s. Because the group is restricted, you "
+"will need to approve their subscription before they can join."
+msgstr ""
+"%[1]s ont demandé à rejoindre votre groupe %[2]s. Le groupe étant restreint, "
+"vous devrez approuver leur inscription avant qu'ils ne puissent s'y joindre."
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:115
 #, fuzzy
 msgid "%[1]s approved %[2]s"
@@ -369,9 +378,39 @@ msgstr "%[1]s a changé la couleur de %[2]s"
 msgid "%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s'"
 msgstr "%[1]s a changé le nom d'affichage de %[2]s de '%[3]s' en '%[4]s'"
 
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:143
+#, fuzzy
+msgid ""
+"%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s' in group %[5]s"
+msgstr "%[1]s a changé le nom d'affichage de %[2]s de '%[3]s' en '%[4]s'"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:140
+#, fuzzy
+msgid "%[1]s changed %[2]s's display name to '%[3]s' in group %[4]s"
+msgstr "%[1]s a changé le nom d'affichage de %[2]s de '%[3]s' en '%[4]s'"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:169
 #, fuzzy
 msgid "%[1]s changed %[2]s's email address from %[3]s"
+msgstr "%[1]s a changé l'adresse électronique de %[2]s de celle de %[3]s"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:131
+#, fuzzy
+msgid ""
+"%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name "
+"from '%[5]s' to '%[6]s' in group %[7s]"
+msgstr "%[1]s a changé le nom d'affichage de %[2]s de '%[3]s' en '%[4]s'"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:128
+#, fuzzy
+msgid ""
+"%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name to "
+"'%[5]s' in group %[6]s"
+msgstr "%[1]s a changé le nom d'affichage de %[2]s de '%[3]s' en '%[4]s'"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:135
+#, fuzzy
+msgid "%[1]s changed %[2]s's email address from %[3]s to %[4]s in group %[5]s"
 msgstr "%[1]s a changé l'adresse électronique de %[2]s de celle de %[3]s"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:191
@@ -488,6 +527,35 @@ msgstr "%[1]s a changé le sujet de %[2]s en \"%[3]s\""
 msgid "%[1]s changed their display name from '%[2]s' to '%[3]s'"
 msgstr "%[1]s a changé son nom d'affichage de \"%[2]s\" à \"%[3]s\""
 
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:166
+#, fuzzy
+msgid "%[1]s changed their display name from '%[2]s' to '%[3]s' in group %[4]s"
+msgstr "%[1]s a changé son nom d'affichage de \"%[2]s\" à \"%[3]s\""
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:163
+#, fuzzy
+msgid "%[1]s changed their display name to '%[2]s' in group %[3]s"
+msgstr "%[1]s a changé son nom d'affichage de \"%[2]s\" à \"%[3]s\""
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:154
+#, fuzzy
+msgid ""
+"%[1]s changed their email address from %[2]s to %[3]s and display name from "
+"'%[4]s' to '%[5]s' in group %[6]s"
+msgstr "%[1]s a changé le nom d'affichage de %[2]s de '%[3]s' en '%[4]s'"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:151
+#, fuzzy
+msgid ""
+"%[1]s changed their email address from %[2]s to %[3]s and display name to "
+"'%[4]s' in group %[5]s"
+msgstr "%[1]s a changé l'adresse électronique de %[2]s à %[3]s"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:158
+#, fuzzy
+msgid "%[1]s changed their email address from %[2]s to %[3]s in group %[4]s"
+msgstr "%[1]s a changé l'adresse électronique de %[2]s à %[3]s"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:79
 #, fuzzy
 msgid "%[1]s changed user name from %[2]s to %[3]s"
@@ -523,6 +591,14 @@ msgstr "Créer une demande de don"
 #, fuzzy
 msgid "%[1]s created subgroup %[2]s"
 msgstr "Qui peut créer des sous-groupes."
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:182
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:204
+#, fuzzy
+msgid "%[1]s deleted"
+msgid_plural "%[1]s and %#[2]d others deleted"
+msgstr[0] "%[1]s photo supprimée %[2]s"
+msgstr[1] "%[1]s photo supprimée %[2]s"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:116
 #, fuzzy
@@ -742,6 +818,13 @@ msgstr "%[1]s a fusionné le sujet \"%[2]s\" dans %[3]s"
 msgid "%[1]s moderated topic %[2]s"
 msgstr "Unmoderate Après"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:206
+#, fuzzy
+msgid "%[1]s moved"
+msgid_plural "%[1]s and %#[2]d others moved"
+msgstr[0] "%[1]s supprimé %[2]s"
+msgstr[1] "%[1]s supprimé %[2]s"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:62
 #, fuzzy
 msgid "%[1]s moved file (%[2]s) %[3]s"
@@ -789,6 +872,11 @@ msgstr "%[1]s a payé la facture du groupe %#[2]d"
 #, fuzzy
 msgid "%[1]s paid overdue group invoice %#[2]d"
 msgstr "%[1]s a payé la facture du groupe en retard %#[2]d"
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:161
+#, fuzzy
+msgid "%[1]s posted the message '%[2]s' that needs to be approved."
+msgstr "%[1]s a tenté d'envoyer un message \"%[2]s\" trop volumineux"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:118
 #, fuzzy
@@ -1157,6 +1245,15 @@ msgstr "Unmoderate Après"
 msgid "%[1]s unstuck topic %[2]s"
 msgstr "%[1]s sujet décollé %[2]s"
 
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:180
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:202
+#, fuzzy
+#| msgid "Last updated"
+msgid "%[1]s updated"
+msgid_plural "%[1]s and %#[2]d others updated"
+msgstr[0] "Dernière mise à jour"
+msgstr[1] "Dernière mise à jour"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:195
 #, fuzzy
 #| msgid "Donations"
@@ -1197,6 +1294,14 @@ msgstr "tableau mis à jour par %[1]s %[2]s"
 #, fuzzy
 msgid "%[1]s updated wiki page %[2]s"
 msgstr "%[1]s a mis à jour la page wiki %[2]s"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:184
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:208
+#, fuzzy
+msgid "%[1]s uploaded"
+msgid_plural "%[1]s and %#[2]d others uploaded"
+msgstr[0] "%[1]s ajouté %[2]s"
+msgstr[1] "%[1]s ajouté %[2]s"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:187
 #, fuzzy
@@ -1265,6 +1370,13 @@ msgid "%d Member"
 msgid_plural "%d Members"
 msgstr[0] "Ajouter un Membre"
 msgstr[1] "%d Membres"
+
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:240
+#, fuzzy
+msgid "%d member has said \"yes\""
+msgid_plural "%d members have said \"yes\""
+msgstr[0] "%d Le membre a dit \"oui\""
+msgstr[1] "%d membres ont dit \"oui\""
 
 #: ../../cmd/web/views/user/groups.qtpl:410
 #: ../../cmd/web/views/user/groups.qtpl:518
@@ -1372,6 +1484,11 @@ msgstr "Intégration"
 #, fuzzy
 msgid "%s applied for membership"
 msgstr "Adhésion restreinte"
+
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:117
+#, fuzzy
+msgid "%s applied to join your group."
+msgstr "Vous n'êtes pas autorisé à rejoindre ce groupe."
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:115
 #, fuzzy
@@ -1521,6 +1638,11 @@ msgstr ""
 msgid "%s left"
 msgstr "%s restant"
 
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:41
+#, fuzzy
+msgid "%s login request: Confirmation Needed"
+msgstr "%s demande de connexion : Confirmation nécessaire"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:77
 #, fuzzy
 msgid "%s reported a message as spam and was removed"
@@ -1664,12 +1786,29 @@ msgstr[1] "+1 invité"
 msgid "+owner Messages"
 msgstr "Messages"
 
-#: ../../cmd/web/views/account/account.qtpl:794
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:214
+#, fuzzy
+#| msgid "Album"
+msgid "/album/"
+msgstr "Album"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:200
+#, fuzzy
+#| msgid "Member"
+msgid "/member/"
+msgstr "Membre"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:196
+#, fuzzy
+msgid "/table?id="
+msgstr "/table?id="
+
+#: ../../cmd/web/views/account/account.qtpl:825
 #, fuzzy
 msgid "100 items"
 msgstr "100 articles"
 
-#: ../../cmd/web/views/account/account.qtpl:743
+#: ../../cmd/web/views/account/account.qtpl:774
 #, fuzzy
 msgid "12 Hour Clock (3:04pm)"
 msgstr "horloge 12 heures (3:04pm)"
@@ -1686,11 +1825,11 @@ msgstr "1TB d'espace de stockage"
 msgid "1TB Storage Space"
 msgstr "1TB d'espace de stockage"
 
-#: ../../cmd/web/views/account/account.qtpl:788
+#: ../../cmd/web/views/account/account.qtpl:819
 msgid "20 items"
 msgstr "20 articles"
 
-#: ../../cmd/web/views/account/account.qtpl:746
+#: ../../cmd/web/views/account/account.qtpl:777
 #, fuzzy
 msgid "24 Hour Clock (15:04)"
 msgstr "l'horloge de 24 heures (15:04)"
@@ -1701,7 +1840,7 @@ msgstr "l'horloge de 24 heures (15:04)"
 msgid "30GB Storage Space"
 msgstr "espace de stockage de 30 Go"
 
-#: ../../cmd/web/views/account/account.qtpl:791
+#: ../../cmd/web/views/account/account.qtpl:822
 #, fuzzy
 msgid "50 items"
 msgstr "50 articles"
@@ -1757,7 +1896,7 @@ msgstr ". Les groupes de base sont entièrement gratuits."
 msgid "<a href=\"/search?p=SubsCount"
 msgstr "<br />Href=\"/search?p=SubsCount"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:252
+#: ../../cmd/web/views/user/homeloggedout.qtpl:300
 #, fuzzy
 msgid ""
 "<a href=\"/static/features\">Powerful features</a> that make groups more "
@@ -1850,7 +1989,7 @@ msgstr ""
 "À la vôtre,<br>\n"
 "<p>L'équipe du %[2]s</p>\n"
 
-#: ../../cmd/web/views/account/account.qtpl:1029
+#: ../../cmd/web/views/account/account.qtpl:1060
 #, fuzzy
 msgid ""
 "<strong>Important:</strong> Once you enable two-factor authentication, you "
@@ -1873,7 +2012,18 @@ msgstr ""
 "membres du groupe. Veuillez être attentif au nombre d'éditions que vous "
 "faites."
 
-#: ../../cmd/web/views/account/account.qtpl:891
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:76
+#, fuzzy
+msgid ""
+"<strong>Note:</strong> If your group is already over its storage allotment, "
+"we will delete attachments starting in two weeks from when you received this "
+"notice."
+msgstr ""
+"<strong>Remarque :</strong> si votre groupe a déjà dépassé son quota de "
+"stockage, nous supprimerons les pièces jointes dans les deux semaines "
+"suivant la réception de cet avis."
+
+#: ../../cmd/web/views/account/account.qtpl:922
 #, fuzzy
 msgid ""
 "<strong>Note:</strong> Notifications are activated per device and desktop "
@@ -1934,6 +2084,39 @@ msgstr ""
 msgid "\"%s\""
 msgstr "\"%s\""
 
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:89
+#, fuzzy
+msgid "A chat has been closed"
+msgstr ""
+"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
+"spéciaux."
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:93
+#, fuzzy
+msgid "A chat has been deleted"
+msgstr ""
+"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
+"spéciaux."
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:91
+#, fuzzy
+msgid "A chat has been reopened"
+msgstr ""
+"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
+"spéciaux."
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:87
+#, fuzzy
+msgid "A chat has been updated"
+msgstr ""
+"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
+"spéciaux."
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:141
+#, fuzzy
+msgid "A complete copy of this message has been attached for your convenience."
+msgstr "Une copie complète de ce message a été jointe pour votre commodité."
+
 #: ../../cmd/web/qtutils/flashnotices.qtpl:399
 #, fuzzy
 msgid ""
@@ -1965,12 +2148,40 @@ msgstr ""
 "Un courriel vous a été envoyé avec un lien pour vous connecter à votre "
 "compte."
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:116
+#, fuzzy
+msgid ""
+"A message was sent to the group %[1]s from %[2]s that needs to be approved "
+"because %[3]s."
+msgstr ""
+"Un message a été envoyé au groupe %[1]s par %[2]s et doit être approuvé par "
+"%[3]s."
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:114
+#, fuzzy
+msgid ""
+"A message was sent to the group %[1]s from Group Moderator that needs to be "
+"approved because %[2]s."
+msgstr ""
+"Un message a été envoyé au groupe %[1]s par le modérateur du groupe qui doit "
+"être approuvé parce que %[2]s."
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:169
 #, fuzzy
 msgid "A moderator in another group changed %[1]s's email address from %[2]s"
 msgstr ""
 "Un modérateur d'un autre groupe a modifié l'adresse électronique de %[1]s de "
 "%[2]s"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:95
+#, fuzzy
+msgid "A new chat has been created"
+msgstr "Caractéristiques de votre groupe"
+
+#: ../../pkg/notifications/noteviews/addpollnotification.qtpl:103
+#, fuzzy
+msgid "A new poll has been created:"
+msgstr "Caractéristiques de votre groupe"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:509
 #, fuzzy
@@ -1985,6 +2196,11 @@ msgstr ""
 #, fuzzy
 msgid "A pending subscription email has been sent."
 msgstr "Cet abonnement est en attente."
+
+#: ../../pkg/notifications/noteviews/addpollnotification.qtpl:107
+#, fuzzy
+msgid "A poll has been updated:"
+msgstr "Caractéristiques de votre groupe"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:544
 #, fuzzy
@@ -2046,6 +2262,11 @@ msgstr "Compte"
 #| msgid "Account"
 msgid "Account Billed"
 msgstr "Compte"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:184
+#, fuzzy
+msgid "Account Change"
+msgstr "Changements de compte"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:451
 #: ../../cmd/web/views/sub/editsub.qtpl:524
@@ -2176,7 +2397,7 @@ msgstr "Ajouter une réponse"
 msgid "Add Choice"
 msgstr "Ajouter un Choix"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:281
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:312
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:280
 msgid "Add Column"
 msgstr "Ajouter une colonne"
@@ -2351,12 +2572,42 @@ msgstr "Ajouter via URL"
 msgid "Added"
 msgstr "Ajouté"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:195
+msgid "added"
+msgstr "ajouté"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:175
+#, fuzzy
+#| msgid "Photo Albums"
+msgid "Added Album"
+msgstr "Albums photo"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:54
+#, fuzzy
+#| msgid "Photo Albums"
+msgid "Added album"
+msgstr "Albums photo"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:232
 #: ../../cmd/web/qtutils/displayactivity.qtpl:522
 #: ../../cmd/web/qtutils/displayactivity.qtpl:626
 #, fuzzy
 msgid "Added banned domain"
 msgstr "Domaines interdits"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:69
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:155
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:177
+#, fuzzy
+#| msgid "Add Table"
+msgid "Added Database"
+msgstr "Ajouter tableau"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:112
+#, fuzzy
+#| msgid "Add Table"
+msgid "Added database"
+msgstr "Ajouter tableau"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:233
 #: ../../cmd/web/qtutils/displayactivity.qtpl:449
@@ -2412,6 +2663,19 @@ msgstr "Ajouté"
 #, fuzzy
 #| msgid "Update Folder"
 msgid "Added folder"
+msgstr "Mettre à jour le dossier"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:95
+#, fuzzy
+#| msgid "Update Folder"
+msgid "added folder"
+msgstr "Mettre à jour le dossier"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:55
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:157
+#, fuzzy
+#| msgid "Update Folder"
+msgid "Added Folder %s"
 msgstr "Mettre à jour le dossier"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:240
@@ -2491,6 +2755,19 @@ msgstr "Ajout d'un événement répétitif"
 msgid "Added row"
 msgstr "Ajouté"
 
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:164
+#, fuzzy
+#| msgid "Added"
+msgid "Added Row #"
+msgstr "Ajouté"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:78
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:130
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:186
+#, fuzzy
+msgid "Added Row #%[1]d To %[2]s"
+msgstr "#%#[1]d %[2]s"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:250
 #: ../../cmd/web/qtutils/displayactivity.qtpl:458
 #: ../../cmd/web/qtutils/displayactivity.qtpl:644
@@ -2498,6 +2775,12 @@ msgstr "Ajouté"
 #| msgid "Add Table"
 msgid "Added table"
 msgstr "Ajouter tableau"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:99
+#, fuzzy
+#| msgid "Photo Albums"
+msgid "added the album"
+msgstr "Albums photo"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:251
 #: ../../cmd/web/qtutils/displayactivity.qtpl:531
@@ -2515,8 +2798,8 @@ msgstr "Taille maximale des images sur les pages Wiki"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:251
-#: ../../cmd/web/views/user/homeloggedout.qtpl:288
-#: ../../cmd/web/views/user/homeloggedout.qtpl:333
+#: ../../cmd/web/views/user/homeloggedout.qtpl:336
+#: ../../cmd/web/views/user/homeloggedout.qtpl:381
 msgid "Additional Features"
 msgstr "Caractéristiques supplémentaires"
 
@@ -2600,7 +2883,7 @@ msgstr "Afghanistan"
 msgid "After"
 msgstr "Après"
 
-#: ../../cmd/web/views/account/account.qtpl:1069
+#: ../../cmd/web/views/account/account.qtpl:1100
 #, fuzzy
 msgid ""
 "After scanning the image, the app will display a six-digit code that you can "
@@ -2621,6 +2904,12 @@ msgstr "Albanie"
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl:142
 msgid "Album"
 msgstr "Album"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:136
+#, fuzzy
+#| msgid "Name of the category."
+msgid "album of the %s group."
+msgstr "Nom de la catégorie."
 
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:165
 msgid "Album Title"
@@ -2914,6 +3203,18 @@ msgstr "Déjà revendiqué"
 msgid "Already Invited"
 msgstr "Invitation déjà envoyée"
 
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:81
+#, fuzzy
+msgid ""
+"Alternatively, you can set your group to bounce messages that contain "
+"attachments. To do so, go to your group's Settings page and look for the "
+"'Out Of Space' setting at the bottom of the 'Message Policies' section."
+msgstr ""
+"Vous pouvez également configurer votre groupe pour qu'il renvoie les "
+"messages contenant des pièces jointes. Pour ce faire, rendez-vous sur la "
+"page des paramètres de votre groupe et recherchez le paramètre \"Out of "
+"Space\" en bas de la section \"Message Policies\"."
+
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:319
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:320
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:321
@@ -2994,9 +3295,9 @@ msgstr "am"
 msgid "American Samoa"
 msgstr "American Samoa"
 
-#: ../../cmd/web/views/account/account.qtpl:1292
-#: ../../cmd/web/views/account/account.qtpl:1367
-#: ../../cmd/web/views/account/account.qtpl:1438
+#: ../../cmd/web/views/account/account.qtpl:1323
+#: ../../cmd/web/views/account/account.qtpl:1398
+#: ../../cmd/web/views/account/account.qtpl:1469
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:368
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:623
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:76
@@ -3010,6 +3311,12 @@ msgstr "Montant"
 #, fuzzy
 msgid "Amount (in dollars)"
 msgstr "Montant (en dollars)"
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:72
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:68
+#, fuzzy
+msgid "Amount: USD $%.02f"
+msgstr "USD %.02f"
 
 #: ../../cmd/web/views/groupadmin/groupaliases.qtpl:98
 #, fuzzy
@@ -3044,9 +3351,24 @@ msgstr ""
 "Un courriel vous a été envoyé avec un lien pour vous connecter à votre "
 "compte."
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:127
+#, fuzzy
+msgid ""
+"An existing message in the group %s was edited, and the edit needs to be "
+"approved."
+msgstr ""
+"Un message existant dans le groupe %s a été modifié, et la modification doit "
+"être approuvée."
+
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:201
 #, fuzzy
 msgid "An RSVP has been requested for this event."
+msgstr "Un RSVP a été demandé pour cet événement."
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:158
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:235
+#, fuzzy
+msgid "An RSVP is requested."
 msgstr "Un RSVP a été demandé pour cet événement."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:455
@@ -3191,7 +3513,7 @@ msgstr "Ouverture"
 msgid "API Access"
 msgstr "Accès API"
 
-#: ../../cmd/web/views/account/account.qtpl:895
+#: ../../cmd/web/views/account/account.qtpl:926
 #, fuzzy
 msgid ""
 "App notifications are not allowed on this device. To enable notifications, "
@@ -4033,14 +4355,14 @@ msgstr "S'authentifier avec Trello"
 msgid "Authenticate With Trello"
 msgstr "S'authentifier avec Trello"
 
-#: ../../cmd/web/views/account/account.qtpl:1133
+#: ../../cmd/web/views/account/account.qtpl:1164
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl:128
 #: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl:58
 #, fuzzy
 msgid "Authenticated to Github as:"
 msgstr "Authentifié sur Github en tant que"
 
-#: ../../cmd/web/views/account/account.qtpl:1159
+#: ../../cmd/web/views/account/account.qtpl:1190
 #, fuzzy
 msgid "Authenticated to Google as:"
 msgstr "Authentifié sur Google Drive en tant que"
@@ -4050,12 +4372,12 @@ msgstr "Authentifié sur Google Drive en tant que"
 msgid "Authenticated to Google Drive as:"
 msgstr "Authentifié sur Google Drive en tant que"
 
-#: ../../cmd/web/views/account/account.qtpl:1143
+#: ../../cmd/web/views/account/account.qtpl:1174
 #, fuzzy
 msgid "Authenticated to Slack as:"
 msgstr "S'authentifier avec Trello"
 
-#: ../../cmd/web/views/account/account.qtpl:1177
+#: ../../cmd/web/views/account/account.qtpl:1208
 #, fuzzy
 msgid "Authenticated to Slack team %[1]s as %[2]s"
 msgstr "Authentifié sur Google Drive en tant que"
@@ -4065,14 +4387,14 @@ msgstr "Authentifié sur Google Drive en tant que"
 msgid "Authenticated to Slack team %[1]s as %[2]s."
 msgstr "Authentifié sur Google Drive en tant que"
 
-#: ../../cmd/web/views/account/account.qtpl:1151
+#: ../../cmd/web/views/account/account.qtpl:1182
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl:105
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl:58
 #, fuzzy
 msgid "Authenticated to Trello as:"
 msgstr "Authentifié à Trello en tant que"
 
-#: ../../cmd/web/views/account/account.qtpl:1167
+#: ../../cmd/web/views/account/account.qtpl:1198
 #, fuzzy
 msgid "Authenticated to Zoom as:"
 msgstr "Authentifié à Trello en tant que"
@@ -4320,6 +4642,26 @@ msgstr "Un membre interdit a tenté de s'inscrire"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1922
 msgid "Barbados"
 msgstr "Barbade"
+
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:71
+#, fuzzy
+msgid ""
+"Based on your group settings, when the storage limit is reached, messages to "
+"the group that contain attachments will be bounced."
+msgstr ""
+"En fonction des paramètres de votre groupe, lorsque la limite de stockage "
+"est atteinte, les messages destinés au groupe et contenant des pièces "
+"jointes sont renvoyés."
+
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:73
+#, fuzzy
+msgid ""
+"Based on your group settings, when the storage limit is reached, the oldest "
+"attachments will be automatically deleted to make space."
+msgstr ""
+"En fonction des paramètres de votre groupe, lorsque la limite de stockage "
+"est atteinte, les pièces jointes les plus anciennes sont automatiquement "
+"supprimées pour faire de la place."
 
 #: ../../cmd/web/qtutils/messagelib.qtpl:656
 #, fuzzy
@@ -4753,6 +5095,11 @@ msgstr ""
 msgid "By Group Moderator"
 msgstr "Modérateur(trice) du groupe"
 
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:100
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:154
+msgid "By:"
+msgstr "Par :"
+
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:444
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:820
 #, fuzzy
@@ -4802,7 +5149,7 @@ msgstr "Cameroun"
 msgid "Canada"
 msgstr "Canada"
 
-#: ../../cmd/web/views/account/account.qtpl:1083
+#: ../../cmd/web/views/account/account.qtpl:1114
 #: ../../cmd/web/views/account/deleteaccount.qtpl:170
 #: ../../cmd/web/views/group/creategroup.qtpl:230
 #: ../../cmd/web/views/group/createsubgroup.qtpl:209
@@ -5023,6 +5370,17 @@ msgstr "Annuler/supprimer l'invitation"
 msgid "Canceled event"
 msgstr "﻿Annuler l’événement"
 
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:113
+msgid "Cancelled"
+msgstr "Annulée"
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:55
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:187
+#, fuzzy
+#| msgid "Cancel Event"
+msgid "Cancelled Event"
+msgstr "﻿Annuler l’événement"
+
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:176
 #, fuzzy
 msgid "Cannot contain spaces, pluses, or underscores, 34 characters max."
@@ -5176,6 +5534,20 @@ msgstr "Modifier les préférences de connexion sociale"
 msgid "Change the RSVP for <span class=\"checkCount\">no members</span> to"
 msgstr "Êtes-vous sûr de vouloir retirer ce membre du groupe ?"
 
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:177
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:117
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:144
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:149
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:151
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:108
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:167
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:89
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:107
+#, fuzzy
+#| msgid "You have no subscriptions."
+msgid "Change your notification settings"
+msgstr "Vous n'avez aucunes adhésions."
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:264
 #: ../../cmd/web/qtutils/displayactivity.qtpl:536
 #: ../../cmd/web/qtutils/displayactivity.qtpl:658
@@ -5314,6 +5686,12 @@ msgstr ""
 "personnalisés dans chaque profil de groupe. Pour modifier ces champs "
 "personnalisés, rendez-vous dans le profil de groupe concerné."
 
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:75
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:72
+#, fuzzy
+msgid "Charged to: %[1]s (**** **** **** %[2]s)"
+msgstr "Chargé de : %[1]s (**** **** %[2]s)"
+
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:439
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:541
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:46
@@ -5341,6 +5719,12 @@ msgstr "Anciens membres"
 #, fuzzy
 msgid "Chat Messages"
 msgstr "Messages de chat"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:65
+#, fuzzy
+#| msgid "Notifications"
+msgid "Chat Notifications"
+msgstr "Notifications"
 
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:100
 #, fuzzy
@@ -5422,6 +5806,11 @@ msgstr "Élément de la liste de contrôle créé"
 msgid "Checklists"
 msgstr "Checklists"
 
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:97
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:63
+msgid "Cheers,"
+msgstr "A bientôt,"
+
 #: ../../cmd/web/qtutils/color.qtpl:95 ../../cmd/web/qtutils/color.qtpl:250
 #, fuzzy
 msgid "Cherry Blossom"
@@ -5492,6 +5881,17 @@ msgstr "Message d’attente"
 msgid "Clear"
 msgstr "Effacer"
 
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:158
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:235
+#, fuzzy
+msgid "Click here to RSVP"
+msgstr "Choisissez une autre date pour votre réponse"
+
+#: ../../pkg/notifications/noteviews/addpollnotification.qtpl:121
+#, fuzzy
+msgid "Click Here To Vote"
+msgstr "Cliquez ici pour voter"
+
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:234
 #, fuzzy
 msgid ""
@@ -5503,20 +5903,20 @@ msgstr ""
 "accédez à une page permettant de créer un nouveau compte Stripe ou de "
 "connecter un compte Stripe existant. Les comptes Stripe sont gratuits."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:142
+#: ../../cmd/web/views/user/enterprise.qtpl:175
 msgid "Client ID"
 msgstr "ID Client"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:146
+#: ../../cmd/web/views/user/enterprise.qtpl:179
 #, fuzzy
 msgid "Client ID provided by your SSO provider."
 msgstr "ID client fourni par votre fournisseur SSO."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:151
+#: ../../cmd/web/views/user/enterprise.qtpl:184
 msgid "Client Secret"
 msgstr "Client Secret"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:155
+#: ../../cmd/web/views/user/enterprise.qtpl:188
 #, fuzzy
 msgid "Client Secret provided by your SSO provider."
 msgstr "Secret du client fourni par votre fournisseur SSO."
@@ -5724,6 +6124,16 @@ msgstr "Cette demande de don a été clôturée et n'accepte plus de dons."
 msgid "Closed"
 msgstr "Fermé"
 
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:127
+#, fuzzy
+msgid "Closed Chat"
+msgstr "chats ouverts"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:54
+#, fuzzy
+msgid "Closed Chat: %s"
+msgstr "chats ouverts"
+
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl:73
 #: ../../cmd/web/views/groupchat/groupchats.qtpl:97
 #: ../../cmd/web/views/groupchat/groupchats.qtpl:109
@@ -5741,7 +6151,7 @@ msgstr "Bleu nuageux"
 msgid "Cocos (Keeling) Islands"
 msgstr "Îles Cocos"
 
-#: ../../cmd/web/views/account/account.qtpl:1077
+#: ../../cmd/web/views/account/account.qtpl:1108
 #: ../../cmd/web/views/login/twofactor.qtpl:63
 msgid "Code"
 msgstr "Code"
@@ -5798,6 +6208,7 @@ msgstr "Comores"
 
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl:181
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:107
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:101
 msgid "Compare Revisions"
 msgstr "Comparer"
 
@@ -5830,7 +6241,7 @@ msgstr "Des outils de modération complets"
 msgid "Computer"
 msgstr "Ordinateur"
 
-#: ../../cmd/web/views/account/account.qtpl:1039
+#: ../../cmd/web/views/account/account.qtpl:1070
 #, fuzzy
 msgid ""
 "Configure your authenticator app to receive security codes from Groups.io. "
@@ -5844,8 +6255,18 @@ msgstr ""
 msgid "Confirm"
 msgstr "Confirmer"
 
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:92
+msgid "Confirm account"
+msgstr "Confirmer le compte"
+
 #: ../../cmd/web/views/sub/joingroup.qtpl:193
 msgid "Confirm Email Address"
+msgstr "Confirmer l'adresse courriel"
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:55
+#, fuzzy
+#| msgid "Confirm Email Address"
+msgid "Confirm your %s email address"
 msgstr "Confirmer l'adresse courriel"
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl:46
@@ -5853,6 +6274,12 @@ msgstr "Confirmer l'adresse courriel"
 #| msgid "Create Your Account"
 msgid "Confirm Your Account"
 msgstr "Créer votre compte"
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:47
+#, fuzzy
+#| msgid "Confirm"
+msgid "confirm+"
+msgstr "Confirmer"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:66
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:196
@@ -5912,10 +6339,16 @@ msgstr ""
 msgid "Connect with Stripe"
 msgstr "Se connecter avec Stripe"
 
-#: ../../cmd/web/views/account/account.qtpl:1218
+#: ../../cmd/web/views/account/account.qtpl:1249
 #, fuzzy
 msgid "Connect Your Zoom Account"
 msgstr "Connectez votre compte Zoom"
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:96
+#, fuzzy
+#| msgid "Group Owner"
+msgid "Contact Group Owner"
+msgstr "Propriétaire du groupe"
 
 #: ../../cmd/web/views/account/registercaptcha.qtpl:81
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:147
@@ -5974,7 +6407,7 @@ msgid "Create A Donation Request"
 msgstr "Créer une demande de don"
 
 #: ../../cmd/web/views/group/creategroup.qtpl:62
-#: ../../cmd/web/views/user/homeloggedout.qtpl:134
+#: ../../cmd/web/views/user/homeloggedout.qtpl:135
 #, fuzzy
 msgid "Create A Group"
 msgstr "Créer un groupe"
@@ -6144,7 +6577,7 @@ msgstr "Créer ou modifier des hashtags"
 msgid "Creating New Page"
 msgstr "Créer une nouvelle page"
 
-#: ../../cmd/web/views/account/account.qtpl:1232
+#: ../../cmd/web/views/account/account.qtpl:1263
 #, fuzzy
 msgid "Credit Card On File"
 msgstr "Carte de crédit au dossier"
@@ -6325,6 +6758,11 @@ msgstr "Images de la base de données : %[1]s - %[2]d%% de %[3]dGB"
 msgid "Database Map View"
 msgstr "Bases de données"
 
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:88
+#, fuzzy
+msgid "Database Notifications"
+msgstr "Notifications aux membres"
+
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl:164
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:629
 #: ../../cmd/web/views/groupdb/groupdatabase.qtpl:36
@@ -6339,9 +6777,9 @@ msgstr "Bases de données"
 msgid "Databases are disabled"
 msgstr "Les bases de données sont désactivées"
 
-#: ../../cmd/web/views/account/account.qtpl:1283
-#: ../../cmd/web/views/account/account.qtpl:1361
-#: ../../cmd/web/views/account/account.qtpl:1426
+#: ../../cmd/web/views/account/account.qtpl:1314
+#: ../../cmd/web/views/account/account.qtpl:1392
+#: ../../cmd/web/views/account/account.qtpl:1457
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl:180
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:85
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:614
@@ -6387,10 +6825,15 @@ msgstr "Date"
 msgid "Date and Time"
 msgstr "Date et Heure"
 
-#: ../../cmd/web/views/account/account.qtpl:755
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:233
+#: ../../cmd/web/views/account/account.qtpl:786
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:264
 msgid "Date Display"
 msgstr "Affichage de la date"
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:79
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:82
+msgid "Date:"
+msgstr "Date :"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:82
 #: ../../cmd/web/views/calendar/calendar.qtpl:108
@@ -6460,7 +6903,7 @@ msgstr "Paramètres utilisateur par défaut"
 msgid "Default Subscription Settings"
 msgstr "Paramètres d'abonnement par défaut"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:61
+#: ../../cmd/web/views/user/enterprise.qtpl:94
 #, fuzzy
 msgid "Default timezone for new users."
 msgstr "Fuseau horaire par défaut pour les nouveaux utilisateurs."
@@ -6585,7 +7028,7 @@ msgstr "Supprimer la page"
 msgid "Delete Password"
 msgstr "Mot de passe"
 
-#: ../../cmd/web/views/account/account.qtpl:1260
+#: ../../cmd/web/views/account/account.qtpl:1291
 msgid "Delete Payment Method"
 msgstr "Supprimer un moyen de paiement"
 
@@ -6633,6 +7076,11 @@ msgstr "Supprimer la photo de couverture"
 msgid "Delete this event?"
 msgstr "Supprimer la photo de couverture"
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:147
+#, fuzzy
+msgid "Delete this message and do not notify the sender"
+msgstr "Êtes-vous sûr de vouloir approuver cet abonnement en attente ?"
+
 #: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl:174
 #, fuzzy
 #| msgid "Delete Cover Photo"
@@ -6670,10 +7118,31 @@ msgstr "Supprimer votre compte"
 msgid "Delete Zoom Meeting"
 msgstr "Supprimer l'avis"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:184
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:70
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:199
+msgid "deleted"
+msgstr "supprimé"
+
 #: ../../cmd/web/views/groupadmin/grouppastmembers.qtpl:248
 #, fuzzy
 msgid "Deleted Account"
 msgstr "Compte supprimé"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:179
+#, fuzzy
+#| msgid "Delete Album"
+msgid "Deleted Album"
+msgstr "Supprimer l'album"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:58
+#, fuzzy
+#| msgid "Delete Album"
+msgid "Deleted album"
+msgstr "Supprimer l'album"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:282
 #: ../../cmd/web/qtutils/displayactivity.qtpl:473
@@ -6689,6 +7158,12 @@ msgstr "Supprimer les anciennes pièces jointes"
 msgid "Deleted banned domain"
 msgstr "Domaines interdits"
 
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:131
+#, fuzzy
+#| msgid "Delete Chat"
+msgid "Deleted Chat"
+msgstr "Supprimer le chat"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:284
 #: ../../cmd/web/qtutils/displayactivity.qtpl:474
 #: ../../cmd/web/qtutils/displayactivity.qtpl:678
@@ -6696,6 +7171,21 @@ msgstr "Domaines interdits"
 #| msgid "Delete Message"
 msgid "Deleted chat message"
 msgstr "Supprimer le message"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:58
+#, fuzzy
+#| msgid "Delete Chat"
+msgid "Deleted Chat: %s"
+msgstr "Supprimer le chat"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:73
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:116
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:159
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:181
+#, fuzzy
+#| msgid "Delete Table"
+msgid "Deleted Database"
+msgstr "Supprimer le tableau"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:285
 #: ../../cmd/web/qtutils/displayactivity.qtpl:475
@@ -6713,6 +7203,14 @@ msgstr "Ajouter Alias Email"
 msgid "Deleted event"
 msgstr "Supprimer l'événement"
 
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:170
+#, fuzzy
+#| msgid "Delete Table"
+msgid "Deleted File"
+msgid_plural "Deleted Files"
+msgstr[0] "Supprimer le tableau"
+msgstr[1] "Supprimer le tableau"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:287
 #: ../../cmd/web/qtutils/displayactivity.qtpl:477
 #: ../../cmd/web/qtutils/displayactivity.qtpl:681
@@ -6729,6 +7227,18 @@ msgstr "Supprimer le tableau"
 msgid "Deleted folder"
 msgstr "Supprimer le Sondage"
 
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:101
+#, fuzzy
+#| msgid "Delete Poll"
+msgid "deleted folder"
+msgstr "Supprimer le Sondage"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:163
+#, fuzzy
+#| msgid "Delete Poll"
+msgid "Deleted Folder %s"
+msgstr "Supprimer le Sondage"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:289
 #: ../../cmd/web/qtutils/displayactivity.qtpl:479
 #: ../../cmd/web/qtutils/displayactivity.qtpl:683
@@ -6736,6 +7246,12 @@ msgstr "Supprimer le Sondage"
 #| msgid "Delete Notice"
 msgid "Deleted following repeating event"
 msgstr "Supprimer l'avis"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:127
+#, fuzzy
+#| msgid "Delete Poll"
+msgid "deleted from the"
+msgstr "Supprimer le Sondage"
 
 #: ../../cmd/web/views/user/activity.qtpl:1189
 #: ../../cmd/web/views/user/activity.qtpl:1216
@@ -6816,6 +7332,19 @@ msgstr "Supprimer la photo de couverture"
 msgid "Deleted row"
 msgstr "Supprimé"
 
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:168
+#, fuzzy
+#| msgid "Deleted row"
+msgid "Deleted Row #"
+msgstr "Supprimé"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:82
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:134
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:190
+#, fuzzy
+msgid "Deleted Row #%[1]d From %[2]s"
+msgstr "Supprimé la rangée #%[1]d de %[2]s"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:300
 #: ../../cmd/web/qtutils/displayactivity.qtpl:550
 #: ../../cmd/web/qtutils/displayactivity.qtpl:694
@@ -6831,6 +7360,12 @@ msgstr "Groupe supprimé"
 #| msgid "Delete Table"
 msgid "Deleted table"
 msgstr "Supprimer le tableau"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:111
+#, fuzzy
+#| msgid "Delete Album"
+msgid "deleted the album"
+msgstr "Supprimer l'album"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:302
 #: ../../cmd/web/qtutils/displayactivity.qtpl:487
@@ -6848,12 +7383,24 @@ msgstr "Supprimer votre compte"
 msgid "Deleted topic"
 msgstr "Supprimer le sujet"
 
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:117
+#, fuzzy
+#| msgid "Delete Page"
+msgid "Deleted Wiki Page"
+msgstr "Supprimer la page"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:304
 #: ../../cmd/web/qtutils/displayactivity.qtpl:489
 #: ../../cmd/web/qtutils/displayactivity.qtpl:698
 #, fuzzy
 #| msgid "Delete Page"
 msgid "Deleted wiki page"
+msgstr "Supprimer la page"
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:60
+#, fuzzy
+#| msgid "Delete Page"
+msgid "Deleted Wiki Page: %s"
 msgstr "Supprimer la page"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:305
@@ -6907,6 +7454,8 @@ msgstr "Danemark"
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:167
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:155
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2629
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:163
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:139
 msgid "Description"
 msgstr "Description"
 
@@ -6921,18 +7470,30 @@ msgstr "Description"
 msgid "Description of this column."
 msgstr "La description est trop courte."
 
-#: ../../cmd/web/views/account/account.qtpl:922
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:121
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:192
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:137
+msgid "Description:"
+msgstr "Description :"
+
+#: ../../cmd/web/views/account/account.qtpl:953
 #, fuzzy
 msgid "Desktop notifications are currently not enabled in this browser."
 msgstr ""
 "Les notifications de bureau ne sont actuellement pas activées dans ce "
 "navigateur."
 
-#: ../../cmd/web/views/account/account.qtpl:918
+#: ../../cmd/web/views/account/account.qtpl:949
 #, fuzzy
 msgid "Desktop notifications are not supported in this browser."
 msgstr ""
 "Les notifications de bureau ne sont pas prises en charge par ce navigateur."
+
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:232
+#, fuzzy
+#| msgid "Poll Details"
+msgid "Details"
+msgstr "Détails du poll"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:36
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:157
@@ -7029,12 +7590,12 @@ msgstr "Répertoire"
 msgid "Directory To Save To"
 msgstr "Répertoire"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:77
+#: ../../cmd/web/views/user/enterprise.qtpl:110
 #, fuzzy
 msgid "Disable +1 Functionality"
 msgstr "Désactiver la fonctionnalité +1"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:80
+#: ../../cmd/web/views/user/enterprise.qtpl:113
 #, fuzzy
 msgid "Disable automatic conversion of +1 emails to likes."
 msgstr "Désactiver la conversion automatique des emails +1 en likes."
@@ -7049,23 +7610,23 @@ msgstr "Désactiver la modification des messages"
 msgid "Disable No Email"
 msgstr "Désactiver l'option \"Pas d'e-mail\""
 
-#: ../../cmd/web/views/account/account.qtpl:941
+#: ../../cmd/web/views/account/account.qtpl:972
 #, fuzzy
 msgid "Disable Notifications In This Browser"
 msgstr "Désactiver les notifications dans ce navigateur"
 
-#: ../../cmd/web/views/account/account.qtpl:952
+#: ../../cmd/web/views/account/account.qtpl:983
 #, fuzzy
 #| msgid "Notification"
 msgid "Disable Notifications On All Devices"
 msgstr "Notification"
 
-#: ../../cmd/web/views/account/account.qtpl:912
+#: ../../cmd/web/views/account/account.qtpl:943
 #, fuzzy
 msgid "Disable Notifications On This Device"
 msgstr "Désactiver les notifications sur cet appareil"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:70
+#: ../../cmd/web/views/user/enterprise.qtpl:103
 #, fuzzy
 msgid ""
 "Disable registrations via the website and any access to group pages while "
@@ -7074,12 +7635,12 @@ msgstr ""
 "Désactiver les inscriptions via le site web et tout accès aux pages du "
 "groupe sans être connecté."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:67
+#: ../../cmd/web/views/user/enterprise.qtpl:100
 #, fuzzy
 msgid "Disable Signup"
 msgstr "Désactiver l'option \"Pas d'e-mail\""
 
-#: ../../cmd/web/views/account/account.qtpl:994
+#: ../../cmd/web/views/account/account.qtpl:1025
 msgid "Disable two-factor authentication"
 msgstr "Désactiver l'authentification à deux facteurs"
 
@@ -7096,7 +7657,7 @@ msgstr "Rejeter"
 msgid "Disconnect Connected Stripe Account"
 msgstr "Déconnexion du compte Stripe connecté"
 
-#: ../../cmd/web/views/account/account.qtpl:1209
+#: ../../cmd/web/views/account/account.qtpl:1240
 #, fuzzy
 msgid "Disconnect Your Zoom Account"
 msgstr "Déconnexion du compte Stripe connecté"
@@ -7112,6 +7673,12 @@ msgstr "Déconnexion du compte Stripe connecté"
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:404
 #: ../../cmd/web/views/groupadmin/grouppastmembers.qtpl:162
 msgid "Display Name"
+msgstr "Afficher le nom"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:195
+#, fuzzy
+#| msgid "Display Name"
+msgid "Display name changed"
 msgstr "Afficher le nom"
 
 #: ../../cmd/web/views/account/account.qtpl:722
@@ -7150,8 +7717,8 @@ msgstr "Djibouti"
 msgid "Do Merge"
 msgstr "Faire la fusion"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:264
 #: ../../cmd/web/views/user/homeloggedout.qtpl:312
+#: ../../cmd/web/views/user/homeloggedout.qtpl:360
 #, fuzzy
 msgid "Do More With Integrations"
 msgstr "Ajouter ou modifier des intégrations"
@@ -7160,6 +7727,24 @@ msgstr "Ajouter ou modifier des intégrations"
 #, fuzzy
 msgid "Do not email topics with this hashtag."
 msgstr "N'envoyez pas d'e-mails avec ce hashtag."
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:107
+#, fuzzy
+msgid ""
+"Do not reply to this message to post to the chat. You can participate in "
+"chats only through the group's website."
+msgstr ""
+"Ne répondez pas à ce message pour participer à la discussion. Vous pouvez "
+"participer aux chats uniquement par le biais du site web du groupe."
+
+#: ../../pkg/notifications/noteviews/addpollnotification.qtpl:125
+#, fuzzy
+msgid ""
+"Do not reply to this message to vote in the poll. You can vote in polls only "
+"through the group's website."
+msgstr ""
+"Ne répondez pas à ce message pour voter dans le sondage. Vous pouvez voter "
+"dans les sondages uniquement sur le site Web du groupe."
 
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl:190
 #, fuzzy
@@ -7184,11 +7769,11 @@ msgstr ""
 msgid "Doc"
 msgstr "Document"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:169
+#: ../../cmd/web/views/user/enterprise.qtpl:202
 msgid "Domain"
 msgstr "Domaine"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:173
+#: ../../cmd/web/views/user/enterprise.qtpl:206
 #, fuzzy
 msgid "Domain provided by your SSO provider."
 msgstr "Domaine fourni par votre fournisseur de SSO."
@@ -7247,11 +7832,11 @@ msgstr "Faire un don"
 msgid "Donate Now"
 msgstr "Faire un don"
 
-#: ../../cmd/web/views/account/account.qtpl:1286
+#: ../../cmd/web/views/account/account.qtpl:1317
 msgid "Donation"
 msgstr "Don"
 
-#: ../../cmd/web/views/account/account.qtpl:1268
+#: ../../cmd/web/views/account/account.qtpl:1299
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:41
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:61
 msgid "Donation History"
@@ -7260,6 +7845,12 @@ msgstr "Historique des dons"
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:54
 msgid "Donation Name"
 msgstr "Nom du don"
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:49
+#, fuzzy
+#| msgid "Donation History"
+msgid "Donation receipt for"
+msgstr "Historique des dons"
 
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:45
 #, fuzzy
@@ -7360,7 +7951,7 @@ msgstr "Télécharger"
 msgid "Drafts"
 msgstr "Brouillons"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:365
+#: ../../cmd/web/views/user/homeloggedout.qtpl:413
 #, fuzzy
 msgid "Drop Google and Facebook Groups and Use This Instead"
 msgstr "Laissez tomber les groupes Google et Facebook et utilisez plutôt ceci"
@@ -7397,8 +7988,8 @@ msgstr "Durée"
 msgid "Dusty Mauve"
 msgstr "Mauve poussiéreux"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:291
-#: ../../cmd/web/views/user/homeloggedout.qtpl:336
+#: ../../cmd/web/views/user/homeloggedout.qtpl:339
+#: ../../cmd/web/views/user/homeloggedout.qtpl:384
 #, fuzzy
 msgid ""
 "Each premium group also has a calendar, chat, polls, a database section, a "
@@ -7435,7 +8026,7 @@ msgstr ""
 "Et un wiki, pour stocker les connaissances du groupe. Enfin, chaque groupe\n"
 "\t\t\t\t\t\tGroupe Premium peut avoir un nombre illimité de sous-groupes."
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:315
+#: ../../cmd/web/views/user/homeloggedout.qtpl:363
 #, fuzzy
 msgid ""
 "Easily integrate Feeds, Slack, Google Drive, Github, Trello, Email and soon "
@@ -7444,7 +8035,7 @@ msgstr ""
 "Intégrez facilement des flux, Slack, Google Drive, Github, Trello, des "
 "courriels et bientôt d'autres services dans votre groupe premium."
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:267
+#: ../../cmd/web/views/user/homeloggedout.qtpl:315
 #, fuzzy
 msgid ""
 "Easily integrate Zoom, Feeds, Slack, Github, Trello, Email and soon even "
@@ -7790,7 +8381,7 @@ msgstr "Editer \"%s\""
 msgid "Editor"
 msgstr "Éditeur"
 
-#: ../../cmd/web/views/account/account.qtpl:809
+#: ../../cmd/web/views/account/account.qtpl:840
 #, fuzzy
 msgid "Editor Preference"
 msgstr "Préférences avancées"
@@ -7850,6 +8441,17 @@ msgstr ""
 #: ../../cmd/web/views/sub/joingroup.qtpl:115
 msgid "Email Address"
 msgstr "Adresse e-mail"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:190
+#, fuzzy
+msgid "Email address and Display name changed"
+msgstr "Visibilité des adresses e-mail dans les archives"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:192
+#, fuzzy
+#| msgid "Email Addresses"
+msgid "Email address changed"
+msgstr "Adresse courriel"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:355
 #, fuzzy
@@ -8026,7 +8628,7 @@ msgstr "Avis spéciaux uniquement"
 msgid "Email Fosters Thoughtful Communication"
 msgstr "Le courrier électronique favorise une communication réfléchie"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:203
+#: ../../cmd/web/views/user/homeloggedout.qtpl:251
 #, fuzzy
 msgid "Email Groups. Supercharged."
 msgstr "Groupes d'e-mails. Supercharged."
@@ -8096,7 +8698,7 @@ msgstr "Envoyez-moi un lien pour me connecter"
 msgid "Email only"
 msgstr "Email seulement"
 
-#: ../../cmd/web/views/account/account.qtpl:834
+#: ../../cmd/web/views/account/account.qtpl:865
 msgid "Email Preferences"
 msgstr "Préférences des emails"
 
@@ -8160,12 +8762,12 @@ msgstr "Vert émeraude"
 msgid "Enable join before host"
 msgstr "Activer l'inscription avant l'hôte"
 
-#: ../../cmd/web/views/account/account.qtpl:927
+#: ../../cmd/web/views/account/account.qtpl:958
 #, fuzzy
 msgid "Enable Notifications In This Browser"
 msgstr "Activer les notifications dans ce navigateur"
 
-#: ../../cmd/web/views/account/account.qtpl:904
+#: ../../cmd/web/views/account/account.qtpl:935
 #, fuzzy
 msgid "Enable Notifications On This Device"
 msgstr "Activer les notifications sur cet appareil"
@@ -8182,7 +8784,13 @@ msgstr "Fin"
 msgid "Ends"
 msgstr "Fin"
 
-#: ../../cmd/web/views/account/account.qtpl:1066
+#: ../../cmd/web/views/account/account.qtpl:735
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:213
+#: ../../cmd/web/views/user/enterprise.qtpl:63
+msgid "English"
+msgstr "Anglais"
+
+#: ../../cmd/web/views/account/account.qtpl:1097
 #, fuzzy
 msgid "Enter The Six-Digit Code From The Application"
 msgstr "2. Saisissez le code à six chiffres figurant dans l'application"
@@ -8192,7 +8800,7 @@ msgstr "2. Saisissez le code à six chiffres figurant dans l'application"
 msgid "Enter Your Two-factor Authentication Code"
 msgstr "Entrez votre code d'authentification à deux facteurs"
 
-#: ../../cmd/web/views/account/account.qtpl:1459
+#: ../../cmd/web/views/account/account.qtpl:1490
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:126
 #: ../../cmd/web/views/static/staticpricing.qtpl:238
 msgid "Enterprise"
@@ -8299,6 +8907,11 @@ msgstr ""
 "intermittence, ces groupes ont également préservé suffisamment de variation "
 "pour trouver certaines des meilleures solutions."
 
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:60
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:189
+msgid "Event"
+msgstr "Évènement"
+
 #: ../../cmd/web/views/post/groupdrafts.qtpl:121
 msgid "Event Cancellation"
 msgstr "Annulation d'événement"
@@ -8363,6 +8976,17 @@ msgstr ""
 msgid ""
 "Every message in topics or hashtags the members are following is emailed to "
 "them."
+msgstr ""
+"Chaque message dans les sujets ou hashtags que les membres suivent leur est "
+"envoyé par e-mail."
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:39
+#: ../../pkg/emailfooters/htmlfooter.qtpl:41
+#: ../../pkg/emailfooters/plainfooter.qtpl:37
+#: ../../pkg/emailfooters/plainfooter.qtpl:39
+#, fuzzy
+msgid ""
+"Every message in topics or hashtags you are following is emailed to you."
 msgstr ""
 "Chaque message dans les sujets ou hashtags que les membres suivent leur est "
 "envoyé par e-mail."
@@ -8443,7 +9067,7 @@ msgstr "Étendu"
 msgid "Expiration"
 msgstr "Expiration"
 
-#: ../../cmd/web/views/account/account.qtpl:1248
+#: ../../cmd/web/views/account/account.qtpl:1279
 msgid "Expiration:"
 msgstr "Expiration:"
 
@@ -8526,7 +9150,7 @@ msgstr "Exportation du tableau"
 msgid "Exported the group"
 msgstr "Exporter les données du groupe"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:271
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:302
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:321
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:377
 #: ../../cmd/web/views/sub/editsub.qtpl:770
@@ -8534,8 +9158,8 @@ msgstr "Exporter les données du groupe"
 msgid "Extra Member Data"
 msgstr "Données sur les membres supplémentaires"
 
-#: ../../cmd/web/views/account/account.qtpl:1330
-#: ../../cmd/web/views/account/account.qtpl:1472
+#: ../../cmd/web/views/account/account.qtpl:1361
+#: ../../cmd/web/views/account/account.qtpl:1503
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:692
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:136
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:104
@@ -8557,7 +9181,7 @@ msgstr "Îles Féroé"
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:47
 #: ../../cmd/web/views/static/staticpricing.qtpl:37
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl:93
-#: ../../cmd/web/views/user/homeloggedout.qtpl:225
+#: ../../cmd/web/views/user/homeloggedout.qtpl:273
 #: ../../cmd/web/qtutils/accountsidebar.qtpl:157
 #: ../../cmd/web/qtutils/footer.qtpl:67
 #: ../../cmd/web/qtutils/groupsidebar.qtpl:119
@@ -8655,6 +9279,28 @@ msgstr "Fidji"
 msgid "File"
 msgstr "Fichier"
 
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:66
+#, fuzzy
+msgid "File %[2]s deleted"
+msgid_plural "%#[1]d files deleted"
+msgstr[0] "Fichier %[2]s supprimé"
+msgstr[1] "%#[1]d fichiers supprimés"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:64
+#, fuzzy
+#| msgid "Last updated"
+msgid "File %[2]s updated"
+msgid_plural "%#[1]d files updated"
+msgstr[0] "Dernière mise à jour"
+msgstr[1] "Dernière mise à jour"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:68
+#, fuzzy
+msgid "File %[2]s uploaded"
+msgid_plural "%#[1]d files uploaded"
+msgstr[0] "Fichier %[2]s téléchargé"
+msgstr[1] "%#[1]d fichiers téléchargés"
+
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:414
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:431
 #, fuzzy
@@ -8665,6 +9311,12 @@ msgstr "Le fichier a une ligne d'en-tête"
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:343
 msgid "File Name"
 msgstr "Nom du fichier"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:74
+#, fuzzy
+#| msgid "Notifications"
+msgid "File Notifications"
+msgstr "Notifications"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:79
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:304
@@ -8727,7 +9379,7 @@ msgid "Filter"
 msgstr "Filtre"
 
 #: ../../cmd/web/views/base.qtpl:276
-#: ../../cmd/web/views/user/homeloggedout.qtpl:140
+#: ../../cmd/web/views/user/homeloggedout.qtpl:141
 #: ../../cmd/web/qtutils/headerend.qtpl:56
 #: ../../cmd/web/qtutils/headerend.qtpl:100
 #, fuzzy
@@ -8784,6 +9436,13 @@ msgstr "Nom du dossier"
 msgid "Follow"
 msgstr "Suivre"
 
+#: ../../pkg/emailfooters/htmlfooter.qtpl:86
+#: ../../pkg/emailfooters/plainfooter.qtpl:61
+#, fuzzy
+#| msgid "Follow"
+msgid "Follow #%s"
+msgstr "Suivre"
+
 #: ../../cmd/web/views/mutefollow/followedkeywords.qtpl:60
 #, fuzzy
 #| msgid "Hashtags"
@@ -8810,6 +9469,8 @@ msgstr "Suivre le sujet des <b>%[1]s</b> dans le groupe des <b>%[2]s</b>?"
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl:150
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl:107
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl:135
+#: ../../pkg/emailfooters/htmlfooter.qtpl:76
+#: ../../pkg/emailfooters/plainfooter.qtpl:54
 #, fuzzy
 #| msgid "New Topic"
 msgid "Follow This Topic"
@@ -8990,6 +9651,12 @@ msgstr ""
 "avoir créé votre groupe, vous pourrez le faire évoluer vers un groupe "
 "Premium ou Enterprise."
 
+#: ../../cmd/web/views/account/account.qtpl:741
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:219
+#: ../../cmd/web/views/user/enterprise.qtpl:69
+msgid "French"
+msgstr "Français"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:460
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2093
 msgid "French Guiana"
@@ -9090,7 +9757,7 @@ msgstr "Générez un PDF formaté pour ce modèle Avery."
 msgid "Generate Export"
 msgstr "Générer l’exportation"
 
-#: ../../cmd/web/views/account/account.qtpl:1119
+#: ../../cmd/web/views/account/account.qtpl:1150
 msgid "Generate New Recovery Codes"
 msgstr "Générer de nouveaux codes de récupération"
 
@@ -9104,6 +9771,12 @@ msgstr "Lien générique"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2108
 msgid "Georgia"
 msgstr "Géorgie"
+
+#: ../../cmd/web/views/account/account.qtpl:744
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:222
+#: ../../cmd/web/views/user/enterprise.qtpl:72
+msgid "German"
+msgstr "Allemand"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:478
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2111
@@ -9151,15 +9824,24 @@ msgstr "Intégration"
 msgid "Go"
 msgstr "Aller"
 
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:97
+#, fuzzy
+msgid ""
+"Good news! A spot has opened up for the %s event and you have been moved "
+"from the waitlist. Here are the event details:"
+msgstr ""
+"Bonne nouvelle ! Une place s'est libérée pour l'événement %s et votre nom a "
+"été retiré de la liste d'attente. Voici les détails de l'événement :"
+
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl:69
 msgid "Goodbye"
 msgstr "Au revoir"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:86
+#: ../../cmd/web/views/user/enterprise.qtpl:119
 msgid "Google Analytics Code"
 msgstr "Code Google Analytics"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:90
+#: ../../cmd/web/views/user/enterprise.qtpl:123
 #, fuzzy
 msgid "Google Analytics Javascript"
 msgstr "Google Analytics Javascript"
@@ -9214,9 +9896,9 @@ msgstr "Grenade"
 msgid "Grey Blue"
 msgstr "Gris Bleu"
 
-#: ../../cmd/web/views/account/account.qtpl:1280
-#: ../../cmd/web/views/account/account.qtpl:1358
-#: ../../cmd/web/views/account/account.qtpl:1423
+#: ../../cmd/web/views/account/account.qtpl:1311
+#: ../../cmd/web/views/account/account.qtpl:1389
+#: ../../cmd/web/views/account/account.qtpl:1454
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:96
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:289
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:294
@@ -9292,6 +9974,7 @@ msgstr "Adresse électronique du groupe"
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl:148
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:51
 #: ../../cmd/web/qtutils/groupsidebar.qtpl:184
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:89
 #, fuzzy
 msgid "Group Guidelines"
 msgstr "Directives pour les groupes"
@@ -9390,8 +10073,15 @@ msgstr "Appel groupé"
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:173
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl:523
 #: ../../cmd/web/qtutils/messagelib.qtpl:240
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:69
 msgid "Group Moderator"
 msgstr "Modérateur(trice) du groupe"
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:160
+#, fuzzy
+msgid "Group Moderator posted the message '%s' that needs to be approved."
+msgstr ""
+"Le modérateur du groupe a publié le message '%s' qui doit être approuvé."
 
 #: ../../cmd/web/views/group/creategroup.qtpl:171
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:326
@@ -9421,11 +10111,32 @@ msgstr ""
 "Groupe non répertorié dans le groupe parent, messages consultables "
 "publiquement"
 
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:91
+#: ../../pkg/notifications/noteviews/addpollnotification.qtpl:47
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:39
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:54
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:37
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:42
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:42
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:35
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:49
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:48
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:41
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:35
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:33
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:158
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:45
+#, fuzzy
+#| msgid "Notification"
+msgid "Group Notification"
+msgstr "Notification"
+
 #: ../../cmd/web/views/group/grouphome.qtpl:171
+#: ../../pkg/emailfooters/plainfooter.qtpl:72
 msgid "Group Owner"
 msgstr "Propriétaire du groupe"
 
-#: ../../cmd/web/views/account/account.qtpl:1411
+#: ../../cmd/web/views/account/account.qtpl:1442
 #, fuzzy
 #| msgid "History"
 msgid "Group Payment History"
@@ -9459,6 +10170,11 @@ msgstr "Paramètres du groupe"
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:220
 #, fuzzy
 msgid "Group Sponsorship"
+msgstr "Autoriser les parrainages"
+
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:97
+#, fuzzy
+msgid "Group sponsorship"
 msgstr "Autoriser les parrainages"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:73
@@ -9615,6 +10331,22 @@ msgid ""
 msgstr ""
 "Groups.io fonctionne avec les services que vous et votre équipe utilisez "
 "déjà. Les groupes Premium prennent en charge les intégrations suivantes :"
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:67
+#, fuzzy
+msgid "GROUPSIO RECEIPT - Donation - %s"
+msgstr "GROUPSIO RECEIPT - Donation - %s"
+
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:65
+#, fuzzy
+msgid "GROUPSIO RECEIPT - Sponsorship"
+msgstr "RECEPTION GROUPSIO - Parrainage"
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:81
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:85
+#, fuzzy
+msgid "Groupsio, Inc<br>3130 Alpine Rd #288-263<br>Portola Valley, CA 94028"
+msgstr "Groupsio, Inc<br>3130 Alpine Rd #288-263<br>Portola Valley, CA 94028"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:496
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2129
@@ -9782,24 +10514,37 @@ msgstr ""
 msgid "Heard and Mc Donald Islands"
 msgstr "Heard et Îles Mc Donald"
 
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:95
+msgid "Hello"
+msgstr "Bonjour"
+
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:119
 #, fuzzy
 msgid "Hello [Name],"
 msgstr "Bonjour [Nom],"
 
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:60
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:54
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:46
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:52
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:143
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:79
+msgid "Hello,"
+msgstr "Bonjour,"
+
 #: ../../cmd/web/views/base.qtpl:196 ../../cmd/web/views/base.qtpl:268
 #: ../../cmd/web/views/base.qtpl:291
 #: ../../cmd/web/views/group/grouphome.qtpl:177
 #: ../../cmd/web/views/static/staticabout.qtpl:50
-#: ../../cmd/web/views/user/homeloggedout.qtpl:149
-#: ../../cmd/web/views/user/homeloggedout.qtpl:171
+#: ../../cmd/web/views/user/homeloggedout.qtpl:178
+#: ../../cmd/web/views/user/homeloggedout.qtpl:200
 #: ../../cmd/web/qtutils/accountsidebar.qtpl:173
 #: ../../cmd/web/qtutils/footer.qtpl:88
 #: ../../cmd/web/qtutils/groupsidebar.qtpl:123
 #: ../../cmd/web/qtutils/headerend.qtpl:64
 #: ../../cmd/web/qtutils/headerend.qtpl:98
-#: ../../cmd/web/qtutils/headerend.qtpl:137
-#: ../../cmd/web/qtutils/headerend.qtpl:144
+#: ../../cmd/web/qtutils/headerend.qtpl:173
+#: ../../cmd/web/qtutils/headerend.qtpl:180
 #: ../../cmd/web/qtutils/termssidebar.qtpl:154
 #: ../../cmd/web/qtutils/usersidebar.qtpl:230
 #, fuzzy
@@ -9865,7 +10610,7 @@ msgstr "Hong Kong"
 msgid "Host"
 msgstr "Hôte"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:395
+#: ../../cmd/web/views/user/homeloggedout.qtpl:443
 #, fuzzy
 msgid ""
 "Hosting your groups using Mailman or Lyris? We make it easy for you to move "
@@ -9992,19 +10737,19 @@ msgstr "Comment être informé lorsque quelqu'un signale un contenu."
 msgid "How to be notified when storage limits are reached."
 msgstr "Comment être informé lorsque les limites de stockage sont atteintes."
 
-#: ../../cmd/web/views/account/account.qtpl:769
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:247
+#: ../../cmd/web/views/account/account.qtpl:800
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:278
 #, fuzzy
 msgid "How to display dates."
 msgstr "Comment afficher les dates."
 
-#: ../../cmd/web/views/account/account.qtpl:750
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:228
+#: ../../cmd/web/views/account/account.qtpl:781
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:259
 #, fuzzy
 msgid "How to display times."
 msgstr "Comment afficher les heures."
 
-#: ../../cmd/web/views/account/account.qtpl:816
+#: ../../cmd/web/views/account/account.qtpl:847
 msgid "HTML"
 msgstr "HTML"
 
@@ -10022,7 +10767,7 @@ msgstr "Hongrie"
 msgid "I Agree"
 msgstr "J’accepte"
 
-#: ../../cmd/web/views/account/account.qtpl:845
+#: ../../cmd/web/views/account/account.qtpl:876
 #, fuzzy
 msgid "I always want copies of my own emails"
 msgstr "Je veux toujours des copies de mes propres emails"
@@ -10127,7 +10872,7 @@ msgstr ""
 "Si cette option est spécifiée, seules les pièces jointes des e-mails "
 "contenant ce hashtag seront enregistrées."
 
-#: ../../cmd/web/views/account/account.qtpl:1032
+#: ../../cmd/web/views/account/account.qtpl:1063
 #, fuzzy
 msgid ""
 "If the authentication code is lost (for example, if a device is reset to "
@@ -10234,6 +10979,25 @@ msgstr ""
 "organisations à but non lucratif. Veuillez également nous contacter afin que "
 "nous puissions vérifier votre statut d'organisme à but non lucratif."
 
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:208
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:153
+#, fuzzy
+msgid ""
+"If you can no longer attend the event, please <a href=\"%s\">update your "
+"RSVP</a>."
+msgstr ""
+"Si vous ne pouvez plus assister à l'événement, veuillez <a "
+"href=\"%s\">mettre à jour votre RSVP</a>."
+
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:60
+#, fuzzy
+msgid ""
+"If you did not request this, please accept our apologies and ignore this "
+"message."
+msgstr ""
+"Si vous ne l'avez pas demandé, veuillez accepter nos excuses et ignorer ce "
+"message."
+
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:410
 #, fuzzy
 msgid ""
@@ -10243,7 +11007,7 @@ msgstr ""
 "Si vous passez à la version gratuite de votre groupe, voici les fonctions "
 "qui seront activées et désactivées :"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:180
+#: ../../cmd/web/views/user/enterprise.qtpl:213
 #, fuzzy
 msgid ""
 "If you enable Single Sign On and need to bypass it for logging in, go to "
@@ -10267,6 +11031,15 @@ msgstr ""
 "\t\t\t\t\t\til sera automatiquement invité à rejoindre votre équipe Slack. "
 "Et si quelqu'un quitte votre groupe, il sera retiré de votre équipe Slack."
 
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:83
+#, fuzzy
+msgid ""
+"If you have any questions, please visit <a href=\"https://groups.io/"
+"helpcenter\">our help center</a>."
+msgstr ""
+"Si vous avez des questions, veuillez consulter <a href=\"https://groups.io/"
+"helpcenter\">notre centre d'aide</a>."
+
 #: ../../cmd/web/views/sub/groupleave.qtpl:83
 #, fuzzy
 msgid ""
@@ -10289,6 +11062,25 @@ msgstr ""
 msgid "If you just need a full-featured mailing list."
 msgstr "Si vous avez simplement besoin d'une liste de diffusion complète."
 
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:72
+#, fuzzy
+msgid ""
+"If you only want to send and receive messages from %s, reply to this email "
+"to confirm your email address and activate your membership."
+msgstr ""
+"Si vous souhaitez uniquement envoyer et recevoir des messages de %s, "
+"répondez à cet e-mail pour confirmer votre adresse e-mail et activer votre "
+"adhésion."
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:74
+#, fuzzy
+msgid ""
+"If you only want to send and receive messages, reply to this email to "
+"confirm your email address and activate your membership."
+msgstr ""
+"Si vous souhaitez uniquement envoyer et recevoir des messages, répondez à "
+"cet e-mail pour confirmer votre adresse e-mail et activer votre adhésion."
+
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:74
 #, fuzzy
 msgid ""
@@ -10298,6 +11090,18 @@ msgstr ""
 "Si vous souhaitez gérer votre entreprise ou votre groupe sur Groups.io, ce "
 "plan est fait pour vous. Il comprend presque toutes les fonctionnalités que "
 "nous proposons, y compris un nombre illimité de sous-groupes."
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:88
+#, fuzzy
+msgid ""
+"If you want to use the resources and read messages on the website, please "
+"click on the link below to confirm your email address, set up a password, "
+"and choose other subscription settings:"
+msgstr ""
+"Si vous souhaitez utiliser les ressources et lire les messages sur le site "
+"web, veuillez cliquer sur le lien ci-dessous pour confirmer votre adresse "
+"électronique, créer un mot de passe et choisir d'autres paramètres "
+"d'abonnement :"
 
 #: ../../cmd/web/views/account/account.qtpl:414
 #, fuzzy
@@ -10329,6 +11133,16 @@ msgid ""
 msgstr ""
 "Si vous souhaitez continuer, cliquez sur le bouton Déconnexion, puis cliquez "
 "à nouveau sur le lien quitter."
+
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:78
+#, fuzzy
+msgid ""
+"If you would like to increase the amount of storage space available for your "
+"group, please visit our plans page <a href=\"%[3]s\">here</a>."
+msgstr ""
+"Si vous souhaitez augmenter la quantité d'espace de stockage disponible pour "
+"votre groupe, veuillez consulter notre page de plans <a href=\"%[3]s\">ici</"
+"a>."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:151
 #, fuzzy
@@ -10476,7 +11290,7 @@ msgstr ""
 msgid "In addition to adding to the %s group, add to the following subgroups:"
 msgstr "En plus d'ajouter au groupe %s, ajoutez aux sous-groupes suivants :"
 
-#: ../../cmd/web/views/account/account.qtpl:871
+#: ../../cmd/web/views/account/account.qtpl:902
 #, fuzzy
 msgid ""
 "In addition to email, you can receive notifications about activity through "
@@ -10683,7 +11497,7 @@ msgstr "Messages individuels"
 msgid "Indonesia"
 msgstr "Indonésie"
 
-#: ../../cmd/web/views/account/account.qtpl:797
+#: ../../cmd/web/views/account/account.qtpl:828
 msgid "Infinite scroll"
 msgstr "Défilement infini"
 
@@ -10900,13 +11714,13 @@ msgstr "Facture due"
 msgid "Invoice History"
 msgstr "Historique de facturation"
 
-#: ../../cmd/web/views/account/account.qtpl:1277
-#: ../../cmd/web/views/account/account.qtpl:1355
-#: ../../cmd/web/views/account/account.qtpl:1420
+#: ../../cmd/web/views/account/account.qtpl:1308
+#: ../../cmd/web/views/account/account.qtpl:1386
+#: ../../cmd/web/views/account/account.qtpl:1451
 msgid "Invoice ID"
 msgstr "Numéro de la facture"
 
-#: ../../cmd/web/views/account/account.qtpl:1463
+#: ../../cmd/web/views/account/account.qtpl:1494
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:661
 msgid "Invoiced"
 msgstr "Facturé"
@@ -11002,12 +11816,18 @@ msgstr ""
 msgid "it's a moderated integration message"
 msgstr "Premier message également"
 
+#: ../../cmd/web/views/account/account.qtpl:738
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:216
+#: ../../cmd/web/views/user/enterprise.qtpl:66
+msgid "Italian"
+msgstr "Italien"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:553
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2186
 msgid "Italy"
 msgstr "Italie"
 
-#: ../../cmd/web/views/account/account.qtpl:784
+#: ../../cmd/web/views/account/account.qtpl:815
 msgid "Items Per Page"
 msgstr "Articles par page"
 
@@ -11226,6 +12046,20 @@ msgstr "Kyrgyzstan"
 msgid "Label changed"
 msgstr "Enregistrer les modifications ?"
 
+#: ../../cmd/web/views/account/account.qtpl:728
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:206
+#: ../../cmd/web/views/user/enterprise.qtpl:56
+msgid "Language Preference"
+msgstr "Préférence de langue"
+
+#: ../../cmd/web/views/account/account.qtpl:754
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:232
+#: ../../cmd/web/views/user/enterprise.qtpl:82
+#, fuzzy
+#| msgid "You have no subscriptions."
+msgid "Language the website and notifications are in."
+msgstr "Vous n'avez aucunes adhésions."
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:586
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2219
 msgid "Lao People's Democratic Republic"
@@ -11427,6 +12261,11 @@ msgstr "Lien vers Microsoft OneDrive"
 msgid "Links Cleaned"
 msgstr "Liens nettoyés"
 
+#: ../../pkg/emailfooters/htmlfooter.qtpl:31
+#: ../../pkg/emailfooters/plainfooter.qtpl:30
+msgid "Links:"
+msgstr "Liens:"
+
 #: ../../cmd/web/qtutils/color.qtpl:80 ../../cmd/web/qtutils/color.qtpl:235
 msgid "Lips"
 msgstr "Lèvres"
@@ -11454,7 +12293,7 @@ msgstr "Dernière mise à jour"
 msgid "List moved to other board"
 msgstr "Liste déplacée vers un autre forum"
 
-#: ../../cmd/web/views/account/account.qtpl:1021
+#: ../../cmd/web/views/account/account.qtpl:1052
 #, fuzzy
 msgid "List of recent account accesses."
 msgstr "Liste des accès récents au compte."
@@ -11608,10 +12447,10 @@ msgstr ""
 
 #: ../../cmd/web/views/base.qtpl:200 ../../cmd/web/views/base.qtpl:294
 #: ../../cmd/web/views/login/login.qtpl:114
-#: ../../cmd/web/views/user/homeloggedout.qtpl:155
-#: ../../cmd/web/views/user/homeloggedout.qtpl:177
-#: ../../cmd/web/qtutils/headerend.qtpl:138
-#: ../../cmd/web/qtutils/headerend.qtpl:145
+#: ../../cmd/web/views/user/homeloggedout.qtpl:184
+#: ../../cmd/web/views/user/homeloggedout.qtpl:206
+#: ../../cmd/web/qtutils/headerend.qtpl:174
+#: ../../cmd/web/qtutils/headerend.qtpl:181
 msgid "Log In"
 msgstr "Connexion"
 
@@ -11619,6 +12458,12 @@ msgstr "Connexion"
 #, fuzzy
 msgid "Log In If You Are Already A Member"
 msgstr "Connectez-vous si vous êtes déjà membre"
+
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:53
+#, fuzzy
+#| msgid "Log In"
+msgid "Log In Via %s"
+msgstr "Connexion"
 
 #: ../../cmd/web/views/login/login.qtpl:134
 msgid "Log in with Facebook"
@@ -11628,12 +12473,12 @@ msgstr "Connexion avec Facebook"
 msgid "Log in with Google"
 msgstr "Se connecter avec Google"
 
-#: ../../cmd/web/views/account/account.qtpl:1136
-#: ../../cmd/web/views/account/account.qtpl:1146
-#: ../../cmd/web/views/account/account.qtpl:1154
-#: ../../cmd/web/views/account/account.qtpl:1162
-#: ../../cmd/web/views/account/account.qtpl:1170
-#: ../../cmd/web/views/account/account.qtpl:1180
+#: ../../cmd/web/views/account/account.qtpl:1167
+#: ../../cmd/web/views/account/account.qtpl:1177
+#: ../../cmd/web/views/account/account.qtpl:1185
+#: ../../cmd/web/views/account/account.qtpl:1193
+#: ../../cmd/web/views/account/account.qtpl:1201
+#: ../../cmd/web/views/account/account.qtpl:1211
 #: ../../cmd/web/views/base.qtpl:234 ../../cmd/web/views/base.qtpl:287
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl:88
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl:131
@@ -11662,7 +12507,7 @@ msgstr "Connexion"
 msgid "Login Link Message"
 msgstr "Messages en attente"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:95
+#: ../../cmd/web/views/user/enterprise.qtpl:128
 msgid "Login Page Text"
 msgstr "Texte de la page de connexion"
 
@@ -11820,7 +12665,7 @@ msgstr "Mar"
 msgid "March"
 msgstr "Mars"
 
-#: ../../cmd/web/views/account/account.qtpl:819
+#: ../../cmd/web/views/account/account.qtpl:850
 msgid "Markdown"
 msgstr "Réduction"
 
@@ -11976,6 +12821,10 @@ msgstr ""
 msgid "May"
 msgstr "Mai"
 
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:242
+msgid "maybe"
+msgstr "peut-être"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:649
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2282
 msgid "Mayotte"
@@ -12013,6 +12862,16 @@ msgid ""
 msgstr ""
 "Le membre %[1]s a tenté d'envoyer le message \"%[2]s\" à un groupe d'annonce "
 "avec un mauvais mot de passe"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:103
+#, fuzzy
+msgid "Member Account Change"
+msgstr "Changements de compte"
+
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:107
+#, fuzzy
+msgid "Member Account Change Notifications"
+msgstr "Notifications aux membres"
 
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl:72
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl:77
@@ -12473,10 +13332,21 @@ msgstr "Message"
 msgid "Message Activity"
 msgstr "Activité des messages"
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:69
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:156
+#, fuzzy
+msgid "Message Approval Needed"
+msgstr "%d message approuvé"
+
 #: ../../cmd/web/views/static/staticpricing.qtpl:429
 #, fuzzy
 msgid "Message attachments"
 msgstr "Messages de rebond avec pièces jointes"
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:71
+#, fuzzy
+msgid "Message Edit Approval Needed"
+msgstr "%d message approuvé"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:698
 msgid "Message Footer"
@@ -12486,6 +13356,12 @@ msgstr "Message Pied de page"
 #, fuzzy
 msgid "Message Formatting"
 msgstr "Formatage des messages"
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:200
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:145
+#, fuzzy
+msgid "Message from the event organizer:"
+msgstr "Les messages ne sont pas modérés"
 
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl:77
 msgid "Message History"
@@ -12874,6 +13750,11 @@ msgstr ""
 "Les messages eux-mêmes ne sont pas pris en compte dans les limites de "
 "stockage, mais uniquement les pièces jointes."
 
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:79
+#, fuzzy
+msgid "Messages will be sent to you at %s"
+msgstr "Les messages des sujets que vous suivez vous seront envoyés à %s."
+
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:212
 #, fuzzy
 msgid "Messages with this hashtag will be moderated."
@@ -12920,7 +13801,7 @@ msgstr "OneDrive"
 msgid "Military"
 msgstr "Militaire"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:224
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:255
 #, fuzzy
 msgid "Military Time (15:04)"
 msgstr "Heure militaire (15:04)"
@@ -13268,8 +14149,8 @@ msgstr "Moldavie"
 msgid "Monaco"
 msgstr "Monaco"
 
-#: ../../cmd/web/views/account/account.qtpl:775
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:253
+#: ../../cmd/web/views/account/account.qtpl:806
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:284
 #, fuzzy
 msgid "Monday Start"
 msgstr "Début lundi"
@@ -13342,6 +14223,11 @@ msgstr "Prix mensuel :"
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl:78
 #, fuzzy
 msgid "Monthly Reminder"
+msgstr "Mois et année"
+
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:93
+#, fuzzy
+msgid "Monthly reminder"
 msgstr "Mois et année"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:376
@@ -13424,11 +14310,30 @@ msgstr "Image de couverture"
 msgid "Move up"
 msgstr "Déplacer vers le haut"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:186
+msgid "Moved"
+msgstr "Déplacé"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:68
+msgid "moved"
+msgstr "Déplacé"
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:377
 #: ../../cmd/web/qtutils/displayactivity.qtpl:506
 #: ../../cmd/web/qtutils/displayactivity.qtpl:771
 #, fuzzy
 msgid "Moved file"
+msgstr "Fichier déplacé"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:103
+#, fuzzy
+msgid "moved file"
+msgstr "Fichier déplacé"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:61
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:165
+#, fuzzy
+msgid "Moved File %s"
 msgstr "Fichier déplacé"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:378
@@ -13437,6 +14342,25 @@ msgstr "Fichier déplacé"
 #, fuzzy
 #| msgid "Upload Folder"
 msgid "Moved folder"
+msgstr "Dossier des envois"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:97
+#, fuzzy
+#| msgid "Upload Folder"
+msgid "moved folder"
+msgstr "Dossier des envois"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:57
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:159
+#, fuzzy
+#| msgid "Upload Folder"
+msgid "Moved Folder %s"
+msgstr "Dossier des envois"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:116
+#, fuzzy
+#| msgid "Upload Folder"
+msgid "moved from"
 msgstr "Dossier des envois"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:379
@@ -13497,6 +14421,13 @@ msgstr "Moutarde"
 msgid "Mute"
 msgstr "Muet"
 
+#: ../../pkg/emailfooters/htmlfooter.qtpl:88
+#: ../../pkg/emailfooters/plainfooter.qtpl:63
+#, fuzzy
+#| msgid "Mute"
+msgid "Mute #%s"
+msgstr "Muet"
+
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl:61
 #, fuzzy
 #| msgid "Hashtags"
@@ -13529,6 +14460,8 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl:155
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl:96
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl:140
+#: ../../pkg/emailfooters/htmlfooter.qtpl:74
+#: ../../pkg/emailfooters/plainfooter.qtpl:52
 #, fuzzy
 #| msgid "Topics"
 msgid "Mute This Topic"
@@ -13546,8 +14479,8 @@ msgstr "Sujets"
 msgid "Mute Topics"
 msgstr "Sujets"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:302
-#: ../../cmd/web/views/user/homeloggedout.qtpl:345
+#: ../../cmd/web/views/user/homeloggedout.qtpl:350
+#: ../../cmd/web/views/user/homeloggedout.qtpl:393
 #, fuzzy
 msgid ""
 "Mute topics and keywords, ensuring you only see the messages you're "
@@ -13598,7 +14531,7 @@ msgstr "Hashtags"
 msgid "Muted Topics"
 msgstr "Sujets"
 
-#: ../../cmd/web/views/account/account.qtpl:840
+#: ../../cmd/web/views/account/account.qtpl:871
 msgid "My Messages"
 msgstr "Mes Messages"
 
@@ -13747,6 +14680,10 @@ msgstr "Antilles Néerlandaises"
 msgid "Never Ends"
 msgstr "Jamais de fin"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:188
+msgid "New"
+msgstr "Nouveau"
+
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:119
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:161
 msgid "New Album"
@@ -13759,14 +14696,31 @@ msgstr "Nouvelle-Calédonie"
 
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl:86
 #: ../../cmd/web/views/groupchat/groupchats.qtpl:125
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:133
 #, fuzzy
 #| msgid "Chat"
 msgid "New Chat"
 msgstr "Chat"
 
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:60
+#, fuzzy
+#| msgid "Chat"
+msgid "New Chat: %s"
+msgstr "Chat"
+
 #: ../../cmd/web/views/account/account.qtpl:149
 msgid "New Email"
 msgstr "Nouvel e-mail"
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:191
+msgid "New Event"
+msgstr "Nouvel évènement"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:172
+msgid "New File"
+msgid_plural "New Files"
+msgstr[0] "Nouveau fichier"
+msgstr[1] "Nouveau Fichier"
 
 #: ../../cmd/web/views/user/feed.qtpl:375
 msgid "New Files"
@@ -13840,6 +14794,7 @@ msgstr "Sous-groupes"
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:258
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:294
 #: ../../cmd/web/qtutils/groupsidebar.qtpl:354
+#: ../../pkg/emailfooters/htmlfooter.qtpl:78
 msgid "New Topic"
 msgstr "Nouveau sujet"
 
@@ -13847,6 +14802,11 @@ msgstr "Nouveau sujet"
 #, fuzzy
 msgid "New User Moderated"
 msgstr "Nouveaux membres modérés"
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:119
+#, fuzzy
+msgid "New Wiki Page"
+msgstr "Wikis"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:697
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2330
@@ -13951,14 +14911,14 @@ msgstr "NM"
 msgid "No"
 msgstr "Non"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:104
+#: ../../cmd/web/views/user/enterprise.qtpl:137
 #, fuzzy
 #| msgid "Account"
 msgid "No Account Text"
 msgstr "Compte"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:275
-#: ../../cmd/web/views/user/homeloggedout.qtpl:324
+#: ../../cmd/web/views/user/homeloggedout.qtpl:323
+#: ../../cmd/web/views/user/homeloggedout.qtpl:372
 #, fuzzy
 msgid "No Ads, No Tracking"
 msgstr "Pas de publicité, pas de traçage"
@@ -13987,7 +14947,7 @@ msgstr "Sauvegarder les modifications"
 msgid "No Color"
 msgstr "Pas de couleur"
 
-#: ../../cmd/web/views/account/account.qtpl:1238
+#: ../../cmd/web/views/account/account.qtpl:1269
 #, fuzzy
 #| msgid "Add payment method"
 msgid "No credit card is on file."
@@ -14253,6 +15213,16 @@ msgstr "Prix annuel pour les organismes à but non lucratif :"
 msgid "None"
 msgstr "Aucun"
 
+#: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:87
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:31
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:50
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:37
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:25
+#, fuzzy
+#| msgid "Reply"
+msgid "noreply@"
+msgstr "Répondre"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:712
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2345
 msgid "Norfolk Island"
@@ -14396,9 +15366,12 @@ msgstr "Pièces jointes"
 
 #: ../../cmd/web/views/account/account.qtpl:623
 #: ../../cmd/web/views/account/account.qtpl:642
+#: ../../cmd/web/views/account/account.qtpl:732
 #: ../../cmd/web/views/account/groupeditprofile.qtpl:140
 #: ../../cmd/web/views/account/groupeditprofile.qtpl:159
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:210
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:166
+#: ../../cmd/web/views/user/enterprise.qtpl:60
 msgid "Not set"
 msgstr "Non défini"
 
@@ -14463,6 +15436,27 @@ msgstr ""
 "Remarque : la modification de cette adresse électronique change l'adresse "
 "électronique du compte de cette personne, ce qui affecte tous ses autres "
 "abonnements."
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:149
+#, fuzzy
+msgid ""
+"NOTE: The pending message will expire after 14 days. If you do not take "
+"action within that time, the pending message will be automatically rejected."
+msgstr ""
+"REMARQUE : Le message en attente expirera après 14 jours. Si vous ne prenez "
+"pas de mesures dans ce délai, le message en attente sera automatiquement "
+"rejeté."
+
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:106
+#, fuzzy
+msgid ""
+"NOTE: The pending subscription will expire after 14 days. If you do not take "
+"action within that time, the pending subscription will be automatically "
+"deleted."
+msgstr ""
+"REMARQUE : Le message en attente expirera après 14 jours. Si vous ne prenez "
+"pas de mesures dans ce délai, le message en attente sera automatiquement "
+"rejeté."
 
 #: ../../cmd/web/views/sub/groupinvite.qtpl:189
 #, fuzzy
@@ -14552,6 +15546,7 @@ msgstr "Notifications"
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:104
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:107
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:108
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:29
 msgid "Notification"
 msgstr "Notification"
 
@@ -14560,7 +15555,7 @@ msgstr "Notification"
 msgid "Notification \"%s\" was sent requiring approval"
 msgstr "La notification \"%s\" a été envoyée pour demander une approbation"
 
-#: ../../cmd/web/views/account/account.qtpl:866
+#: ../../cmd/web/views/account/account.qtpl:897
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl:95
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl:95
 #: ../../cmd/web/qtutils/accountsidebar.qtpl:40
@@ -14571,7 +15566,7 @@ msgstr "La notification \"%s\" a été envoyée pour demander une approbation"
 msgid "Notifications"
 msgstr "Notifications"
 
-#: ../../cmd/web/views/account/account.qtpl:899
+#: ../../cmd/web/views/account/account.qtpl:930
 #, fuzzy
 msgid "Notifications are currently not enabled on this device."
 msgstr "Les notifications ne sont actuellement pas activées sur cet appareil."
@@ -14667,6 +15662,10 @@ msgstr "Nov"
 msgid "November"
 msgstr "Novembre"
 
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:58
+msgid "Now"
+msgstr "Maintenant"
+
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:209
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1186
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1269
@@ -14687,7 +15686,7 @@ msgstr "NM"
 msgid "Number"
 msgstr "Nombre"
 
-#: ../../cmd/web/views/account/account.qtpl:801
+#: ../../cmd/web/views/account/account.qtpl:832
 #, fuzzy
 msgid "Number of items displayed per page."
 msgstr "Nombre d'éléments affichés par page."
@@ -14698,7 +15697,7 @@ msgstr "Nombre d'éléments affichés par page."
 msgid "Number Of Members"
 msgstr "Nombre de membres"
 
-#: ../../cmd/web/views/account/account.qtpl:1125
+#: ../../cmd/web/views/account/account.qtpl:1156
 #, fuzzy
 msgid "Oauth Logins"
 msgstr "Logins Oauth"
@@ -14999,8 +15998,8 @@ msgstr ""
 "sélection de l'envoi des messages."
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl:118
-#: ../../cmd/web/views/user/homeloggedout.qtpl:299
-#: ../../cmd/web/views/user/homeloggedout.qtpl:342
+#: ../../cmd/web/views/user/homeloggedout.qtpl:347
+#: ../../cmd/web/views/user/homeloggedout.qtpl:390
 #, fuzzy
 #| msgid "Messages"
 msgid "Only The Messages You Want"
@@ -15122,6 +16121,8 @@ msgid "Orchid"
 msgstr "Orchidée"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:172
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:147
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:222
 msgid "Organizer"
 msgstr "Organisateur"
 
@@ -15589,12 +16590,17 @@ msgstr "Détails du paiement"
 msgid "Payment History"
 msgstr "Historique de paiement"
 
-#: ../../cmd/web/views/account/account.qtpl:1289
-#: ../../cmd/web/views/account/account.qtpl:1364
-#: ../../cmd/web/views/account/account.qtpl:1432
+#: ../../cmd/web/views/account/account.qtpl:1320
+#: ../../cmd/web/views/account/account.qtpl:1395
+#: ../../cmd/web/views/account/account.qtpl:1463
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:620
 msgid "Payment Method"
 msgstr "Mode de paiement"
+
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:78
+#, fuzzy
+msgid "PayPal Order ID:"
+msgstr "PayPal Numéro de commande :"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:177
 #: ../../cmd/web/views/groupadmin/groupownermsg.qtpl:113
@@ -15650,6 +16656,7 @@ msgstr ""
 "L'avis spécial d'intégration en cours \"%s\" a expiré et a été supprimé"
 
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl:141
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:113
 #, fuzzy
 #| msgid "Pending Members"
 msgid "Pending Member"
@@ -15668,6 +16675,7 @@ msgstr "Membres en attente"
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:39
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:54
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:67
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:76
 msgid "Pending Message"
 msgstr "Message d’attente"
 
@@ -15696,6 +16704,7 @@ msgid "pending subs"
 msgstr "Membres en attente"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl:79
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:71
 #, fuzzy
 #| msgid "Edit Subscription"
 msgid "Pending Subscription"
@@ -15755,8 +16764,15 @@ msgstr "Téléphone"
 
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:61
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl:144
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:63
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:182
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:184
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:186
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:188
 msgid "Photo"
-msgstr "Photo"
+msgid_plural "Photos"
+msgstr[0] "Photo"
+msgstr[1] "Photos"
 
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:78
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl:48
@@ -15766,6 +16782,12 @@ msgstr "Photo"
 #: ../../cmd/web/views/static/staticpricing.qtpl:192
 msgid "Photo Albums"
 msgstr "Albums photo"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:78
+#, fuzzy
+#| msgid "Notifications"
+msgid "Photo Notifications"
+msgstr "Notifications"
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl:140
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:502
@@ -15783,6 +16805,10 @@ msgstr "Albums photo"
 #: ../../cmd/web/qtutils/groupsidebar.qtpl:304
 msgid "Photos"
 msgstr "Photos"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:61
+msgid "photos"
+msgstr "photos"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:1180
 #, fuzzy
@@ -15840,7 +16866,7 @@ msgstr "Plain Digest"
 msgid "plain digest"
 msgstr "Plain Digest"
 
-#: ../../cmd/web/views/account/account.qtpl:822
+#: ../../cmd/web/views/account/account.qtpl:853
 msgid "Plain Text"
 msgstr "Texte brut"
 
@@ -15848,7 +16874,7 @@ msgstr "Texte brut"
 msgid "Plain Text Only"
 msgstr "Texte Brut"
 
-#: ../../cmd/web/views/account/account.qtpl:1429
+#: ../../cmd/web/views/account/account.qtpl:1460
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:617
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:460
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl:96
@@ -16130,6 +17156,12 @@ msgstr ""
 msgid "Posted"
 msgstr "Publié"
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:69
+#, fuzzy
+#| msgid "Report Photo"
+msgid "posted to"
+msgstr "Publié"
+
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1166
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1249
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:131
@@ -16206,7 +17238,7 @@ msgstr ""
 msgid "Powerful additional features"
 msgstr "Caractéristiques supplémentaires"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:390
+#: ../../cmd/web/views/user/homeloggedout.qtpl:438
 #, fuzzy
 msgid "Powerful Features, Better Security"
 msgstr "Des fonctionnalités puissantes, une meilleure sécurité"
@@ -16223,7 +17255,7 @@ msgstr "Intégrations"
 msgid "Preferences"
 msgstr "Préférences"
 
-#: ../../cmd/web/views/account/account.qtpl:1459
+#: ../../cmd/web/views/account/account.qtpl:1490
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:116
 #: ../../cmd/web/views/static/staticpricing.qtpl:158
 msgid "Premium"
@@ -16347,7 +17379,7 @@ msgstr "Sujet précédent"
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:54
 #: ../../cmd/web/views/static/staticpricing.qtpl:44
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl:100
-#: ../../cmd/web/views/user/homeloggedout.qtpl:232
+#: ../../cmd/web/views/user/homeloggedout.qtpl:280
 #: ../../cmd/web/qtutils/accountsidebar.qtpl:161
 #: ../../cmd/web/qtutils/footer.qtpl:72
 #: ../../cmd/web/qtutils/groupsidebar.qtpl:120
@@ -16401,12 +17433,12 @@ msgstr "Promouvoir"
 msgid "Promote Your Group"
 msgstr "Vos groupes"
 
-#: ../../cmd/web/views/account/account.qtpl:981
+#: ../../cmd/web/views/account/account.qtpl:1012
 #, fuzzy
 msgid "Protect your account with an extra level of security."
 msgstr "Protégez votre compte avec un niveau de sécurité supplémentaire."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:120
+#: ../../cmd/web/views/user/enterprise.qtpl:153
 msgid "Provider"
 msgstr "Fournisseur"
 
@@ -16506,7 +17538,7 @@ msgstr "Levée de fonds jusqu'à présent :"
 msgid "Re:"
 msgstr "Re:"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:374
+#: ../../cmd/web/views/user/homeloggedout.qtpl:422
 #, fuzzy
 msgid "Read More At Lifehacker"
 msgstr "Lire la suite sur Lifehacker"
@@ -16522,6 +17554,7 @@ msgstr "Chat en temps réel"
 #: ../../cmd/web/qtutils/messagereports.qtpl:232
 #: ../../cmd/web/qtutils/messagereports.qtpl:330
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:307
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:99
 msgid "Reason"
 msgstr "Raison"
 
@@ -16532,7 +17565,7 @@ msgstr "Raison"
 msgid "Reason For Rejection"
 msgstr "Motif du rejet"
 
-#: ../../cmd/web/views/account/account.qtpl:848
+#: ../../cmd/web/views/account/account.qtpl:879
 #, fuzzy
 msgid "Receive copies of your own emails sent to groups."
 msgstr "Recevez des copies de vos propres courriels envoyés aux groupes."
@@ -16650,8 +17683,8 @@ msgstr "Enregistrer automatiquement la réunion sur l'ordinateur local"
 msgid "Records"
 msgstr "Enregistrements"
 
-#: ../../cmd/web/views/account/account.qtpl:998
-#: ../../cmd/web/views/account/account.qtpl:1091
+#: ../../cmd/web/views/account/account.qtpl:1029
+#: ../../cmd/web/views/account/account.qtpl:1122
 #, fuzzy
 msgid ""
 "Recovery codes can be used to access your account in the event you lose "
@@ -16710,6 +17743,11 @@ msgstr "Rejeter les avis"
 msgid "Reject Pending Sub"
 msgstr "Reject Pending Sub"
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:145
+#, fuzzy
+msgid "Reject this message and notify the sender"
+msgstr "Êtes-vous sûr de vouloir approuver cet abonnement en attente ?"
+
 #: ../../cmd/web/views/groupadmin/grouppastmembers.qtpl:246
 msgid "Rejected"
 msgstr "Rejeté"
@@ -16744,6 +17782,10 @@ msgstr "Modifier l'abonnement"
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:265
 msgid "Relevance"
 msgstr "Pertinence"
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:119
+msgid "Reminder"
+msgstr "Rappel"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1388
 msgid "Reminders"
@@ -16889,6 +17931,13 @@ msgstr ""
 "Supprime les liens sur le site web et le digest vers des options de réponse "
 "autres que l'option Répondre à sélectionnée."
 
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:59
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:161
+#, fuzzy
+#| msgid "Upload Folder"
+msgid "Renamed Folder %s"
+msgstr "Dossier des envois"
+
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:121
 msgid "Reopen"
 msgstr "Rouvrir"
@@ -16909,6 +17958,16 @@ msgstr "chats ouverts"
 #, fuzzy
 msgid "Reopen this donation request?"
 msgstr "Créer une demande de don"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:129
+#, fuzzy
+msgid "Reopened Chat"
+msgstr "chats ouverts"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:56
+#, fuzzy
+msgid "Reopened Chat: %s"
+msgstr "chats ouverts"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:899
 #, fuzzy
@@ -16953,6 +18012,7 @@ msgstr "Résumé quotidien"
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:753
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:766
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:152
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:135
 msgid "Repeats"
 msgstr "Répétitions"
 
@@ -16961,7 +18021,7 @@ msgstr "Répétitions"
 msgid "Replace the Groups.io logo with your own logo."
 msgstr "Remplacez le logo de Groups.io par votre propre logo."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:99
+#: ../../cmd/web/views/user/enterprise.qtpl:132
 #, fuzzy
 msgid "Replace the standard text at the bottom of the login page."
 msgstr "Affichez cette page wiki en haut de la page Messages."
@@ -17006,6 +18066,14 @@ msgstr "Répondre à"
 msgid "Reply to Author"
 msgstr "Modérateurs"
 
+#: ../../pkg/emailfooters/htmlfooter.qtpl:55
+#: ../../pkg/emailfooters/htmlfooter.qtpl:60
+#: ../../pkg/emailfooters/htmlfooter.qtpl:66
+#, fuzzy
+#| msgid "Reply To"
+msgid "Reply To Group"
+msgstr "Répondre à"
+
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:250
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:130
 #: ../../cmd/web/qtutils/messagelib.qtpl:673
@@ -17042,6 +18110,15 @@ msgstr "Modérateurs"
 #| msgid "Moderators"
 msgid "Reply to Mods"
 msgstr "Modérateurs"
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:53
+#: ../../pkg/emailfooters/htmlfooter.qtpl:58
+#: ../../pkg/emailfooters/htmlfooter.qtpl:62
+#: ../../pkg/emailfooters/htmlfooter.qtpl:67
+#, fuzzy
+#| msgid "Reply to sender"
+msgid "Reply To Sender"
+msgstr "Répondre à l'expéditeur "
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:253
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:133
@@ -17583,7 +18660,7 @@ msgstr ""
 msgid "Saving attachments to <b>%s</b>."
 msgstr "0 (pas de pièces jointes)"
 
-#: ../../cmd/web/views/account/account.qtpl:1002
+#: ../../cmd/web/views/account/account.qtpl:1033
 #, fuzzy
 msgid ""
 "Saving your recovery codes in a safe place can help keep you from being "
@@ -17599,12 +18676,12 @@ msgstr ""
 "plus vos codes de récupération, vous devrez contacter l'assistance de Groups."
 "io pour pouvoir vous connecter."
 
-#: ../../cmd/web/views/account/account.qtpl:1036
+#: ../../cmd/web/views/account/account.qtpl:1067
 #, fuzzy
 msgid "Scan This Barcode With Your App"
 msgstr "1. Scannez ce code-barres avec votre application"
 
-#: ../../cmd/web/views/account/account.qtpl:1056
+#: ../../cmd/web/views/account/account.qtpl:1087
 #, fuzzy
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, "
@@ -17739,7 +18816,7 @@ msgstr ""
 "Envoyez un ensemble d'invitations de calendrier lorsque vous rejoignez le "
 "groupe et annulez les avis d'événements lorsque vous quittez le groupe."
 
-#: ../../cmd/web/views/account/account.qtpl:936
+#: ../../cmd/web/views/account/account.qtpl:967
 #, fuzzy
 msgid "Send A Test Notification"
 msgstr "Notifications Web/Application"
@@ -17809,6 +18886,12 @@ msgstr "Envoyer encore"
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:340
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:435
 msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:83
+#, fuzzy
+#| msgid "Send Message"
+msgid "Send messages to %s"
 msgstr "Envoyer le message"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl:164
@@ -18024,7 +19107,7 @@ msgstr "Service Sync"
 msgid "Service to sync with."
 msgstr "Service Sync"
 
-#: ../../cmd/web/views/account/account.qtpl:1017
+#: ../../cmd/web/views/account/account.qtpl:1048
 msgid "Sessions"
 msgstr "Sessions"
 
@@ -18108,11 +19191,11 @@ msgstr ""
 msgid "Set Password"
 msgstr "Définir le mot de passe"
 
-#: ../../cmd/web/views/account/account.qtpl:1242
+#: ../../cmd/web/views/account/account.qtpl:1273
 msgid "Set Payment Method"
 msgstr "Définir le mode de paiement"
 
-#: ../../cmd/web/views/account/account.qtpl:985
+#: ../../cmd/web/views/account/account.qtpl:1016
 #, fuzzy
 msgid "Set up two-factor authentication"
 msgstr "Configurer l'authentification à deux facteurs"
@@ -18175,10 +19258,10 @@ msgid "Sierra Leone"
 msgstr "Sierra Leone"
 
 #: ../../cmd/web/views/base.qtpl:204 ../../cmd/web/views/base.qtpl:298
-#: ../../cmd/web/views/user/homeloggedout.qtpl:162
-#: ../../cmd/web/views/user/homeloggedout.qtpl:184
-#: ../../cmd/web/qtutils/headerend.qtpl:140
-#: ../../cmd/web/qtutils/headerend.qtpl:147
+#: ../../cmd/web/views/user/homeloggedout.qtpl:191
+#: ../../cmd/web/views/user/homeloggedout.qtpl:213
+#: ../../cmd/web/qtutils/headerend.qtpl:176
+#: ../../cmd/web/qtutils/headerend.qtpl:183
 msgid "Sign Up"
 msgstr "S'inscrire"
 
@@ -18221,7 +19304,7 @@ msgid "Single Select, Multiple Choice"
 msgstr "Autorisez les choix multiples."
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:751
-#: ../../cmd/web/views/user/enterprise.qtpl:114
+#: ../../cmd/web/views/user/enterprise.qtpl:147
 #, fuzzy
 msgid "Single Sign On"
 msgstr "Authentification unique"
@@ -18301,6 +19384,10 @@ msgstr "Îles Salomon"
 msgid "Somalia"
 msgstr "Somalie"
 
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:73
+msgid "Sorry to see you go"
+msgstr "Nous sommes désolés de vous voir quitter le site"
+
 #: ../../cmd/web/views/static/staticgroupnotfound.qtpl:34
 #, fuzzy
 #| msgid "That email address is not valid."
@@ -18343,6 +19430,12 @@ msgstr "Controle des spams"
 #, fuzzy
 msgid "SPAM Left"
 msgstr "SPAM Gauche"
+
+#: ../../cmd/web/views/account/account.qtpl:747
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:225
+#: ../../cmd/web/views/user/enterprise.qtpl:75
+msgid "Spanish"
+msgstr "Espagnol"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:105
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:116
@@ -18416,9 +19509,14 @@ msgstr "Déverrouiller ce groupe ?"
 msgid "sponsorship help"
 msgstr "aide au parrainage"
 
-#: ../../cmd/web/views/account/account.qtpl:1346
+#: ../../cmd/web/views/account/account.qtpl:1377
 #, fuzzy
 msgid "Sponsorship History"
+msgstr "Réserves de parrainage"
+
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:47
+#, fuzzy
+msgid "Sponsorship receipt for %s"
 msgstr "Réserves de parrainage"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:668
@@ -18446,7 +19544,7 @@ msgstr "Sainte-Hélène"
 msgid "St. Pierre and Miquelon"
 msgstr "PM- Saint-Pierre-et-Miquelon"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:221
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
 #, fuzzy
 msgid "Standard Time (3:04pm)"
 msgstr "Heure normale (3:04pm)"
@@ -18474,7 +19572,7 @@ msgstr "Démarrer l'essai de 30 jours"
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl:257
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl:225
-#: ../../cmd/web/views/user/homeloggedout.qtpl:352
+#: ../../cmd/web/views/user/homeloggedout.qtpl:400
 #, fuzzy
 msgid "Start a Groups.io Group"
 msgstr "Démarrer un groupe Groups.io"
@@ -18485,8 +19583,8 @@ msgstr "Démarrer un groupe Groups.io"
 msgid "Start Merge"
 msgstr "Démarrer la fusion"
 
-#: ../../cmd/web/views/account/account.qtpl:778
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:256
+#: ../../cmd/web/views/account/account.qtpl:809
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:287
 #, fuzzy
 msgid "Start the calendar week on Monday instead of Sunday."
 msgstr "Commencez la semaine civile le lundi au lieu du dimanche."
@@ -18513,22 +19611,22 @@ msgstr "Débute le"
 msgid "State"
 msgstr "État"
 
-#: ../../cmd/web/views/account/account.qtpl:1295
-#: ../../cmd/web/views/account/account.qtpl:1435
+#: ../../cmd/web/views/account/account.qtpl:1326
+#: ../../cmd/web/views/account/account.qtpl:1466
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:629
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:101
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:82
 msgid "Status"
 msgstr "Statut"
 
-#: ../../cmd/web/views/account/account.qtpl:970
-#: ../../cmd/web/views/account/account.qtpl:978
+#: ../../cmd/web/views/account/account.qtpl:1001
+#: ../../cmd/web/views/account/account.qtpl:1009
 #, fuzzy
 #| msgid "Status"
 msgid "Status: Off"
 msgstr "Statut"
 
-#: ../../cmd/web/views/account/account.qtpl:989
+#: ../../cmd/web/views/account/account.qtpl:1020
 #, fuzzy
 #| msgid "Status"
 msgid "Status: On"
@@ -18567,6 +19665,17 @@ msgstr "Stockage"
 #, fuzzy
 msgid "Storage Limit Reached"
 msgstr "Limite de stockage atteinte"
+
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:49
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:94
+#, fuzzy
+msgid "Storage limit warning"
+msgstr "Limite de stockage atteinte"
+
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:45
+#, fuzzy
+msgid "Storage limit warning for %s"
+msgstr "Avertissement de limite de stockage pour %s"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:746
 msgid "Strip"
@@ -18755,6 +19864,8 @@ msgstr "Catégorie de sous-groupe"
 #: ../../cmd/web/views/post/groupposttosub.qtpl:104
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:77
 #: ../../cmd/web/qtutils/messagelib.qtpl:619
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:122
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:131
 msgid "Subject"
 msgstr "Sujet"
 
@@ -18815,6 +19926,11 @@ msgstr "Abonné"
 msgid "Subscription"
 msgstr "Abonnement"
 
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:67
+#, fuzzy
+msgid "Subscription Approval Needed - %[1]s applied to %[2]s"
+msgstr "Approbation de l'abonnement nécessaire - %[1]s appliqués à %[2]s"
+
 #: ../../cmd/web/views/sub/groupinvite.qtpl:107
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:135
 msgid "Subscription Options"
@@ -18837,8 +19953,8 @@ msgid "Subscriptions to this group require approval from the moderators."
 msgstr ""
 "Les abonnements à ce groupe doivent être approuvés par les modérateurs."
 
-#: ../../cmd/web/views/account/account.qtpl:1332
-#: ../../cmd/web/views/account/account.qtpl:1474
+#: ../../cmd/web/views/account/account.qtpl:1363
+#: ../../cmd/web/views/account/account.qtpl:1505
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:698
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:106
 msgid "Succeeded"
@@ -18865,6 +19981,12 @@ msgstr "Résumé du calendrier des courriels"
 #, fuzzy
 msgid "Support for Auth0 single sign-on (others by request)"
 msgstr "Ouverture de session unique, via Auth0 (autres sur demande)"
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:33
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:31
+#, fuzzy
+msgid "support@"
+msgstr "support@"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:838
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2471
@@ -19084,7 +20206,7 @@ msgstr "Conditions Générales d'Utilisation"
 msgid "Terracotta"
 msgstr "Terre cuite"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:108
+#: ../../cmd/web/views/user/enterprise.qtpl:141
 #, fuzzy
 msgid "Text displayed on the send login link page."
 msgstr "La photo de couverture est affichée sur la page d'accueil du groupe."
@@ -19120,9 +20242,24 @@ msgstr "th {"
 msgid "Thailand"
 msgstr "Thaïlande"
 
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:60
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:58
+#, fuzzy
+msgid "Thank you for supporting Groups.io."
+msgstr "Merci de soutenir Groups.io !"
+
 #: ../../cmd/web/views/account/unbounce.qtpl:36
 msgid "Thank you for using %s!"
 msgstr "Merci d'utiliser %s !"
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:67
+#, fuzzy
+msgid ""
+"Thank you for your interest in %[1]s. If you did not request or do not want "
+"to join %[1]s, please ignore this message."
+msgstr ""
+"Merci de l'intérêt que vous portez à %[1]s. Si vous n'avez pas demandé ou ne "
+"souhaitez pas rejoindre les %[1]s, veuillez ignorer ce message."
 
 #: ../../cmd/web/views/sub/joingroup.qtpl:102
 #, fuzzy
@@ -19147,6 +20284,16 @@ msgstr ""
 "Pour soumettre votre demande d'adhésion à ce groupe, vous devez soit\n"
 "Vous<a href=\"%[2]s\">connecter</a> ou nous communiquer votre adresse "
 "électronique ci-dessous."
+
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:65
+#, fuzzy
+msgid ""
+"Thank you for your interest in the %[1]s group at %[2]s. If you did not "
+"request or do not want to join %[3]s, please ignore this message."
+msgstr ""
+"Nous vous remercions de l'intérêt que vous portez au groupe %[1]s de %[2]s. "
+"Si vous n'avez pas demandé ou ne souhaitez pas rejoindre le groupe %[3]s, "
+"veuillez ignorer ce message."
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:247
 #, fuzzy
@@ -19341,6 +20488,11 @@ msgid "That user name has already been taken."
 msgstr "Cette adresse e-mail est déjà enregistrée."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:148
+#: ../../pkg/notifications/noteviews/confirmationotification.qtpl:99
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:65
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:227
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:155
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:94
 msgid "The %s Team"
 msgstr "L'équipe %s"
 
@@ -19522,6 +20674,20 @@ msgstr ""
 "Le premier message de chaque nouveau fil de discussion est également envoyé "
 "par courriel aux membres."
 
+#: ../../pkg/emailfooters/plainfooter.qtpl:40
+#, fuzzy
+msgid "The first message of every new thread is also emailed to you."
+msgstr ""
+"Le premier message de chaque nouveau fil de discussion est également envoyé "
+"par courriel aux membres."
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:42
+#, fuzzy
+msgid "The first message of every new topic is also emailed to you."
+msgstr ""
+"Le premier message de chaque nouveau fil de discussion est également envoyé "
+"par courriel aux membres."
+
 #: ../../cmd/web/qtutils/flashnotices.qtpl:491
 #, fuzzy
 #| msgid "You must specify a name."
@@ -19541,6 +20707,36 @@ msgstr ""
 #, fuzzy
 msgid "The following email addresses had errors:"
 msgstr "Les adresses électroniques suivantes comportaient des erreurs :"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:110
+#, fuzzy
+msgid ""
+"The following files and folders have been deleted from the Files area of the "
+"%s group."
+msgstr ""
+"Les fichiers et dossiers suivants ont été supprimés de la zone Fichiers du "
+"groupe %s."
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:108
+#, fuzzy
+msgid ""
+"The following files and folders have been updated in the Files area of the "
+"%s group."
+msgstr ""
+"Les fichiers et dossiers suivants ont été mis à jour dans la zone Fichiers "
+"du groupe %s."
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:112
+#, fuzzy
+msgid ""
+"The following files and folders have been uploaded to the Files area of the "
+"%s group."
+msgstr "Vous avez été banni de ce groupe."
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:114
+#, fuzzy
+msgid "The following photos have been"
+msgstr "Les photos suivantes ont été"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:39
 #, fuzzy
@@ -19604,6 +20800,13 @@ msgid ""
 msgstr ""
 "Les frais de traitement de Groups.io s'ajoutent aux frais de traitement des "
 "cartes de crédit de Stripe."
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:63
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:61
+#, fuzzy
+#| msgid "The %s Team"
+msgid "The Groups.io Team"
+msgstr "L'équipe %s"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:354
 #, fuzzy
@@ -19786,7 +20989,7 @@ msgstr ""
 msgid "The monthly reminder email \"%s\" was sent to the group"
 msgstr "Seuls les modérateurs peuvent créer"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:207
+#: ../../cmd/web/views/user/homeloggedout.qtpl:255
 #, fuzzy
 msgid ""
 "The most advanced email groups service. A complete collaboration suite. "
@@ -19914,6 +21117,11 @@ msgid ""
 msgstr ""
 "Ces messages seront renvoyés à leurs expéditeurs avec le message suivant :"
 
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:136
+#, fuzzy
+msgid "The reason given for the edit is:"
+msgstr "La raison invoquée pour cette modification est la suivante :"
+
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:716
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:723
 #, fuzzy
@@ -19969,6 +21177,12 @@ msgid ""
 msgstr ""
 "L'objet de l'e-mail est \" <strong>Lien pour se connecter à %[1]s\"</strong> "
 "et il est envoyé de <strong>noreply@%[2]s</strong>."
+
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:98
+#, fuzzy
+msgid "The subscription application came in via the +subscribe email address."
+msgstr ""
+"La demande d'abonnement est arrivée via l'adresse électronique +subscribe."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:341
 #, fuzzy
@@ -20058,6 +21272,23 @@ msgstr ""
 "l'utilisateur est configuré pour modérer les sujets commencés et commence un "
 "nouveau sujet"
 
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:95
+#, fuzzy
+msgid "The wiki page %[1]s has been created by %[2]s."
+msgstr "Aucun alias de groupe n'a été défini."
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:91
+#, fuzzy
+msgid "The wiki page %[1]s has been updated by %[2]s."
+msgstr "Aucun alias de groupe n'a été défini."
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:93
+#, fuzzy
+msgid "The wiki page %s has been deleted by %[2]s."
+msgstr ""
+"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
+"spéciaux."
+
 #: ../../cmd/web/qtutils/displayactivity.qtpl:173
 #: ../../cmd/web/qtutils/subactions.qtpl:97
 #, fuzzy
@@ -20133,6 +21364,11 @@ msgstr "Il n'y a pas de catégories."
 msgid "There are no tables."
 msgstr "Aucun message"
 
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:88
+#, fuzzy
+msgid "There are now %d people ahead of you on the waitlist."
+msgstr "Il y a %d personnes avant vous sur la liste d'attente."
+
 #: ../../cmd/web/qtutils/flashnotices.qtpl:365
 #, fuzzy
 msgid ""
@@ -20202,6 +21438,11 @@ msgstr "Affichez cette page wiki en haut de la page Messages."
 msgid "There is currently one attendee."
 msgstr "Il y a actuellement un participant."
 
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:86
+#, fuzzy
+msgid "There is now one person ahead of you on the waitlist."
+msgstr "Il y a une personne avant vous sur la liste d'attente."
+
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:209
 #, fuzzy
 msgid "There is one person ahead of you on the waitlist."
@@ -20247,6 +21488,11 @@ msgid ""
 msgstr ""
 "Ces messages seront renvoyés à leurs expéditeurs avec le message suivant :"
 
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:96
+#, fuzzy
+msgid "They accessed the web from:"
+msgstr "Ils ont accédé au web depuis :"
+
 #: ../../cmd/web/views/account/deleteaccount.qtpl:98
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:73
 #, fuzzy
@@ -20264,12 +21510,31 @@ msgid ""
 "This donation request has been closed and is no longer accepting donations."
 msgstr "Cette demande de don a été clôturée et n'accepte plus de dons."
 
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:68
+#, fuzzy
+msgid ""
+"This email message is a notification to let you know that your group %[1]s "
+"is using over 80%% of its available storage of %[2]dGB. The storage space is "
+"used by attachments, files, photos, database images and wiki images. You can "
+"view the usage statistics for your group <a href=\"%[3]s\">here</a>."
+msgstr ""
+"Ce message électronique est une notification pour vous informer que votre "
+"groupe %[1]s utilise plus de 80%% de son espace de stockage disponible de "
+"%[2]dGB. L'espace de stockage est utilisé par les pièces jointes, les "
+"fichiers, les photos, les images de la base de données et les images wiki. "
+"Vous pouvez consulter les statistiques d'utilisation de votre groupe <a "
+"href=\"%[3]s\">ici</a>."
+
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:237
 #, fuzzy
 msgid "This event has been canceled."
 msgstr ""
 "Les messages comportant cette étiquette seront envoyés en tant qu'avis "
 "spéciaux."
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:115
+msgid "This event has been cancelled."
+msgstr "Cette liste a expiré."
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:245
 #, fuzzy
@@ -20365,6 +21630,11 @@ msgid ""
 msgstr ""
 "Ce groupe n'a plus d'espace. Jusqu'à ce que l'espace soit libéré, aucune "
 "photo supplémentaire ne peut être téléchargée."
+
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:91
+#, fuzzy
+msgid "This group is locked"
+msgstr "Votre groupe est hébergé"
 
 #: ../../cmd/web/views/group/grouphome.qtpl:193
 #, fuzzy
@@ -20489,6 +21759,13 @@ msgstr ""
 "Ce fil de discussion a été verrouillé par les modérateurs ; les "
 "modifications ne sont pas autorisées."
 
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:95
+#, fuzzy
+msgid "This topic has been locked"
+msgstr ""
+"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
+"spéciaux."
+
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl:1037
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl:453
 #: ../../cmd/web/views/user/threads.qtpl:116
@@ -20512,12 +21789,16 @@ msgstr "Cette question sera posée sur la page RSVP."
 msgid "Three Months"
 msgstr "Mois suivant"
 
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:126
+msgid "through"
+msgstr "jusqu'à"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:137
 msgid "Time"
 msgstr "Heure"
 
-#: ../../cmd/web/views/account/account.qtpl:739
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:217
+#: ../../cmd/web/views/account/account.qtpl:770
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:248
 msgid "Time Display"
 msgstr "Affichage de l'heure"
 
@@ -20525,12 +21806,12 @@ msgstr "Affichage de l'heure"
 msgid "times"
 msgstr "fois"
 
-#: ../../cmd/web/views/account/account.qtpl:728
+#: ../../cmd/web/views/account/account.qtpl:759
 #: ../../cmd/web/views/calendar/calendar.qtpl:177
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:206
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:237
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:742
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:152
-#: ../../cmd/web/views/user/enterprise.qtpl:55
+#: ../../cmd/web/views/user/enterprise.qtpl:88
 msgid "Timezone"
 msgstr "Fuseau horaire"
 
@@ -20553,8 +21834,32 @@ msgid "To"
 msgstr "À"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:139
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:128
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:120
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:209
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:211
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:170
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:173
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:115
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:118
 msgid "to"
 msgstr "à"
+
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:101
+#, fuzzy
+msgid "To approve this member via email, simply reply to this message."
+msgstr ""
+"Pour approuver ce membre par courriel, il suffit de répondre à ce message."
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:143
+#, fuzzy
+msgid ""
+"To approve this using email, reply to this message. You do not need to "
+"attach the original message, just reply and send."
+msgstr ""
+"Pour approuver ce document par courrier électronique, répondez à ce message. "
+"Il n'est pas nécessaire de joindre le message original, il suffit de "
+"répondre et d'envoyer."
 
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:124
 #, fuzzy
@@ -20566,7 +21871,7 @@ msgstr ""
 "désabonner, cliquez sur la barre d'<strong>options d'abonnement</strong> ci-"
 "dessous."
 
-#: ../../cmd/web/views/account/account.qtpl:973
+#: ../../cmd/web/views/account/account.qtpl:1004
 #, fuzzy
 msgid ""
 "To enable two-factor authentication, first log out and log back in using "
@@ -20671,6 +21976,11 @@ msgstr "Pour poster dans votre groupe, envoyez un courriel à <em>%s</em>."
 msgid "To post to your group, send email to <em>%s</em>."
 msgstr "Pour poster dans votre groupe, envoyez un courriel à <em>%s</em>."
 
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:103
+#, fuzzy
+msgid "To reject this member via email, forward this message to:"
+msgstr "Pour rejeter ce membre par courriel, faites suivre ce message à :"
+
 #: ../../cmd/web/qtutils/flashnotices.qtpl:419
 #, fuzzy
 msgid "To unmute a hashtag, you must first log in."
@@ -20742,7 +22052,7 @@ msgstr "Basculer le calendrier"
 msgid "Toggle Dropdown"
 msgstr "Permuter le menu déroulant"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:118
+#: ../../cmd/web/views/user/homeloggedout.qtpl:119
 #: ../../cmd/web/qtutils/footer.qtpl:30 ../../cmd/web/qtutils/headerend.qtpl:21
 #: ../../cmd/web/qtutils/headerend.qtpl:122
 msgid "Toggle navigation"
@@ -20904,7 +22214,12 @@ msgstr "Supprimer la sélection"
 msgid "Transaction ID"
 msgstr "ID de transaction"
 
-#: ../../cmd/web/views/account/account.qtpl:1095
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:77
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:74
+msgid "Transaction ID:"
+msgstr "Identifiant de transaction :"
+
+#: ../../cmd/web/views/account/account.qtpl:1126
 #, fuzzy
 msgid ""
 "Treat your recovery codes with the same level of attention as you would your "
@@ -21019,7 +22334,7 @@ msgstr ""
 "L'authentification à deux facteurs est activée pour ce compte. Cette "
 "fonction n'est pas disponible."
 
-#: ../../cmd/web/views/account/account.qtpl:964
+#: ../../cmd/web/views/account/account.qtpl:995
 msgid "Two-Factor Authentication"
 msgstr "Authentification à deux facteurs"
 
@@ -21037,7 +22352,7 @@ msgstr ""
 "L'authentification à deux facteurs est activée pour ce compte. Cette "
 "fonction n'est pas disponible."
 
-#: ../../cmd/web/views/account/account.qtpl:1088
+#: ../../cmd/web/views/account/account.qtpl:1119
 #, fuzzy
 msgid "Two-factor Recovery Codes"
 msgstr "Codes de récupération à deux facteurs"
@@ -21058,6 +22373,12 @@ msgstr "Ouganda"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:2531
 msgid "Ukraine"
 msgstr "Ukraine"
+
+#: ../../cmd/web/views/account/account.qtpl:750
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:228
+#: ../../cmd/web/views/user/enterprise.qtpl:78
+msgid "Ukrainian"
+msgstr "Ukrainien"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1465
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1466
@@ -21113,6 +22434,13 @@ msgstr "Annuler toutes les modifications"
 msgid "Unfollow"
 msgstr "Ne plus suivre"
 
+#: ../../pkg/emailfooters/htmlfooter.qtpl:82
+#: ../../pkg/emailfooters/plainfooter.qtpl:58
+#, fuzzy
+#| msgid "Unfollow"
+msgid "Unfollow #%s"
+msgstr "Ne plus suivre"
+
 #: ../../cmd/web/views/mutefollow/unfk.qtpl:46
 #, fuzzy
 #| msgid "Hashtags"
@@ -21137,6 +22465,8 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl:145
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl:102
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl:130
+#: ../../pkg/emailfooters/htmlfooter.qtpl:72
+#: ../../pkg/emailfooters/plainfooter.qtpl:50
 #, fuzzy
 #| msgid "New Topic"
 msgid "Unfollow This Topic"
@@ -21365,6 +22695,10 @@ msgstr "Non stylisé"
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:306
 #: ../../cmd/web/views/user/groups.qtpl:210
 #: ../../cmd/web/views/user/groups.qtpl:211
+#: ../../pkg/emailfooters/htmlfooter.qtpl:98
+#: ../../pkg/emailfooters/htmlfooter.qtpl:100
+#: ../../pkg/emailfooters/plainfooter.qtpl:76
+#: ../../pkg/emailfooters/plainfooter.qtpl:79
 msgid "Unsubscribe"
 msgstr "Se désabonner"
 
@@ -21392,6 +22726,9 @@ msgid "Up to 5"
 msgstr "Jusqu’à 5"
 
 #: ../../cmd/web/views/user/feed.qtpl:280
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:170
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:194
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:252
 msgid "Upcoming Events"
 msgstr "Événements à venir"
 
@@ -21499,7 +22836,7 @@ msgstr "Avis de mise à jour"
 msgid "Update Overall Profile"
 msgstr "Mettre à jour le fichier"
 
-#: ../../cmd/web/views/account/account.qtpl:1256
+#: ../../cmd/web/views/account/account.qtpl:1287
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:304
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:338
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:334
@@ -21517,7 +22854,7 @@ msgstr "Mettre à jour la photo"
 msgid "Update Poll"
 msgstr "Mettre à jour la photo"
 
-#: ../../cmd/web/views/account/account.qtpl:858
+#: ../../cmd/web/views/account/account.qtpl:889
 msgid "Update Preferences"
 msgstr "Préférences de mise à jour"
 
@@ -21525,8 +22862,8 @@ msgstr "Préférences de mise à jour"
 msgid "Update Row"
 msgstr "Ligne de mise à jour"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:293
-#: ../../cmd/web/views/user/enterprise.qtpl:189
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:324
+#: ../../cmd/web/views/user/enterprise.qtpl:222
 msgid "Update Settings"
 msgstr "Mettre à jour les paramètres"
 
@@ -21553,8 +22890,14 @@ msgstr "Mettre à jour"
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:109
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl:71
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl:65
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:182
 msgid "Updated"
 msgstr "Mis à jour"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:66
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:197
+msgid "updated"
+msgstr "mis à jour"
 
 #. TRANSLATORS: The %s is the page title
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:137
@@ -21563,16 +22906,106 @@ msgstr "Mis à jour"
 msgid "Updated %s page"
 msgstr "Mis à jour"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:177
+#, fuzzy
+#| msgid "Updated"
+msgid "Updated Album"
+msgstr "Mis à jour"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:56
+#, fuzzy
+#| msgid "Updated"
+msgid "Updated album"
+msgstr "Mis à jour"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:125
+#, fuzzy
+#| msgid "Update Photo"
+msgid "Updated Chat"
+msgstr "Mettre à jour la photo"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:52
+#, fuzzy
+#| msgid "Databases"
+msgid "Updated Chat: %s"
+msgstr "Bases de données"
+
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:255
 #, fuzzy
 msgid "Updated Column Default Hidden"
 msgstr "Mise à jour de la colonne cachée par défaut"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:71
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:114
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:157
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:179
+#, fuzzy
+#| msgid "Databases"
+msgid "Updated Database"
+msgstr "Bases de données"
 
 #: ../../cmd/web/views/user/feed.qtpl:458
 #, fuzzy
 #| msgid "Databases"
 msgid "Updated Databases"
 msgstr "Bases de données"
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:60
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:191
+#, fuzzy
+#| msgid "Update Event"
+msgid "Updated Event"
+msgstr "Mettre à jour l'événement"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:168
+#, fuzzy
+#| msgid "Update File"
+msgid "Updated File"
+msgid_plural "Updated Files"
+msgstr[0] "Mettre à jour le fichier"
+msgstr[1] "Mettre à jour le fichier"
+
+#: ../../pkg/notifications/noteviews/filenotification.qtpl:99
+#, fuzzy
+#| msgid "Update Folder"
+msgid "updated folder"
+msgstr "Mettre à jour le dossier"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:129
+#, fuzzy
+#| msgid "Update File"
+msgid "updated in the"
+msgstr "Mettre à jour le fichier"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:166
+#, fuzzy
+#| msgid "Update Row"
+msgid "Updated Row #"
+msgstr "Ligne de mise à jour"
+
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:80
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:132
+#: ../../pkg/notifications/noteviews/databasenotification.qtpl:188
+#, fuzzy
+msgid "Updated Row #%[1]d In %[2]s"
+msgstr "#%#[1]d %[2]s"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:105
+#, fuzzy
+#| msgid "Edit Album"
+msgid "updated the album"
+msgstr "Modifier l'album"
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:115
+#, fuzzy
+#| msgid "Updated"
+msgid "Updated Wiki Page"
+msgstr "Mis à jour"
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:58
+#, fuzzy
+msgid "Updated Wiki Page: %s"
+msgstr "%[1]s a mis à jour la page wiki %[2]s"
 
 #: ../../cmd/web/qtutils/accountsidebar.qtpl:165
 #: ../../cmd/web/qtutils/footer.qtpl:77
@@ -21597,7 +23030,7 @@ msgstr ""
 "Mise à niveau (20 $ pour un mois, avec rétrogradation automatique au niveau "
 "de base après)"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:387
+#: ../../cmd/web/views/user/homeloggedout.qtpl:435
 #, fuzzy
 msgid "Upgrade From Mailman or Lyris"
 msgstr "Mise à niveau de Mailman ou Lyris"
@@ -21746,9 +23179,19 @@ msgstr "Privilèges d'affichage"
 msgid "Uploaded"
 msgstr "Chargé"
 
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:72
+msgid "uploaded"
+msgstr "téléchargé"
+
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:309
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:128
 msgid "Uploaded By"
+msgstr "Chargé par"
+
+#: ../../pkg/notifications/noteviews/photonotification.qtpl:131
+#, fuzzy
+#| msgid "Welcome to the"
+msgid "uploaded to the"
 msgstr "Chargé par"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:771
@@ -21770,9 +23213,9 @@ msgstr "Uruguay"
 msgid "Usage"
 msgstr "Utilisation"
 
-#: ../../cmd/web/views/account/account.qtpl:1325
-#: ../../cmd/web/views/account/account.qtpl:1397
-#: ../../cmd/web/views/account/account.qtpl:1477
+#: ../../cmd/web/views/account/account.qtpl:1356
+#: ../../cmd/web/views/account/account.qtpl:1428
+#: ../../cmd/web/views/account/account.qtpl:1508
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:96
 #, fuzzy
 msgid "USD $"
@@ -21784,7 +23227,7 @@ msgstr "USD %.02f"
 msgid "USD $%.02f"
 msgstr "USD %.02f"
 
-#: ../../cmd/web/views/user/enterprise.qtpl:177
+#: ../../cmd/web/views/user/enterprise.qtpl:210
 #, fuzzy
 msgid "Use <em>https://groups.io/ssologin</em> for the SSO callback URL."
 msgstr ""
@@ -21840,8 +23283,8 @@ msgstr "Premier message également"
 msgid "Use this photo as the cover for the album."
 msgstr "Utilisez cette photo comme couverture de l'album."
 
-#: ../../cmd/web/views/account/account.qtpl:734
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:212
+#: ../../cmd/web/views/account/account.qtpl:765
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:243
 #, fuzzy
 msgid "Used for displaying times."
 msgstr "Utilisé pour l'affichage des heures."
@@ -21893,7 +23336,7 @@ msgstr "Utilisation de %s pour le stockage des photos"
 msgid "Uzbekistan"
 msgstr "Ouzbékistan"
 
-#: ../../cmd/web/views/account/account.qtpl:1080
+#: ../../cmd/web/views/account/account.qtpl:1111
 msgid "Validate"
 msgstr "Valider"
 
@@ -22222,6 +23665,8 @@ msgid "View Donations"
 msgstr "Voir les Dons"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:92
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:160
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:245
 msgid "View Event"
 msgstr "Voir l'événement"
 
@@ -22240,6 +23685,12 @@ msgstr "Voir le membre"
 #, fuzzy
 msgid "View Member List"
 msgstr "Voir la liste des membres"
+
+#: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:93
+#, fuzzy
+#| msgid "Pending Members"
+msgid "View Pending Member"
+msgstr "Membres en attente"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:149
 msgid "View Profile"
@@ -22269,7 +23720,19 @@ msgstr "Affichez la source"
 msgid "View Table"
 msgstr "Voir le tableau"
 
-#: ../../cmd/web/views/account/account.qtpl:1006
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:105
+#, fuzzy
+#| msgid "View Table"
+msgid "View This Chat"
+msgstr "Voir le tableau"
+
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:120
+#: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:129
+#, fuzzy
+msgid "View this message online"
+msgstr "Premier message également"
+
+#: ../../cmd/web/views/account/account.qtpl:1037
 #, fuzzy
 msgid "View your recovery codes"
 msgstr "Visualisez vos codes de récupération"
@@ -22284,6 +23747,18 @@ msgstr "Afficher/modifier le plan"
 #, fuzzy
 msgid "View/Edit Row"
 msgstr "Afficher/modifier la rangée"
+
+#: ../../pkg/notifications/noteviews/chatnotification.qtpl:105
+#, fuzzy
+#| msgid "Chat"
+msgid "View/Join This Chat"
+msgstr "Chat"
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:50
+#: ../../pkg/emailfooters/plainfooter.qtpl:47
+#, fuzzy
+msgid "View/Reply Online (#%#d)"
+msgstr "Voir/Répondre en ligne (#%#d)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:205
 #, fuzzy
@@ -22432,7 +23907,7 @@ msgstr "Attention : Ce membre en attente a été réclamé par"
 msgid "We"
 msgstr "Me"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:327
+#: ../../cmd/web/views/user/homeloggedout.qtpl:375
 #, fuzzy
 msgid ""
 "We are a fremium service. We don't run advertising and your data is never "
@@ -22468,7 +23943,7 @@ msgstr "Nous n'autorisons pas les sujets qui commencent par \"Private :\"."
 msgid "We don't allow subjects that begin with 'Private:'."
 msgstr "Nous n'autorisons pas les sujets qui commencent par \"Private :\"."
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:278
+#: ../../cmd/web/views/user/homeloggedout.qtpl:326
 #, fuzzy
 msgid ""
 "We don't run advertising and your data is never submitted to any ad tracking "
@@ -22495,6 +23970,40 @@ msgstr ""
 "aux fonctions web réservées aux membres du groupe. Si vous devez vous "
 "connecter à l'avenir, vous pouvez recevoir un lien de connexion par e-mail "
 "ou utiliser les boutons Facebook ou Google pour vous connecter."
+
+#: ../../pkg/notifications/noteviews/donationnotification.qtpl:57
+#, fuzzy
+msgid ""
+"We have processed your donation payment in the amount of $%.02[1]f for the "
+"group %[2]s. If you have any questions, feel free to contact support@groups."
+"io."
+msgstr ""
+"Nous avons traité le paiement de votre don d'un montant de $%.02[1]f pour le "
+"groupe %[2]s. Si vous avez des questions, n'hésitez pas à contacter "
+"support@groups.io."
+
+#: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl:55
+#, fuzzy
+msgid ""
+"We have processed your sponsorship payment in the amount of $%.02[1]f for "
+"the group %[2]s. If you have any questions, feel free to contact "
+"support@groups.io."
+msgstr ""
+"Nous avons traité votre paiement de parrainage d'un montant de $%.02[1]f "
+"pour le groupe %[2]s. Si vous avez des questions, n'hésitez pas à contacter "
+"support@groups.io."
+
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:50
+#, fuzzy
+msgid ""
+"We have received a request to log into your %[1]s account via %[2]s. Your "
+"account is currently set up to not allow this. If you would like to log into "
+"your account using %[2]s, click the following link:"
+msgstr ""
+"Nous avons reçu une demande de connexion à votre compte %[1]s via %[2]s. "
+"Votre compte est actuellement configuré pour ne pas permettre cela. Si vous "
+"souhaitez vous connecter à votre compte en utilisant %[2]s, cliquez sur le "
+"lien suivant :"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:322
 #, fuzzy
@@ -22574,7 +24083,7 @@ msgstr ""
 "Nous vous contacterons sous peu pour travailler avec vous à la mise en place "
 "de votre domaine."
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:409
+#: ../../cmd/web/views/user/homeloggedout.qtpl:457
 #, fuzzy
 msgid "We're passionate about groups, and we're here to make them even better."
 msgstr ""
@@ -22703,6 +24212,7 @@ msgstr "Bienvenue"
 
 #. TRANSLATORS: %s is the organization's title
 #: ../../cmd/web/views/user/orgloggedouthomepage.qtpl:75
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:69
 msgid "Welcome to %s"
 msgstr "Bienvenue sur %s"
 
@@ -22758,6 +24268,7 @@ msgstr "Que faire lorsque le groupe n'a plus de place."
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:133
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:301
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:125
 msgid "When"
 msgstr "Quand"
 
@@ -22808,7 +24319,7 @@ msgstr ""
 "Lorsqu'il est défini, les sujets marqués seront automatiquement supprimés ou "
 "verrouillés après la période de temps spécifiée."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:164
+#: ../../cmd/web/views/user/enterprise.qtpl:197
 #, fuzzy
 msgid ""
 "When using YourMembership, enter your Client ID, which is found in the REST "
@@ -22829,6 +24340,18 @@ msgstr ""
 "annuellement, nous prenons en compte le nombre de membres que vous avez à ce "
 "moment-là. Un membre est défini comme un membre confirmé, non en attente, "
 "non banni de votre groupe principal."
+
+#: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:57
+#, fuzzy
+msgid ""
+"When you click the link, you will be logged into your %[1]s account and your "
+"account will be configured to permit logging in via %[2]s in the future, so "
+"you won't have to deal with this annoying email again."
+msgstr ""
+"Lorsque vous cliquerez sur le lien, vous serez connecté à votre compte %[1]s "
+"et votre compte sera configuré pour vous permettre de vous connecter via "
+"%[2]s à l'avenir, de sorte que vous n'aurez plus à traiter cet e-mail "
+"ennuyeux."
 
 #: ../../cmd/web/views/sub/joingroup.qtpl:196
 #, fuzzy
@@ -22891,7 +24414,7 @@ msgstr ""
 "et votre sous-groupe s'appellera <em>sg@%[2]s. Vous pouvez remplacer main "
 "par tout autre nom que vous souhaitez."
 
-#: ../../cmd/web/views/account/account.qtpl:1116
+#: ../../cmd/web/views/account/account.qtpl:1147
 #, fuzzy
 msgid ""
 "When you generate new recovery codes, you must download or print the new "
@@ -22906,18 +24429,33 @@ msgstr ""
 msgid "When your membership is approved:"
 msgstr "Lorsque votre adhésion est approuvée :"
 
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:161
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:106
+msgid "When:"
+msgstr "Quand:"
+
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl:141
+#: ../../pkg/notifications/noteviews/upcomingevents.qtpl:218
+msgid "Where"
+msgstr "Où"
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:184
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:129
+msgid "Where:"
+msgstr "Où :"
+
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:351
 #: ../../cmd/web/views/sub/editsub.qtpl:391
 #, fuzzy
 msgid "Whether to be notified of new messages."
 msgstr "Si vous souhaitez être informé des nouveaux messages."
 
-#: ../../cmd/web/views/account/account.qtpl:826
+#: ../../cmd/web/views/account/account.qtpl:857
 #, fuzzy
 msgid "Which editor to use for composing messages on the website."
 msgstr "Quel éditeur utiliser pour composer les messages sur le site web."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:137
+#: ../../cmd/web/views/user/enterprise.qtpl:170
 #, fuzzy
 msgid "Which SSO provider you are using."
 msgstr "Le fournisseur de SSO que vous utilisez."
@@ -23013,7 +24551,7 @@ msgstr "Qui peut consulter l'annuaire des membres."
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:61
 #: ../../cmd/web/views/static/staticpricing.qtpl:51
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl:107
-#: ../../cmd/web/views/user/homeloggedout.qtpl:239
+#: ../../cmd/web/views/user/homeloggedout.qtpl:287
 #, fuzzy
 msgid "Why Email Groups?"
 msgstr "Pourquoi des groupes d'e-mails ?"
@@ -23028,7 +24566,7 @@ msgstr "Pourquoi des groupes de courriel ? La philosophie de Groups.io"
 msgid "Why Use Groups.io?"
 msgstr "Pourquoi vous allez adorer Groups.io"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl:249
+#: ../../cmd/web/views/user/homeloggedout.qtpl:297
 #, fuzzy
 msgid "Why You'll Love Groups.io"
 msgstr "Pourquoi vous allez adorer Groups.io"
@@ -23081,9 +24619,20 @@ msgstr "Les archives sont visibles par tous"
 msgid "Wiki is visible to members only."
 msgstr "Les archives sont visibles uniquement pour les membres"
 
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:67
+#, fuzzy
+#| msgid "Notifications"
+msgid "Wiki Notifications"
+msgstr "Notifications"
+
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:327
 #, fuzzy
 msgid "Wiki Page"
+msgstr "Wikis"
+
+#: ../../pkg/notifications/noteviews/wikinotification.qtpl:62
+#, fuzzy
+msgid "Wiki Page: %s"
 msgstr "Wikis"
 
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl:42
@@ -23527,6 +25076,16 @@ msgstr "Connectez-vous si vous êtes déjà membre"
 msgid "You Are Now A Member!"
 msgstr "Connectez-vous si vous êtes déjà membre"
 
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:84
+#, fuzzy
+msgid "You are now at the front of the waitlist."
+msgstr "Vous êtes en tête de la liste d'attente."
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:152
+#, fuzzy
+msgid "You are now attending the event. Here are the event details:"
+msgstr "Vous êtes en tête de la liste d'attente."
+
 #: ../../cmd/web/views/mutefollow/unft.qtpl:48
 #: ../../cmd/web/views/mutefollow/unmt.qtpl:57
 #, fuzzy
@@ -23540,6 +25099,17 @@ msgid "You are now logged out. Thanks for visiting and have a fantastic day!"
 msgstr ""
 "Vous êtes maintenant déconnecté. Merci de votre visite et passez une "
 "excellente journée !"
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:215
+#, fuzzy
+#| msgid "You have no drafts."
+msgid "You are now not attending the event."
+msgstr "Vous n'avez pas de brouillon."
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:219
+#, fuzzy
+msgid "You are now not sure about attending the event."
+msgstr "S'abonner au calendrier"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:332
 #, fuzzy
@@ -23595,11 +25165,19 @@ msgstr "Vous êtes sur liste d'attente."
 #: ../../cmd/web/views/sub/editsub.qtpl:333
 #: ../../cmd/web/views/sub/groupinvite.qtpl:233
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:262
+#: ../../pkg/emailfooters/htmlfooter.qtpl:45
+#: ../../pkg/emailfooters/plainfooter.qtpl:43
 #, fuzzy
 msgid "You automatically follow any topics you start or reply to."
 msgstr ""
 "Les membres suivent automatiquement les sujets qu'ils ont lancés ou auxquels "
 "ils ont répondu."
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:224
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:91
+#, fuzzy
+msgid "You can <a href=\"%s\">update your response</a> at any time."
+msgstr "Vous pouvez <a href=\"%s\">actualiser votre réponse</a> à tout moment."
 
 #: ../../cmd/web/views/static/staticpricing.qtpl:293
 #, fuzzy
@@ -23774,7 +25352,7 @@ msgstr ""
 "groupe. Vous devez soit supprimer le groupe, soit ajouter quelqu'un d'autre "
 "comme propriétaire."
 
-#: ../../cmd/web/views/account/account.qtpl:875
+#: ../../cmd/web/views/account/account.qtpl:906
 #, fuzzy
 msgid "You currently have no devices enabled to receive notifications."
 msgstr ""
@@ -23821,6 +25399,11 @@ msgid "You have been added by the %[1]s Team to <a href=\"%[2]s\">%[3]s</a>"
 msgstr ""
 "Vous avez été ajouté par l'équipe de %[1]s à <a href=\"%[2]s\">%[3]s</a>"
 
+#: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:77
+#, fuzzy
+msgid "You have been added to the %s event"
+msgstr "Vous avez été banni de ce groupe."
+
 #: ../../cmd/web/views/group/grouphome.qtpl:499
 #, fuzzy
 msgid "You have been banned from this group."
@@ -23840,6 +25423,12 @@ msgstr ""
 "options d'abonnement. Vous ne serez pas ajouté au groupe tant que vous "
 "n'aurez pas cliqué sur le bouton \"Rejoindre ce groupe\" ou répondu à l'e-"
 "mail d'invitation."
+
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:85
+#, fuzzy
+#| msgid "Your changes have been saved."
+msgid "You have been removed"
+msgstr "Vos modifications ont été sauvegardées."
 
 #: ../../cmd/web/views/sub/groupleave.qtpl:78
 #, fuzzy
@@ -23902,18 +25491,18 @@ msgstr "Vous n'avez aucunes adhésions."
 msgid "You have no Trello integrations."
 msgstr "Ajouter ou modifier des intégrations"
 
-#: ../../cmd/web/views/account/account.qtpl:1214
+#: ../../cmd/web/views/account/account.qtpl:1245
 #, fuzzy
 msgid "You have not connected your Zoom account to Groups.io."
 msgstr "Vous n'avez pas connecté votre compte Zoom à Groups.io."
 
-#: ../../cmd/web/views/account/account.qtpl:1339
+#: ../../cmd/web/views/account/account.qtpl:1370
 #, fuzzy
 #| msgid "You have no drafts."
 msgid "You have not made any donations."
 msgstr "Vous n'avez pas de brouillon."
 
-#: ../../cmd/web/views/account/account.qtpl:1484
+#: ../../cmd/web/views/account/account.qtpl:1515
 msgid "You have not made any payments."
 msgstr "﻿Vous n'avez effectué aucun règlement."
 
@@ -23933,7 +25522,7 @@ msgstr ""
 "nécessaire d'en définir un pour participer au groupe par courrier "
 "électronique."
 
-#: ../../cmd/web/views/account/account.qtpl:1404
+#: ../../cmd/web/views/account/account.qtpl:1435
 #, fuzzy
 #| msgid "You have no drafts."
 msgid "You have not sponsored any groups."
@@ -23976,7 +25565,7 @@ msgstr ""
 "Vous avez spécifié une adresse électronique, <strong>%s</strong>qui a déjà "
 "un compte chez Groups.io."
 
-#: ../../cmd/web/views/account/account.qtpl:879
+#: ../../cmd/web/views/account/account.qtpl:910
 #, fuzzy
 #| msgid "You have no subscriptions."
 msgid "You have the following notification subscriptions:"
@@ -24017,7 +25606,7 @@ msgstr ""
 "recommandons vivement de <a href=\"/account?page=security\">générer un "
 "nouveau jeu</a>."
 
-#: ../../cmd/web/views/account/account.qtpl:1111
+#: ../../cmd/web/views/account/account.qtpl:1142
 #, fuzzy
 msgid "You have used up all your recovery codes."
 msgstr "Vous avez utilisé tous vos codes de récupération."
@@ -24148,6 +25737,18 @@ msgstr "Vous devez définir un nom."
 #| msgid "You must specify a name."
 msgid "You must specify a valid directory name."
 msgstr "Vous devez définir un nom."
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:34
+#: ../../pkg/emailfooters/plainfooter.qtpl:32
+#, fuzzy
+msgid "You only receive special notices."
+msgstr "Les membres ne recevront que les avis spéciaux des modérateurs."
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:37
+#: ../../pkg/emailfooters/plainfooter.qtpl:35
+#, fuzzy
+msgid "You receive all messages sent to this group."
+msgstr "Ne reçoit aucun message envoyé à"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:329
 #, fuzzy
@@ -24303,6 +25904,11 @@ msgstr ""
 "maximum de 500 membres, avec des membres supplémentaires à 0,44 $, facturés "
 "annuellement)."
 
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:75
+#, fuzzy
+msgid "You've been banned"
+msgstr "Aucun alias de groupe n'a été défini."
+
 #: ../../cmd/web/views/group/grouppromote.qtpl:88
 #, fuzzy
 msgid ""
@@ -24364,7 +25970,7 @@ msgstr "Aucun alias de groupe n'a été défini."
 msgid "Your Activity"
 msgstr "Votre Activité"
 
-#: ../../cmd/web/views/account/account.qtpl:1227
+#: ../../cmd/web/views/account/account.qtpl:1258
 #, fuzzy
 msgid ""
 "Your billing info, if entered, will be used for any groups you create that "
@@ -24544,6 +26150,11 @@ msgstr ""
 "consécutifs approuvés, il peut alors poster sans avoir besoin d'approbation. "
 "Vous pouvez modifier ce paramètre dans la page Paramètres de votre groupe."
 
+#: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl:98
+#, fuzzy
+msgid "Your group is using over 80% of its available storage"
+msgstr "Votre groupe utilise plus de 80 % de son espace de stockage disponible"
+
 #: ../../cmd/web/views/base.qtpl:160
 #: ../../cmd/web/views/mutefollow/followedkeywords.qtpl:48
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl:49
@@ -24617,6 +26228,12 @@ msgstr "Votre message a été envoyé."
 msgid "Your message is too large."
 msgstr "Votre message est trop volumineux."
 
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:83
+#, fuzzy
+#| msgid "Your message has been sent."
+msgid "Your message was rejected"
+msgstr "Votre message a été envoyé."
+
 #: ../../cmd/web/qtutils/flashnotices.qtpl:370
 #, fuzzy
 msgid "Your message will be sent when it's approved by the moderators."
@@ -24674,6 +26291,11 @@ msgstr ""
 msgid "Your password has been updated."
 msgstr "Votre mot de passe a été mis à jour."
 
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:71
+#, fuzzy
+msgid "Your pending membership in the %s group"
+msgstr "S'abonner au calendrier"
+
 #: ../../cmd/web/views/account/groupeditprofile.qtpl:131
 #, fuzzy
 msgid ""
@@ -24712,6 +26334,11 @@ msgstr "Caractéristiques de votre groupe"
 msgid "Your poll will be created when it's approved by the moderators."
 msgstr ""
 "Votre sondage sera créé lorsqu'il aura été approuvé par les modérateurs."
+
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:82
+#, fuzzy
+msgid "Your position on the waitlist for the %s event has changed."
+msgstr "Votre position sur la liste d'attente pour l'événement %s a changé."
 
 #: ../../cmd/web/qtutils/usersidebar.qtpl:72
 #: ../../cmd/web/qtutils/usersidebar.qtpl:74
@@ -24763,6 +26390,17 @@ msgstr ""
 msgid "Your RSVP has been saved."
 msgstr "Caractéristiques de votre groupe"
 
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:124
+#, fuzzy
+msgid "Your RSVP to the %s event"
+msgstr "Caractéristiques de votre groupe"
+
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:122
+#: ../../pkg/rsvputils/rsvpchanged.qtpl:147
+#, fuzzy
+msgid "Your RSVP to the %s event has been changed"
+msgstr "Caractéristiques de votre groupe"
+
 #: ../../cmd/web/views/account/account.qtpl:488
 #, fuzzy
 msgid ""
@@ -24776,6 +26414,10 @@ msgstr ""
 #, fuzzy
 msgid "Your sponsorship has been processed."
 msgstr "Votre parrainage a été traité."
+
+#: ../../pkg/emailfooters/htmlfooter.qtpl:95
+msgid "Your Subscription"
+msgstr "Votre abonnement"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:298
 #, fuzzy
@@ -24796,9 +26438,20 @@ msgstr ""
 "Votre inscription au groupe <a href=\"%[1]s\">%[2]s</a> est en attente de "
 "l'approbation du modérateur."
 
+#: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:77
+#, fuzzy
+msgid "Your subscription was not approved"
+msgstr "Cet abonnement est en attente."
+
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:58
 msgid "Your Subscriptions"
 msgstr "Vos abonnements"
+
+#: ../../pkg/rsvputils/waitlistupdate.qtpl:60
+#, fuzzy
+#| msgid "You must specify a name."
+msgid "Your waitlist position has changed for the %s event"
+msgstr "Vous devez définir un nom."
 
 #: ../../cmd/web/views/account/account.qtpl:551
 #: ../../cmd/web/views/account/account.qtpl:700
@@ -24806,7 +26459,7 @@ msgstr "Vos abonnements"
 msgid "Your website."
 msgstr "Votre site internet."
 
-#: ../../cmd/web/views/account/account.qtpl:1205
+#: ../../cmd/web/views/account/account.qtpl:1236
 #, fuzzy
 msgid ""
 "Your Zoom account is connected to your Groups.io account. Now, when you "
@@ -24818,7 +26471,7 @@ msgstr ""
 "également\n"
 "\t\t\t\t\t\tcréer une réunion Zoom en même temps."
 
-#: ../../cmd/web/views/user/enterprise.qtpl:160
+#: ../../cmd/web/views/user/enterprise.qtpl:193
 #, fuzzy
 msgid "YourMembership Client ID"
 msgstr "ID client de YourMembership"
@@ -24848,7 +26501,7 @@ msgstr "Code postal"
 msgid "Zoom Calendar Integration"
 msgstr "Intégration"
 
-#: ../../cmd/web/views/account/account.qtpl:1200
+#: ../../cmd/web/views/account/account.qtpl:1231
 #, fuzzy
 msgid ""
 "Zoom integration allows the easy creation of new Zoom meetings when creating "
@@ -24869,6 +26522,6 @@ msgstr ""
 "ce qui facilite la suppression et la recréation éventuelle de la réunion "
 "Zoom en cas de modification de l'événement."
 
-#: ../../cmd/web/views/account/account.qtpl:1191
+#: ../../cmd/web/views/account/account.qtpl:1222
 msgid "Zoom Login"
 msgstr "Zoom Login"

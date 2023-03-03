@@ -33,6 +33,7 @@ Here is a table of language code to language name, in alphabetical order, along 
 | Language code | Language name | Native name | Status |
 | --- | --- | --- | :---: |
 | `en` (default) | English | English | ✅ |
+| `de` | German | Deutsch | 🚧 |
 | `es` | Spanish | Español | 🚧 |
 | `fr` | French | français | 🚧 |
 | `it` | Italian | Italiano | 🚧 |
