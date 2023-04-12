@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2023-04-07 15:39-0700\n"
+"PO-Revision-Date: 2023-04-12 15:25-0700\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: it\n"
@@ -1821,7 +1821,7 @@ msgid "(no subject)"
 msgstr "(senza soggetto)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:232
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1865
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1868
 #, fuzzy
 msgid "(Please Select a Country)"
 msgstr "(Selezionare un paese)"
@@ -2000,6 +2000,38 @@ msgid ""
 msgstr ""
 "<a href=\"/static/features\">Potenti funzioni</a> che rendono i gruppi più "
 "utili."
+
+#: ../../cmd/web/views/static/statictranslations.qtpl:46
+#, fuzzy
+msgid ""
+"<h3>Language Support in Beta</h3> <p> Thank you for using our language "
+"support feature! Please note that our different language support is "
+"currently in beta. We would greatly appreciate your help in fixing any "
+"translation issues you may encounter. </p> <p> If you find any "
+"mistranslations, please send an email to <a href=\"mailto:support@groups."
+"io\">support@groups.io</a> with the following information: </p> <ul> <li>The "
+"URL where you saw the mistranslation</li> <li>A description of the "
+"mistranslation</li> <li>The correct text that should be displayed</li> </ul> "
+"<p> If you are interested in contributing to our internationalization "
+"effort, please join the I18N group at <a href=\"https://beta.groups.io/g/"
+"i18n\" target=\"_blank\">https://beta.groups.io/g/i18n</a>. </p> <p> Thank "
+"you for your support and understanding as we work to improve our language "
+"support! </p>"
+msgstr ""
+"<h3>Supporto linguistico in Beta</h3> <p> Grazie per aver utilizzato la "
+"nostra funzione di supporto linguistico! Si prega di notare che il nostro "
+"supporto per le diverse lingue è attualmente in fase beta. Apprezzeremmo "
+"molto il vostro aiuto per risolvere eventuali problemi di traduzione che "
+"potreste incontrare. </p> <p> Se riscontrate errori di traduzione, inviate "
+"un'e-mail a <a href=\"mailto:support@groups.io\">support@groups.io</a> con "
+"le seguenti informazioni: </p> <ul> <li>L'URL in cui avete riscontrato "
+"l'errore di traduzione</li> <li>Una descrizione dell'errore di traduzione</"
+"li> <li>Il testo corretto che dovrebbe essere visualizzato</li> </ul> <p> Se "
+"siete interessati a contribuire al nostro sforzo di internazionalizzazione, "
+"unitevi al gruppo I18N all'indirizzo <a href=\"https://beta.groups.io/g/"
+"i18n\" target=\"_blank\">https://beta.groups.io/g/i18n</a>. </p> <p> Grazie "
+"per il vostro sostegno e la vostra comprensione mentre lavoriamo per "
+"migliorare il nostro supporto linguistico! </p>"
 
 #: ../../pkg/notifications/noteviews/spamresubemail.qtpl:105
 #, fuzzy
@@ -2385,7 +2417,7 @@ msgstr ""
 "[%[1]s] Commento aggiornato dalla scheda<a href=\"%[2]s\">\"%[3]s</a>\" di "
 "%[4]s."
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2746
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2749
 #, fuzzy
 msgid "[Map]"
 msgstr "Vista Mappa"
@@ -2698,14 +2730,14 @@ msgstr "Risponditori effettivi:"
 
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:99
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:59
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:540
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:615
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:661
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1065
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1129
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1193
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1257
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1321
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:542
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:617
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:663
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1067
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1131
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1195
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1259
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1323
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:142
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl:144
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl:225
@@ -2715,8 +2747,8 @@ msgstr "Risponditori effettivi:"
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:297
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:480
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:517
-#: ../../cmd/web/qtutils/editor.qtpl:1471
-#: ../../cmd/web/qtutils/editor.qtpl:1504
+#: ../../cmd/web/qtutils/editor.qtpl:1539
+#: ../../cmd/web/qtutils/editor.qtpl:1572
 msgid "Add"
 msgstr "Aggiungi"
 
@@ -3188,7 +3220,7 @@ msgid "Additional Payment Information"
 msgstr "Informazioni aggiuntive sul pagamento"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:140
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1810
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1813
 msgid "Address"
 msgstr "Indirizzo"
 
@@ -3221,7 +3253,7 @@ msgid "Advanced Settings For Email Aliases"
 msgstr "Impostazioni avanzate per gli alias e-mail"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:235
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1868
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1871
 msgid "Afghanistan"
 msgstr "Afghanistan"
 
@@ -3242,7 +3274,7 @@ msgstr ""
 "che potrete inserire qui:"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:238
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1871
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1874
 msgid "Albania"
 msgstr "Albania"
 
@@ -3265,7 +3297,7 @@ msgid "Album Title"
 msgstr "Titolo dell'album"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:241
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1874
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1877
 msgid "Algeria"
 msgstr "Algeria"
 
@@ -3606,9 +3638,6 @@ msgstr ""
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:651
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:652
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:653
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1680
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1681
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1682
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1683
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1684
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1685
@@ -3630,11 +3659,14 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1701
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1702
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1703
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1704
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1705
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1706
 msgid "am"
 msgstr "am"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:244
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1877
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1880
 msgid "American Samoa"
 msgstr "Samoa Americane"
 
@@ -3763,17 +3795,17 @@ msgid "And we're adding more integrations all the time."
 msgstr "E aggiungiamo continuamente altre integrazioni."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:247
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1880
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1883
 msgid "Andorra"
 msgstr "Andorra"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:250
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1883
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1886
 msgid "Angola"
 msgstr "Angola"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:253
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1886
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1889
 msgid "Anguilla"
 msgstr "Anguilla"
 
@@ -3801,12 +3833,12 @@ msgid "Answers"
 msgstr "Risposte"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:256
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1889
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1892
 msgid "Antarctica"
 msgstr "Antartide"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:259
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1892
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1895
 msgid "Antigua and Barbuda"
 msgstr "Antigua e Barbuda"
 
@@ -3821,8 +3853,8 @@ msgstr "Rosa antico"
 msgid "Any"
 msgstr "Qualsiasi"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:519
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:725
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:521
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:727
 #, fuzzy
 msgid "Any group member can add files to this folder"
 msgstr "Ogni membro del gruppo può aggiungere file a questa cartella"
@@ -4005,7 +4037,7 @@ msgstr "Approvare i messaggi in sospeso"
 #: ../../cmd/web/views/user/activity.qtpl:1039
 #: ../../cmd/web/qtutils/searchfilter.qtpl:280
 #: ../../cmd/web/qtutils/searchfilter.qtpl:475
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1571
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1574
 msgid "Apr"
 msgstr "Apr"
 
@@ -4027,7 +4059,7 @@ msgstr "Albicocca"
 #: ../../cmd/web/views/user/activity.qtpl:952
 #: ../../cmd/web/qtutils/searchfilter.qtpl:193
 #: ../../cmd/web/qtutils/searchfilter.qtpl:388
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1484
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1487
 msgid "April"
 msgstr "Aprile"
 
@@ -4527,17 +4559,17 @@ msgstr ""
 "da tutti i sottogruppi di cui sei membro."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:262
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1895
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1898
 msgid "Argentina"
 msgstr "Argentina"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:265
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1898
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1901
 msgid "Armenia"
 msgstr "Armenia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:268
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1901
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1904
 msgid "Aruba"
 msgstr "Aruba"
 
@@ -4562,7 +4594,7 @@ msgstr ""
 "La comunicazione asincrona significa più tempo dedicato alla soluzione dei "
 "problemi."
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1436
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1439
 #, fuzzy
 msgid "At least one answer is required."
 msgstr "È richiesta almeno una risposta."
@@ -4689,7 +4721,7 @@ msgstr "Audio"
 #: ../../cmd/web/views/user/activity.qtpl:1059
 #: ../../cmd/web/qtutils/searchfilter.qtpl:300
 #: ../../cmd/web/qtutils/searchfilter.qtpl:495
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1591
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1594
 msgid "Aug"
 msgstr "Ago"
 
@@ -4706,17 +4738,17 @@ msgstr "Ago"
 #: ../../cmd/web/views/user/activity.qtpl:964
 #: ../../cmd/web/qtutils/searchfilter.qtpl:205
 #: ../../cmd/web/qtutils/searchfilter.qtpl:400
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1496
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1499
 msgid "August"
 msgstr "Agosto"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:271
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1904
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1907
 msgid "Australia"
 msgstr "Australia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:274
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1907
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1910
 msgid "Austria"
 msgstr "Austria"
 
@@ -4899,7 +4931,7 @@ msgid "Avoid email overload."
 msgstr "Evitare il sovraccarico di e-mail."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:277
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1910
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1913
 #, fuzzy
 msgid "Azerbaijan"
 msgstr "Azerbaigian"
@@ -4914,12 +4946,12 @@ msgid "Bad Addresses"
 msgstr "Indirizzi errati"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:280
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1913
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1916
 msgid "Bahamas"
 msgstr "Bahamas"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:283
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1916
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1919
 msgid "Bahrain"
 msgstr "Bahrein"
 
@@ -4966,7 +4998,7 @@ msgid "Ban User"
 msgstr "Ban User"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:286
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1919
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1922
 msgid "Bangladesh"
 msgstr "Bangladesh"
 
@@ -5030,7 +5062,7 @@ msgid "Banned user %[1]s changed email address from %[2]s to %[3]s"
 msgstr "%[1]s ha cambiato l'indirizzo e-mail da %[2]s a %[3]s"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:289
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1922
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1925
 msgid "Barbados"
 msgstr "Barbados"
 
@@ -5150,27 +5182,27 @@ msgid "Beige"
 msgstr "Beige"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:292
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1925
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1928
 msgid "Belarus"
 msgstr "Bielorussia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:295
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1928
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1931
 msgid "Belgium"
 msgstr "Belgio"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:298
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1931
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1934
 msgid "Belize"
 msgstr "Belize"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:301
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1934
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1937
 msgid "Benin"
 msgstr "Benin"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:304
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1937
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1940
 msgid "Bermuda"
 msgstr "Bermuda"
 
@@ -5188,7 +5220,7 @@ msgid "Between"
 msgstr "Tra"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:307
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1940
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1943
 msgid "Bhutan"
 msgstr "Bhutan"
 
@@ -5238,12 +5270,12 @@ msgid "Boards And Lists"
 msgstr "Schede ed elenchi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:310
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1943
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1946
 msgid "Bolivia"
 msgstr "Bolivia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:313
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1946
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1949
 msgid "Bosnia and Herzegowina"
 msgstr "Bosnia ed Erzegovina"
 
@@ -5252,7 +5284,7 @@ msgid "Both"
 msgstr "Entrambi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:316
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1949
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1952
 msgid "Botswana"
 msgstr "Botswana"
 
@@ -5310,16 +5342,16 @@ msgstr ""
 "Il membro rimbalzante %[1]s ha tentato di inviare il messaggio \"%[2]s\""
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:319
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1952
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1955
 msgid "Bouvet Island"
 msgstr "Isola Bouvet"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:424
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:426
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:231
 msgid "Box"
 msgstr "Box"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1167
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1169
 #, fuzzy
 msgid "Box URL"
 msgstr "URL della scatola"
@@ -5341,12 +5373,12 @@ msgid "Branches and Tags"
 msgstr "Rami e tag"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:322
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1955
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1958
 msgid "Brazil"
 msgstr "Brasile"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:325
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1958
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1961
 msgid "British Indian Ocean Territory"
 msgstr "Territorio Britannico dell'Oceano Indiano"
 
@@ -5361,13 +5393,13 @@ msgid "Browse"
 msgstr "Sfoglia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:328
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1961
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1964
 #, fuzzy
 msgid "Brunei Darussalam"
 msgstr "Brunei Darussalam"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:331
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1964
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1967
 msgid "Bulgaria"
 msgstr "Bulgaria"
 
@@ -5393,7 +5425,7 @@ msgid "Bulk Remove Members"
 msgstr "Rimuovere in blocco i membri"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:334
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1967
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1970
 msgid "Burkina Faso"
 msgstr "Burkina Faso"
 
@@ -5403,7 +5435,7 @@ msgid "Burnt Yellow"
 msgstr "Giallo bruciato"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:337
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1970
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1973
 msgid "Burundi"
 msgstr "Burundi"
 
@@ -5577,17 +5609,17 @@ msgid "Calendar Sync"
 msgstr "Sincronizzazione del calendario"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:340
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1973
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1976
 msgid "Cambodia"
 msgstr "Cambogia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:343
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1976
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1979
 msgid "Cameroon"
 msgstr "Camerun"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:346
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1979
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1982
 msgid "Canada"
 msgstr "Canada"
 
@@ -5668,21 +5700,21 @@ msgstr "Canada"
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:163
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:196
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:386
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:222
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:536
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:570
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:611
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:657
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:736
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:800
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:852
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:897
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:971
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1061
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1125
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1189
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1253
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1317
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:224
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:538
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:572
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:613
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:659
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:738
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:802
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:854
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:899
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:973
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1063
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1127
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1191
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1255
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1319
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:315
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:351
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:384
@@ -5759,8 +5791,8 @@ msgstr "Canada"
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:340
 #: ../../cmd/web/views/user/groups.qtpl:271
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:266
-#: ../../cmd/web/qtutils/dialog.qtpl:46 ../../cmd/web/qtutils/editor.qtpl:1467
-#: ../../cmd/web/qtutils/editor.qtpl:1500
+#: ../../cmd/web/qtutils/dialog.qtpl:46 ../../cmd/web/qtutils/editor.qtpl:1535
+#: ../../cmd/web/qtutils/editor.qtpl:1568
 #: ../../cmd/web/qtutils/messagelib.qtpl:864
 #: ../../cmd/web/qtutils/messagereports.qtpl:66
 #: ../../cmd/web/qtutils/messagereports.qtpl:164
@@ -5847,7 +5879,7 @@ msgid "Cannot contain spaces, pluses, slashes, periods, or underscores."
 msgstr "Non può contenere spazi, più, barre, punti o trattini bassi."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:349
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1982
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1985
 msgid "Cape Verde"
 msgstr "Capo Verde"
 
@@ -5900,12 +5932,12 @@ msgid "Categories"
 msgstr "Categorie"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:352
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1985
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1988
 msgid "Cayman Islands"
 msgstr "Isole Cayman"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:355
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1988
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1991
 #, fuzzy
 msgid "Central African Republic"
 msgstr "Repubblica Centroafricana"
@@ -5916,7 +5948,7 @@ msgid "Cerulean Blue"
 msgstr "Blu ceruleo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:358
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1991
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1994
 msgid "Chad"
 msgstr "Ciad"
 
@@ -6317,12 +6349,12 @@ msgid "Cherry Blossom"
 msgstr "Fiori di ciliegio"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:361
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1994
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1997
 msgid "Chile"
 msgstr "Cile"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:364
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1997
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2000
 msgid "China"
 msgstr "Cina"
 
@@ -6331,11 +6363,11 @@ msgid "Choices"
 msgstr "Scelte"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:367
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2000
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2003
 msgid "Christmas Island"
 msgstr "Isola di Natale"
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1822
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1825
 msgid "City"
 msgstr "Città"
 
@@ -6499,21 +6531,21 @@ msgstr "Client Secret fornito dal provider SSO."
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:150
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:183
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:373
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:199
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:501
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:557
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:590
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:636
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:701
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:762
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:826
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:878
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:924
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:997
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1086
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1150
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1214
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1278
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:201
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:503
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:559
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:592
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:638
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:703
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:764
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:828
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:880
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:926
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:999
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1088
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1152
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1216
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1280
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:299
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:335
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:371
@@ -6665,7 +6697,7 @@ msgid "Cloudy Blue"
 msgstr "Blu nuvoloso"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:370
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2003
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2006
 msgid "Cocos (Keeling) Islands"
 msgstr "Isole Cocos (Keeling)"
 
@@ -6685,7 +6717,7 @@ msgid "Collapse Topics"
 msgstr "Argomenti al collasso"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:373
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2006
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2009
 msgid "Colombia"
 msgstr "Colombia"
 
@@ -6721,7 +6753,7 @@ msgid "Commit Events"
 msgstr "Impegno Eventi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:376
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2009
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2012
 msgid "Comoros"
 msgstr "Comore"
 
@@ -6834,12 +6866,12 @@ msgid "Confirmed account"
 msgstr "Confermare l'account"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:379
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2012
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2015
 msgid "Congo"
 msgstr "Congo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:382
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2015
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2018
 msgid "Congo, the Democratic Republic of the"
 msgstr "Congo"
 
@@ -6906,7 +6938,7 @@ msgid "Continue"
 msgstr "Continua"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:385
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2018
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2021
 msgid "Cook Islands"
 msgstr "Isole di Cook"
 
@@ -6923,16 +6955,16 @@ msgid "Copy/Paste Onto Your Site"
 msgstr "Copia/Incolla sul vostro sito"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:388
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2021
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2024
 msgid "Costa Rica"
 msgstr "Costa Rica"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:391
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2024
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2027
 msgid "Cote d'Ivoire"
 msgstr "Costa d’Avorio"
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1861
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1864
 #, fuzzy
 msgid "Country"
 msgstr "Nazione"
@@ -7086,7 +7118,7 @@ msgstr "Creare riunioni Zoom quando si creano eventi del calendario"
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:112
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:316
 #: ../../cmd/web/views/groupdonations/groupviewdonations.qtpl:85
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:316
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:318
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:134
 #: ../../cmd/web/views/groupintegrations/groupemailintegrations.qtpl:78
 #: ../../cmd/web/views/groupintegrations/groupfeedintegrations.qtpl:76
@@ -7143,7 +7175,7 @@ msgid "Credit Or Debit Card"
 msgstr "Carta di credito o di debito"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:394
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2027
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2030
 msgid "Croatia (Hrvatska)"
 msgstr "Croazia (Hrvatska)"
 
@@ -7154,7 +7186,7 @@ msgid "CSV Format"
 msgstr "Formato CSV"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:397
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2030
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2033
 msgid "Cuba"
 msgstr "Cuba"
 
@@ -7231,12 +7263,12 @@ msgid "Customize Message"
 msgstr "Personalizzare il messaggio"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:400
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2033
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2036
 msgid "Cyprus"
 msgstr "Cipro"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:403
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2036
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2039
 msgid "Czech Republic"
 msgstr "Repubblica Ceca"
 
@@ -7417,7 +7449,7 @@ msgstr "Giorni"
 #: ../../cmd/web/views/user/activity.qtpl:1079
 #: ../../cmd/web/qtutils/searchfilter.qtpl:320
 #: ../../cmd/web/qtutils/searchfilter.qtpl:515
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1611
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1614
 msgid "Dec"
 msgstr "Dic"
 
@@ -7434,7 +7466,7 @@ msgstr "Dic"
 #: ../../cmd/web/views/user/activity.qtpl:976
 #: ../../cmd/web/qtutils/searchfilter.qtpl:217
 #: ../../cmd/web/qtutils/searchfilter.qtpl:412
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1508
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1511
 msgid "December"
 msgstr "Dicembre"
 
@@ -7486,8 +7518,8 @@ msgstr "Differito"
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:261
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:94
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:147
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:395
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:398
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:397
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:400
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:202
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:205
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:375
@@ -7605,7 +7637,7 @@ msgstr "Cancellare le righe"
 msgid "Delete Table"
 msgstr "Cancellare la tabella"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:886
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:888
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:379
 #, fuzzy
 msgid "Delete this <span class=\"action\">Action</span>?"
@@ -7966,7 +7998,7 @@ msgid "Delivery"
 msgstr "Consegna"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:406
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2039
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2042
 msgid "Denmark"
 msgstr "Danimarca"
 
@@ -7976,17 +8008,17 @@ msgstr "Danimarca"
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:191
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:110
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl:100
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:511
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:599
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:645
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:711
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:786
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:840
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1045
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1109
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1173
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1237
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1301
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:513
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:601
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:647
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:713
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:788
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:842
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1047
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1111
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1175
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1239
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1303
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:309
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:345
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:121
@@ -7995,7 +8027,7 @@ msgstr "Danimarca"
 #: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl:128
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:167
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:155
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2629
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2632
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl:155
 #: ../../pkg/notifications/noteviews/filenotification.qtpl:131
 msgid "Description"
@@ -8058,7 +8090,7 @@ msgstr "Riassunto"
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:318
 #, fuzzy
 msgid "Digest #"
-msgstr "Digest #"
+msgstr "Riassunto"
 
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl:115
 #, fuzzy
@@ -8256,7 +8288,7 @@ msgstr ""
 "Visualizzare la propria home page quando i non membri visitano il gruppo."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:409
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2042
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2045
 msgid "Djibouti"
 msgstr "Gibuti"
 
@@ -8312,7 +8344,7 @@ msgstr ""
 "<strong>%[1]s</strong> saranno spostate sul vostro account e l'account di "
 "<strong>%[1]s</strong> sarà cancellato."
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1026
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1028
 msgid "Doc"
 msgstr "Istruzione"
 
@@ -8335,12 +8367,12 @@ msgid "Domains"
 msgstr "Domini"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:412
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2045
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2048
 msgid "Dominica"
 msgstr "Dominica"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:415
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2048
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2051
 msgid "Dominican Republic"
 msgstr "Repubblica Dominicana"
 
@@ -8449,8 +8481,8 @@ msgstr "Donazioni"
 
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:166
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:193
-#: ../../cmd/web/qtutils/editor.qtpl:1454
-#: ../../cmd/web/qtutils/editor.qtpl:1487
+#: ../../cmd/web/qtutils/editor.qtpl:1522
+#: ../../cmd/web/qtutils/editor.qtpl:1555
 msgid "Done"
 msgstr "Fatto"
 
@@ -8509,7 +8541,7 @@ msgstr "Bozze"
 msgid "Drop Google and Facebook Groups and Use This Instead"
 msgstr "Abbandonate i gruppi di Google e Facebook e usate invece questo"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:422
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:424
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:229
 msgid "Dropbox"
 msgstr "Dropbox"
@@ -8519,7 +8551,7 @@ msgstr "Dropbox"
 msgid "Dropbox for teams"
 msgstr "Dropbox per i team"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1103
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1105
 msgid "Dropbox URL"
 msgstr "URL Dropbox"
 
@@ -8595,7 +8627,7 @@ msgstr ""
 "altri servizi nel vostro gruppo premium."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:418
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2051
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2054
 msgid "East Timor"
 msgstr "Timor Est"
 
@@ -8605,7 +8637,7 @@ msgid "Easy Group Transfer"
 msgstr "Facile trasferimento di gruppo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:421
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2054
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2057
 msgid "Ecuador"
 msgstr "Ecuador"
 
@@ -8932,12 +8964,12 @@ msgid "Editor Preference"
 msgstr "Preferenze dell'editor"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:424
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2057
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2060
 msgid "Egypt"
 msgstr "Egitto"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:427
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2060
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2063
 msgid "El Salvador"
 msgstr "El Salvador"
 
@@ -9390,12 +9422,12 @@ msgid "Enterprise Yearly"
 msgstr "Impresa Annuale"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:430
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2063
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2066
 msgid "Equatorial Guinea"
 msgstr "Guinea Equatoriale"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:433
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2066
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2069
 msgid "Eritrea"
 msgstr "Eritrea"
 
@@ -9411,12 +9443,12 @@ msgid "ERROR: You have clicked on an invite link intended for someone else."
 msgstr "ERRORE: avete cliccato su un link di invito destinato a qualcun altro."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:436
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2069
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2072
 msgid "Estonia"
 msgstr "Estonia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:439
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2072
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2075
 msgid "Ethiopia"
 msgstr "Etiopia"
 
@@ -9697,12 +9729,12 @@ msgid "Failed"
 msgstr "Fallito"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:442
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2075
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2078
 msgid "Falkland Islands (Malvinas)"
 msgstr "Isole Falkland (Malvine)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:445
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2078
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2081
 msgid "Faroe Islands"
 msgstr "Isole Faroe"
 
@@ -9738,7 +9770,7 @@ msgstr "Caratteristiche"
 #: ../../cmd/web/views/user/activity.qtpl:1029
 #: ../../cmd/web/qtutils/searchfilter.qtpl:270
 #: ../../cmd/web/qtutils/searchfilter.qtpl:465
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1561
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1564
 msgid "Feb"
 msgstr "Feb"
 
@@ -9755,7 +9787,7 @@ msgstr "Feb"
 #: ../../cmd/web/views/user/activity.qtpl:946
 #: ../../cmd/web/qtutils/searchfilter.qtpl:187
 #: ../../cmd/web/qtutils/searchfilter.qtpl:382
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1478
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1481
 msgid "February"
 msgstr "Febbraio"
 
@@ -9799,11 +9831,11 @@ msgid "FF"
 msgstr "FF"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:448
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2081
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2084
 msgid "Fiji"
 msgstr "Isole Figi"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:443
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:445
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:250
 msgid "File"
 msgstr "File"
@@ -9836,7 +9868,7 @@ msgstr[1] "%#[1]d file caricati"
 msgid "File Has Header Line"
 msgstr "Il file ha una riga di intestazione"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:838
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:840
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:343
 msgid "File Name"
 msgstr "Nome File"
@@ -9867,10 +9899,10 @@ msgstr "Membri della sincronizzazione dei file"
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:585
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:1105
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:102
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:80
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:169
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:336
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:342
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:82
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:171
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:338
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:344
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:42
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:109
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:153
@@ -9929,7 +9961,7 @@ msgid "Find or Create a Group"
 msgstr "Trovare o creare un gruppo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:451
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2084
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2087
 msgid "Finland"
 msgstr "Finlandia"
 
@@ -9947,13 +9979,13 @@ msgstr "Anche il primo messaggio"
 msgid "Focal Length"
 msgstr "Lunghezza focale"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:418
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:420
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:225
 msgid "Folder"
 msgstr "Cartella"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:509
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:709
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:511
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:711
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:307
 msgid "Folder Name"
 msgstr "Nome della Cartella"
@@ -10137,17 +10169,17 @@ msgstr "Opzioni form"
 #: ../../cmd/web/views/user/activity.qtpl:1001
 #: ../../cmd/web/qtutils/searchfilter.qtpl:242
 #: ../../cmd/web/qtutils/searchfilter.qtpl:437
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1533
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1536
 msgid "Fr"
 msgstr "Vi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:454
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2087
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2090
 msgid "France"
 msgstr "Francia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:457
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2090
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2093
 msgid "France, Metropolitan"
 msgstr "Francia Metropolitana"
 
@@ -10179,17 +10211,17 @@ msgid "French"
 msgstr "Francese"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:460
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2093
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2096
 msgid "French Guiana"
 msgstr "Guiana Francese"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:463
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2096
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2099
 msgid "French Polynesia"
 msgstr "Polinesia Francese"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:466
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2099
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2102
 msgid "French Southern Territories"
 msgstr "Territori Francesi Meridionali"
 
@@ -10248,7 +10280,7 @@ msgid "G Suite: Docs, Calendar"
 msgstr "G Suite: Documenti, Calendario"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:469
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2102
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2105
 msgid "Gabon"
 msgstr "Gabon"
 
@@ -10261,7 +10293,7 @@ msgid "Gallery View"
 msgstr "Vista della galleria"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:472
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2105
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2108
 msgid "Gambia"
 msgstr "Gambia"
 
@@ -10284,14 +10316,14 @@ msgstr "Generare l'esportazione"
 msgid "Generate New Recovery Codes"
 msgstr "Generare nuovi codici di recupero"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:292
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1283
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:294
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1285
 #, fuzzy
 msgid "Generic Link"
 msgstr "Collegamento generico"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:475
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2108
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2111
 msgid "Georgia"
 msgstr "Georgia"
 
@@ -10302,7 +10334,7 @@ msgid "German"
 msgstr "Tedesco (Deutsche)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:478
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2111
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2114
 msgid "Germany"
 msgstr "Germania"
 
@@ -10312,12 +10344,12 @@ msgid "Get the word out on social media!"
 msgstr "Diffondete la notizia sui social media!"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:481
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2114
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2117
 msgid "Ghana"
 msgstr "Ghana"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:484
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2117
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2120
 msgid "Gibraltar"
 msgstr "Gibilterra"
 
@@ -10373,7 +10405,7 @@ msgstr "Codice Google Analytics"
 msgid "Google Analytics Javascript"
 msgstr "Google Analytics Javascript"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:420
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:422
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:227
 msgid "Google Drive"
 msgstr "Google Drive"
@@ -10384,7 +10416,7 @@ msgstr "Google Drive"
 msgid "Google Drive Integration"
 msgstr "Integrazione di Google Drive"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1014
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1016
 #, fuzzy
 msgid "Google Drive URL"
 msgstr "URL di Google Drive"
@@ -10394,7 +10426,7 @@ msgid "Grape"
 msgstr "Uva"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:487
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2120
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2123
 msgid "Greece"
 msgstr "Grecia"
 
@@ -10409,12 +10441,12 @@ msgid "Green Sage"
 msgstr "Salvia verde"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:490
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2123
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2126
 msgid "Greenland"
 msgstr "Groenlandia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:493
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2126
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2129
 msgid "Grenada"
 msgstr "Grenada"
 
@@ -10894,18 +10926,18 @@ msgid "Groupsio, Inc<br>3130 Alpine Rd #288-263<br>Portola Valley, CA 94028"
 msgstr "Groupsio, Inc<br>3130 Alpine Rd #288-263<br>Portola Valley, CA 94028"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:496
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2129
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2132
 #, fuzzy
 msgid "Guadeloupe"
 msgstr "Guadalupa"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:499
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2132
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2135
 msgid "Guam"
 msgstr "Guam"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:502
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2135
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2138
 msgid "Guatemala"
 msgstr "Guatemala"
 
@@ -10935,22 +10967,22 @@ msgid "Guidelines Sent"
 msgstr "Linee guida"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:505
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2138
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2141
 msgid "Guinea"
 msgstr "Guinea"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:508
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2141
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2144
 msgid "Guinea-Bissau"
 msgstr "Guinea-Bissau"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:511
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2144
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2147
 msgid "Guyana"
 msgstr "Guyana"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:514
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2147
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2150
 msgid "Haiti"
 msgstr "Haiti"
 
@@ -11054,7 +11086,7 @@ msgstr ""
 "g/beta\">Betagroup</a>, dove discutiamo delle funzionalità in arrivo."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:517
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2150
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2153
 msgid "Heard and Mc Donald Islands"
 msgstr "Isole Heard e Mc Donald"
 
@@ -11163,7 +11195,7 @@ msgid "History"
 msgstr "Cronologia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:520
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2153
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2156
 msgid "Holy See (Vatican City State)"
 msgstr "Santa Sede (Stato della Città del Vaticano)"
 
@@ -11174,12 +11206,12 @@ msgid "Home"
 msgstr "Home"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:523
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2156
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2159
 msgid "Honduras"
 msgstr "Honduras"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:526
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2159
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2162
 msgid "Hong Kong"
 msgstr "Hong Kong"
 
@@ -11339,7 +11371,7 @@ msgid "HTML Paragraph"
 msgstr "Paragrafo HTML"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:529
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2162
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2165
 msgid "Hungary"
 msgstr "Ungheria"
 
@@ -11407,7 +11439,7 @@ msgstr ""
 "o falsa rappresentazione, frode o phishing."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:532
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2165
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2168
 msgid "Iceland"
 msgstr "Islanda"
 
@@ -11822,8 +11854,8 @@ msgstr ""
 msgid "If your app is unavailable, use a backup code."
 msgstr "Se la vostra app non è disponibile, utilizzate un codice di backup."
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:430
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:437
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:432
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:439
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:237
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:244
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:146
@@ -12067,7 +12099,7 @@ msgid "Index"
 msgstr "Indice"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:535
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2168
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2171
 msgid "India"
 msgstr "India"
 
@@ -12109,7 +12141,7 @@ msgid "individual messages"
 msgstr "Messaggi individuali"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:538
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2171
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2174
 msgid "Indonesia"
 msgstr "Indonesia"
 
@@ -12132,7 +12164,7 @@ msgstr "Messaggio iniziale"
 msgid "Insert"
 msgstr "Inserisci"
 
-#: ../../cmd/web/qtutils/editor.qtpl:1491
+#: ../../cmd/web/qtutils/editor.qtpl:1559
 #, fuzzy
 msgid "Insert Images"
 msgstr "Inserire le immagini"
@@ -12347,17 +12379,17 @@ msgid "Invoiced"
 msgstr "Fatturato"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:541
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2174
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2177
 msgid "Iran (Islamic Republic of)"
 msgstr "Iran (Repubblica Islamica di)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:544
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2177
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2180
 msgid "Iraq"
 msgstr "Iraq"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:547
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2180
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2183
 msgid "Ireland"
 msgstr "Irlanda"
 
@@ -12382,7 +12414,7 @@ msgid "ISO"
 msgstr "ISO"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:550
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2183
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2186
 msgid "Israel"
 msgstr "Israele"
 
@@ -12455,7 +12487,7 @@ msgid "Italian"
 msgstr "Italiano"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:553
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2186
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2189
 #, fuzzy
 msgid "Italy"
 msgstr "Italia"
@@ -12465,7 +12497,7 @@ msgid "Items Per Page"
 msgstr "Prodotti per pagina"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:556
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2189
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2192
 msgid "Jamaica"
 msgstr "Giamaica"
 
@@ -12483,7 +12515,7 @@ msgstr "Giamaica"
 #: ../../cmd/web/views/user/activity.qtpl:1024
 #: ../../cmd/web/qtutils/searchfilter.qtpl:265
 #: ../../cmd/web/qtutils/searchfilter.qtpl:460
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1556
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1559
 msgid "Jan"
 msgstr "Gen"
 
@@ -12500,12 +12532,12 @@ msgstr "Gen"
 #: ../../cmd/web/views/user/activity.qtpl:943
 #: ../../cmd/web/qtutils/searchfilter.qtpl:184
 #: ../../cmd/web/qtutils/searchfilter.qtpl:379
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1475
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1478
 msgid "January"
 msgstr "Gennaio"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:559
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2192
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2195
 msgid "Japan"
 msgstr "Giappone"
 
@@ -12555,7 +12587,7 @@ msgid "Joined"
 msgstr "Iscritto"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:562
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2195
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2198
 msgid "Jordan"
 msgstr "Giordania"
 
@@ -12579,7 +12611,7 @@ msgstr "Formato JSON"
 #: ../../cmd/web/views/user/activity.qtpl:1054
 #: ../../cmd/web/qtutils/searchfilter.qtpl:295
 #: ../../cmd/web/qtutils/searchfilter.qtpl:490
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1586
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1589
 msgid "Jul"
 msgstr "Lug"
 
@@ -12596,7 +12628,7 @@ msgstr "Lug"
 #: ../../cmd/web/views/user/activity.qtpl:961
 #: ../../cmd/web/qtutils/searchfilter.qtpl:202
 #: ../../cmd/web/qtutils/searchfilter.qtpl:397
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1493
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1496
 msgid "July"
 msgstr "Luglio"
 
@@ -12614,7 +12646,7 @@ msgstr "Luglio"
 #: ../../cmd/web/views/user/activity.qtpl:1049
 #: ../../cmd/web/qtutils/searchfilter.qtpl:290
 #: ../../cmd/web/qtutils/searchfilter.qtpl:485
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1581
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1584
 msgid "Jun"
 msgstr "Giu"
 
@@ -12631,44 +12663,44 @@ msgstr "Giu"
 #: ../../cmd/web/views/user/activity.qtpl:958
 #: ../../cmd/web/qtutils/searchfilter.qtpl:199
 #: ../../cmd/web/qtutils/searchfilter.qtpl:394
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1490
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1493
 msgid "June"
 msgstr "Giugno"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:565
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2198
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2201
 msgid "Kazakhstan"
 msgstr "Kazakistan"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:568
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2201
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2204
 #, fuzzy
 msgid "Kenya"
 msgstr "Kenya"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:571
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2204
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2207
 msgid "Kiribati"
 msgstr "Kiribati"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:574
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2207
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2210
 msgid "Korea, Democratic People's Republic of"
 msgstr "Corea del Nord"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:577
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2210
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2213
 #, fuzzy
 msgid "Korea, Republic of"
 msgstr "Corea (Repubblica di)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:580
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2213
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2216
 msgid "Kuwait"
 msgstr "Kuwait"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:583
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2216
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2219
 msgid "Kyrgyzstan"
 msgstr "Kirghizistan"
 
@@ -12704,15 +12736,25 @@ msgstr "Cancellare il sondaggio"
 msgid "Language Preference"
 msgstr "lingua preferita"
 
-#: ../../cmd/web/views/account/account.qtpl:755
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:232
 #: ../../cmd/web/views/user/enterprise.qtpl:82
 #, fuzzy
 msgid "Language the website and notifications are in."
 msgstr "L'utente dispone delle seguenti sottoscrizioni di notifica:"
 
+#: ../../cmd/web/views/account/account.qtpl:755
+#, fuzzy
+msgid ""
+"Language the website and notifications are in. Please see our <a href=\"/"
+"static/translations\">Language Support</a> page for information on how you "
+"can help."
+msgstr ""
+"Lingua in cui sono redatti il sito web e le notifiche. Per informazioni su "
+"come aiutarci, consultate la pagina del <a href=\"/static/"
+"translations\">Supporto linguistico</a>."
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:586
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2219
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2222
 msgid "Lao People's Democratic Republic"
 msgstr "Laos"
 
@@ -12763,7 +12805,7 @@ msgid "Latest Message"
 msgstr "Ultimo messaggio"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:589
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2222
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2225
 msgid "Latvia"
 msgstr "Lettonia"
 
@@ -12785,7 +12827,7 @@ msgid "Leave Group"
 msgstr "Abbandona il gruppo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:592
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2225
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2228
 msgid "Lebanon"
 msgstr "Libano"
 
@@ -12815,22 +12857,22 @@ msgid "Legacy Enabled"
 msgstr "Legacy abilitato"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:595
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2228
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2231
 msgid "Lesotho"
 msgstr "Lesotho"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:598
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2231
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2234
 msgid "Liberia"
 msgstr "Liberia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:601
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2234
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2237
 msgid "Libyan Arab Jamahiriya"
 msgstr "Libia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:604
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2237
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2240
 msgid "Liechtenstein"
 msgstr "Liechtenstein"
 
@@ -12861,44 +12903,44 @@ msgstr "Mi Piace"
 msgid "Lilac"
 msgstr "Lilla"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:428
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:768
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:430
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:770
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:235
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:143
 msgid "Link"
 msgstr "Link"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1155
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1157
 #, fuzzy
 msgid "Link To A File On Box"
 msgstr "Collegamento a un file su Box"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1091
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1093
 #, fuzzy
 msgid "Link To A File On Dropbox"
 msgstr "Collegamento a un file su Dropbox"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1002
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1004
 #, fuzzy
 msgid "Link To A File On Google Drive"
 msgstr "Collegamento a un file su Google Drive"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1219
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1221
 #, fuzzy
 msgid "Link To A File On OneDrive"
 msgstr "Collegamento a un file su OneDrive"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:280
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:282
 #, fuzzy
 msgid "Link to Box"
 msgstr "Collegamento alla scatola"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:274
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:276
 #, fuzzy
 msgid "Link to Dropbox"
 msgstr "Collegamento a Dropbox"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:268
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:270
 #, fuzzy
 msgid "Link to Google Drive"
 msgstr "Collegamento a Google Drive"
@@ -12908,7 +12950,7 @@ msgstr "Collegamento a Google Drive"
 msgid "Link to log into %s"
 msgstr "Collegamento a Google Drive"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:286
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:288
 #, fuzzy
 msgid "Link to Microsoft OneDrive"
 msgstr "Collegamento a Microsoft OneDrive"
@@ -12986,7 +13028,7 @@ msgid "Listed or Unlisted in Group Directory"
 msgstr "Elencati o non elencati nell'elenco dei gruppi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:607
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2240
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2243
 msgid "Lithuania"
 msgstr "Lituania"
 
@@ -13185,22 +13227,22 @@ msgstr ""
 "l'autenticazione a due fattori abilitata."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:610
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2243
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2246
 msgid "Luxembourg"
 msgstr "Lussemburgo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:613
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2246
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2249
 msgid "Macau"
 msgstr "Macao"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:616
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2249
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2252
 msgid "Macedonia, The Former Yugoslav Republic of"
 msgstr "Repubblica di Macedonia, già Iugoslavia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:619
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2252
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2255
 msgid "Madagascar"
 msgstr "Madagascar"
 
@@ -13249,27 +13291,27 @@ msgid "Make This A Zoom Meeting"
 msgstr "Fate in modo che questa sia una riunione Zoom"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:622
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2255
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2258
 msgid "Malawi"
 msgstr "Malawi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:625
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2258
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2261
 msgid "Malaysia"
 msgstr "Malesia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:628
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2261
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2264
 msgid "Maldives"
 msgstr "Maldive"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:631
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2264
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2267
 msgid "Mali"
 msgstr "Mali"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:634
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2267
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2270
 msgid "Malta"
 msgstr "Malta"
 
@@ -13309,7 +13351,7 @@ msgstr "Vista Mappa"
 #: ../../cmd/web/views/user/activity.qtpl:1034
 #: ../../cmd/web/qtutils/searchfilter.qtpl:275
 #: ../../cmd/web/qtutils/searchfilter.qtpl:470
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1566
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1569
 msgid "Mar"
 msgstr "Mar"
 
@@ -13326,7 +13368,7 @@ msgstr "Mar"
 #: ../../cmd/web/views/user/activity.qtpl:949
 #: ../../cmd/web/qtutils/searchfilter.qtpl:190
 #: ../../cmd/web/qtutils/searchfilter.qtpl:385
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1481
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1484
 msgid "March"
 msgstr "Marzo"
 
@@ -13335,12 +13377,12 @@ msgid "Markdown"
 msgstr "Markdown"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:637
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2270
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2273
 msgid "Marshall Islands"
 msgstr "Isole Marshall"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:640
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2273
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2276
 msgid "Martinique"
 msgstr "Martinica"
 
@@ -13350,12 +13392,12 @@ msgid "Mask email addresses in the web archive"
 msgstr "Mascherare gli indirizzi e-mail nell'archivio web"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:643
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2276
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2279
 msgid "Mauritania"
 msgstr "Mauritania"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:646
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2279
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2282
 msgid "Mauritius"
 msgstr "Mauritius"
 
@@ -13481,8 +13523,8 @@ msgstr ""
 #: ../../cmd/web/qtutils/searchfilter.qtpl:285
 #: ../../cmd/web/qtutils/searchfilter.qtpl:391
 #: ../../cmd/web/qtutils/searchfilter.qtpl:480
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1487
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1576
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1490
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1579
 msgid "May"
 msgstr "Maggio"
 
@@ -13492,7 +13534,7 @@ msgid "maybe"
 msgstr "forse"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:649
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2282
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2285
 msgid "Mayotte"
 msgstr "Mayotte"
 
@@ -14446,7 +14488,7 @@ msgid "Messages with this tag will not be emailed to the group."
 msgstr "I messaggi con questo tag non saranno inviati al gruppo."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:652
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2285
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2288
 msgid "Mexico"
 msgstr "Messico"
 
@@ -14460,11 +14502,11 @@ msgid "MF"
 msgstr "MF"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:655
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2288
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2291
 msgid "Micronesia, Federated States of"
 msgstr "Stati federati di Micronesia"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:426
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:428
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:233
 #, fuzzy
 msgid "Microsoft OneDrive"
@@ -14492,7 +14534,7 @@ msgstr "Tempo militare (15:04)"
 #: ../../cmd/web/views/user/activity.qtpl:989
 #: ../../cmd/web/qtutils/searchfilter.qtpl:230
 #: ../../cmd/web/qtutils/searchfilter.qtpl:425
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1521
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1524
 msgid "Mo"
 msgstr "Lu"
 
@@ -14817,13 +14859,13 @@ msgid "Mods Only"
 msgstr "Solo mods"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:658
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2291
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2294
 #, fuzzy
 msgid "Moldova, Republic of"
 msgstr "Moldova, Repubblica di"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:661
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2294
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2297
 msgid "Monaco"
 msgstr "Monaco"
 
@@ -14834,7 +14876,7 @@ msgid "Monday Start"
 msgstr "Inizio lunedì"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:664
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2297
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2300
 msgid "Mongolia"
 msgstr "Mongolia"
 
@@ -14856,7 +14898,7 @@ msgstr "Mongolia"
 #: ../../cmd/web/views/user/activity.qtpl:1019
 #: ../../cmd/web/qtutils/searchfilter.qtpl:260
 #: ../../cmd/web/qtutils/searchfilter.qtpl:455
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1551
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1554
 msgid "Month"
 msgstr "Mese"
 
@@ -14873,7 +14915,7 @@ msgstr "Mese"
 #: ../../cmd/web/views/user/activity.qtpl:1100
 #: ../../cmd/web/qtutils/searchfilter.qtpl:341
 #: ../../cmd/web/qtutils/searchfilter.qtpl:536
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1632
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1635
 #, fuzzy
 msgid "Month and Year"
 msgstr "Mese e anno"
@@ -14916,7 +14958,7 @@ msgid "Monthly Reminder Sent"
 msgstr "Promemoria mensile"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:667
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2300
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2303
 msgid "Montserrat"
 msgstr "Montserrat"
 
@@ -14937,7 +14979,7 @@ msgid "More Options"
 msgstr "Altre opzioni"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:670
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2303
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2306
 msgid "Morocco"
 msgstr "Marocco"
 
@@ -14956,9 +14998,9 @@ msgstr "La consegna più recente è andata a buon fine"
 msgid "Most Recent Unsuccessful Attempt"
 msgstr "Il più recente tentativo non riuscito"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:386
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:389
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:928
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:388
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:391
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:930
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:193
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:196
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:408
@@ -14971,8 +15013,8 @@ msgstr "Sposta"
 msgid "Move down"
 msgstr "Sposta giù"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:936
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:951
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:938
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:953
 #, fuzzy
 msgid "move here"
 msgstr "spostarsi qui"
@@ -15052,7 +15094,7 @@ msgid "Moved photo"
 msgstr "Muovi la foto"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:673
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2306
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2309
 msgid "Mozambique"
 msgstr "Mozambico"
 
@@ -15199,7 +15241,7 @@ msgid "My Messages"
 msgstr "I Miei Messaggi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:676
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2309
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2312
 msgid "Myanmar"
 msgstr "Myanmar"
 
@@ -15214,13 +15256,13 @@ msgstr "Myanmar"
 #: ../../cmd/web/views/groupdb/groupdatabase.qtpl:76
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:307
 #: ../../cmd/web/views/groupdonations/groupviewdonations.qtpl:76
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:304
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:774
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1008
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1097
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1161
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1225
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1289
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:306
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:776
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1010
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1099
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1163
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1227
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1291
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:122
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl:66
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:94
@@ -15280,12 +15322,12 @@ msgid "Name of this table."
 msgstr "Nome della tabella."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:679
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2312
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2315
 msgid "Namibia"
 msgstr "Namibia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:682
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2315
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2318
 msgid "Nauru"
 msgstr "Nauru"
 
@@ -15320,17 +15362,17 @@ msgstr ""
 "href=\"mailto:support@groups.io\">support@groups.io</a>"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:685
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2318
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2321
 msgid "Nepal"
 msgstr "Nepal"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:688
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2321
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2324
 msgid "Netherlands"
 msgstr "Paesi Bassi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:691
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2324
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2327
 msgid "Netherlands Antilles"
 msgstr "Antille Olandesi"
 
@@ -15366,7 +15408,7 @@ msgid "New Branch Created"
 msgstr "Nuovo utente moderato"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:694
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2327
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2330
 msgid "New Caledonia"
 msgstr "Nuova Caledonia"
 
@@ -15425,8 +15467,8 @@ msgstr[1] "Nuovi file"
 msgid "New Files"
 msgstr "Nuovi file"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:246
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:505
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:248
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:507
 msgid "New Folder"
 msgstr "Nuova cartella"
 
@@ -15553,11 +15595,11 @@ msgid "New Wiki Page"
 msgstr "Pagina Wiki"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:697
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2330
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2333
 msgid "New Zealand"
 msgstr "Nuova Zelanda"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:238
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:240
 #, fuzzy
 msgid "New/Upload"
 msgstr "Nuovo/Caricamento"
@@ -15575,7 +15617,7 @@ msgstr "Nuovo/Caricamento"
 #: ../../cmd/web/views/user/activity.qtpl:937
 #: ../../cmd/web/qtutils/searchfilter.qtpl:178
 #: ../../cmd/web/qtutils/searchfilter.qtpl:373
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1469
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1472
 msgid "Next Month"
 msgstr "Mese prossimo"
 
@@ -15605,22 +15647,22 @@ msgid "Next Topic"
 msgstr "Argomento successivo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:700
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2333
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2336
 msgid "Nicaragua"
 msgstr "Nicaragua"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:703
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2336
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2339
 msgid "Niger"
 msgstr "Niger"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:706
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2339
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2342
 msgid "Nigeria"
 msgstr "Nigeria"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:709
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2342
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2345
 msgid "Niue"
 msgstr "Niue"
 
@@ -15960,7 +16002,7 @@ msgid "noreply@"
 msgstr "Rispondi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:712
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2345
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2348
 msgid "Norfolk Island"
 msgstr "Isola Norfolk"
 
@@ -15970,12 +16012,12 @@ msgid "Normalize HTML Emails"
 msgstr "Normalizzare le e-mail HTML"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:715
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2348
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2351
 msgid "Northern Mariana Islands"
 msgstr "Isole Marianne Settentrionali"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:718
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2351
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2354
 msgid "Norway"
 msgstr "Norvegia"
 
@@ -16347,19 +16389,19 @@ msgstr "Notifiche di problemi aperti, chiusi o commentati."
 msgid "Notifications of pull requests."
 msgstr "Notifiche di richieste di pull."
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:529
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:604
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:650
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:716
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:793
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:845
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:890
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:963
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1053
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1117
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1181
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1245
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1309
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:531
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:606
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:652
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:718
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:795
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:847
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:892
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:965
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1055
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1119
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1183
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1247
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1311
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:280
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:330
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl:128
@@ -16389,7 +16431,7 @@ msgstr "Notifica ai membri"
 #: ../../cmd/web/views/user/activity.qtpl:1074
 #: ../../cmd/web/qtutils/searchfilter.qtpl:315
 #: ../../cmd/web/qtutils/searchfilter.qtpl:510
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1606
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1609
 msgid "Nov"
 msgstr "Nov"
 
@@ -16406,7 +16448,7 @@ msgstr "Nov"
 #: ../../cmd/web/views/user/activity.qtpl:973
 #: ../../cmd/web/qtutils/searchfilter.qtpl:214
 #: ../../cmd/web/qtutils/searchfilter.qtpl:409
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1505
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1508
 msgid "November"
 msgstr "Novembre"
 
@@ -16464,7 +16506,7 @@ msgstr "Accessi Oauth"
 #: ../../cmd/web/views/user/activity.qtpl:1069
 #: ../../cmd/web/qtutils/searchfilter.qtpl:310
 #: ../../cmd/web/qtutils/searchfilter.qtpl:505
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1601
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1604
 msgid "Oct"
 msgstr "Ott"
 
@@ -16481,7 +16523,7 @@ msgstr "Ott"
 #: ../../cmd/web/views/user/activity.qtpl:970
 #: ../../cmd/web/qtutils/searchfilter.qtpl:211
 #: ../../cmd/web/qtutils/searchfilter.qtpl:406
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1502
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1505
 msgid "October"
 msgstr "Ottobre"
 
@@ -16519,7 +16561,7 @@ msgid "OK"
 msgstr "OK"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:721
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2354
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2357
 msgid "Oman"
 msgstr "Oman"
 
@@ -16631,7 +16673,7 @@ msgstr "Un anno"
 msgid "One-time Meeting ID"
 msgstr "ID riunione una tantum"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1231
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1233
 #, fuzzy
 msgid "OneDrive URL"
 msgstr "URL di OneDrive"
@@ -16773,8 +16815,8 @@ msgstr "Solo i messaggi che volete"
 msgid "Only This Event"
 msgstr "Solo questo evento"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:522
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:728
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:524
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:730
 #, fuzzy
 msgid "Only you and the moderators can add files to this folder"
 msgstr "Solo voi e i moderatori potete aggiungere file a questa cartella"
@@ -16852,7 +16894,7 @@ msgstr ""
 msgid "Optional message to be included with each message."
 msgstr "Messaggio opzionale da includere in ogni messaggio."
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:836
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:838
 #, fuzzy
 msgid "Optionally upload a new file to replace the existing one."
 msgstr "È possibile caricare un nuovo file per sostituire quello esistente."
@@ -16897,7 +16939,7 @@ msgstr "Nome dell'organizzatore"
 msgid "Organizer Phone"
 msgstr "Telefono Organizzatore"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1038
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1040
 #: ../../cmd/web/qtutils/likes.qtpl:43 ../../cmd/web/qtutils/likes.qtpl:45
 msgid "Other"
 msgid_plural "Others"
@@ -16970,7 +17012,7 @@ msgstr ""
 msgid "out of 5"
 msgstr "su 5"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:561
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:563
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:232
 #, fuzzy
 msgid "Out Of Space"
@@ -17190,22 +17232,22 @@ msgid "Paid group invoice"
 msgstr "Paga fattura"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:724
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2357
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2360
 msgid "Pakistan"
 msgstr "Pakistan"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:727
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2360
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2363
 msgid "Palau"
 msgstr "Palau"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:730
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2363
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2366
 msgid "Panama"
 msgstr "Panama"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:733
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2366
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2369
 msgid "Papua New Guinea"
 msgstr "Papua Nuova Guinea"
 
@@ -17214,7 +17256,7 @@ msgid "Paragraph"
 msgstr "Paragrafo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:736
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2369
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2372
 msgid "Paraguay"
 msgstr "Paraguay"
 
@@ -17360,8 +17402,8 @@ msgstr "PayPal ID ordine:"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:177
 #: ../../cmd/web/views/groupadmin/groupownermsg.qtpl:113
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:434
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:441
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:436
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:443
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:241
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:248
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:145
@@ -17499,12 +17541,12 @@ msgstr[0] "Persona"
 msgstr[1] "Persone"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:739
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2372
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2375
 msgid "Peru"
 msgstr "Perù"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:742
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2375
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2378
 msgid "Philippines"
 msgstr "Filippine"
 
@@ -17594,7 +17636,7 @@ msgid "Pink"
 msgstr "Rosa"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:745
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2378
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2381
 msgid "Pitcairn"
 msgstr "Pitcairn"
 
@@ -17775,9 +17817,6 @@ msgstr "Verificate la vostra umanità"
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:675
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:676
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:677
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1704
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1705
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1706
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1707
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1708
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1709
@@ -17799,11 +17838,14 @@ msgstr "Verificate la vostra umanità"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1725
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1726
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1727
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1728
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1729
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1730
 msgid "pm"
 msgstr "pm"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:748
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2381
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2384
 msgid "Poland"
 msgstr "Polonia"
 
@@ -17867,7 +17909,7 @@ msgid "Pornography, adult content or nudity"
 msgstr "Pornografia, contenuti per adulti o nudità"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:751
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2384
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2387
 msgid "Portugal"
 msgstr "Portogallo"
 
@@ -18118,7 +18160,7 @@ msgstr "Anteprima Corpo"
 #: ../../cmd/web/views/user/activity.qtpl:931
 #: ../../cmd/web/qtutils/searchfilter.qtpl:172
 #: ../../cmd/web/qtutils/searchfilter.qtpl:367
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1463
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1466
 msgid "Previous Month"
 msgstr "Mese precedente"
 
@@ -18234,7 +18276,7 @@ msgid "Public or Private Archives"
 msgstr "Archivi pubblici o privati"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:754
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2387
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2390
 msgid "Puerto Rico"
 msgstr "Porto Rico"
 
@@ -18311,7 +18353,7 @@ msgid "pushed new tag"
 msgstr "ha spinto il nuovo tag"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:757
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2390
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2393
 msgid "Qatar"
 msgstr "Qatar"
 
@@ -18962,8 +19004,8 @@ msgstr "Rispondi all'argomento Solo i seguaci"
 msgid "Report"
 msgstr "Segnala"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:404
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:408
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:406
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:410
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:211
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:215
 #: ../../cmd/web/qtutils/messagereports.qtpl:227
@@ -19214,7 +19256,7 @@ msgstr "Membri limitati"
 #: ../../cmd/web/views/user/activity.qtpl:1094
 #: ../../cmd/web/qtutils/searchfilter.qtpl:335
 #: ../../cmd/web/qtutils/searchfilter.qtpl:530
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1626
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1629
 #, fuzzy
 msgid "Return to Calendar"
 msgstr "Torna al calendario"
@@ -19226,7 +19268,7 @@ msgid "Return to revisions list"
 msgstr "Torna all'elenco delle revisioni"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:760
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2393
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2396
 msgid "Reunion"
 msgstr "Riunione"
 
@@ -19241,7 +19283,7 @@ msgid "Role"
 msgstr "Ruolo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:763
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2396
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2399
 msgid "Romania"
 msgstr "Romania"
 
@@ -19302,12 +19344,12 @@ msgid "RSVPs for Events"
 msgstr "RSVP per gli eventi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:766
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2399
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2402
 msgid "Russian Federation"
 msgstr "Russia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:769
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2402
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2405
 msgid "Rwanda"
 msgstr "Ruanda"
 
@@ -19324,7 +19366,7 @@ msgstr "Ruanda"
 #: ../../cmd/web/views/user/activity.qtpl:1004
 #: ../../cmd/web/qtutils/searchfilter.qtpl:245
 #: ../../cmd/web/qtutils/searchfilter.qtpl:440
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1536
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1539
 msgid "Sa"
 msgstr "Sa"
 
@@ -19333,17 +19375,17 @@ msgid "Sage"
 msgstr "Sage"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:772
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2405
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2408
 msgid "Saint Kitts and Nevis"
 msgstr "Saint Kitts e Nevis"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:775
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2408
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2411
 msgid "Saint Lucia"
 msgstr "Santa Lucia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:778
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2411
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2414
 msgid "Saint Vincent and the Grenadines"
 msgstr "Saint Vincent e Grenadine"
 
@@ -19354,22 +19396,22 @@ msgid "Same as Group"
 msgstr "Come il gruppo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:781
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2414
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2417
 msgid "Samoa"
 msgstr "Samoa"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:784
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2417
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2420
 msgid "San Marino"
 msgstr "San Marino"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:787
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2420
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2423
 msgid "Sao Tome and Principe"
 msgstr "Sao Tome e Principe"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:790
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2423
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2426
 msgid "Saudi Arabia"
 msgstr "Arabia Saudita"
 
@@ -19522,10 +19564,10 @@ msgstr ""
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:130
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:139
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:146
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:150
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:203
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:211
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:218
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:152
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:205
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:213
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:220
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl:96
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl:152
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:72
@@ -19578,7 +19620,7 @@ msgstr "Vedere un confronto completo dei piani"
 #: ../../cmd/web/views/user/activity.qtpl:1098
 #: ../../cmd/web/qtutils/searchfilter.qtpl:339
 #: ../../cmd/web/qtutils/searchfilter.qtpl:534
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1630
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1633
 msgid "Select"
 msgstr "Seleziona"
 
@@ -19802,7 +19844,7 @@ msgid "Sending"
 msgstr "Invio"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:793
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2426
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2429
 msgid "Senegal"
 msgstr "Senegal"
 
@@ -19854,7 +19896,7 @@ msgstr "Come ricevere la notifica dei messaggi da approvare."
 #: ../../cmd/web/views/user/activity.qtpl:1064
 #: ../../cmd/web/qtutils/searchfilter.qtpl:305
 #: ../../cmd/web/qtutils/searchfilter.qtpl:500
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1596
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1599
 msgid "Sep"
 msgstr "Set"
 
@@ -19881,7 +19923,7 @@ msgstr "Separare più rami con delle virgole."
 #: ../../cmd/web/views/user/activity.qtpl:967
 #: ../../cmd/web/qtutils/searchfilter.qtpl:208
 #: ../../cmd/web/qtutils/searchfilter.qtpl:403
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1499
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1502
 msgid "September"
 msgstr "Settembre"
 
@@ -20003,11 +20045,11 @@ msgid "Settings"
 msgstr "Impostazioni"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:796
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2429
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2432
 msgid "Seychelles"
 msgstr "Seychelles"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1030
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1032
 msgid "Sheet"
 msgstr "Lenzuolo"
 
@@ -20040,7 +20082,7 @@ msgid "Shutter Speed"
 msgstr "Velocità dell'otturatore"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:799
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2432
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2435
 msgid "Sierra Leone"
 msgstr "Sierra Leone"
 
@@ -20072,7 +20114,7 @@ msgid "SignUpGenius"
 msgstr "SignUpGenius"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:802
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2435
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2438
 msgid "Singapore"
 msgstr "Singapore"
 
@@ -20105,7 +20147,7 @@ msgid "Six Months"
 msgstr "Sei mesi"
 
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:82
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:313
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:315
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:131
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:133
 msgid "Size"
@@ -20141,17 +20183,17 @@ msgstr "Chat su Slack"
 msgid "Slack Members"
 msgstr "Membri di Slack"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1034
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1036
 msgid "Slide"
 msgstr "Slide"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:805
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2438
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2441
 msgid "Slovakia (Slovak Republic)"
 msgstr "Slovacchia (Repubblica)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:808
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2441
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2444
 msgid "Slovenia"
 msgstr "Slovenia"
 
@@ -20160,12 +20202,12 @@ msgid "Social Logins"
 msgstr "Accesso con i Social"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:811
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2444
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2447
 msgid "Solomon Islands"
 msgstr "Isole Salomone"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:814
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2447
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2450
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -20184,26 +20226,26 @@ msgstr "Mi dispiace, ma quel gruppo non esiste."
 msgid "Sort By"
 msgstr "Ordina per"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:432
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:439
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:434
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:441
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:239
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:246
 msgid "Sound"
 msgstr "Suono"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:817
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2450
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2453
 msgid "South Africa"
 msgstr "Sudafrica"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:820
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2453
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2456
 #, fuzzy
 msgid "South Georgia and the South Sandwich Islands"
 msgstr "Georgia del sud e Sandwich australi"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:823
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2456
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2459
 msgid "Spain"
 msgstr "Spagna"
 
@@ -20322,17 +20364,17 @@ msgstr ""
 "Le riserve di sponsorizzazione saranno utilizzate per pagare la fattura."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:826
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2459
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2462
 msgid "Sri Lanka"
 msgstr "Sri Lanka"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:829
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2462
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2465
 msgid "St. Helena"
 msgstr "Isola di Sant'Elena"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:832
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2465
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2468
 msgid "St. Pierre and Miquelon"
 msgstr "Saint Pierre e Miquelon"
 
@@ -20399,7 +20441,7 @@ msgstr "A partire da $200/mese o $2200/anno"
 msgid "Starts On"
 msgstr "Parte alle"
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1833
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1836
 msgid "State"
 msgstr "Stato"
 
@@ -20512,7 +20554,7 @@ msgstr "Database strutturati"
 #: ../../cmd/web/views/user/activity.qtpl:986
 #: ../../cmd/web/qtutils/searchfilter.qtpl:227
 #: ../../cmd/web/qtutils/searchfilter.qtpl:422
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1518
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1521
 msgid "Su"
 msgstr "Do"
 
@@ -20788,7 +20830,7 @@ msgid "Succeeded"
 msgstr "Incassato"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:835
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2468
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2471
 msgid "Sudan"
 msgstr "Sudan"
 
@@ -20819,7 +20861,7 @@ msgid "support@"
 msgstr "supporto@"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:838
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2471
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2474
 msgid "Suriname"
 msgstr "Suriname"
 
@@ -20829,17 +20871,17 @@ msgid "SurveyMonkey / Typeform / Google Forms"
 msgstr "SurveyMonkey / Typeform / Moduli Google"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:841
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2474
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2477
 msgid "Svalbard and Jan Mayen Islands"
 msgstr "Svalbard e Jan Mayen"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:844
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2477
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2480
 msgid "Swaziland"
 msgstr "Swaziland"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:847
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2480
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2483
 msgid "Sweden"
 msgstr "Svezia"
 
@@ -20905,7 +20947,7 @@ msgid "Switch to yearly billing at"
 msgstr "Passare alla fatturazione annuale a"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:850
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2483
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2486
 msgid "Switzerland"
 msgstr "Svizzera"
 
@@ -20943,7 +20985,7 @@ msgid "Synced with a Slack Team."
 msgstr "Sincronizzato con un team Slack."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:853
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2486
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2489
 msgid "Syrian Arab Republic"
 msgstr "Siria"
 
@@ -20968,12 +21010,12 @@ msgstr ""
 "Taggate l'argomento di un messaggio includendo un #hashtag nell'oggetto."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:856
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2489
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2492
 msgid "Taiwan, Province of China"
 msgstr "Taiwan"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:859
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2492
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2495
 msgid "Tajikistan"
 msgstr "Tagikistan"
 
@@ -20991,7 +21033,7 @@ msgid "Taken"
 msgstr "Non Disponibile"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:862
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2495
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2498
 msgid "Tanzania, United Republic of"
 msgstr "Tanzania, Repubblica Unita"
 
@@ -21056,7 +21098,7 @@ msgstr "Testo da visualizzare"
 #: ../../cmd/web/views/user/activity.qtpl:998
 #: ../../cmd/web/qtutils/searchfilter.qtpl:239
 #: ../../cmd/web/qtutils/searchfilter.qtpl:434
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1530
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1533
 msgid "Th"
 msgstr "Gi"
 
@@ -21066,7 +21108,7 @@ msgid "th {"
 msgstr "th {\\i}"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:865
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2498
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2501
 #, fuzzy
 msgid "Thailand"
 msgstr "Thailandia"
@@ -22441,22 +22483,22 @@ msgstr "Questo evento è stato annullato."
 msgid "This event has been locked."
 msgstr "Questo evento è stato bloccato."
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1258
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1276
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1294
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1335
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1399
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1648
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1788
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1815
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1827
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1838
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1849
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2592
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2608
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2623
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2634
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2686
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1261
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1279
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1297
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1338
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1402
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1651
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1791
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1818
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1830
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1841
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1852
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2595
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2611
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2626
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2637
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2689
 msgid "This field is required."
 msgstr "Questo campo è richiesto."
 
@@ -22512,7 +22554,7 @@ msgstr ""
 "Questo gruppo non è ancora stato approvato. Una volta approvato, sarà "
 "possibile pubblicarlo."
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:565
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:567
 #, fuzzy
 msgid ""
 "This group has run out of space. Until space is freed up, no additional "
@@ -22587,7 +22629,7 @@ msgid "This is an announcement group; only moderators can post to it."
 msgstr ""
 "Questo è un gruppo di annunci; solo i moderatori possono inviarvi messaggi."
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2612
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2615
 #, fuzzy
 msgid "This is not a valid URL."
 msgstr "Questo non è un URL valido."
@@ -22798,7 +22840,7 @@ msgstr "Fuso orario"
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:85
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:91
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:268
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2618
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2621
 msgid "Title"
 msgstr "Titolo"
 
@@ -23077,7 +23119,7 @@ msgstr "al:"
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:606
 #: ../../cmd/web/qtutils/searchfilter.qtpl:253
 #: ../../cmd/web/qtutils/searchfilter.qtpl:448
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1544
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1547
 msgid "Today"
 msgstr "Oggi"
 
@@ -23094,7 +23136,7 @@ msgstr "Oggi"
 #: ../../cmd/web/views/user/activity.qtpl:922
 #: ../../cmd/web/qtutils/searchfilter.qtpl:163
 #: ../../cmd/web/qtutils/searchfilter.qtpl:358
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1454
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1457
 #, fuzzy
 msgid "Toggle Calendar"
 msgstr "Calendario"
@@ -23133,12 +23175,12 @@ msgid "toggle quoted message"
 msgstr "alterna il messaggio citato"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:868
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2501
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2504
 msgid "Togo"
 msgstr "Togo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:871
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2504
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2507
 msgid "Tokelau"
 msgstr "Tokelau"
 
@@ -23147,7 +23189,7 @@ msgid "Tomato"
 msgstr "Pomodoro"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:874
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2507
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2510
 msgid "Tonga"
 msgstr "Tonga"
 
@@ -23161,7 +23203,7 @@ msgstr "Strumenti"
 msgid "Top Hashtags"
 msgstr "Hashtag principali"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:934
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:936
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:413
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:417
 msgid "Top Level"
@@ -23331,7 +23373,7 @@ msgstr ""
 "pagamento</a>"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:877
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2510
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2513
 msgid "Trinidad and Tobago"
 msgstr "Trinidad e Tobago"
 
@@ -23353,32 +23395,32 @@ msgstr "Prova Groups.io gratuitamente per 30 giorni"
 #: ../../cmd/web/views/user/activity.qtpl:992
 #: ../../cmd/web/qtutils/searchfilter.qtpl:233
 #: ../../cmd/web/qtutils/searchfilter.qtpl:428
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1524
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1527
 msgid "Tu"
 msgstr "Ma"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:880
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2513
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2516
 msgid "Tunisia"
 msgstr "Tunisia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:883
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2516
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2519
 msgid "Turkey"
 msgstr "Turchia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:886
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2519
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2522
 msgid "Turkmenistan"
 msgstr "Turkmenistan"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:889
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2522
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2525
 msgid "Turks and Caicos Islands"
 msgstr "Isole Turks e Caicos"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:892
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2525
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2528
 msgid "Tuvalu"
 msgstr "Tuvalu"
 
@@ -23421,7 +23463,7 @@ msgstr "L'autenticazione a due fattori è ora impostata per il vostro account."
 msgid "Two-factor Recovery Codes"
 msgstr "Codici di recupero a due fattori"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:307
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:309
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:125
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl:62
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:109
@@ -23429,12 +23471,12 @@ msgid "Type"
 msgstr "Tipo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:895
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2528
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2531
 msgid "Uganda"
 msgstr "Uganda"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:898
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2531
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2534
 msgid "Ukraine"
 msgstr "Ucraina"
 
@@ -23550,22 +23592,22 @@ msgstr ""
 "disabilitare temporaneamente l'autenticazione di Google Drive."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:901
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2534
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2537
 msgid "United Arab Emirates"
 msgstr "Emirati Arabi Uniti"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:904
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2537
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2540
 msgid "United Kingdom"
 msgstr "Regno Unito"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:907
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2540
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2543
 msgid "United States"
 msgstr "Stati Uniti"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:910
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2543
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2546
 msgid "United States Minor Outlying Islands"
 msgstr "Isole Minori Esterne (USA)"
 
@@ -23801,16 +23843,16 @@ msgstr "Prossimi Eventi"
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:141
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:287
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:116
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:353
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:356
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:364
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:367
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:375
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:378
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:740
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:766
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:804
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:856
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:355
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:358
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:366
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:369
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:377
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:380
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:742
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:768
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:806
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:858
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:163
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:166
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:173
@@ -23859,12 +23901,12 @@ msgstr "Aggiorna evento e gruppo"
 msgid "Update Feed Integration"
 msgstr "Integrazione dei feed di aggiornamento"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:830
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:832
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:339
 msgid "Update File"
 msgstr "Aggiorna file"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:705
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:707
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:303
 msgid "Update Folder"
 msgstr "Aggiorna cartella"
@@ -23940,7 +23982,7 @@ msgstr "Sincronizzazione dell'aggiornamento"
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:241
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:246
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:356
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:319
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:321
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:137
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:184
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:103
@@ -24206,18 +24248,18 @@ msgstr ""
 msgid "Upload Addresses"
 msgstr "Caricare gli indirizzi"
 
-#: ../../cmd/web/qtutils/editor.qtpl:1458
+#: ../../cmd/web/qtutils/editor.qtpl:1526
 msgid "Upload Attachments"
 msgstr "Caricare Allegati"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:253
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:594
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:255
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:596
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:504
 msgid "Upload File"
 msgstr "Carica File"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:260
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:640
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:262
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:642
 #, fuzzy
 msgid "Upload Folder"
 msgstr "Cartella di caricamento"
@@ -24234,8 +24276,8 @@ msgstr "Carica Foto"
 msgid "Upload Photos"
 msgstr "Carica foto"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:515
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:721
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:517
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:723
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl:85
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl:170
 #, fuzzy
@@ -24252,7 +24294,7 @@ msgstr "Caricato"
 msgid "uploaded"
 msgstr "Caricato"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:310
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:312
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:128
 msgid "Uploaded By"
 msgstr "Caricato da"
@@ -24262,14 +24304,14 @@ msgstr "Caricato da"
 msgid "uploaded to the"
 msgstr "Caricato da"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:780
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1295
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2603
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:782
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1297
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2606
 msgid "URL"
 msgstr "URL"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:913
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2546
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2549
 msgid "Uruguay"
 msgstr "Uruguay"
 
@@ -24390,7 +24432,7 @@ msgstr "Utilizzo di %[1]s di memoria totale su %[2]d GB"
 msgid "Using %s for attachments storage"
 msgstr "Utilizzo di %s per la memorizzazione degli allegati"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:484
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:486
 #, fuzzy
 msgid "Using %s for files storage"
 msgstr "Utilizzo di %s per la memorizzazione dei file"
@@ -24401,7 +24443,7 @@ msgid "Using %s for photos storage"
 msgstr "Utilizzo di %s per la memorizzazione delle foto"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:916
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2549
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2552
 msgid "Uzbekistan"
 msgstr "Uzbekistan"
 
@@ -24410,12 +24452,12 @@ msgid "Validate"
 msgstr "Convalida"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:919
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2552
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2555
 msgid "Vanuatu"
 msgstr "Vanuatu"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:922
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2555
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2558
 msgid "Venezuela"
 msgstr "Venezuela"
 
@@ -24490,7 +24532,7 @@ msgstr "Verificare la chiusura"
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:318
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:283
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:301
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:882
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:884
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:341
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:164
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl:166
@@ -24657,7 +24699,7 @@ msgid "Video"
 msgstr "Video"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:925
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2558
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2561
 msgid "Viet Nam"
 msgstr "Vietnam"
 
@@ -24825,12 +24867,12 @@ msgid "Viewable In A Member's Profile"
 msgstr "Visualizzabile nel profilo di un membro"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:928
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2561
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2564
 msgid "Virgin Islands (British)"
 msgstr "Isole Vergini (Britanniche)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:931
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2564
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2567
 msgid "Virgin Islands (U.S.)"
 msgstr "Isole Vergini (USA)"
 
@@ -24908,7 +24950,7 @@ msgid "Waitlisted"
 msgstr "In lista d'attesa"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:934
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2567
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2570
 msgid "Wallis and Futuna Islands"
 msgstr "Wallis e Futuna"
 
@@ -24989,7 +25031,7 @@ msgstr ""
 #: ../../cmd/web/views/user/activity.qtpl:995
 #: ../../cmd/web/qtutils/searchfilter.qtpl:236
 #: ../../cmd/web/qtutils/searchfilter.qtpl:431
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1527
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1530
 msgid "We"
 msgstr "Me"
 
@@ -25337,7 +25379,7 @@ msgid "Welcome! Here are your next steps."
 msgstr "Benvenuti! Ecco i prossimi passi da compiere."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:937
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2570
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2573
 msgid "Western Sahara"
 msgstr "Sahara Occidentale"
 
@@ -25357,7 +25399,7 @@ msgid "What Is Counted Towards The Storage Limits For My Group?"
 msgstr ""
 "Cosa viene conteggiato ai fini dei limiti di archiviazione per il mio gruppo?"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1021
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:1023
 #, fuzzy
 msgid "What Kind Of Document Is This?"
 msgstr "Che tipo di documento è questo?"
@@ -25881,7 +25923,7 @@ msgstr ""
 #: ../../cmd/web/views/user/activity.qtpl:1086
 #: ../../cmd/web/qtutils/searchfilter.qtpl:327
 #: ../../cmd/web/qtutils/searchfilter.qtpl:522
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1618
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1621
 msgid "Year"
 msgstr "Anno"
 
@@ -25910,7 +25952,7 @@ msgid "Yellow"
 msgstr "Giallo"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:940
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2573
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2576
 msgid "Yemen"
 msgstr "Yemen"
 
@@ -25960,7 +26002,7 @@ msgstr "Yemen"
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:167
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:200
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:390
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:901
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl:903
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:388
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:358
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:177
@@ -26605,7 +26647,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Your changes have been saved."
 msgid "You have been removed"
-msgstr "Aggiornamenti salvati."
+msgstr "Sei stato rimosso da %s"
 
 #: ../../pkg/notifications/noteviews/spamresubemail.qtpl:65
 msgid "You have been removed from %s"
@@ -27698,21 +27740,21 @@ msgid "YourMembership Client ID"
 msgstr "ID cliente YourMembership"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:943
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2576
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2579
 msgid "Yugoslavia"
 msgstr "Jugoslavia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:946
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2579
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2582
 msgid "Zambia"
 msgstr "Zambia"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:949
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:2582
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:2585
 msgid "Zimbabwe"
 msgstr "Zimbabwe"
 
-#: ../../cmd/web/qtutils/tabletemplates.qtpl:1844
+#: ../../cmd/web/qtutils/tabletemplates.qtpl:1847
 msgid "Zip"
 msgstr "CAP"
 
