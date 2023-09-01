@@ -13353,9 +13353,8 @@ msgid "Link to Google Drive"
 msgstr "Link zu Google Drive"
 
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl:36
-#, fuzzy
 msgid "Link to log into %s"
-msgstr "Link zu"
+msgstr "Link zu Einloggen in %s"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:259
 #, fuzzy
@@ -15610,7 +15609,7 @@ msgstr "Verschobene Datei"
 #: ../../pkg/notifications/noteviews/filenotification.qtpl:157
 #, fuzzy
 msgid "Moved File %s"
-msgstr "Verschobene Datei"
+msgstr "Verschobene Datei %s"
 
 #: ../../cmd/web/qtutils/displayactivity.qtpl:379
 #: ../../cmd/web/qtutils/displayactivity.qtpl:510
@@ -15628,7 +15627,7 @@ msgstr "Verschobener Ordner"
 #: ../../pkg/notifications/noteviews/filenotification.qtpl:151
 #, fuzzy
 msgid "Moved Folder %s"
-msgstr "Verschobener Ordner"
+msgstr "Verschobener Ordner %s"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:176
 #, fuzzy
@@ -15699,7 +15698,7 @@ msgstr "Stumm"
 #, fuzzy
 #| msgid "Mute"
 msgid "Mute #%s"
-msgstr "Stumm"
+msgstr "Stumm #%s"
 
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl:73
 #, fuzzy
@@ -15992,7 +15991,7 @@ msgstr "Neuer Chat"
 #, fuzzy
 #| msgid "New Chat"
 msgid "New Chat: %s"
-msgstr "Neuer Chat"
+msgstr "Neuer Chat: %s"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:70
 msgid "New comment"
@@ -16143,7 +16142,7 @@ msgstr "Neuer Abonnent - %[1]s hat sich %[2]s angeschlossen"
 #, fuzzy
 #| msgid "Subscribe to"
 msgid "New Subscribers To %s"
-msgstr "Abonnieren auf"
+msgstr "Abonnieren auf %s"
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl:85
 #, fuzzy
