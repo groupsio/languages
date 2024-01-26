@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-01-24 12:45-0800\n"
+"PO-Revision-Date: 2024-01-25 13:19-0800\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: it\n"
@@ -2065,16 +2065,16 @@ msgstr ""
 "per il vostro sostegno e la vostra comprensione mentre lavoriamo per "
 "migliorare il nostro supporto linguistico! </p>"
 
-#: ../../cmd/web/views/static/staticreverificationfaq.qtpl:148
+#: ../../cmd/web/views/static/staticreverificationfaq.qtpl:153
 #, fuzzy
 msgid ""
-"<h3>Overview</h3> <p>Some members have been sent an e-mail with the subject "
+"<h3>Overview</h3> <p>Some members have been sent an email with the subject "
 "<strong>Action Required: Confirm Your Groups.io Membership to Continue "
 "Receiving Group Emails</strong>. It asks the member to either respond to the "
 "email or log into their account in order to confirm their membership. Most "
 "such accounts are ones that haven't posted in a long time. It's important "
 "that all know that <strong>this email is legit</strong>. It's not a phish.</"
-"p> <p>Any user who got the e-mail and does not complete the confirmation/"
+"p> <p>Any user who got the email and does not complete the confirmation/"
 "reverification by January 28, 2024 will be suspended from Groups.io. A few "
 "follow-on emails will be sent to non-responding members between now and "
 "January 28, 2024.</p> <h3>Why Reverification?</h3> <p>On Saturday January "
@@ -2156,9 +2156,15 @@ msgid ""
 "class=\"label label-info\">RI</span> state will be removed from groups. The "
 "activity log entry will be <em>Membership - Member Removed</em>, with the "
 "added reason of <em>reverification failed</em>.</li> </ol> <p>For domains "
-"where no reverifications happened, no invites or direct adds will be "
-"permitted going forward. If there is a valid person on one of those domains, "
-"they should contact support@groups.io to have the domain ban lifted.</p>"
+"where no reverifications happened, accounts will be banned from all activity "
+"with the thought that they are potential spam traps. Those email addresses "
+"cannot login, re-join groups by invitation, direct addition, or request to "
+"join. If there is a valid person on one of those domains, they should "
+"contact support@groups.io to have the domain ban lifted. For domains without "
+"such a ban, the user's account will remain, so users removed from their "
+"groups can log in directly or by using the \"Email me a link to log in\" "
+"button on the login page. This will re-verify their account. They can "
+"request to join groups or be added via direct addition or invitation. </p>"
 msgstr ""
 "<h3>Panoramica</h3> <p>Ad alcuni membri è stata inviata un'e-mail con "
 "oggetto <strong>Azione necessaria: Confermare l'iscrizione a Groups.io per "
@@ -3278,7 +3284,7 @@ msgstr "Aggiungi promemoria"
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:67
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:111
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:364
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:428
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:430
 msgid "Add Row"
 msgstr "Aggiungi Riga"
 
@@ -3500,6 +3506,18 @@ msgid ""
 msgstr ""
 "Dopo aver scansionato l'immagine, l'app visualizzerà un codice di sei cifre "
 "che potrete inserire qui:"
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:70
+#, fuzzy
+msgid ""
+"After that, members still in the RI state will be removed from groups. The "
+"activity log entry will be <em>Membership - Member Removed</em>, with the "
+"added reason of <em>reverification failed</em>."
+msgstr ""
+"Successivamente, i membri che si trovano ancora nello stato di RI verranno "
+"rimossi dai gruppi. La voce del registro attività sarà <em>Membership - "
+"Member Removed</em>, con l'aggiunta del motivo di <em>reverification failed</"
+"em>."
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:94
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:281
@@ -4408,7 +4426,7 @@ msgid "Are you sure you wish to change your RSVP?"
 msgstr "Siete sicuri di voler modificare il vostro RSVP?"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:302
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:350
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:352
 #, fuzzy
 msgid ""
 "Are you sure you wish to delete <span class=\"checkCount\">these 0 rows</"
@@ -5494,6 +5512,7 @@ msgstr "Benin"
 msgid "Bermuda"
 msgstr "Bermuda"
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:80
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl:40
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl:98
 msgid "Best Regards,"
@@ -5722,7 +5741,7 @@ msgstr "Territorio Britannico dell'Oceano Indiano"
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl:273
 #: ../../cmd/web/views/groupdb/groupdatabase.qtpl:156
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:420
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:484
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:486
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:230
 msgid "Browse"
 msgstr "Sfoglia"
@@ -6173,9 +6192,9 @@ msgstr "Canada"
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:439
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:480
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:165
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:355
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:503
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:544
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:357
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:505
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:546
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:152
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:178
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:211
@@ -6894,9 +6913,9 @@ msgstr "Client Secret fornito dal provider SSO."
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:406
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:460
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:141
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:342
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:470
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:524
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:344
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:472
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:526
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:141
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:165
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:198
@@ -7551,7 +7570,7 @@ msgid "Croatia (Hrvatska)"
 msgstr "Croazia (Hrvatska)"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:473
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:537
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:539
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl:309
 msgid "CSV Format"
 msgstr "Formato CSV"
@@ -7856,6 +7875,7 @@ msgstr "Giorno"
 msgid "Days"
 msgstr "Giorni"
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:44
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl:60
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl:47
 #, fuzzy
@@ -8055,7 +8075,7 @@ msgid "Delete Poll"
 msgstr "Cancellare il sondaggio"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:389
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:453
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:455
 #, fuzzy
 msgid "Delete Rows"
 msgstr "Cancellare le righe"
@@ -9943,8 +9963,8 @@ msgstr "Risposte all'esportazione"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:384
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:464
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:448
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:528
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:450
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:530
 msgid "Export Table"
 msgstr "Esportare Tabelle"
 
@@ -10177,7 +10197,7 @@ msgid "File - Reported"
 msgstr "Segnala"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:429
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:493
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:495
 #, fuzzy
 msgid "File Has Header Line"
 msgstr "Il file ha una riga di intestazione"
@@ -10433,6 +10453,18 @@ msgid ""
 msgstr ""
 "Per le tabelle del database con indirizzi, includiamo una vista con una "
 "mappa di Google."
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:74
+#, fuzzy
+msgid ""
+"For domains where no reverifications happened, no invites or direct adds "
+"will be permitted going forward. If there is a valid person on one of those "
+"domains, they should contact support@groups.io to have the domain ban lifted."
+msgstr ""
+"Per i domini in cui non sono state effettuate riverifiche, non saranno "
+"consentiti inviti o aggiunte dirette in futuro. Se c'è una persona valida su "
+"uno di questi domini, deve contattare support@groups.io per far revocare il "
+"divieto del dominio."
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:601
 #, fuzzy
@@ -11319,6 +11351,7 @@ msgstr ""
 msgid "Groups.io replaces a bunch of apps, including:"
 msgstr "Groups.io sostituisce una serie di applicazioni, tra cui:"
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:26
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl:44
 #, fuzzy
 #| msgid "Notification"
@@ -11626,6 +11659,7 @@ msgstr ""
 msgid "Heard and Mc Donald Islands"
 msgstr "Isole Heard e Mc Donald"
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:46
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl:34
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl:62
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl:49
@@ -11706,6 +11740,11 @@ msgstr "Aiutateci a migliorare Groups.io"
 #, fuzzy
 msgid "Here are the groups you are subscribed to. Check them out:"
 msgstr "Ecco i gruppi a cui siete iscritti. Controllali:"
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:65
+#, fuzzy
+msgid "Here are the next steps in the reverification process:"
+msgstr "Ecco le fasi successive del processo di riverifica:"
 
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl:44
 #, fuzzy
@@ -11995,7 +12034,7 @@ msgstr "Icona"
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:211
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:216
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:221
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:398
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:400
 msgid "ID"
 msgstr "ID"
 
@@ -12451,18 +12490,18 @@ msgstr "Immagini nelle pagine wiki"
 
 #: ../../cmd/web/views/groupdb/groupdatabase.qtpl:170
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:443
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:507
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:509
 msgid "Import"
 msgstr "Importa"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:415
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:479
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:481
 #, fuzzy
 msgid "Import a CSV file into this database."
 msgstr "Importare un file CSV in questo database."
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:410
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:474
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:476
 msgid "Import CSV"
 msgstr "Importa CSV"
 
@@ -12473,7 +12512,7 @@ msgid "Import JSON"
 msgstr "Importazione di JSON"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:379
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:443
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:445
 #, fuzzy
 msgid "Import Rows"
 msgstr "Importazione di righe"
@@ -13330,7 +13369,7 @@ msgid "Jordan"
 msgstr "Giordania"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:470
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:534
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:536
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl:306
 msgid "JSON Format"
 msgstr "Formato JSON"
@@ -17594,6 +17633,36 @@ msgstr "Oman"
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1801
 msgid "On"
 msgstr "On"
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:57
+#, fuzzy
+msgid ""
+"On Saturday January 13th, 2024, an anti-spam service called Spamhaus labeled "
+"one of our email servers as a spam sender. This caused any email service "
+"that uses Spamhaus to stop accepting email from our server. Because of this, "
+"we began a reverification process and sent out reverification emails to a "
+"subset of our users on Sunday January 14th. Spamhaus lifted their block on "
+"Monday, January 15th, 2024, but we need to continue the reverification "
+"process."
+msgstr ""
+"Sabato 13 gennaio 2024, un servizio anti-spam chiamato Spamhaus ha "
+"etichettato uno dei nostri server e-mail come mittente di spam. Questo ha "
+"fatto sì che tutti i servizi di posta elettronica che utilizzano Spamhaus "
+"non accettassero più le e-mail provenienti dal nostro server. Per questo "
+"motivo, abbiamo avviato un processo di riverifica e inviato e-mail di "
+"riverifica a un sottoinsieme di utenti domenica 14 gennaio. Spamhaus ha "
+"revocato il blocco lunedì 15 gennaio 2024, ma dobbiamo continuare il "
+"processo di riverifica."
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:68
+#, fuzzy
+msgid ""
+"On Sunday, January 28th, group emails to people in the RI state will be "
+"disabled. Messages from moderators and login link emails will still work."
+msgstr ""
+"Domenica 28 gennaio, le e-mail di gruppo per le persone nello stato del RI "
+"saranno disabilitate. I messaggi dei moderatori e le e-mail con i link di "
+"accesso continueranno a funzionare."
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:215
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:230
@@ -22893,7 +22962,7 @@ msgstr ""
 "Il file caricato non è un file di testo semplice e non possiamo elaborarlo."
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:432
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:496
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:498
 #, fuzzy
 msgid ""
 "The first line of the file is the names of the columns, and those names "
@@ -23093,6 +23162,7 @@ msgstr ""
 "commissioni di elaborazione delle carte di credito di Stripe."
 
 #: ../../pkg/notifications/noteviews/donationreceiptnotification.qtpl:55
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:82
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl:42
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl:100
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl:66
@@ -25275,6 +25345,15 @@ msgstr "Cancellazione da %s"
 msgid "Unsubscription - %[1]s has left %[2]s"
 msgstr "Necessaria l'approvazione dell'abbonamento - %[1]s applicate a %[2]s"
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:69
+#, fuzzy
+msgid ""
+"Until February 11th, people will still be able to reverify themselves and "
+"the RI and RS badges will still show up in the Members page."
+msgstr ""
+"Fino all'11 febbraio, le persone potranno ancora riverificarsi e i badge RI "
+"e RS appariranno ancora nella pagina dei membri."
+
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:592
 #, fuzzy
 msgid "Up to 100"
@@ -25397,6 +25476,12 @@ msgstr "Aggiornare l'hashtag"
 msgid "Update Notice"
 msgstr "Avviso di aggiornamento"
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:38
+#, fuzzy
+#| msgid "Notification"
+msgid "Update on Groups.io Reverification Process"
+msgstr "Notifica"
+
 #: ../../cmd/web/views/account/account.qtpl:576
 #, fuzzy
 msgid "Update Overall Profile"
@@ -25453,7 +25538,7 @@ msgstr "Aggiorna file"
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:251
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:256
 #: ../../cmd/web/views/groupdb/grouptable.qtpl:261
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:418
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:420
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:292
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:88
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl:201
@@ -26010,7 +26095,7 @@ msgstr "Verificare la chiusura"
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:192
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:332
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:298
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:346
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:348
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:871
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:359
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:180
@@ -26312,7 +26397,7 @@ msgstr "Visualizza le risposte"
 
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:106
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:374
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:438
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:440
 #, fuzzy
 msgid "View Row"
 msgstr "Visualizza fila"
@@ -26351,7 +26436,7 @@ msgid "View/Change Plan"
 msgstr "Visualizza/Cambia piano"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:369
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:433
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:435
 #, fuzzy
 msgid "View/Edit Row"
 msgstr "Visualizza/Modifica riga"
@@ -26419,8 +26504,8 @@ msgstr "Visibilità dei messaggi nell'Archivio messaggi"
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:817
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:321
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:324
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:387
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:390
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:389
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:392
 msgid "Visible"
 msgstr "Visibile"
 
@@ -26543,6 +26628,17 @@ msgstr "è stato contrassegnato come spam:"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1624
 msgid "We"
 msgstr "Me"
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:77
+#, fuzzy
+msgid ""
+"We apologize for the inconvenience this process may cause, but it is "
+"necessary to ensure that we are able to continue delivering group email "
+"reliably. Thank you for using Groups.io."
+msgstr ""
+"Ci scusiamo per l'inconveniente che questo processo può causare, ma è "
+"necessario per garantire che siamo in grado di continuare a consegnare le e-"
+"mail di gruppo in modo affidabile. Grazie per aver utilizzato Groups.io."
 
 #: ../../cmd/web/views/user/homeloggedout.qtpl:256
 #, fuzzy
@@ -27605,7 +27701,7 @@ msgstr "Yemen"
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl:205
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:345
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl:311
-#: ../../cmd/web/views/groupdb/grouptable.qtpl:359
+#: ../../cmd/web/views/groupdb/grouptable.qtpl:361
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:182
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:215
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl:409
@@ -27879,6 +27975,23 @@ msgstr "Ora state visualizzando la versione di prova del sito web."
 msgid "You are once again subscribed to the group."
 msgstr "Siete nuovamente iscritti al gruppo."
 
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:51
+#, fuzzy
+msgid ""
+"You are receiving this email because you are an owner or moderator of one or "
+"more Groups.io groups. We are in the process of reverifying some of our "
+"users and we wanted to make sure you knew what was happening and why. For "
+"more detail about this, please visit the Reverification FAQ, at <a "
+"href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/"
+"reverifyfaq</a>"
+msgstr ""
+"State ricevendo questa e-mail perché siete proprietari o moderatori di uno o "
+"più gruppi di Groups.io. Stiamo procedendo alla riverifica di alcuni dei "
+"nostri utenti e volevamo assicurarci che foste a conoscenza di ciò che sta "
+"accadendo e del perché. Per maggiori dettagli, visitate le FAQ sulla "
+"riverifica, all'indirizzo <a href=\"https://groups.io/static/"
+"reverifyfaq\">https://groups.io/static/reverifyfaq</a>"
+
 #: ../../cmd/web/views/static/staticwelcome.qtpl:128
 #, fuzzy
 msgid ""
@@ -28019,6 +28132,22 @@ msgid ""
 msgstr ""
 "È possibile stampare i cartellini per i partecipanti, utilizzando una serie "
 "di modelli Avery."
+
+#: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl:62
+#, fuzzy
+msgid ""
+"You can see which, if any, of your users are affected. Go to the Admin "
+"section of your group and look at the Members page. Next to each user's "
+"email, there may be a badge with the letters RI or RS. RI means the "
+"confirmation/reverification is in progress, but has not been completed. RS "
+"means the confirmation/reverification has been successfully completed."
+msgstr ""
+"È possibile vedere quali utenti sono interessati, se lo sono. Andate nella "
+"sezione Amministrazione del vostro gruppo e guardate la pagina Membri. "
+"Accanto all'e-mail di ciascun utente potrebbe essere presente un badge con "
+"le lettere RI o RS. RI significa che la conferma/verifica è in corso, ma non "
+"è stata completata. RS significa che la conferma/verifica è stata completata "
+"con successo."
 
 #: ../../pkg/notifications/noteviews/joingroup.qtpl:67
 #, fuzzy
