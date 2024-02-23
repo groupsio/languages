@@ -12610,11 +12610,9 @@ msgstr ""
 "zugeschickt."
 
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl:98
-#, fuzzy
 msgid "In addition, you have been added to the following subgroups:"
 msgstr ""
-"Fügen Sie nicht nur der Gruppe %s, sondern auch den folgenden Untergruppen "
-"etwas hinzu:"
+"Darüber hinaus wurden Sie den folgenden Untergruppen hinzugefügt:"
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:240
 #, fuzzy
