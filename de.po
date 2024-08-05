@@ -24666,7 +24666,7 @@ msgstr "Sie haben bereits für diesen Antrag gespendet."
 #: ../../pkg/notifications/noteviews/subgroupdirectadd.qtpl:39
 #, fuzzy
 msgid "You have been added to the %s group"
-msgstr "Sie haben bereits für diesen Antrag gespendet."
+msgstr "Du wurdest der Gruppe %s hinzugefügt."
 
 #: ../../cmd/web/views/group/grouphome.qtpl:530
 msgid "You have been banned from this group."
@@ -24713,7 +24713,7 @@ msgstr "Ihre Änderungen wurden gespeichert."
 #, fuzzy
 #| msgid "You have been banned from this group."
 msgid "You have been unsubscribed from %s"
-msgstr "Sie wurden aus dieser Gruppe verbannt."
+msgstr "Sie wurden von %s abgemeldet"
 
 #: ../../pkg/notifications/noteviews/resubemail.qtpl:39
 #, fuzzy
