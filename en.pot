@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-02 09:18-0700\n"
+"PO-Revision-Date: 2024-10-07 09:43-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -1730,7 +1730,7 @@ msgid "(members with private profiles are not shown)"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:186
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:187
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1016
 #: ../../cmd/web/views/sub/editsub.qtpl:295
 #: ../../cmd/web/views/sub/groupinvite.qtpl:261
@@ -1842,12 +1842,12 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:843
+#: ../../cmd/web/views/account/settings.qtpl:853
 msgid "100 items"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:792
+#: ../../cmd/web/views/account/settings.qtpl:802
 msgid "12 Hour Clock (3:04pm)"
 msgstr ""
 
@@ -1869,12 +1869,12 @@ msgid "2. Or you can click"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:837
+#: ../../cmd/web/views/account/settings.qtpl:847
 msgid "20 items"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:795
+#: ../../cmd/web/views/account/settings.qtpl:805
 msgid "24 Hour Clock (15:04)"
 msgstr ""
 
@@ -1885,7 +1885,7 @@ msgid "30GB Storage Space"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:840
+#: ../../cmd/web/views/account/settings.qtpl:850
 msgid "50 items"
 msgstr ""
 
@@ -2145,7 +2145,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1103
+#: ../../cmd/web/views/account/settings.qtpl:1113
 msgid ""
 "<strong>Important:</strong> Once you enable two-factor authentication, you will "
 "not be able to log in to Groups.io through a social login (Google or Facebook) "
@@ -2168,7 +2168,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:965
+#: ../../cmd/web/views/account/settings.qtpl:975
 msgid ""
 "<strong>Note:</strong> Notifications are activated per device and desktop "
 "browser. To receive notifications on multiple devices, sign in on each device, "
@@ -2469,7 +2469,7 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:124
 msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to %[3]s "
-"and display name from '%[4]s' to '%[5]s' in group %[6s]"
+"and display name from '%[4]s' to '%[5]s' in group %[6]s"
 msgstr ""
 
 #, go-format
@@ -2588,7 +2588,7 @@ msgid "About Groups.io"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:188
+#: ../../cmd/web/views/account/groupprofile.qtpl:190
 msgid "About Me"
 msgstr ""
 
@@ -2747,7 +2747,7 @@ msgid "Add Choice"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:327
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:343
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:289
 msgid "Add Column"
 msgstr ""
@@ -2769,7 +2769,7 @@ msgid "Add Donation Request"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:358
+#: ../../cmd/web/views/account/settings.qtpl:359
 msgid "Add Email Alias"
 msgstr ""
 
@@ -3069,7 +3069,7 @@ msgid "Address"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:900
+#: ../../cmd/web/views/account/settings.qtpl:910
 msgid "Adjust the appearance of Groups.io to reduce glare and give your eyes a break."
 msgstr ""
 
@@ -3098,7 +3098,7 @@ msgid "Advanced Preferences"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:307
+#: ../../cmd/web/views/account/settings.qtpl:308
 msgid "Advanced Settings For Email Aliases"
 msgstr ""
 
@@ -3115,7 +3115,7 @@ msgid "After"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1143
+#: ../../cmd/web/views/account/settings.qtpl:1153
 msgid ""
 "After scanning the image, the app will display a six-digit code that you can "
 "enter here:"
@@ -3239,7 +3239,7 @@ msgid "All members can post to the group."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:138
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:139
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:970
 #: ../../cmd/web/views/sub/editsub.qtpl:247
 #: ../../cmd/web/views/sub/groupinvite.qtpl:213
@@ -3342,12 +3342,12 @@ msgid "Allow"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:275
+#: ../../cmd/web/views/account/settings.qtpl:276
 msgid "Allow Facebook Login"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:287
+#: ../../cmd/web/views/account/settings.qtpl:288
 msgid "Allow Google Login"
 msgstr ""
 
@@ -3357,12 +3357,12 @@ msgid "Allow group members to download the message archive."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:278
+#: ../../cmd/web/views/account/settings.qtpl:279
 msgid "Allow login to your account via Facebook."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:290
+#: ../../cmd/web/views/account/settings.qtpl:291
 msgid "Allow login to your account via Google."
 msgstr ""
 
@@ -3474,9 +3474,9 @@ msgid "American Samoa"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1366
-#: ../../cmd/web/views/account/settings.qtpl:1441
-#: ../../cmd/web/views/account/settings.qtpl:1512
+#: ../../cmd/web/views/account/settings.qtpl:1376
+#: ../../cmd/web/views/account/settings.qtpl:1451
+#: ../../cmd/web/views/account/settings.qtpl:1522
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:385
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:640
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:95
@@ -3512,7 +3512,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:437
+#: ../../cmd/web/views/account/settings.qtpl:438
 msgid ""
 "An email has been sent to <strong>%s</strong> with a link that, when clicked, "
 "will cause the accounts to be merged and this account to be deleted."
@@ -3682,7 +3682,7 @@ msgid "Any group member can add photos to this album"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:407
+#: ../../cmd/web/views/account/settings.qtpl:408
 msgid "Any other groups"
 msgstr ""
 
@@ -3710,7 +3710,7 @@ msgid "API Access"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:969
+#: ../../cmd/web/views/account/settings.qtpl:979
 msgid ""
 "App notifications are not allowed on this device. To enable notifications, go "
 "into Settings -> Notifications and look for the app."
@@ -3834,6 +3834,12 @@ msgstr ""
 #: ../../cmd/web/qtutils/color.qtpl:29
 #: ../../cmd/web/qtutils/color.qtpl:184
 msgid "Aquamute"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/settings.qtpl:751
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:231
+msgid "Arabic"
 msgstr ""
 
 #, go-format
@@ -4426,14 +4432,14 @@ msgid "Authenticate With Trello"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1207
+#: ../../cmd/web/views/account/settings.qtpl:1217
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl:145
 #: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl:76
 msgid "Authenticated to Github as:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1233
+#: ../../cmd/web/views/account/settings.qtpl:1243
 msgid "Authenticated to Google as:"
 msgstr ""
 
@@ -4443,12 +4449,12 @@ msgid "Authenticated to Google Drive as:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1217
+#: ../../cmd/web/views/account/settings.qtpl:1227
 msgid "Authenticated to Slack as:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1251
+#: ../../cmd/web/views/account/settings.qtpl:1261
 msgid "Authenticated to Slack team %[1]s as %[2]s"
 msgstr ""
 
@@ -4458,14 +4464,14 @@ msgid "Authenticated to Slack team %[1]s as %[2]s."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1225
+#: ../../cmd/web/views/account/settings.qtpl:1235
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl:122
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl:76
 msgid "Authenticated to Trello as:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1241
+#: ../../cmd/web/views/account/settings.qtpl:1251
 msgid "Authenticated to Zoom as:"
 msgstr ""
 
@@ -4476,7 +4482,7 @@ msgid "Author"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:166
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:167
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:996
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1408
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:191
@@ -4503,7 +4509,7 @@ msgid "Automated help for the %s group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:890
+#: ../../cmd/web/views/account/settings.qtpl:900
 msgid "Automatic"
 msgstr ""
 
@@ -5114,6 +5120,12 @@ msgid "Brazil"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/account/settings.qtpl:754
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:234
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:182
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:364
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1758
@@ -5434,7 +5446,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/deleteaccount.qtpl:187
-#: ../../cmd/web/views/account/settings.qtpl:1157
+#: ../../cmd/web/views/account/settings.qtpl:1167
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:890
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:109
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:204
@@ -5762,7 +5774,7 @@ msgid "Chad"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:249
+#: ../../cmd/web/views/account/settings.qtpl:250
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:715
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:794
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:830
@@ -5773,7 +5785,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/bouncing.qtpl:99
 #: ../../cmd/web/views/account/needreverification.qtpl:93
-#: ../../cmd/web/views/account/settings.qtpl:189
+#: ../../cmd/web/views/account/settings.qtpl:190
 msgid "Change Email"
 msgstr ""
 
@@ -5790,7 +5802,7 @@ msgid "Change RSVP"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:297
+#: ../../cmd/web/views/account/settings.qtpl:298
 msgid "Change Social Login Preferences"
 msgstr ""
 
@@ -5831,21 +5843,21 @@ msgid "Changelog"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:605
+#: ../../cmd/web/views/account/settings.qtpl:606
 msgid ""
 "Changes made here will be specific to this group and all subgroups. To edit your "
 "overall profile, select <strong>Overall Profile</strong> from the dropdown."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:607
+#: ../../cmd/web/views/account/settings.qtpl:608
 msgid ""
 "Changes made here will be specific to this group. To edit your overall profile, "
 "select <strong>Overall Profile</strong> from the dropdown."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:462
+#: ../../cmd/web/views/account/settings.qtpl:463
 msgid ""
 "Changes made to this profile will also be made to each group profile, with the "
 "exception of those fields that you have previously customized in each group "
@@ -6052,6 +6064,12 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:403
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1797
 msgid "China"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/settings.qtpl:757
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:237
+msgid "Chinese (Simplified)"
 msgstr ""
 
 #, go-format
@@ -6412,7 +6430,7 @@ msgid "Cocos (Keeling) Islands"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1151
+#: ../../cmd/web/views/account/settings.qtpl:1161
 #: ../../cmd/web/views/login/twofactor.qtpl:80
 msgid "Code"
 msgstr ""
@@ -6515,7 +6533,7 @@ msgid "Concentration"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1113
+#: ../../cmd/web/views/account/settings.qtpl:1123
 msgid ""
 "Configure your authenticator app to receive security codes from Groups.io. Don't "
 "have an authenticator app? Choose from a list of our recommended apps:"
@@ -6622,7 +6640,7 @@ msgid "Connect with Stripe"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1292
+#: ../../cmd/web/views/account/settings.qtpl:1302
 msgid "Connect Your Zoom Account"
 msgstr ""
 
@@ -6873,7 +6891,7 @@ msgid "Creating New Page"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1306
+#: ../../cmd/web/views/account/settings.qtpl:1316
 msgid "Credit Card On File"
 msgstr ""
 
@@ -7001,7 +7019,7 @@ msgid "Daily"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:103
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:104
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:857
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:690
 #: ../../cmd/web/views/sub/editsub.qtpl:130
@@ -7030,7 +7048,7 @@ msgid "Dark Grey"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:883
+#: ../../cmd/web/views/account/settings.qtpl:893
 msgid "Dark Mode"
 msgstr ""
 
@@ -7135,9 +7153,9 @@ msgid "Databases are disabled"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1357
-#: ../../cmd/web/views/account/settings.qtpl:1435
-#: ../../cmd/web/views/account/settings.qtpl:1500
+#: ../../cmd/web/views/account/settings.qtpl:1367
+#: ../../cmd/web/views/account/settings.qtpl:1445
+#: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
@@ -7191,8 +7209,8 @@ msgid "Date and Time"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:804
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:279
+#: ../../cmd/web/views/account/settings.qtpl:814
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:295
 msgid "Date Display"
 msgstr ""
 
@@ -7248,8 +7266,8 @@ msgid "Default Sub Settings"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:34
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:60
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:35
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:61
 msgid "Default Subscription Settings"
 msgstr ""
 
@@ -7259,7 +7277,7 @@ msgid "Default timezone for new users."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:210
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:211
 msgid "Default User Settings"
 msgstr ""
 
@@ -7360,7 +7378,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/deleteaccount.qtpl:191
-#: ../../cmd/web/views/account/settings.qtpl:374
+#: ../../cmd/web/views/account/settings.qtpl:375
 msgid "Delete My Account"
 msgstr ""
 
@@ -7380,12 +7398,12 @@ msgid "Delete Page"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:253
+#: ../../cmd/web/views/account/settings.qtpl:254
 msgid "Delete Password"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1334
+#: ../../cmd/web/views/account/settings.qtpl:1344
 msgid "Delete Payment Method"
 msgstr ""
 
@@ -7660,12 +7678,12 @@ msgid "Description:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:996
+#: ../../cmd/web/views/account/settings.qtpl:1006
 msgid "Desktop notifications are currently not enabled in this browser."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:992
+#: ../../cmd/web/views/account/settings.qtpl:1002
 msgid "Desktop notifications are not supported in this browser."
 msgstr ""
 
@@ -7748,7 +7766,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:97
+#: ../../cmd/web/views/account/groupprofile.qtpl:99
 #: ../../cmd/web/views/group/groupdirectory.qtpl:64
 #: ../../cmd/web/views/group/groupdirectory.qtpl:81
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:705
@@ -7786,17 +7804,17 @@ msgid "Disable No Email"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1015
+#: ../../cmd/web/views/account/settings.qtpl:1025
 msgid "Disable Notifications In This Browser"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1026
+#: ../../cmd/web/views/account/settings.qtpl:1036
 msgid "Disable Notifications On All Devices"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:986
+#: ../../cmd/web/views/account/settings.qtpl:996
 msgid "Disable Notifications On This Device"
 msgstr ""
 
@@ -7813,7 +7831,7 @@ msgid "Disable Signup"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1068
+#: ../../cmd/web/views/account/settings.qtpl:1078
 msgid "Disable two-factor authentication"
 msgstr ""
 
@@ -7832,7 +7850,7 @@ msgid "Disconnect Connected Stripe Account"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1283
+#: ../../cmd/web/views/account/settings.qtpl:1293
 msgid "Disconnect Your Zoom Account"
 msgstr ""
 
@@ -7852,11 +7870,11 @@ msgid "disliked a photo"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:151
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:161
-#: ../../cmd/web/views/account/settings.qtpl:506
-#: ../../cmd/web/views/account/settings.qtpl:641
-#: ../../cmd/web/views/account/settings.qtpl:651
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:153
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:163
+#: ../../cmd/web/views/account/settings.qtpl:507
+#: ../../cmd/web/views/account/settings.qtpl:642
+#: ../../cmd/web/views/account/settings.qtpl:652
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:211
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:257
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:561
@@ -7870,7 +7888,7 @@ msgid "Display name changed"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:734
+#: ../../cmd/web/views/account/settings.qtpl:735
 msgid "Display Preferences"
 msgstr ""
 
@@ -8023,7 +8041,7 @@ msgid "Donate Now"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1360
+#: ../../cmd/web/views/account/settings.qtpl:1370
 msgid "Donation"
 msgstr ""
 
@@ -8058,7 +8076,7 @@ msgid "Donation - Request updated"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1342
+#: ../../cmd/web/views/account/settings.qtpl:1352
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:47
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:80
 msgid "Donation History"
@@ -8214,7 +8232,8 @@ msgid "Dusty Mauve"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:768
+#: ../../cmd/web/views/account/settings.qtpl:760
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:240
 msgid "Dutch"
 msgstr ""
 
@@ -8269,9 +8288,9 @@ msgid "Ecuador"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:210
-#: ../../cmd/web/views/account/settings.qtpl:542
-#: ../../cmd/web/views/account/settings.qtpl:691
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:212
+#: ../../cmd/web/views/account/settings.qtpl:543
+#: ../../cmd/web/views/account/settings.qtpl:692
 #: ../../cmd/web/views/calendar/calendar.qtpl:300
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:846
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:929
@@ -8366,8 +8385,8 @@ msgid "Edit Google Drive Integration"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:69
-#: ../../cmd/web/views/account/groupprofile.qtpl:236
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:71
+#: ../../cmd/web/views/account/groupprofile.qtpl:238
 msgid "Edit Group Profile"
 msgstr ""
 
@@ -8499,7 +8518,7 @@ msgid "Edited message without sending to the group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:858
+#: ../../cmd/web/views/account/settings.qtpl:868
 msgid "Editor Preference"
 msgstr ""
 
@@ -8601,12 +8620,12 @@ msgid "Email Addresses Processed:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:339
+#: ../../cmd/web/views/account/settings.qtpl:340
 msgid "Email Alias"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:314
+#: ../../cmd/web/views/account/settings.qtpl:315
 msgid "Email Aliases"
 msgstr ""
 
@@ -8650,7 +8669,7 @@ msgid "Email Communication Is Asynchronous"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:69
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:70
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:826
 #: ../../cmd/web/views/sub/editsub.qtpl:97
 #: ../../cmd/web/views/sub/groupinvite.qtpl:125
@@ -8772,7 +8791,7 @@ msgid "Email only"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:908
+#: ../../cmd/web/views/account/settings.qtpl:918
 msgid "Email Preferences"
 msgstr ""
 
@@ -8852,12 +8871,12 @@ msgid "Enable join before host"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1001
+#: ../../cmd/web/views/account/settings.qtpl:1011
 msgid "Enable Notifications In This Browser"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:978
+#: ../../cmd/web/views/account/settings.qtpl:988
 msgid "Enable Notifications On This Device"
 msgstr ""
 
@@ -8891,14 +8910,14 @@ msgid "Ends"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:747
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:227
+#: ../../cmd/web/views/account/settings.qtpl:748
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:228
 #: ../../cmd/web/views/user/enterprise.qtpl:146
 msgid "English"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1140
+#: ../../cmd/web/views/account/settings.qtpl:1150
 msgid "Enter The Six-Digit Code From The Application"
 msgstr ""
 
@@ -8908,7 +8927,7 @@ msgid "Enter Your Two-factor Authentication Code"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1533
+#: ../../cmd/web/views/account/settings.qtpl:1543
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:140
 #: ../../cmd/web/views/static/staticpricing.qtpl:252
 msgid "Enterprise"
@@ -9068,7 +9087,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:150
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:151
 msgid ""
 "Every message in topics or hashtags the members are following is emailed to "
 "them."
@@ -9090,7 +9109,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:141
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:142
 msgid ""
 "Every message is emailed to the members, according to their Email Delivery "
 "Selection, except topics or hashtags they've muted."
@@ -9172,7 +9191,7 @@ msgid "Expiration"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1322
+#: ../../cmd/web/views/account/settings.qtpl:1332
 msgid "Expiration:"
 msgstr ""
 
@@ -9192,7 +9211,7 @@ msgid "Export"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:388
+#: ../../cmd/web/views/account/settings.qtpl:389
 msgid "Export Account Data"
 msgstr ""
 
@@ -9213,7 +9232,7 @@ msgid "Export Group Data"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:369
+#: ../../cmd/web/views/account/settings.qtpl:370
 msgid "Export My Account"
 msgstr ""
 
@@ -9237,7 +9256,7 @@ msgid "Export Table"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:317
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:333
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:452
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:391
 #: ../../cmd/web/views/sub/editsub.qtpl:719
@@ -9245,8 +9264,8 @@ msgid "Extra Member Data"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1404
-#: ../../cmd/web/views/account/settings.qtpl:1546
+#: ../../cmd/web/views/account/settings.qtpl:1414
+#: ../../cmd/web/views/account/settings.qtpl:1556
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:156
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:123
@@ -9524,7 +9543,7 @@ msgid "First Login"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:156
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:157
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:986
 #: ../../cmd/web/views/sub/editsub.qtpl:266
 #: ../../cmd/web/views/sub/groupinvite.qtpl:232
@@ -9653,7 +9672,7 @@ msgid "Following Events"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:147
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:148
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:977
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1399
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:182
@@ -9762,8 +9781,8 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:753
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:233
+#: ../../cmd/web/views/account/settings.qtpl:763
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:243
 #: ../../cmd/web/views/user/enterprise.qtpl:152
 msgid "French"
 msgstr ""
@@ -9818,7 +9837,7 @@ msgid "Full Digest"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:83
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:84
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:841
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:678
 #: ../../cmd/web/views/sub/editsub.qtpl:114
@@ -9875,12 +9894,12 @@ msgid "Generate a PDF formatted for this Avery template."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:414
+#: ../../cmd/web/views/account/settings.qtpl:415
 msgid "Generate Export"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1193
+#: ../../cmd/web/views/account/settings.qtpl:1203
 msgid "Generate New Recovery Codes"
 msgstr ""
 
@@ -9898,8 +9917,8 @@ msgid "Georgia"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:756
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:236
+#: ../../cmd/web/views/account/settings.qtpl:766
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:246
 #: ../../cmd/web/views/user/enterprise.qtpl:155
 msgid "German"
 msgstr ""
@@ -10064,9 +10083,9 @@ msgid "Grey Blue"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1354
-#: ../../cmd/web/views/account/settings.qtpl:1432
-#: ../../cmd/web/views/account/settings.qtpl:1497
+#: ../../cmd/web/views/account/settings.qtpl:1364
+#: ../../cmd/web/views/account/settings.qtpl:1442
+#: ../../cmd/web/views/account/settings.qtpl:1507
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:709
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:736
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:753
@@ -10358,7 +10377,7 @@ msgid "Group Owner"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1485
+#: ../../cmd/web/views/account/settings.qtpl:1495
 msgid "Group Payment History"
 msgstr ""
 
@@ -10368,7 +10387,7 @@ msgid "Group Policies"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:43
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:45
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 msgid "Group Profile"
@@ -10420,14 +10439,14 @@ msgid "Group Type and Moderation"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:96
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:97
 msgid ""
 "Group up to 12 messages together as one email instead of being sent individually "
 "(plain formatting)."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:86
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:87
 msgid ""
 "Group up to 12 messages together as one email instead of being sent individually "
 "(rich formatting)."
@@ -11058,19 +11077,19 @@ msgid "How to be notified when storage limits are reached."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:818
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:293
+#: ../../cmd/web/views/account/settings.qtpl:828
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:309
 msgid "How to display dates."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:799
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:274
+#: ../../cmd/web/views/account/settings.qtpl:809
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:290
 msgid "How to display times."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:865
+#: ../../cmd/web/views/account/settings.qtpl:875
 msgid "HTML"
 msgstr ""
 
@@ -11092,7 +11111,7 @@ msgid "I Agree"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:919
+#: ../../cmd/web/views/account/settings.qtpl:929
 msgid "I always want copies of my own emails"
 msgstr ""
 
@@ -11183,7 +11202,7 @@ msgid "If specified, only attachments in emails with this hashtag will be saved.
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1106
+#: ../../cmd/web/views/account/settings.qtpl:1116
 msgid ""
 "If the authentication code is lost (for example, if a device is reset to factory "
 "settings), and you no longer have your recovery codes, you will need to contact "
@@ -11191,7 +11210,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:342
+#: ../../cmd/web/views/account/settings.qtpl:343
 msgid ""
 "If the email service you use for this account sends your outgoing messages from "
 "a different address than your account address, please enter your sending address "
@@ -11398,7 +11417,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:426
+#: ../../cmd/web/views/account/settings.qtpl:427
 msgid ""
 "If you wish to merge this account, <strong>%[1]s</strong>, into that account, "
 "click the Merge Accounts button. An email will be sent to <strong>%[2]s</strong> "
@@ -11553,7 +11572,7 @@ msgid "In addition to adding to the %s group, add to the following subgroups:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:945
+#: ../../cmd/web/views/account/settings.qtpl:955
 msgid ""
 "In addition to email, you can receive notifications about activity through push "
 "notifications on your mobile device and desktop browser."
@@ -11701,7 +11720,7 @@ msgid "Individual"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:74
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:75
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:834
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:673
 #: ../../cmd/web/views/sub/editsub.qtpl:107
@@ -11723,7 +11742,7 @@ msgid "Indonesia"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:846
+#: ../../cmd/web/views/account/settings.qtpl:856
 msgid "Infinite scroll"
 msgstr ""
 
@@ -11735,14 +11754,13 @@ msgid ""
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %s is the page title
-#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:151
-msgid "Initial %s page"
+#: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl:184
+msgid "Initial message"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl:184
-msgid "Initial message"
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:150
+msgid "Initial page"
 msgstr ""
 
 #, go-format
@@ -12060,14 +12078,14 @@ msgid "Invoice History"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1351
-#: ../../cmd/web/views/account/settings.qtpl:1429
-#: ../../cmd/web/views/account/settings.qtpl:1494
+#: ../../cmd/web/views/account/settings.qtpl:1361
+#: ../../cmd/web/views/account/settings.qtpl:1439
+#: ../../cmd/web/views/account/settings.qtpl:1504
 msgid "Invoice ID"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1537
+#: ../../cmd/web/views/account/settings.qtpl:1547
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:678
 msgid "Invoiced"
 msgstr ""
@@ -12173,8 +12191,8 @@ msgid "it's a moderated integration message"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:750
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:230
+#: ../../cmd/web/views/account/settings.qtpl:769
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:249
 #: ../../cmd/web/views/user/enterprise.qtpl:149
 msgid "Italian"
 msgstr ""
@@ -12187,7 +12205,7 @@ msgid "Italy"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:833
+#: ../../cmd/web/views/account/settings.qtpl:843
 msgid "Items Per Page"
 msgstr ""
 
@@ -12251,7 +12269,7 @@ msgid "Join This Group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:114
+#: ../../cmd/web/views/account/groupprofile.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:283
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:586
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:125
@@ -12374,20 +12392,20 @@ msgid "Label removed from issue"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:740
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:220
+#: ../../cmd/web/views/account/settings.qtpl:741
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:221
 #: ../../cmd/web/views/user/enterprise.qtpl:139
 msgid "Language Preference"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:246
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:262
 #: ../../cmd/web/views/user/enterprise.qtpl:165
 msgid "Language the website and notifications are in."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:772
+#: ../../cmd/web/views/account/settings.qtpl:782
 msgid ""
 "Language the website and notifications are in. Please see our <a "
 "href=\"/static/translations\">Language Support</a> page for information on how "
@@ -12443,7 +12461,7 @@ msgid "laughed at a photo"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:217
+#: ../../cmd/web/views/account/settings.qtpl:218
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:112
 msgid "Learn More"
 msgstr ""
@@ -12681,7 +12699,7 @@ msgid "List moved to other board"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1095
+#: ../../cmd/web/views/account/settings.qtpl:1105
 msgid "List of recent account accesses."
 msgstr ""
 
@@ -12719,9 +12737,9 @@ msgid "LLM"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:216
-#: ../../cmd/web/views/account/settings.qtpl:549
-#: ../../cmd/web/views/account/settings.qtpl:698
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:218
+#: ../../cmd/web/views/account/settings.qtpl:550
+#: ../../cmd/web/views/account/settings.qtpl:699
 #: ../../cmd/web/views/account/usersessions.qtpl:81
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:514
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:565
@@ -12865,12 +12883,12 @@ msgid "Log in with Google"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1210
 #: ../../cmd/web/views/account/settings.qtpl:1220
-#: ../../cmd/web/views/account/settings.qtpl:1228
-#: ../../cmd/web/views/account/settings.qtpl:1236
-#: ../../cmd/web/views/account/settings.qtpl:1244
+#: ../../cmd/web/views/account/settings.qtpl:1230
+#: ../../cmd/web/views/account/settings.qtpl:1238
+#: ../../cmd/web/views/account/settings.qtpl:1246
 #: ../../cmd/web/views/account/settings.qtpl:1254
+#: ../../cmd/web/views/account/settings.qtpl:1264
 #: ../../cmd/web/views/base.qtpl:568
 #: ../../cmd/web/views/base.qtpl:693
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl:104
@@ -12890,7 +12908,7 @@ msgid "Logged out"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:160
+#: ../../cmd/web/views/account/settings.qtpl:161
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:213
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:213
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:224
@@ -13065,7 +13083,7 @@ msgid "Mar"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:868
+#: ../../cmd/web/views/account/settings.qtpl:878
 msgid "Markdown"
 msgstr ""
 
@@ -13103,7 +13121,7 @@ msgid "Mauritius"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:179
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:180
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1009
 #: ../../cmd/web/views/sub/editsub.qtpl:288
 #: ../../cmd/web/views/sub/groupinvite.qtpl:254
@@ -13159,7 +13177,7 @@ msgid "Max Size In Photos Section"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:199
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:200
 msgid ""
 "Max size of attachments sent to the member in emails. For attachments larger "
 "than this size, links to retrieve them will be provided instead."
@@ -13444,7 +13462,7 @@ msgid "Members @ $0.%02d/member"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:169
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:170
 msgid "Members automatically follow any topics they've started or replied to."
 msgstr ""
 
@@ -13594,7 +13612,7 @@ msgid "Members Only"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:106
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:107
 msgid ""
 "Members receive a daily summary, delivered in the morning, of the group's "
 "messages from the previous day."
@@ -13616,17 +13634,17 @@ msgid "Members To Be Removed"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:115
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:116
 msgid "Members will only receive special notices from the moderators."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:77
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:78
 msgid "Members will receive each message in an individual email."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:125
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:126
 msgid "Members will receive no emails."
 msgstr ""
 
@@ -13809,7 +13827,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/mergeaccounts.qtpl:56
-#: ../../cmd/web/views/account/settings.qtpl:430
+#: ../../cmd/web/views/account/settings.qtpl:431
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl:182
 msgid "Merge"
 msgstr ""
@@ -13831,8 +13849,8 @@ msgid "mergeaccounts+"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:138
-#: ../../cmd/web/views/account/groupprofile.qtpl:142
+#: ../../cmd/web/views/account/groupprofile.qtpl:140
+#: ../../cmd/web/views/account/groupprofile.qtpl:144
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl:36
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:192
 #: ../../cmd/web/views/user/original.qtpl:38
@@ -13966,7 +13984,7 @@ msgid "Message Policies"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:133
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:134
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:965
 #: ../../cmd/web/views/sub/editsub.qtpl:242
 #: ../../cmd/web/views/sub/groupinvite.qtpl:208
@@ -14234,7 +14252,7 @@ msgid "Military"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:270
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:286
 msgid "Military Time (15:04)"
 msgstr ""
 
@@ -14474,8 +14492,8 @@ msgid "Monaco"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:824
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:299
+#: ../../cmd/web/views/account/settings.qtpl:834
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:315
 msgid "Monday Start"
 msgstr ""
 
@@ -14818,7 +14836,7 @@ msgid "Muted Topics"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:914
+#: ../../cmd/web/views/account/settings.qtpl:924
 msgid "My Messages"
 msgstr ""
 
@@ -15061,7 +15079,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/bouncing.qtpl:79
 #: ../../cmd/web/views/account/needreverification.qtpl:74
-#: ../../cmd/web/views/account/settings.qtpl:169
+#: ../../cmd/web/views/account/settings.qtpl:170
 msgid "New Email"
 msgstr ""
 
@@ -15157,7 +15175,7 @@ msgid "New Page"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:228
+#: ../../cmd/web/views/account/settings.qtpl:229
 msgid "New Password"
 msgstr ""
 
@@ -15395,7 +15413,7 @@ msgid "No Color"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1312
+#: ../../cmd/web/views/account/settings.qtpl:1322
 msgid "No credit card is on file."
 msgstr ""
 
@@ -15425,7 +15443,7 @@ msgid "No donations have been made."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:122
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:123
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:872
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:701
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1396
@@ -15448,7 +15466,7 @@ msgid "no email"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:331
+#: ../../cmd/web/views/account/settings.qtpl:332
 msgid "No email aliases have been defined."
 msgstr ""
 
@@ -15770,12 +15788,12 @@ msgid "not restrict attachment size"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:145
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:164
-#: ../../cmd/web/views/account/settings.qtpl:635
-#: ../../cmd/web/views/account/settings.qtpl:654
-#: ../../cmd/web/views/account/settings.qtpl:744
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:224
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:147
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:166
+#: ../../cmd/web/views/account/settings.qtpl:636
+#: ../../cmd/web/views/account/settings.qtpl:655
+#: ../../cmd/web/views/account/settings.qtpl:745
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:225
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:260
 #: ../../cmd/web/views/user/enterprise.qtpl:143
 msgid "Not set"
@@ -15830,7 +15848,7 @@ msgid "Note To Send Attendees"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:206
+#: ../../cmd/web/views/account/settings.qtpl:207
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:220
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:166
 msgid "Note:"
@@ -15966,7 +15984,7 @@ msgid "Notification \"%s\" was sent requiring approval"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:940
+#: ../../cmd/web/views/account/settings.qtpl:950
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl:109
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl:109
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:217
@@ -15976,7 +15994,7 @@ msgid "Notifications"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:973
+#: ../../cmd/web/views/account/settings.qtpl:983
 msgid "Notifications are currently not enabled on this device."
 msgstr ""
 
@@ -16067,7 +16085,7 @@ msgid "Number"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:850
+#: ../../cmd/web/views/account/settings.qtpl:860
 msgid "Number of items displayed per page."
 msgstr ""
 
@@ -16078,7 +16096,7 @@ msgid "Number Of Members"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1199
+#: ../../cmd/web/views/account/settings.qtpl:1209
 msgid "Oauth Logins"
 msgstr ""
 
@@ -16115,7 +16133,7 @@ msgid "of $"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:893
+#: ../../cmd/web/views/account/settings.qtpl:903
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1044
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1059
 msgid "Off"
@@ -16139,7 +16157,7 @@ msgid "Oman"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:896
+#: ../../cmd/web/views/account/settings.qtpl:906
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:460
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1040
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1055
@@ -16272,9 +16290,9 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:174
-#: ../../cmd/web/views/account/settings.qtpl:519
-#: ../../cmd/web/views/account/settings.qtpl:664
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:176
+#: ../../cmd/web/views/account/settings.qtpl:520
+#: ../../cmd/web/views/account/settings.qtpl:665
 msgid "Only group owners & moderators"
 msgstr ""
 
@@ -16540,13 +16558,13 @@ msgid "Other Info"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:177
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:179
 msgid "Other members of your group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:522
-#: ../../cmd/web/views/account/settings.qtpl:667
+#: ../../cmd/web/views/account/settings.qtpl:523
+#: ../../cmd/web/views/account/settings.qtpl:668
 msgid "Other members of your groups"
 msgstr ""
 
@@ -16593,8 +16611,8 @@ msgid "Out Of Space"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:444
-#: ../../cmd/web/views/account/settings.qtpl:588
+#: ../../cmd/web/views/account/settings.qtpl:445
+#: ../../cmd/web/views/account/settings.qtpl:589
 msgid "Overall Profile"
 msgstr ""
 
@@ -16870,7 +16888,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/register.qtpl:111
-#: ../../cmd/web/views/account/settings.qtpl:245
+#: ../../cmd/web/views/account/settings.qtpl:246
 #: ../../cmd/web/views/static/staticwelcome.qtpl:96
 msgid "Passwords must be at least 6 characters long."
 msgstr ""
@@ -16984,9 +17002,9 @@ msgid "Payment History"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1363
-#: ../../cmd/web/views/account/settings.qtpl:1438
-#: ../../cmd/web/views/account/settings.qtpl:1506
+#: ../../cmd/web/views/account/settings.qtpl:1373
+#: ../../cmd/web/views/account/settings.qtpl:1448
+#: ../../cmd/web/views/account/settings.qtpl:1516
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:637
 msgid "Payment Method"
 msgstr ""
@@ -17356,7 +17374,7 @@ msgid "Place message footers in a separate MIME part."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:93
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:94
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:849
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:684
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1388
@@ -17373,7 +17391,7 @@ msgid "plain digest"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:871
+#: ../../cmd/web/views/account/settings.qtpl:881
 msgid "Plain Text"
 msgstr ""
 
@@ -17383,7 +17401,7 @@ msgid "Plain Text Only"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1503
+#: ../../cmd/web/views/account/settings.qtpl:1513
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:634
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:333
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl:110
@@ -17542,7 +17560,8 @@ msgid "Portugal"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:762
+#: ../../cmd/web/views/account/settings.qtpl:772
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
 msgid "Portuguese"
 msgstr ""
 
@@ -17720,7 +17739,7 @@ msgid "Prefs"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1533
+#: ../../cmd/web/views/account/settings.qtpl:1543
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:130
 #: ../../cmd/web/views/static/staticpricing.qtpl:172
 msgid "Premium"
@@ -17768,9 +17787,9 @@ msgid "Prevented by Free Group Limits"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:206
-#: ../../cmd/web/views/account/settings.qtpl:538
-#: ../../cmd/web/views/account/settings.qtpl:687
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:208
+#: ../../cmd/web/views/account/settings.qtpl:539
+#: ../../cmd/web/views/account/settings.qtpl:688
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:842
 #: ../../cmd/web/views/group/grouppromote.qtpl:241
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:925
@@ -17861,19 +17880,19 @@ msgid "Private"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:70
+#: ../../cmd/web/views/account/groupprofile.qtpl:72
 msgid "Profile"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:124
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:126
 msgid "Profile Photo"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:170
-#: ../../cmd/web/views/account/settings.qtpl:515
-#: ../../cmd/web/views/account/settings.qtpl:660
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:172
+#: ../../cmd/web/views/account/settings.qtpl:516
+#: ../../cmd/web/views/account/settings.qtpl:661
 msgid "Profile Privacy"
 msgstr ""
 
@@ -17891,7 +17910,7 @@ msgid "Promote Your Group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1055
+#: ../../cmd/web/views/account/settings.qtpl:1065
 msgid "Protect your account with an extra level of security."
 msgstr ""
 
@@ -17901,9 +17920,9 @@ msgid "Provider"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:181
-#: ../../cmd/web/views/account/settings.qtpl:526
-#: ../../cmd/web/views/account/settings.qtpl:671
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:183
+#: ../../cmd/web/views/account/settings.qtpl:527
+#: ../../cmd/web/views/account/settings.qtpl:672
 msgid "Public"
 msgstr ""
 
@@ -18105,7 +18124,7 @@ msgid "Reason for removal."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:922
+#: ../../cmd/web/views/account/settings.qtpl:932
 msgid "Receive copies of your own emails sent to groups."
 msgstr ""
 
@@ -18202,7 +18221,7 @@ msgid "Recent Chats"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:213
+#: ../../cmd/web/views/account/groupprofile.qtpl:215
 msgid "Recent Messages"
 msgstr ""
 
@@ -18231,8 +18250,8 @@ msgid "Records"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1072
-#: ../../cmd/web/views/account/settings.qtpl:1165
+#: ../../cmd/web/views/account/settings.qtpl:1082
+#: ../../cmd/web/views/account/settings.qtpl:1175
 msgid ""
 "Recovery codes can be used to access your account in the event you lose access "
 "to your device and cannot receive two-factor authentication codes."
@@ -18741,7 +18760,7 @@ msgid "Report This Photo"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:241
+#: ../../cmd/web/views/account/groupprofile.qtpl:243
 msgid "Report This Profile"
 msgstr ""
 
@@ -18824,8 +18843,8 @@ msgid "Resend Pending Membership Notice"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:246
-#: ../../cmd/web/views/account/settings.qtpl:723
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:248
+#: ../../cmd/web/views/account/settings.qtpl:724
 msgid "Reset Group Profile"
 msgstr ""
 
@@ -19187,7 +19206,7 @@ msgid "Saving attachments to <b>%s</b>."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1076
+#: ../../cmd/web/views/account/settings.qtpl:1086
 msgid ""
 "Saving your recovery codes in a safe place can help keep you from being locked "
 "out of your account. If the authentication code is lost (for example, if a "
@@ -19196,15 +19215,15 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1110
+#: ../../cmd/web/views/account/settings.qtpl:1120
 msgid "Scan This Barcode With Your App"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1130
+#: ../../cmd/web/views/account/settings.qtpl:1140
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, enter "
-"the code <strong>%s</strong>instead."
+"the code <strong>%s</strong> instead."
 msgstr ""
 
 #, go-format
@@ -19323,7 +19342,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:393
+#: ../../cmd/web/views/account/settings.qtpl:394
 msgid "Select the groups you wish to export data from:"
 msgstr ""
 
@@ -19352,7 +19371,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1010
+#: ../../cmd/web/views/account/settings.qtpl:1020
 msgid "Send A Test Notification"
 msgstr ""
 
@@ -19612,12 +19631,12 @@ msgid "Service to sync with."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1091
+#: ../../cmd/web/views/account/settings.qtpl:1101
 msgid "Sessions"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:249
+#: ../../cmd/web/views/account/settings.qtpl:250
 msgid "Set"
 msgstr ""
 
@@ -19689,7 +19708,7 @@ msgid "Set Password"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1316
+#: ../../cmd/web/views/account/settings.qtpl:1326
 msgid "Set Payment Method"
 msgstr ""
 
@@ -19730,7 +19749,7 @@ msgid "Set to special notices only"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1059
+#: ../../cmd/web/views/account/settings.qtpl:1069
 msgid "Set up two-factor authentication"
 msgstr ""
 
@@ -19740,7 +19759,7 @@ msgid "Set Up Your Profile"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:124
+#: ../../cmd/web/views/account/settings.qtpl:125
 #: ../../cmd/web/views/base.qtpl:562
 #: ../../cmd/web/views/base.qtpl:687
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:37
@@ -19931,7 +19950,7 @@ msgid "Slovenia"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:267
+#: ../../cmd/web/views/account/settings.qtpl:268
 msgid "Social Logins"
 msgstr ""
 
@@ -20006,8 +20025,8 @@ msgid "SPAM Left"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:759
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:239
+#: ../../cmd/web/views/account/settings.qtpl:775
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:255
 #: ../../cmd/web/views/user/enterprise.qtpl:158
 msgid "Spanish"
 msgstr ""
@@ -20022,7 +20041,7 @@ msgid "Special"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:112
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:113
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:864
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:695
 #: ../../cmd/web/views/sub/editsub.qtpl:137
@@ -20075,7 +20094,7 @@ msgid "sponsorship help"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1420
+#: ../../cmd/web/views/account/settings.qtpl:1430
 msgid "Sponsorship History"
 msgstr ""
 
@@ -20116,7 +20135,7 @@ msgid "St. Pierre and Miquelon"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:267
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:283
 msgid "Standard Time (3:04pm)"
 msgstr ""
 
@@ -20165,8 +20184,8 @@ msgid "Start Merge"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:827
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:302
+#: ../../cmd/web/views/account/settings.qtpl:837
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:318
 msgid "Start the calendar week on Monday instead of Sunday."
 msgstr ""
 
@@ -20201,8 +20220,8 @@ msgid "State"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1369
-#: ../../cmd/web/views/account/settings.qtpl:1509
+#: ../../cmd/web/views/account/settings.qtpl:1379
+#: ../../cmd/web/views/account/settings.qtpl:1519
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:646
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:121
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:101
@@ -20210,13 +20229,13 @@ msgid "Status"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1044
-#: ../../cmd/web/views/account/settings.qtpl:1052
+#: ../../cmd/web/views/account/settings.qtpl:1054
+#: ../../cmd/web/views/account/settings.qtpl:1062
 msgid "Status: Off"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1063
+#: ../../cmd/web/views/account/settings.qtpl:1073
 msgid "Status: On"
 msgstr ""
 
@@ -20545,8 +20564,8 @@ msgid "Subscriptions to this group require approval from the moderators."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1406
-#: ../../cmd/web/views/account/settings.qtpl:1548
+#: ../../cmd/web/views/account/settings.qtpl:1416
+#: ../../cmd/web/views/account/settings.qtpl:1558
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:715
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:125
 msgid "Succeeded"
@@ -20971,7 +20990,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/register.qtpl:88
-#: ../../cmd/web/views/account/settings.qtpl:351
+#: ../../cmd/web/views/account/settings.qtpl:352
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:199
 msgid "That email address is already registered."
 msgstr ""
@@ -20979,7 +20998,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/bouncing.qtpl:92
 #: ../../cmd/web/views/account/needreverification.qtpl:87
-#: ../../cmd/web/views/account/settings.qtpl:182
+#: ../../cmd/web/views/account/settings.qtpl:183
 msgid ""
 "That email address is already registered. If you wish to merge the two accounts, "
 "send an email to support@groups.io, specifying both email addresses and which "
@@ -20994,7 +21013,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/bouncing.qtpl:88
 #: ../../cmd/web/views/account/needreverification.qtpl:83
-#: ../../cmd/web/views/account/settings.qtpl:178
+#: ../../cmd/web/views/account/settings.qtpl:179
 msgid "That email address is already your current email address."
 msgstr ""
 
@@ -21002,8 +21021,8 @@ msgstr ""
 #: ../../cmd/web/views/account/bouncing.qtpl:84
 #: ../../cmd/web/views/account/needreverification.qtpl:79
 #: ../../cmd/web/views/account/register.qtpl:84
-#: ../../cmd/web/views/account/settings.qtpl:174
-#: ../../cmd/web/views/account/settings.qtpl:347
+#: ../../cmd/web/views/account/settings.qtpl:175
+#: ../../cmd/web/views/account/settings.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:195
 msgid "That email address is not valid."
 msgstr ""
@@ -21080,13 +21099,13 @@ msgid "That password is too long. Passwords can be at most 60 characters long."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:241
+#: ../../cmd/web/views/account/settings.qtpl:242
 msgid "That password is too long. Passwords must be no more than 60 characters long."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/register.qtpl:103
-#: ../../cmd/web/views/account/settings.qtpl:237
+#: ../../cmd/web/views/account/settings.qtpl:238
 msgid "That password is too short. Passwords must be at least 6 characters long."
 msgstr ""
 
@@ -21108,7 +21127,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:496
+#: ../../cmd/web/views/account/settings.qtpl:497
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:429
 msgid "That username has already been taken."
 msgstr ""
@@ -21417,7 +21436,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:159
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:160
 msgid "The first message of every new thread is also emailed to the members."
 msgstr ""
 
@@ -21730,14 +21749,14 @@ msgid "The name cannot be empty."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:510
+#: ../../cmd/web/views/account/settings.qtpl:511
 msgid ""
 "The name listed with your messages. Note: When you send a message, your email "
 "address is also shown to group members who receive messages via email."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:645
+#: ../../cmd/web/views/account/settings.qtpl:646
 msgid ""
 "The name listed with your messages. Note: When you send messages to this group, "
 "your email address is also shown to group members who receive messages via "
@@ -21750,7 +21769,7 @@ msgid "The name listed with your posts."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:155
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:157
 msgid ""
 "The name listed with your posts. Note: When you post, your email address is also "
 "shown to group members who receive messages via email."
@@ -22528,7 +22547,7 @@ msgid "This topic has been removed because of a DMCA take down request."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:204
+#: ../../cmd/web/views/account/groupprofile.qtpl:206
 msgid "This user has never posted to the group."
 msgstr ""
 
@@ -22564,8 +22583,8 @@ msgid "Time"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:788
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:263
+#: ../../cmd/web/views/account/settings.qtpl:798
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:279
 msgid "Time Display"
 msgstr ""
 
@@ -22575,9 +22594,9 @@ msgid "times"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:777
+#: ../../cmd/web/views/account/settings.qtpl:787
 #: ../../cmd/web/views/calendar/calendar.qtpl:231
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:268
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:319
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:167
 #: ../../cmd/web/views/user/enterprise.qtpl:171
@@ -22654,7 +22673,7 @@ msgid "To contact the owners of this group, send an email to:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1047
+#: ../../cmd/web/views/account/settings.qtpl:1057
 msgid ""
 "To enable two-factor authentication, first log out and log back in using your "
 "email address and password. Do not log in using Facebook or Google."
@@ -22855,8 +22874,8 @@ msgid "Today"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:447
-#: ../../cmd/web/views/account/settings.qtpl:581
+#: ../../cmd/web/views/account/settings.qtpl:448
+#: ../../cmd/web/views/account/settings.qtpl:582
 #: ../../cmd/web/views/calendar/calendar.qtpl:143
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl:91
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:131
@@ -23098,7 +23117,7 @@ msgid "Transaction ID:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1169
+#: ../../cmd/web/views/account/settings.qtpl:1179
 msgid ""
 "Treat your recovery codes with the same level of attention as you would your "
 "password! We recommend saving them with a password manager such as <a "
@@ -23195,7 +23214,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1038
+#: ../../cmd/web/views/account/settings.qtpl:1048
 msgid "Two-Factor Authentication"
 msgstr ""
 
@@ -23210,7 +23229,7 @@ msgid "Two-factor authentication is now set up for your account."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1162
+#: ../../cmd/web/views/account/settings.qtpl:1172
 msgid "Two-factor Recovery Codes"
 msgstr ""
 
@@ -23245,8 +23264,8 @@ msgid "Ukraine"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:765
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:242
+#: ../../cmd/web/views/account/settings.qtpl:778
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:258
 #: ../../cmd/web/views/user/enterprise.qtpl:161
 msgid "Ukrainian"
 msgstr ""
@@ -23378,7 +23397,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:183
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:184
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:603
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1013
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:841
@@ -23670,8 +23689,8 @@ msgid "Update Group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:242
-#: ../../cmd/web/views/account/settings.qtpl:719
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:244
+#: ../../cmd/web/views/account/settings.qtpl:720
 msgid "Update Group Profile"
 msgstr ""
 
@@ -23696,12 +23715,12 @@ msgid "Update on Groups.io Reverification Process"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:570
+#: ../../cmd/web/views/account/settings.qtpl:571
 msgid "Update Overall Profile"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1330
+#: ../../cmd/web/views/account/settings.qtpl:1340
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:321
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:355
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:352
@@ -23720,7 +23739,7 @@ msgid "Update Poll"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:932
+#: ../../cmd/web/views/account/settings.qtpl:942
 msgid "Update Preferences"
 msgstr ""
 
@@ -23730,7 +23749,7 @@ msgid "Update Row"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:339
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:355
 #: ../../cmd/web/views/user/enterprise.qtpl:293
 msgid "Update Settings"
 msgstr ""
@@ -23771,12 +23790,6 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:102
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:293
 msgid "updated"
-msgstr ""
-
-#, go-format
-#. TRANSLATORS: The %s is the page title
-#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:154
-msgid "Updated %s page"
 msgstr ""
 
 #, go-format
@@ -23833,6 +23846,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:189
 msgid "updated in the"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:152
+msgid "Updated page"
 msgstr ""
 
 #, go-format
@@ -24089,9 +24107,9 @@ msgid "Usage"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1399
-#: ../../cmd/web/views/account/settings.qtpl:1471
-#: ../../cmd/web/views/account/settings.qtpl:1551
+#: ../../cmd/web/views/account/settings.qtpl:1409
+#: ../../cmd/web/views/account/settings.qtpl:1481
+#: ../../cmd/web/views/account/settings.qtpl:1561
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:115
 msgid "USD $"
 msgstr ""
@@ -24163,8 +24181,8 @@ msgid "Use this poster of the video as the cover for the album."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:783
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:258
+#: ../../cmd/web/views/account/settings.qtpl:793
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:274
 msgid "Used for displaying times."
 msgstr ""
 
@@ -24189,9 +24207,9 @@ msgid "User Sessions"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:142
-#: ../../cmd/web/views/account/settings.qtpl:486
-#: ../../cmd/web/views/account/settings.qtpl:632
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:144
+#: ../../cmd/web/views/account/settings.qtpl:487
+#: ../../cmd/web/views/account/settings.qtpl:633
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:266
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:419
 msgid "Username"
@@ -24231,7 +24249,7 @@ msgid "Uzbekistan"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1154
+#: ../../cmd/web/views/account/settings.qtpl:1164
 msgid "Validate"
 msgstr ""
 
@@ -24546,7 +24564,7 @@ msgid "View All %d Messages"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupprofile.qtpl:224
+#: ../../cmd/web/views/account/groupprofile.qtpl:226
 msgid "View All Messages"
 msgstr ""
 
@@ -24658,7 +24676,7 @@ msgid "View this message online"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1080
+#: ../../cmd/web/views/account/settings.qtpl:1090
 msgid "View your recovery codes"
 msgstr ""
 
@@ -25096,9 +25114,9 @@ msgid "Web/App only"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:226
-#: ../../cmd/web/views/account/settings.qtpl:559
-#: ../../cmd/web/views/account/settings.qtpl:708
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:228
+#: ../../cmd/web/views/account/settings.qtpl:560
+#: ../../cmd/web/views/account/settings.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:215
 #: ../../cmd/web/views/user/enterprise.qtpl:63
 msgid "Website"
@@ -25253,7 +25271,7 @@ msgstr ""
 
 #, go-format
 #. TRANSLATORS: The %s is the organization's domain (usually groups.io unless an enterprise group).
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:214
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:215
 msgid ""
 "When a member joins that does not already have a %s account, their account will "
 "default to these settings."
@@ -25275,7 +25293,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:63
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:64
 msgid "When new members join, their subscription will default to these settings."
 msgstr ""
 
@@ -25352,7 +25370,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1190
+#: ../../cmd/web/views/account/settings.qtpl:1200
 msgid ""
 "When you generate new recovery codes, you must download or print the new codes. "
 "Your old codes won’t work anymore."
@@ -25392,7 +25410,7 @@ msgid "Whether to be notified of new messages."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:875
+#: ../../cmd/web/views/account/settings.qtpl:885
 msgid "Which editor to use for composing messages on the website."
 msgstr ""
 
@@ -25429,9 +25447,9 @@ msgid "Who can edit the database options."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:186
-#: ../../cmd/web/views/account/settings.qtpl:531
-#: ../../cmd/web/views/account/settings.qtpl:676
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:188
+#: ../../cmd/web/views/account/settings.qtpl:532
+#: ../../cmd/web/views/account/settings.qtpl:677
 msgid "Who can see your profile information."
 msgstr ""
 
@@ -26292,7 +26310,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:949
+#: ../../cmd/web/views/account/settings.qtpl:959
 msgid "You currently have no devices enabled to receive notifications."
 msgstr ""
 
@@ -26490,17 +26508,17 @@ msgid "You have no Trello integrations."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1288
+#: ../../cmd/web/views/account/settings.qtpl:1298
 msgid "You have not connected your Zoom account to Groups.io."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1413
+#: ../../cmd/web/views/account/settings.qtpl:1423
 msgid "You have not made any donations."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1558
+#: ../../cmd/web/views/account/settings.qtpl:1568
 msgid "You have not made any payments."
 msgstr ""
 
@@ -26517,7 +26535,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1478
+#: ../../cmd/web/views/account/settings.qtpl:1488
 msgid "You have not sponsored any groups."
 msgstr ""
 
@@ -26543,14 +26561,14 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:422
+#: ../../cmd/web/views/account/settings.qtpl:423
 msgid ""
 "You have specified an email address, <strong>%s</strong>, that already has an "
 "account at Groups.io."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:953
+#: ../../cmd/web/views/account/settings.qtpl:963
 msgid "You have the following notification subscriptions:"
 msgstr ""
 
@@ -26587,7 +26605,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1185
+#: ../../cmd/web/views/account/settings.qtpl:1195
 msgid "You have used up all your recovery codes."
 msgstr ""
 
@@ -26641,7 +26659,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/register.qtpl:99
-#: ../../cmd/web/views/account/settings.qtpl:233
+#: ../../cmd/web/views/account/settings.qtpl:234
 #: ../../cmd/web/views/login/login.qtpl:120
 msgid "You must enter a password."
 msgstr ""
@@ -26986,7 +27004,7 @@ msgid "Your Activity"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1301
+#: ../../cmd/web/views/account/settings.qtpl:1311
 msgid ""
 "Your billing info, if entered, will be used for any groups you create that "
 "require payment, any group sponsorships you choose to pay, and for donations you "
@@ -27100,14 +27118,14 @@ msgid "Your Email Addresses"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:212
+#: ../../cmd/web/views/account/settings.qtpl:213
 msgid ""
 "Your email is hosted by Exchange, so we will rewrite the From line for all group "
 "messages sent to you."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:209
+#: ../../cmd/web/views/account/settings.qtpl:210
 msgid ""
 "Your email is hosted by Gmail, so we will rewrite the From line for the copies "
 "of your group messages that we send back to you."
@@ -27193,9 +27211,9 @@ msgid "Your Identity"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:220
-#: ../../cmd/web/views/account/settings.qtpl:553
-#: ../../cmd/web/views/account/settings.qtpl:702
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:222
+#: ../../cmd/web/views/account/settings.qtpl:554
+#: ../../cmd/web/views/account/settings.qtpl:703
 msgid "Your location."
 msgstr ""
 
@@ -27312,7 +27330,7 @@ msgid "Your pending membership in the %s group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:136
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:138
 msgid ""
 "Your picture is posted in the message archives next to your display name on any "
 "posts you make in this group and events to which you RSVP. Feel free to use a "
@@ -27395,7 +27413,7 @@ msgid "Your RSVP to the %s event has been changed"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:500
+#: ../../cmd/web/views/account/settings.qtpl:501
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:433
 msgid ""
 "Your short username. Must be unique, with no punctuation or spaces. This is "
@@ -27450,14 +27468,14 @@ msgid "Your waitlist position has changed for the %s event"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:230
-#: ../../cmd/web/views/account/settings.qtpl:563
-#: ../../cmd/web/views/account/settings.qtpl:712
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:232
+#: ../../cmd/web/views/account/settings.qtpl:564
+#: ../../cmd/web/views/account/settings.qtpl:713
 msgid "Your website."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1279
+#: ../../cmd/web/views/account/settings.qtpl:1289
 msgid ""
 "Your Zoom account is connected to your Groups.io account. Now, when you create "
 "an event in your group calendar, you can also create a Zoom meeting at the same "
@@ -27511,7 +27529,7 @@ msgid "Zoom CB"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1274
+#: ../../cmd/web/views/account/settings.qtpl:1284
 msgid ""
 "Zoom integration allows the easy creation of new Zoom meetings when creating new "
 "Groups.io calendar events. When creating a new calendar event, simply press the "
@@ -27523,7 +27541,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/settings.qtpl:1265
+#: ../../cmd/web/views/account/settings.qtpl:1275
 msgid "Zoom Login"
 msgstr ""
 

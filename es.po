@@ -131,62 +131,62 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added %[2]s"
-msgstr "%[1]s añadido %[2]s"
+msgstr "%[1]s ha añadido %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2105
 #: ../../tools/genactivities/activities.hjson:2111
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added %[2]s with message \"%[3]s\""
-msgstr "%[1]s añadido %[2]s con mensaje \"%[3]s\""
+msgstr "%[1]s ha añadido %[2]s con el mensaje \"%[3]s\"."
 
 #: ../../tools/genactivities/activities.hjson:997
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added alias %[2]s"
-msgstr "%[1]s alias añadido %[2]s"
+msgstr "%[1]s añadido alias %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2621
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added banned domain %[2]s"
-msgstr "%[1]s añadido dominio prohibido %[2]s"
+msgstr "%[1]s ha añadido el dominio prohibido %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1973
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added Email integration %[2]s"
-msgstr "%[1]s integración del correo electrónico %[2]s"
+msgstr "%[1]s añadido Integración del correo electrónico %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:555
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added event %[2]s"
-msgstr "%[1]s evento añadido %[2]s"
+msgstr "%[1]s añadido evento %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2064
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added Facebook Page %[2]s"
-msgstr "%[1]s Página de Facebook añadida %[2]s"
+msgstr "%[1]s añadió la página de Facebook %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1786
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added feed %[2]s"
-msgstr "%[1]s alimentación añadida %[2]s"
+msgstr "%[1]s añadido feed %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:685
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added file (%[2]s) %[3]s"
-msgstr "%[1]s archivo añadido (%[2]s) %[3]s"
+msgstr "%[1]s expediente añadido (%[2]s) %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:698
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added folder %[2]s"
-msgstr "%[1]s carpeta añadida %[2]s"
+msgstr "%[1]s ha añadido la carpeta %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1825
 #, fuzzy
@@ -198,43 +198,43 @@ msgstr "%[1]s añadido repositorio Github %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added group alias %[2]s"
-msgstr "%[1]s alias de grupo añadido %[2]s"
+msgstr "%[1]s ha añadido el alias de grupo %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1864
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added hashtag %[2]s"
-msgstr "%[1]s hashtag añadido %[2]s"
+msgstr "%[1]s añadido hashtag %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1140
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added image \"%[2]s\" to the wiki images area"
-msgstr "%[1]s añadida imagen \"%[2]s\" al área de imágenes de la wiki"
+msgstr "%[1]s ha añadido la imagen \"%[2]s\" al área de imágenes de la wiki"
 
 #: ../../tools/genactivities/activities.hjson:2025
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added instagram user %[2]s"
-msgstr "%[1]s usuario de instagram añadido %[2]s"
+msgstr "%[1]s añadió al usuario de instagram %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2477
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added member notice %[2]s"
-msgstr "%[1]s aviso de adhesión %[2]s"
+msgstr "%[1]s añade un aviso de adhesión a %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:888
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added photo %[2]s"
-msgstr "%[1]s foto añadida %[2]s"
+msgstr "%[1]s añadió la foto %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:849
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added photo album %[2]s"
-msgstr "%[1]s álbum de fotos añadido %[2]s"
+msgstr "%[1]s añadido álbum de fotos %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:633
 #, fuzzy
@@ -246,25 +246,25 @@ msgstr "%[1]s añadido evento repetitivo %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added row id %#[2]d of table %[3]s"
-msgstr "%[1]s añadido id de fila %#[2]d de la tabla %[3]s"
+msgstr "%[1]s ha añadido la fila %#[2]d de la tabla %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1023
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added table %[2]s"
-msgstr "%[1]s tabla añadida %[2]s"
+msgstr "%[1]s añadida tabla %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2172
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added Trello board %[2]s"
-msgstr "%[1]s añadido tablero Trello %[2]s"
+msgstr "%[1]s añadido tablón de Trello %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:797
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s added wiki page %[2]s"
-msgstr "%[1]s página wiki añadida %[2]s"
+msgstr "%[1]s ha añadido la página wiki %[2]s."
 
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:87
 #, fuzzy
@@ -279,67 +279,67 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s"
-msgstr "%[1]s aprobado %[2]s"
+msgstr "%[1]s aprobados %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1632
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s's membership"
-msgstr "%[1]s aprobó la adhesión de %[2]s"
+msgstr "%[1]s aprueba la adhesión de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1571
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s's message"
-msgstr "%[1]s aprobado el mensaje de %[2]s"
+msgstr "%[1]s ha aprobado el mensaje de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1569
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s's special notice"
-msgstr "%[1]s aprobado el aviso especial de %[2]s"
+msgstr "%[1]s aprueba el anuncio especial de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1553
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved an edit of %[2]s"
-msgstr "%[1]s aprobó una edición de %[2]s"
+msgstr "%[1]s ha aprobado una edición de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1565
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved an edit of %[2]s's message"
-msgstr "%[1]s ha aprobado la edición del mensaje de %[2]s"
+msgstr "%[1]s ha aprobado la edición del mensaje de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1563
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s approved an edit of %[2]s's special notice"
-msgstr "%[1]s aprobó una edición del anuncio especial de %[2]s"
+msgstr "%[1]s ha aprobado la edición del anuncio especial de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1270
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to add the file \"%[2]s\" that had the %[3]s virus"
-msgstr "%[1]s intentó añadir el archivo \"%[2]s\" que tenía el virus %[3]s "
+msgstr "%[1]s intentó añadir el fichero \"%[2]s\" que tenía el virus %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:299
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" but it had the %[3]s virus"
-msgstr "%[1]s intentó enviar el mensaje \"%[2]s\" pero tenía el virus %[3]s "
+msgstr "%[1]s intentó enviar el mensaje \"%[2]s\" pero tenía el virus %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:178
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" that was too large"
-msgstr "%[1]s intentó enviar el mensaje \"%[2]s\" que era demasiado grande"
+msgstr "%[1]s ha intentado enviar un mensaje \"%[2]s\" demasiado grande."
 
 #: ../../tools/genactivities/activities.hjson:351
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" with a new tag"
-msgstr "%[1]s intento enviar mensaje \"%[2]s\" con una nueva etiqueta"
+msgstr "%[1]s intentó enviar el mensaje \"%[2]s\" con una nueva etiqueta"
 
 #: ../../tools/genactivities/activities.hjson:338
 #, fuzzy
@@ -348,33 +348,33 @@ msgid ""
 "%[1]s attempted to send message \"%[2]s\" with a tag that only moderators can "
 "use"
 msgstr ""
-"%[1]s intentó enviar el mensaje \"%[2]s\" con una etiqueta que sólo los moderadores pueden usar"
+"%[1]s ha intentado enviar el mensaje \"%[2]s\" con una etiqueta que sólo pueden utilizar los moderadores."
 
 #: ../../tools/genactivities/activities.hjson:165
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" with attachments"
-msgstr "%[1]s intento de enviar mensaje \"%[2]s\" con archivos adjuntos."
+msgstr "%[1]s ha intentado enviar el mensaje \"%[2]s\" con archivos adjuntos."
 
 #: ../../tools/genactivities/activities.hjson:325
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" without any tags"
-msgstr "%[1]s intento de enviar mensaje \"%[2]s\" sin ninguna etiqueta"
+msgstr "%[1]s ha intentado enviar el mensaje \"%[2]s\" sin ninguna etiqueta."
 
 #: ../../tools/genactivities/activities.hjson:114
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" without posting permissions"
 msgstr ""
-"%[1]s intentó enviar el mensaje \"%[2]s\" sin permisos de publicación"
+"%[1]s ha intentado enviar el mensaje \"%[2]s\" sin permisos de publicación."
 
 #: ../../tools/genactivities/activities.hjson:431
 #: ../../tools/genactivities/activities.hjson:437
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s attempted to send spam message %[2]s to owners"
-msgstr "%[1]s intentó enviar un mensaje de spam %[2]s a los propietarios"
+msgstr "%[1]s intentó enviar el mensaje de spam %[2]s a los propietarios"
 
 #: ../../tools/genactivities/activities.hjson:433
 #: ../../tools/genactivities/activities.hjson:439
@@ -387,13 +387,13 @@ msgstr "%[1]s intentó enviar un mensaje de spam \"%[2]s\" a los propietarios"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s banned %[2]s"
-msgstr "%[1]s prohibido %[2]s"
+msgstr "%[1]s prohibido %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1676
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s banned %[2]s because %[3]s"
-msgstr "%[1]s prohibió %[2]s porque %[3]s"
+msgstr "%[1]s prohibido %[2]s porque %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:1356
 #, fuzzy
@@ -405,13 +405,14 @@ msgstr "%[1]s evento cancelado %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's color"
-msgstr "%[1]s ha cambiado el color de %[2]s"
+msgstr "%[1]s ha cambiado el color de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2451
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s'"
-msgstr "%[1]s cambiado el nombre visible de %[2]s de '%[3]s' a '%[4]s'"
+msgstr ""
+"%[1]s ha cambiado el nombre para mostrar de %[2]s de \"%[3]s\" a \"%[4]s\"."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:159
 #, fuzzy
@@ -419,7 +420,7 @@ msgstr "%[1]s cambiado el nombre visible de %[2]s de '%[3]s' a '%[4]s'"
 msgid ""
 "%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s' in group %[5]s"
 msgstr ""
-"%[1]s ha cambiado el nombre de usuario de %[2]s de '%[3]s' a '%[4]s' en el grupo %[5]s"
+"%[1]s ha cambiado el nombre para mostrar de %[2]s de \"%[3]s\" a \"%[4]s\" en el grupo %[5]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:156
 #, fuzzy
@@ -430,7 +431,8 @@ msgstr "%[1]s ha cambiado el nombre de %[2]s de \"%[3]s\" a \"%[4]s\""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's email address from %[3]s"
-msgstr "%[1]s ha cambiado la dirección de correo electrónico de %[2]s %[3]s"
+msgstr ""
+"%[1]s ha cambiado la dirección de correo electrónico de %[2]s por la de %[3]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:147
 #, fuzzy
@@ -439,7 +441,7 @@ msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name "
 "from '%[5]s' to '%[6]s' in group %[7s]"
 msgstr ""
-"%[1]s ha cambiado la dirección de correo electrónico de %[2]s de %[3]s a %[4]s y el nombre para mostrar de '%[5]s' a '%[6]s' en el grupo %[7s]"
+"%[1]s ha cambiado la dirección de correo electrónico de %[2]s de %[3]s a %[4]s y el nombre para mostrar de \"%[5]s\" a \"%[6]s\" en el grupo %[7s]."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:144
 #, fuzzy
@@ -448,94 +450,95 @@ msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name to "
 "'%[5]s' in group %[6]s"
 msgstr ""
-"%[1]s ha cambiado la dirección de correo electrónico de %[2]s de %[3]s a %[4]s y el nombre para mostrar a '%[5]s' en el grupo %[6]s"
+"%[1]s ha cambiado la dirección de correo electrónico de %[2]s de %[3]s a %[4]s y el nombre para mostrar a \"%[5]s\" en el grupo %[6]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:151
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's email address from %[3]s to %[4]s in group %[5]s"
 msgstr ""
-"%[1]s ha cambiado la dirección de correo electrónico de %[2]s de %[3]s a %[4]s en el grupo %[5]s"
+"%[1]s ha cambiado la dirección de correo electrónico de %[2]s de %[3]s a %[4]s en el grupo %[5]s."
 
 #: ../../tools/genactivities/activities.hjson:2723
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's extra member field \"%[3]s\""
-msgstr "%[1]s cambiado %[2]s's extra member field \"%[3]s\""
+msgstr "%[1]s ha modificado el campo miembro adicional \"%[3]s\" de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1729
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's message delivery"
-msgstr "%[1]s ha cambiado la entrega de mensajes de %[2]s"
+msgstr "%[1]s ha modificado la entrega de mensajes de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1727
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's message delivery to"
-msgstr "%[1]s ha cambiado la entrega de mensajes de %[2]s a"
+msgstr "%[1]s ha cambiado el envío de mensajes de %[2]s a"
 
 #: ../../tools/genactivities/activities.hjson:1743
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's moderator permissions"
-msgstr "%[1]s cambiado los permisos de moderador de %[2]s"
+msgstr "%[1]s ha cambiado los permisos de moderador de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2608
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's notification settings"
-msgstr "%[1]s ha cambiado la configuración de las notificaciones de %[2]s"
+msgstr "%[1]s ha cambiado los ajustes de notificación de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1712
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's posting status"
-msgstr "%[1]s ha cambiado el estado del mensaje de %[2]s"
+msgstr "%[1]s ha cambiado el estado de contabilización de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1710
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's posting status to"
-msgstr "%[1]s ha cambiado el estado del mensaje de %[2]s a"
+msgstr "%[1]s ha cambiado el estado de contabilización de %[2]s a"
 
 #: ../../tools/genactivities/activities.hjson:2503
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's RSVP for event %[3]s to"
-msgstr "%[1]s ha cambiado %[2]s's RSVP for event %[3]s a"
+msgstr ""
+"%[1]s ha cambiado la confirmación de asistencia de %[2]s al evento %[3]s por"
 
 #: ../../tools/genactivities/activities.hjson:2684
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's signature settings"
-msgstr "%[1]s ha cambiado la configuración de la firma de %[2]s"
+msgstr "%[1]s ha cambiado la configuración de la firma de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:502
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed email address from %[2]s to %[3]s"
 msgstr ""
-"%[1]s ha cambiado la dirección de correo electrónico de %[2]s a %[3]s"
+"%[1]s ha cambiado la dirección de correo electrónico de %[2]s a %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2889
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed group plan to %[2]s"
-msgstr "%[1]s cambió el plan de grupo a %[2]s"
+msgstr "%[1]s ha cambiado el plan de grupo a %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2425
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s"
-msgstr "%[1]s cambiado el 'responder a' para el tema %[2]s"
+msgstr "%[1]s ha cambiado la \"respuesta a\" del tema %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2435
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply only to sender'"
 msgstr ""
-"%[1]s cambiado el "responder a" para el tema %[2]s a "responder sólo al remitente"."
+"%[1]s ha cambiado \"responder a\" del tema %[2]s a \"responder sólo al remitente\"."
 
 #: ../../tools/genactivities/activities.hjson:2433
 #, fuzzy
@@ -543,28 +546,28 @@ msgstr ""
 msgid ""
 "%[1]s changed the 'reply to' for topic %[2]s to 'reply to group & sender'"
 msgstr ""
-"%[1]s cambiado el "responder a" para el tema %[2]s a "responder al grupo y remitente"."
+"%[1]s ha cambiado \"responder a\" del tema %[2]s a \"responder al grupo y al remitente\"."
 
 #: ../../tools/genactivities/activities.hjson:2427
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply to group'"
 msgstr ""
-"%[1]s cambiado el "responder a" para el tema %[2]s a "responder al grupo"."
+"%[1]s ha cambiado \"responder a\" del tema %[2]s a \"responder al grupo\"."
 
 #: ../../tools/genactivities/activities.hjson:2431
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply to moderators'"
 msgstr ""
-"%[1]s cambiado el 'responder a' para el tema %[2]s a 'responder a los moderadores'"
+"%[1]s ha cambiado \"responder a\" del tema %[2]s a \"responder a los moderadores\"."
 
 #: ../../tools/genactivities/activities.hjson:2429
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply to sender'"
 msgstr ""
-"%[1]s cambiado el "responder a" para el tema %[2]s a "responder al remitente"."
+"%[1]s ha cambiado \"responder a\" del tema %[2]s a \"responder al remitente\"."
 
 #: ../../tools/genactivities/activities.hjson:2437
 #, fuzzy
@@ -572,20 +575,20 @@ msgstr ""
 msgid ""
 "%[1]s changed the 'reply to' for topic %[2]s to 'reply to topic followers only'"
 msgstr ""
-"%[1]s cambiado el "responder a" para el tema %[2]s a "responder sólo a los seguidores del tema"."
+"%[1]s ha cambiado \"responder a\" del tema %[2]s a \"responder sólo a los seguidores del tema\"."
 
 #: ../../tools/genactivities/activities.hjson:964
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed their display name from '%[2]s' to '%[3]s'"
-msgstr "%[1]s ha cambiado su nombre en pantalla de "%[2]s" a "%[3]s"."
+msgstr "%[1]s ha cambiado su nombre para mostrar de \"%[2]s\" a \"%[3]s\"."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:182
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed their display name from '%[2]s' to '%[3]s' in group %[4]s"
 msgstr ""
-"%[1]s ha cambiado su nombre en pantalla de '%[2]s' a '%[3]s' en el grupo %[4]s"
+"%[1]s ha cambiado su nombre para mostrar de \"%[2]s\" a \"%[3]s\" en el grupo %[4]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:179
 #, fuzzy
@@ -599,7 +602,7 @@ msgid ""
 "%[1]s changed their email address from %[2]s to %[3]s and display name from "
 "'%[4]s' to '%[5]s' in group %[6]s"
 msgstr ""
-"%[1]s ha cambiado su dirección de correo electrónico de %[2]s a %[3]s y su nombre para mostrar de '%[4]s' a '%[5]s' en el grupo %[6]s"
+"%[1]s ha cambiado su dirección de correo electrónico de %[2]s a %[3]s y su nombre para mostrar de \"%[4]s\" a \"%[5]s\" en el grupo %[6]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:167
 #, fuzzy
@@ -608,44 +611,44 @@ msgid ""
 "%[1]s changed their email address from %[2]s to %[3]s and display name to "
 "'%[4]s' in group %[5]s"
 msgstr ""
-"%[1]s ha cambiado su dirección de correo electrónico de %[2]s a %[3]s y su nombre para mostrar a '%[4]s' en el grupo %[5]s"
+"%[1]s ha cambiado su dirección de correo electrónico de %[2]s a %[3]s y su nombre para mostrar a \"%[4]s\" en el grupo %[5]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:174
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed their email address from %[2]s to %[3]s in group %[4]s"
 msgstr ""
-"%[1]s cambió su dirección de correo electrónico de %[2]s a %[3]s en el grupo %[4]s"
+"%[1]s ha cambiado su dirección de correo electrónico de %[2]s a %[3]s en el grupo %[4]s."
 
 #: ../../tools/genactivities/activities.hjson:981
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed their username from @%[2]s to @%[3]s"
-msgstr "%[1]s ha cambiado su nombre de usuario de @%[2]s a @%[3]s"
+msgstr "%[1]s ha cambiado su nombre de usuario de @%[2]s a @%[3]s."
 
 #: ../../tools/genactivities/activities.hjson:983
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed their username to @%[2]s"
-msgstr "%[1]s cambió su nombre de usuario a @%[2]s"
+msgstr "%[1]s ha cambiado su nombre de usuario a @%[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2697
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s changed topic subject from \"%[2]s\" to %[3]s"
-msgstr "%[1]s ha cambiado el tema de \"%[2]s\" a %[3]s"
+msgstr "%[1]s ha cambiado el asunto de \"%[2]s\" a %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2582
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s claimed pending member %[2]s"
-msgstr "%[1]s miembro reclamado pendiente %[2]s"
+msgstr "%[1]s reclamado miembro pendiente %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2595
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s claimed pending message \"%[2]s\""
-msgstr "%[1]s reclamado mensaje pendiente \"%[2]s\""
+msgstr "%[1]s reclamó el mensaje pendiente \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:2789
 #, fuzzy
@@ -657,13 +660,13 @@ msgstr "%[1]s solicitud de donación cerrada %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s created new donation request %[2]s"
-msgstr "%[1]s creada una nueva solicitud de donación %[2]s"
+msgstr "%[1]s creado nueva solicitud de donación %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2128
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s created subgroup %[2]s"
-msgstr "%[1]s subgrupo creado %[2]s"
+msgstr "%[1]s ha creado el subgrupo %[2]s."
 
 #: ../../pkg/notifications/noteviews/subgroupnotification.qtpl:107
 msgid "%[1]s created the subgroup %[2]s"
@@ -676,26 +679,26 @@ msgstr "%[1]s creó el subgrupo %[2]s"
 msgid "%[1]s deleted"
 msgid_plural "%[1]s and %#[2]d others deleted"
 msgstr[0] "%[1]s suprimido"
-msgstr[1] "%[1]s y %#[2]d otros borrados"
+msgstr[1] "%[1]s y %#[2]d otros suprimidos"
 
 #: ../../tools/genactivities/activities.hjson:1605
 #: ../../tools/genactivities/activities.hjson:1611
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted %[2]s's pending message"
-msgstr "%[1]s borrado el mensaje pendiente de %[2]s"
+msgstr "%[1]s ha borrado el mensaje pendiente de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1609
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted %[2]s's pending special notice"
-msgstr "%[1]s suprimido %[2]s's aviso especial pendiente"
+msgstr "%[1]s ha borrado el aviso especial pendiente de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:672
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted all following events from %[2]s"
-msgstr "%[1]s borrado todos los eventos siguientes de %[2]s"
+msgstr "%[1]s ha eliminado todos los eventos siguientes de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2328
 #, fuzzy
@@ -713,37 +716,38 @@ msgstr "%[1]s archivo adjunto eliminado en el mensaje #%#[2]d %[3]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted chat message \"%[2]s\""
-msgstr "%[1]s mensaje de chat borrado \"%[2]s\""
+msgstr "%[1]s borrado mensaje de chat \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:587
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted event \"%[2]s\""
-msgstr "%[1]s evento borrado \"%[2]s\""
+msgstr "%[1]s borrado evento \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:771
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted file \"%[2]s\""
-msgstr "%[1]s archivo borrado \"%[2]s\""
+msgstr "%[1]s borrado fichero \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:784
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted folder \"%[2]s\""
-msgstr "%[1]s carpeta eliminada \"%[2]s\""
+msgstr "%[1]s eliminada carpeta \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:1153
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted image \"%[2]s\" from the wiki images area"
-msgstr "%[1]s imagen borrada \"%[2]s\" del área de imágenes de la wiki"
+msgstr ""
+"%[1]s ha eliminado la imagen \"%[2]s\" del área de imágenes de la wiki."
 
 #: ../../tools/genactivities/activities.hjson:2490
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted member notice %[2]s"
-msgstr "%[1]s aviso de miembro suprimido %[2]s"
+msgstr "%[1]s aviso de baja %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:617
 #, fuzzy
@@ -755,31 +759,31 @@ msgstr "%[1]s mensaje borrado #%#[2]d \"%[3]s\""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted message \"%[2]s\""
-msgstr "%[1]s mensaje borrado \"%[2]s\""
+msgstr "%[1]s borrado mensaje \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:901
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted photo %[2]s"
-msgstr "%[1]s foto eliminada %[2]s"
+msgstr "%[1]s borrado foto %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:862
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted photo album %[2]s"
-msgstr "%[1]s álbum de fotos borrado %[2]s"
+msgstr "%[1]s suprimido álbum de fotos %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:659
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted repeating event \"%[2]s\""
-msgstr "%[1]s evento repetitivo borrado \"%[2]s\""
+msgstr "%[1]s borrado repitiendo evento \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:1101
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted revision dated %[2]s from wiki page %[3]s"
-msgstr "%[1]s suprimida la revisión de %[2]s de la página wiki %[3]s"
+msgstr "%[1]s suprimida revisión con fecha %[2]s de la página wiki %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1088
 #, fuzzy
@@ -791,13 +795,13 @@ msgstr "%[1]s borrado fila id %#[2]d de la tabla %[3]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted subgroup %[2]s"
-msgstr "%[1]s subgrupo eliminado %[2]s"
+msgstr "%[1]s suprimido subgrupo %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1049
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted table %[2]s"
-msgstr "%[1]s tabla eliminada %[2]s"
+msgstr "%[1]s borrado tabla %[2]s"
 
 #: ../../pkg/notifications/noteviews/subgroupnotification.qtpl:109
 #, fuzzy
@@ -808,19 +812,19 @@ msgstr "%[1]s subgrupo eliminado %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted their account with the reason \"%[2]s\""
-msgstr "%[1]s borrado su cuenta con la razón \"%[2]s\""
+msgstr "%[1]s eliminó su cuenta por el motivo \"%[2]s\"."
 
 #: ../../tools/genactivities/activities.hjson:1114
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted topic \"%[2]s\""
-msgstr "%[1]s tema borrado \"%[2]s\""
+msgstr "%[1]s borrado tema \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:823
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s deleted wiki page %[2]s"
-msgstr "%[1]s página wiki eliminada %[2]s"
+msgstr "%[1]s borrado página wiki %[2]s"
 
 #: ../../pkg/notifications/noteviews/newdonationnotification.qtpl:61
 msgid "%[1]s donated $%.02[2]f to the donation %[3]s in your group %[4]s."
@@ -836,7 +840,7 @@ msgstr "%[1]s donó $%[2]s a %[3]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited %[2]s's moderator notes"
-msgstr "%[1]s editado %[2]s's moderator notes"
+msgstr "%[1]s ha editado las notas del moderador de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1986
 #, fuzzy
@@ -848,43 +852,43 @@ msgstr "%[1]s editado Integración del correo electrónico %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited extra member field \"%[2]s\""
-msgstr "%[1]s editado campo miembro extra \"%[2]s\""
+msgstr "%[1]s ha editado el campo adicional \"%[2]s\"."
 
 #: ../../tools/genactivities/activities.hjson:2077
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited Facebook Page %[2]s"
-msgstr "%[1]s Página de Facebook editada %[2]s"
+msgstr "%[1]s editó la página de Facebook %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1799
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited feed %[2]s"
-msgstr "%[1]s alimentación editada %[2]s"
+msgstr "%[1]s editado feed %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1838
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited Github repository %[2]s"
-msgstr "%[1]s repositorio Github editado %[2]s"
+msgstr "%[1]s editado repositorio Github %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1890
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited hashtag %[2]s"
-msgstr "%[1]s hashtag editado %[2]s"
+msgstr "%[1]s editado hashtag %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2038
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited instagram user %[2]s"
-msgstr "%[1]s usuario de instagram editado %[2]s"
+msgstr "%[1]s editado usuario de instagram %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1770
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited member notice %[2]s"
-msgstr "%[1]s aviso a los miembros editado %[2]s"
+msgstr "%[1]s edita la nota de miembro %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:603
 #, fuzzy
@@ -896,7 +900,7 @@ msgstr "%[1]s mensaje editado #%#[2]d %[3]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited message #%#[2]d %[3]s without sending to the group"
-msgstr "%[1]s mensaje editado #%#[2]d %[3]s sin enviar al grupo"
+msgstr "%[1]s ha editado el mensaje #%#[2]d %[3]s sin enviarlo al grupo"
 
 #: ../../tools/genactivities/activities.hjson:914
 #, fuzzy
@@ -908,19 +912,20 @@ msgstr "%[1]s foto editada %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited photo album %[2]s"
-msgstr "%[1]s álbum de fotos editado %[2]s"
+msgstr "%[1]s editado álbum de fotos %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2185
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s edited Trello board %[2]s"
-msgstr "%[1]s tablón de Trello editado %[2]s"
+msgstr "%[1]s editó el tablero de Trello %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2516
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s has been moved from the waitlist and is attending event %[2]s"
-msgstr "%[1]s ha salido de la lista de espera y asistirá al acto %[2]s"
+msgstr ""
+"%[1]s ha sido retirado de la lista de espera y asistirá al evento %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1330
 #, fuzzy
@@ -932,63 +937,63 @@ msgstr "%[1]s evento bloqueado %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s locked topic %[2]s"
-msgstr "%[1]s tema cerrado %[2]s"
+msgstr "%[1]s tema bloqueado %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2263
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s made topic %[2]s sticky"
-msgstr "%[1]s hecho tema %[2]s sticky"
+msgstr "%[1]s ha convertido el tema %[2]s en permanente"
 
 #: ../../tools/genactivities/activities.hjson:2224
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s merged topic \"%[2]s\" into %[3]s"
-msgstr "%[1]s tema fusionado \"%[2]s\" en %[3]s"
+msgstr "%[1]s ha integrado el tema \"%[2]s\" en %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2367
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moderated topic %[2]s"
-msgstr "%[1]s tema moderado %[2]s"
+msgstr "%[1]s moderado tema %[2]s"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:302
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moved"
 msgid_plural "%[1]s and %#[2]d others moved"
-msgstr[0] "%[1]s movido"
-msgstr[1] "%[1]s y %#[2]d otros se trasladaron"
+msgstr[0] "%[1]s desplazado"
+msgstr[1] "%[1]s y %#[2]d otros desplazados"
 
 #: ../../tools/genactivities/activities.hjson:740
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moved file (%[2]s) %[3]s"
-msgstr "%[1]s archivo movido (%[2]s) %[3]s"
+msgstr "%[1]s movido archivo (%[2]s) %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:738
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moved file (%[2]s) %[3]s to \"%[4]s\""
-msgstr "%[1]s movido archivo (%[2]s) %[3]s a \"%[4]s\""
+msgstr "%[1]s ha movido el archivo (%[2]s) %[3]s a \"%[4]s\"."
 
 #: ../../tools/genactivities/activities.hjson:757
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moved folder %[2]s"
-msgstr "%[1]s carpeta movida %[2]s"
+msgstr "%[1]s ha movido la carpeta %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:755
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moved folder %[2]s to \"%[3]s\""
-msgstr "%[1]s movida la carpeta %[2]s a \"%[3]s\""
+msgstr "%[1]s ha movido la carpeta %[2]s a \"%[3]s\"."
 
 #: ../../tools/genactivities/activities.hjson:1300
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s moved photo %[2]s to album %[3]s"
-msgstr "%[1]s movido foto %[2]s al álbum %[3]s"
+msgstr "%[1]s ha movido la foto %[2]s al álbum %[3]s."
 
 #: ../../cmd/web/views/groupsync/syncgroup.qtpl:67
 #, fuzzy
@@ -1007,13 +1012,13 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s paid group invoice %#[2]d"
-msgstr "%[1]s factura de grupo pagada %#[2]d"
+msgstr "%[1]s ha pagado la factura del grupo %#[2]d."
 
 #: ../../tools/genactivities/activities.hjson:2871
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s paid overdue group invoice %#[2]d"
-msgstr "%[1]s factura de grupo vencida pagada %#[2]d"
+msgstr "%[1]s ha pagado la factura vencida del grupo %#[2]d."
 
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:156
 msgid "%[1]s posted the message '%[2]s' that needs to be approved."
@@ -1023,38 +1028,39 @@ msgstr "%[1]s ha enviado el mensaje '%[2]s' que necesita ser aprobado."
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s re-sent confirmation email to %[2]s"
-msgstr "%[1]s reenviar correo electrónico de confirmación a %[2]s"
+msgstr "%[1]s ha reenviado un correo electrónico de confirmación a %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2341
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s re-sent pending member notice to %[2]s"
-msgstr "%[1]s reenvío de la notificación de miembro pendiente a %[2]s"
+msgstr "%[1]s reenvía la notificación de adhesión pendiente a %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1645
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's membership"
-msgstr "%[1]s rechazó la adhesión de %[2]s"
+msgstr "%[1]s rechaza la adhesión de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1956
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's pending message \"%[3]s\""
-msgstr "%[1]s rechazado %[2]s's mensaje pendiente \"%[3]s\""
+msgstr "%[1]s ha rechazado el mensaje pendiente \"%[3]s\" de %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1954
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
 msgstr ""
-"%[1]s rechazado el mensaje pendiente de %[2]s\"%[3]s\" con la razón %[4]s"
+"%[1]s ha rechazado el mensaje pendiente \"%[3]s\" de %[2]s por el motivo %[4]s."
 
 #: ../../tools/genactivities/activities.hjson:1950
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\""
-msgstr "%[1]s rechazado %[2]s's pendiente aviso especial \"%[3]s\""
+msgstr ""
+"%[1]s ha rechazado la notificación especial pendiente de %[2]s \"%[3]s\"."
 
 #: ../../tools/genactivities/activities.hjson:1948
 #, fuzzy
@@ -1062,7 +1068,7 @@ msgstr "%[1]s rechazado %[2]s's pendiente aviso especial \"%[3]s\""
 msgid ""
 "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
 msgstr ""
-"%[1]s rechazado %[2]s's aviso especial pendiente \"%[3]s\" con la razón %[4]s"
+"%[1]s ha rechazado el anuncio especial pendiente \"%[3]s\" de %[2]s por el motivo %[4]s."
 
 #: ../../tools/genactivities/activities.hjson:1942
 #, fuzzy
@@ -1080,14 +1086,14 @@ msgstr "%[1]s rechazado pendiente %[2]s \"%[3]s\" con motivo %[4]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected pending integration message \"%[2]s\""
-msgstr "%[1]s mensaje de integración pendiente rechazado \"%[2]s\""
+msgstr "%[1]s rechazado pendiente de integración mensaje \"%[2]s\""
 
 #: ../../tools/genactivities/activities.hjson:1927
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
 msgstr ""
-"%[1]s rechazado mensaje de integración pendiente \"%[2]s\" con motivo %[3]s"
+"%[1]s rechazado mensaje de integración pendiente \"%[2]s\" con el motivo %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1923
 #, fuzzy
@@ -1101,7 +1107,7 @@ msgstr "%[1]s rechazado pendiente de integración aviso especial \"%[2]s\""
 msgid ""
 "%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
 msgstr ""
-"%[1]s rechazado pendiente de integración aviso especial \"%[2]s\" con motivo %[3]s"
+"%[1]s rechazado pendiente de integración aviso especial \"%[2]s\" con el motivo %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1936
 #, fuzzy
@@ -1113,13 +1119,14 @@ msgstr "%[1]s rechazado pendiente de notificación \"%[2]s\""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
-msgstr "%[1]s rechazado pendiente de notificación \"%[2]s\" con motivo %[3]s"
+msgstr ""
+"%[1]s ha rechazado la notificación pendiente \"%[2]s\" por el motivo %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1661
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed %[2]s"
-msgstr "%[1]s eliminado %[2]s"
+msgstr "%[1]s eliminado %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1659
 #, fuzzy
@@ -1131,25 +1138,25 @@ msgstr "%[1]s eliminado %[2]s porque %[3]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed alias %[2]s"
-msgstr "%[1]s alias eliminado %[2]s"
+msgstr "%[1]s eliminado alias %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2634
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed banned domain %[2]s"
-msgstr "%[1]s eliminar dominio prohibido %[2]s"
+msgstr "%[1]s ha eliminado el dominio prohibido %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1999
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed Email integration %[2]s"
-msgstr "%[1]s Eliminada la integración del correo electrónico %[2]s"
+msgstr "%[1]s eliminado Integración del correo electrónico %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2090
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed Facebook Page %[2]s"
-msgstr "%[1]s Página de Facebook eliminada %[2]s"
+msgstr "%[1]s eliminado Página de Facebook %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1812
 #, fuzzy
@@ -1161,31 +1168,31 @@ msgstr "%[1]s alimentación eliminada %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed Github repository %[2]s"
-msgstr "%[1]s repositorio Github eliminado %[2]s"
+msgstr "%[1]s eliminado repositorio Github %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2542
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed group alias %[2]s"
-msgstr "%[1]s alias de grupo eliminado %[2]s"
+msgstr "%[1]s ha eliminado el alias de grupo %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1877
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed hashtag %[2]s"
-msgstr "%[1]s hashtag eliminado %[2]s"
+msgstr "%[1]s eliminado hashtag %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2051
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed instagram user %[2]s"
-msgstr "%[1]s usuario de instagram eliminado %[2]s"
+msgstr "%[1]s ha eliminado al usuario de instagram %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2302
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s removed invitation to %[2]s"
-msgstr "%[1]s retiró la invitación a %[2]s"
+msgstr "%[1]s ha retirado la invitación a %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2198
 #, fuzzy
@@ -1197,104 +1204,108 @@ msgstr "%[1]s eliminado el tablón de Trello %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reopened donation request %[2]s"
-msgstr "%[1]s solicitud de donación reabierta %[2]s"
+msgstr "%[1]s reabierta la solicitud de donación %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1435
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported file (%[2]s) %[3]s to Groups.io support"
-msgstr "%[1]s archivo reportado (%[2]s) %[3]s a Groups.io support"
+msgstr "%[1]s archivo notificado (%[2]s) %[3]s a Groups.io support"
 
 #: ../../tools/genactivities/activities.hjson:1433
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported file (%[2]s) %[3]s to the group moderators"
-msgstr "%[1]s archivo denunciado (%[2]s) %[3]s a los moderadores del grupo"
+msgstr ""
+"%[1]s denunció el expediente (%[2]s) %[3]s a los moderadores del grupo"
 
 #: ../../tools/genactivities/activities.hjson:1401
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported message #%#[2]d %[3]s to Groups.io support"
-msgstr "%[1]s mensaje reportado #%#[2]d %[3]s al soporte de Groups.io"
+msgstr ""
+"%[1]s ha enviado el mensaje #%#[2]d %[3]s al servicio de asistencia de Groups.io."
 
 #: ../../tools/genactivities/activities.hjson:1399
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported message #%#[2]d %[3]s to the group moderators"
-msgstr "%[1]s reportó el mensaje #%#[2]d %[3]s a los moderadores del grupo"
+msgstr ""
+"%[1]s ha informado a los moderadores del grupo del mensaje #%#[2]d %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:941
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported message %[2]s as spam and was removed"
-msgstr "%[1]s mensaje reportado %[2]s como spam y fue eliminado"
+msgstr "%[1]s denunció el mensaje %[2]s como spam y fue eliminado"
 
 #: ../../tools/genactivities/activities.hjson:1418
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported photo %[2]s to Groups.io support"
-msgstr "%[1]s informó de foto %[2]s a Groups.io apoyo"
+msgstr "%[1]s ha informado de la foto %[2]s al soporte de Groups.io"
 
 #: ../../tools/genactivities/activities.hjson:1416
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s reported photo %[2]s to the group moderators"
-msgstr "%[1]s informó de la foto %[2]s a los moderadores del grupo"
+msgstr "%[1]s denunció la foto %[2]s a los moderadores del grupo"
 
 #: ../../tools/genactivities/activities.hjson:1166
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s rotated photo %[2]s"
-msgstr "%[1]s foto girada %[2]s"
+msgstr "%[1]s foto girada %[2]s foto girada"
 
 #: ../../tools/genactivities/activities.hjson:1231
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s RSVPed 'not sure' to event %[2]s"
-msgstr "%[1]s RSVPed 'not sure' to event %[2]s"
+msgstr "%[1]s Confirmó \"no estoy seguro\" al evento %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1218
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s RSVPed no to event %[2]s"
-msgstr "%[1]s RSVPed no to event %[2]s"
+msgstr ""
+"%[1]s No ha confirmado su asistencia %[2]s No ha confirmado su asistencia"
 
 #: ../../tools/genactivities/activities.hjson:1205
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s RSVPed yes to event %[2]s"
-msgstr "%[1]s RSVPed yes to event %[2]s"
+msgstr "%[1]s Confirmó su asistencia al acto %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2211
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent a bounce probe to %[2]s"
-msgstr "%[1]s envió una sonda de rebote a %[2]s"
+msgstr "%[1]s ha enviado una sonda de rebote a %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:2559
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent member notice %[2]s to %[3]s"
-msgstr "%[1]s envió la notificación a los miembros %[2]s a %[3]s"
+msgstr "%[1]s ha enviado el aviso de adhesión %[2]s a %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2557
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent member notice %[2]s to %[3]s as owner"
-msgstr "%[1]s enviado notificación de miembro %[2]s a %[3]s como propietario"
+msgstr "%[1]s ha enviado el aviso de adhesión %[2]s a %[3]s como propietario"
 
 #: ../../tools/genactivities/activities.hjson:23
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent message #%#[2]d %[3]s"
-msgstr "%[1]s%#[2]d mensaje enviado # %[3]s"
+msgstr "%[1]s enviado mensaje #%#[2]d %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:142
 #: ../../tools/genactivities/activities.hjson:148
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent message %[2]s to owners"
-msgstr "%[1]s enviado mensaje %[2]s a los propietarios"
+msgstr "%[1]s ha enviado el mensaje %[2]s a los propietarios"
 
 #: ../../tools/genactivities/activities.hjson:1373
 #, fuzzy
@@ -1302,7 +1313,7 @@ msgstr "%[1]s enviado mensaje %[2]s a los propietarios"
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'maybe' to event %[3]s"
 msgstr ""
-"%[1]s enviado mensaje '%[2]s' a todos los que respondieron 'tal vez' al evento %[3]s"
+"%[1]s envió el mensaje \"%[2]s\" a todos los que respondieron \"tal vez\" al evento %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1375
 #, fuzzy
@@ -1310,7 +1321,7 @@ msgstr ""
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'no' to event %[3]s"
 msgstr ""
-"%[1]s enviado el mensaje '%[2]s' a todos los que respondieron 'no' al evento %[3]s"
+"%[1]s envió el mensaje \"%[2]s\" a todos los que respondieron \"no\" al evento %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1371
 #, fuzzy
@@ -1318,7 +1329,7 @@ msgstr ""
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'yes' to event %[3]s"
 msgstr ""
-"%[1]s enviado el mensaje '%[2]s' a todos los que respondieron 'sí' al evento %[3]s"
+"%[1]s envió el mensaje \"%[2]s\" a todos los que respondieron \"sí\" al evento %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1381
 #, fuzzy
@@ -1326,14 +1337,14 @@ msgstr ""
 msgid ""
 "%[1]s sent message '%[2]s' to people that responded 'maybe' to event %[3]s"
 msgstr ""
-"%[1]s enviar mensaje '%[2]s' a las personas que respondieron 'tal vez' al evento %[3]s"
+"%[1]s envió el mensaje \"%[2]s\" a las personas que respondieron \"tal vez\" al evento %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1383
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent message '%[2]s' to people that responded 'no' to event %[3]s"
 msgstr ""
-"%[1]s enviar mensaje '%[2]s' a las personas que respondieron 'no' al evento %[3]s"
+"%[1]s envió el mensaje \"%[2]s\" a las personas que respondieron \"no\" al evento %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1379
 #, fuzzy
@@ -1341,13 +1352,13 @@ msgstr ""
 msgid ""
 "%[1]s sent message '%[2]s' to people that responded 'yes' to event %[3]s"
 msgstr ""
-"%[1]s envió el mensaje '%[2]s' a las personas que respondieron 'sí' al evento %[3]s"
+"%[1]s envió el mensaje \"%[2]s\" a las personas que respondieron \"sí\" al evento %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:66
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent message \"%[2]s\" requiring approval"
-msgstr "%[1]s enviado mensaje \"%[2]s\" requiriendo aprobación"
+msgstr "%[1]s envió mensaje \"%[2]s\" que requiere aprobación"
 
 #: ../../tools/genactivities/activities.hjson:312
 #, fuzzy
@@ -1355,7 +1366,7 @@ msgstr "%[1]s enviado mensaje \"%[2]s\" requiriendo aprobación"
 msgid ""
 "%[1]s sent message \"%[2]s\" requiring approval because it had the %[3]s virus"
 msgstr ""
-"%[1]s envió mensaje \"%[2]s\" que requería aprobación porque tenía el virus %[3]s "
+"%[1]s envió el mensaje \"%[2]s\" que requería aprobación porque tenía el virus %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2564
 #, fuzzy
@@ -1363,20 +1374,20 @@ msgstr ""
 msgid ""
 "%[1]s sent message \"%[2]s\" to %[3]s as owner. The message was \"%[4]s\""
 msgstr ""
-"%[1]s envió el mensaje \"%[2]s\" a %[3]s como propietario. El mensaje fue \"%[4]s\""
+"%[1]s envió el mensaje \"%[2]s\" a %[3]s como propietario. El mensaje era \"%[4]s\"."
 
 #: ../../tools/genactivities/activities.hjson:2567
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent message \"%[2]s\" to %[3]s. The message was \"%[4]s\""
-msgstr "%[1]s envió el mensaje \"%[2]s\" a %[3]s. El mensaje fue \"%[4]s\""
+msgstr "%[1]s envió el mensaje \"%[2]s\" a %[3]s. El mensaje era \"%[4]s\"."
 
 #: ../../tools/genactivities/activities.hjson:144
 #: ../../tools/genactivities/activities.hjson:150
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent message \"%[2]s\" to owners"
-msgstr "%[1]s enviado mensaje \"%[2]s\" a los propietarios"
+msgstr "%[1]s ha enviado el mensaje \"%[2]s\" a los propietarios"
 
 #: ../../tools/genactivities/activities.hjson:364
 #, fuzzy
@@ -1385,7 +1396,7 @@ msgid ""
 "%[1]s sent message \"%[2]s\" with a calendar event, but they do not have "
 "permission to add events to the calendar"
 msgstr ""
-"%[1]s enviado mensaje \"%[2]s\" con un evento del calendario, pero no tienen permiso para añadir eventos al calendario"
+"%[1]s envió el mensaje \"%[2]s\" con un evento de calendario, pero no tiene permiso para añadir eventos al calendario"
 
 #: ../../tools/genactivities/activities.hjson:21
 #, fuzzy
@@ -1397,25 +1408,26 @@ msgstr "%[1]s enviado aviso especial #%#[2]d %[3]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sent special notice \"%[2]s\" requiring approval"
-msgstr "%[1]s enviado aviso especial \"%[2]s\" que requiere aprobación"
+msgstr ""
+"%[1]s ha enviado un aviso especial a \"%[2]s\" que requiere aprobación"
 
 #: ../../tools/genactivities/activities.hjson:2158
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s split topic %[2]s"
-msgstr "%[1]s tema dividido %[2]s"
+msgstr "%[1]s dividir tema %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:2156
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s split topic %[2]s into %[3]s"
-msgstr "%[1]s dividir el tema %[2]s en %[3]s"
+msgstr "%[1]s divide el tema %[2]s en %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2841
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s sponsored the group to the amount of $%[2]s"
-msgstr "%[1]s patrocinó al grupo por un importe de%[2]s"
+msgstr "%[1]s patrocinó al grupo por un importe de $%[2]s."
 
 #: ../../pkg/notifications/noteviews/newsponsornotificaiton.qtpl:59
 msgid "%[1]s sponsored your group %[2]s to the amount of $%.02[3]f."
@@ -1425,25 +1437,25 @@ msgstr "%[1]s patrocinaron a tu grupo %[2]s por un importe de $%.02[3]f."
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s tried to donate $%[2]s to %[3]s"
-msgstr "%[1]s intentó donar $%[2]s a %[3]s"
+msgstr "%[1]s ha intentado donar $%[2]s a %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2854
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s tried to sponsor the group to the amount of $%[2]s"
-msgstr "%[1]s trató de patrocinar al grupo con la cantidad de $%[2]s"
+msgstr "%[1]s intentó patrocinar al grupo por un importe de $%[2]s."
 
 #: ../../tools/genactivities/activities.hjson:1695
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s unbanned %[2]s"
-msgstr "%[1]s desterrado %[2]s"
+msgstr "%[1]s desbloqueado %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1693
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s unbanned %[2]s because %[3]s"
-msgstr "%[1]s desprohibido %[2]s porque %[3]s"
+msgstr "%[1]s desbaneado %[2]s porque %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:1343
 #, fuzzy
@@ -1461,13 +1473,13 @@ msgstr "%[1]s tema desbloqueado %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s unmoderated topic %[2]s"
-msgstr "%[1]s tema no moderado %[2]s"
+msgstr "%[1]s tema no moderado %[2]s tema no moderado"
 
 #: ../../tools/genactivities/activities.hjson:2276
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s unstuck topic %[2]s"
-msgstr "%[1]s desatascar el tema %[2]s"
+msgstr "%[1]s desatascar tema %[2]s"
 
 #: ../../pkg/notifications/noteviews/filenotification.qtpl:171
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:298
@@ -1483,7 +1495,7 @@ msgstr[1] "%[1]s y %#[2]d otros actualizados"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s updated donation request %[2]s"
-msgstr "%[1]s solicitud de donación actualizada %[2]s"
+msgstr "%[1]s actualiza la solicitud de donación %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:571
 #, fuzzy
@@ -1495,7 +1507,7 @@ msgstr "%[1]s evento actualizado %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s updated file (%[2]s) %[3]s"
-msgstr "%[1]s archivo actualizado (%[2]s) %[3]s"
+msgstr "%[1]s expediente actualizado (%[2]s) %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:724
 #, fuzzy
@@ -1507,13 +1519,13 @@ msgstr "%[1]s carpeta actualizada %[2]s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s updated repeating event %[2]s"
-msgstr "%[1]s evento repetitivo actualizado %[2]s"
+msgstr "%[1]s actualizado repitiendo evento %[2]s"
 
 #: ../../tools/genactivities/activities.hjson:1075
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s updated row id %#[2]d of table %[3]s"
-msgstr "%[1]s id de fila actualizada %#[2]d de la tabla %[3]s"
+msgstr "%[1]s ha actualizado la fila id %#[2]d de la tabla %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:1036
 #, fuzzy
@@ -1575,7 +1587,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%[1]s's pending message \"%[2]s\" expired and was deleted"
-msgstr "%[1]sEl mensaje pendiente de "%[2]s" expiró y fue borrado."
+msgstr "El mensaje pendiente de %[1]s \"%[2]s\" ha caducado y se ha eliminado."
 
 #. TRANSLATORS: %d is the number of approved messages
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:456
@@ -1628,8 +1640,8 @@ msgstr[1] "%d grupos permitidos"
 #. Automatically translated using DeepL
 msgid "%d invite will be sent out."
 msgid_plural "%d invitations will be sent out."
-msgstr[0] "%d Se enviará una invitación."
-msgstr[1] "%d se enviarán invitaciones."
+msgstr[0] "Se enviará una invitación %d."
+msgstr[1] "Se enviarán invitaciones %d."
 
 #: ../../cmd/web/views/group/grouphome.qtpl:120
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl:147
@@ -1727,7 +1739,7 @@ msgstr[1] "%d Subs"
 #| msgid "Subscribed"
 #. Automatically translated using DeepL
 msgid "%d subscribers have joined"
-msgstr "%d abonados se han adherido"
+msgstr "%d suscriptores se han unido"
 
 #: ../../pkg/notifications/noteviews/unsubnotification.qtpl:107
 #, fuzzy
@@ -1756,19 +1768,19 @@ msgstr[1] "%d Integraciones de Trello"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s accepted invitation"
-msgstr "%s invitación aceptada"
+msgstr "%s aceptó la invitación"
 
 #: ../../tools/genactivities/activities.hjson:486
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s applied for membership"
-msgstr "%s solicitó la adhesión"
+msgstr "%s ha solicitado la afiliación"
 
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:113
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s applied to join your group."
-msgstr "%s solicitó unirse a su grupo."
+msgstr "%s ha solicitado unirse a su grupo."
 
 #: ../../tools/genactivities/activities.hjson:1536
 #, fuzzy
@@ -1780,13 +1792,13 @@ msgstr "%s aprobó una edición del mensaje de integración"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s approved an edit of integration special notice"
-msgstr "%s aprobó una edición del aviso especial de integración"
+msgstr "%s ha aprobado una edición del anuncio especial de integración"
 
 #: ../../tools/genactivities/activities.hjson:1547
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s approved an edit of notification"
-msgstr "%s aprobó una edición de notificación"
+msgstr "%s ha aprobado una edición de la notificación"
 
 #: ../../tools/genactivities/activities.hjson:1542
 #, fuzzy
@@ -1798,7 +1810,7 @@ msgstr "%s mensaje de integración aprobado"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s approved integration special notice"
-msgstr "%s integración aprobada aviso especial"
+msgstr "%s anuncio especial de integración aprobado"
 
 #: ../../tools/genactivities/activities.hjson:1549
 #, fuzzy
@@ -1810,67 +1822,67 @@ msgstr "%s notificación aprobada"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s became the group payer"
-msgstr "%s se convirtió en el grupo pagador"
+msgstr "%s se convierte en el grupo pagador"
 
 #: ../../tools/genactivities/activities.hjson:2891
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s changed group plan"
-msgstr "%s cambio de plan de grupo"
+msgstr "%s ha cambiado de plan de grupo"
 
 #: ../../tools/genactivities/activities.hjson:1756
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s changed group settings"
-msgstr "%s cambios en la configuración del grupo"
+msgstr "%s ha cambiado la configuración del grupo"
 
 #: ../../tools/genactivities/activities.hjson:1316
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s changed their message delivery"
-msgstr "%s cambiaron la entrega de sus mensajes"
+msgstr "%s ha cambiado la entrega de sus mensajes"
 
 #: ../../tools/genactivities/activities.hjson:1314
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s changed their message delivery to"
-msgstr "%s cambiaron su entrega de mensajes a"
+msgstr "%s ha cambiado su entrega de mensajes a"
 
 #: ../../tools/genactivities/activities.hjson:1257
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s changed their notification settings"
-msgstr "%s han cambiado la configuración de sus notificaciones"
+msgstr "%s ha cambiado la configuración de sus notificaciones"
 
 #: ../../tools/genactivities/activities.hjson:1475
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s changed their signature settings"
-msgstr "%s cambió la configuración de su firma"
+msgstr "%s ha cambiado la configuración de su firma"
 
 #: ../../tools/genactivities/activities.hjson:1501
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s confirmed their account"
-msgstr "%s confirmaron su cuenta"
+msgstr "%s confirmó su cuenta"
 
 #: ../../tools/genactivities/activities.hjson:2737
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s connected a Stripe account"
-msgstr "%s conectado una cuenta Stripe"
+msgstr "%s ha conectado una cuenta de Stripe"
 
 #: ../../tools/genactivities/activities.hjson:2012
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s created the group"
-msgstr "%s creó el grupo"
+msgstr "%s ha creado el grupo"
 
 #: ../../tools/genactivities/activities.hjson:1600
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s deleted pending integration message"
-msgstr "%s mensaje de integración pendiente borrado"
+msgstr "%s borrado mensaje de integración pendiente"
 
 #: ../../tools/genactivities/activities.hjson:1598
 #, fuzzy
@@ -1888,13 +1900,13 @@ msgstr "%s borrado pendiente de notificación"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s deleted their account"
-msgstr "%s eliminado su cuenta"
+msgstr "%s ha eliminado su cuenta"
 
 #: ../../tools/genactivities/activities.hjson:2750
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s disconnected a Stripe account"
-msgstr "%s desconectado una cuenta de Stripe"
+msgstr "%s ha desconectado una cuenta de Stripe"
 
 #: ../../pkg/notifications/noteviews/newdonationnotification.qtpl:82
 #, fuzzy
@@ -1906,7 +1918,7 @@ msgstr "%s donó $%.02f a %s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s edited member notice"
-msgstr "%s aviso a los miembros editado"
+msgstr "%s aviso de socio editado"
 
 #: ../../cmd/web/views/user/enterprise.qtpl:54
 #, fuzzy
@@ -1937,7 +1949,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s has been set to bounced"
-msgstr "%s se ha fijado en rebotado"
+msgstr "%s se ha establecido en rebotado"
 
 #: ../../pkg/notifications/noteviews/subnotification.qtpl:104
 #, fuzzy
@@ -1965,7 +1977,7 @@ msgstr "%s izquierda"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s left with reason \"%s\""
-msgstr "%s queda con razón \"%s\""
+msgstr "%s se fue con el motivo \"%s\""
 
 #: ../../pkg/notifications/noteviews/socialloginnotification.qtpl:33
 #, fuzzy
@@ -1988,13 +2000,13 @@ msgstr "%s denunció un mensaje como spam y fue eliminado"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s reported a summary message as spam and was removed"
-msgstr "%s denunció un mensaje de resumen como spam y fue eliminado"
+msgstr "%s denunció un mensaje resumen como spam y fue eliminado"
 
 #: ../../tools/genactivities/activities.hjson:836
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s resumed membership"
-msgstr "%s reanudación de la adhesión"
+msgstr "%s reanuda su afiliación"
 
 #: ../../tools/genactivities/activities.hjson:966
 #, fuzzy
@@ -2006,7 +2018,7 @@ msgstr "%s establecer su nombre para mostrar"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s sponsored your group for $%.02f"
-msgstr "%s patrocinó a su grupo por $%.02f"
+msgstr "%s patrocinó a su grupo por $%.02f."
 
 #: ../../tools/genactivities/activities.hjson:454
 #, fuzzy
@@ -2032,19 +2044,19 @@ msgid ""
 "%s was prevented from joining because the group is on the basic plan and already "
 "has 100 members"
 msgstr ""
-"%s se le impidió unirse porque el grupo está en el plan básico y ya tiene 100 miembros"
+"%s no ha podido unirse porque el grupo está en el plan básico y ya tiene 100 miembros."
 
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl:153
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s was removed from %s"
-msgstr "%s fue eliminado de %s"
+msgstr "%s se ha eliminado de %s."
 
 #: ../../tools/genactivities/activities.hjson:2647
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "%s's pending subscription expired and was deleted"
-msgstr "%sLa suscripción pendiente del usuario ha expirado y se ha eliminado"
+msgstr "La suscripción pendiente de %s ha caducado y se ha eliminado."
 
 #: ../../cmd/web/views/group/grouphome.qtpl:177
 #, fuzzy
@@ -2056,7 +2068,7 @@ msgstr "(desactivado porque este grupo no puede añadir más miembros)"
 msgid "(members with private profiles are not shown)"
 msgstr "(no se muestran los miembros con perfiles privados)"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:186
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:187
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1016
 #: ../../cmd/web/views/sub/editsub.qtpl:295
 #: ../../cmd/web/views/sub/groupinvite.qtpl:261
@@ -2171,12 +2183,12 @@ msgstr ""
 "electrónico. Esto será visto por el software en groups.io como un deseo de "
 "permanecer en sus grupos."
 
-#: ../../cmd/web/views/account/settings.qtpl:843
+#: ../../cmd/web/views/account/settings.qtpl:853
 #, fuzzy
 msgid "100 items"
 msgstr "100 artículos"
 
-#: ../../cmd/web/views/account/settings.qtpl:792
+#: ../../cmd/web/views/account/settings.qtpl:802
 #, fuzzy
 msgid "12 Hour Clock (3:04pm)"
 msgstr "reloj de 12 horas (15:04)"
@@ -2198,11 +2210,11 @@ msgstr "1 TB de espacio de almacenamiento"
 msgid "2. Or you can click"
 msgstr "2. O puede hacer clic en"
 
-#: ../../cmd/web/views/account/settings.qtpl:837
+#: ../../cmd/web/views/account/settings.qtpl:847
 msgid "20 items"
 msgstr "20 entradas"
 
-#: ../../cmd/web/views/account/settings.qtpl:795
+#: ../../cmd/web/views/account/settings.qtpl:805
 #, fuzzy
 msgid "24 Hour Clock (15:04)"
 msgstr "reloj de 24 horas (15:04)"
@@ -2213,7 +2225,7 @@ msgstr "reloj de 24 horas (15:04)"
 msgid "30GB Storage Space"
 msgstr "30 GB de espacio de almacenamiento"
 
-#: ../../cmd/web/views/account/settings.qtpl:840
+#: ../../cmd/web/views/account/settings.qtpl:850
 #, fuzzy
 msgid "50 items"
 msgstr "50 artículos"
@@ -2567,7 +2579,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>Hola [Nombre], <p>El equipo de %[1]s te ha añadido a &lt;a href="%[2]s\"&gt;%[3]s</a> . Puede utilizar [este enlace] durante las próximas 24 horas para iniciar sesión si es la primera vez que lo hace o si ha olvidado su contraseña. Puedes hacerlo en el futuro utilizando el botón \"envíame un enlace para iniciar sesión por correo electrónico\" de la página de inicio de sesión. <p>El correo electrónico para este grupo es: %[4]s. %[5]s <p>Pero lo más importante es que añadas esta dirección de correo electrónico a tu lista de remitentes seguros en los contactos de tu cliente de correo electrónico. Si encuentras correos electrónicos de este grupo en las carpetas de spam, promocionales o sociales, muévelos a tu bandeja de entrada principal para que tu cliente de correo electrónico pueda ponerlos directamente en tu bandeja de entrada. <div id=\"custom_message\"></div> <p>Si se trata de un error, haz clic en el siguiente enlace y te daremos de baja inmediatamente: <p style=\"text-decoration: underline\">Cancelar suscripción <p>El equipo de %[1]s "
+"<p>Hola [Nombre],</p> <p>El equipo %[1]s le ha añadido a <a href=\"%[2]s\">%[3]s</a>. Puede utilizar [este enlace] durante las próximas 24 horas para iniciar sesión si es la primera vez que lo hace o si ha olvidado su contraseña. Puedes hacerlo en el futuro utilizando el botón \"envíame un enlace por correo electrónico para iniciar sesión\" de la página de inicio de sesión.</p> <p>El correo electrónico de este grupo es: %[4]s. %[5]s</p> <p>Pero lo más importante, añade esta dirección de correo electrónico a tu lista de remitentes seguros en los contactos de tu cliente de correo electrónico. Si encuentras correos electrónicos de este grupo en las carpetas de spam, promociones o redes sociales, muévelos a tu bandeja de entrada principal para que puedas enseñar a tu cliente de correo electrónico a ponerlos directamente en tu bandeja de entrada.</p> <div id=\"custom_message\"></div> <p>Si se trata de un error, haz clic en el siguiente enlace y serás eliminado inmediatamente:</p> <p style=\"text-decoration: underline\">Darse de baja</p> <p>El equipo de %[1]s</p> <p>"
 
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
 #. 									The message is sent in HTML format, so you can use HTML tags to format the message.
@@ -2603,7 +2615,7 @@ msgid ""
 "email address, please ignore this email.</p> <p></p> Cheers,<br> <p>The "
 "%[2]s Team</p>"
 msgstr ""
-"<p>Hola [Nombre], <p>Has sido invitado por %[1]s a unirte al grupo %[2]s <i>%[3]s</i>. <div id=\"custom_message\"></div><p>Si tienes preguntas sobre esta invitación, envíalas a <b>%[4]s</b>. <p>Para aceptar la invitación, responda a este correo electrónico, o puede <u>aceptar la invitación</u> en el sitio web. Este enlace caducará en 14 días, en %[5]s. <p>Si no está interesado, o si [Invitee Email Address] no es su dirección de correo electrónico, ignore este mensaje. <p> Saludos,<br> <p>El equipo de %[2]s "
+"<p>Hola [Nombre],</p> <p>Ha sido invitado por %[1]s a unirse al grupo %[2]s <i>%[3]s</i>.</p> <div id=\"custom_message\"></div> <p>Si tiene preguntas sobre esta invitación, envíelas a <b>%[4]s</b>.</p> <p>Para aceptar la invitación, responda a este correo electrónico, o puede <u>aceptar la invitación</u> en el sitio web. Este enlace caducará en 14 días, en %[5]s.</p> <p>Si no está interesado, o si [Dirección de correo electrónico del invitado] no es su dirección de correo electrónico, ignore este correo.</p> <p></p> <p>Salud,<br> <p>El equipo de %[2]s</p> <p>."
 
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:322
 #, fuzzy
@@ -2652,7 +2664,7 @@ msgstr ""
 "<p>Si no lo has solicitado, acepta nuestras disculpas e ignora este mensaje."
 "</p>"
 
-#: ../../cmd/web/views/account/settings.qtpl:1103
+#: ../../cmd/web/views/account/settings.qtpl:1113
 #, fuzzy
 msgid ""
 "<strong>Important:</strong> Once you enable two-factor authentication, you "
@@ -2685,7 +2697,7 @@ msgstr ""
 "almacenamiento, eliminaremos los archivos adjuntos a partir de las dos "
 "semanas siguientes a la recepción de este aviso."
 
-#: ../../cmd/web/views/account/settings.qtpl:965
+#: ../../cmd/web/views/account/settings.qtpl:975
 #, fuzzy
 msgid ""
 "<strong>Note:</strong> Notifications are activated per device and desktop "
@@ -2709,13 +2721,13 @@ msgstr ""
 msgid ""
 "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was moved to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] La tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" fue movida a la lista \"%[4]s\"."
+"[%[1]s] La tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" se ha trasladado a la lista \"%[4]s\"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:171
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was reordered."
-msgstr "[%[1]s] Tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" fue reordenada."
+msgstr "[%[1]s] Se ha reordenado la tarjeta \"<a href=\"%[2]s\">%[3]s</a>\"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:185
 #, fuzzy
@@ -2752,7 +2764,7 @@ msgid ""
 "[%[1]s] New attachment added to card \"<a href=\"%[2]s\">%[3]s</a>\":"
 "<br>%[4]s."
 msgstr ""
-"[%[1]s] Nuevo adjunto añadido a la tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \":<br>%[4]s."
+"[%[1]s] Nuevo anexo añadido a la tarjeta \"<a href=\"%[2]s\">%[3]s</a>\":<br>%[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:159
 #, fuzzy
@@ -2760,7 +2772,7 @@ msgstr ""
 msgid ""
 "[%[1]s] New card \"<a href=\"%[2]s\">%[3]s</a>\" was added to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] Nueva tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" se ha añadido a la lista \"%[4]s\"."
+"[%[1]s] Se ha añadido la nueva tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" a la lista \"%[4]s\"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:274
 #, fuzzy
@@ -2776,7 +2788,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "[%[1]s] New comment on card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] Nuevo comentario en la tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" de %[4]s."
+"[%[1]s] Nuevo comentario sobre la tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" de %[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:231
 #, fuzzy
@@ -2817,8 +2829,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] The card \"<a href=\"%[2]s\">%[3]s</a>\" was archived."
-msgstr ""
-"[%[1]s] La tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" ha sido archivada."
+msgstr "[%[1]s] La tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" ha sido archivada."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:267
 #, fuzzy
@@ -2863,7 +2874,7 @@ msgid ""
 "[%[1]s] The description of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed "
 "to:<br>%[4]s"
 msgstr ""
-"[%[1]s] La descripción de la tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" se ha cambiado por:<br>%[4]s"
+"[%[1]s] La descripción de la tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" se ha cambiado por:<br>%[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:213
 #, fuzzy
@@ -2872,13 +2883,13 @@ msgid ""
 "[%[1]s] The due date of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed to "
 "%[4]s"
 msgstr ""
-"[%[1]s] La fecha de vencimiento de la tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" se ha cambiado a %[4]s"
+"[%[1]s] La fecha de vencimiento de la tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" se ha cambiado a %[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:154
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] The member \"%[2]s\" was added to the board."
-msgstr "[%[1]s] El miembro \"%[2]s\" ha sido añadido a la junta."
+msgstr "[%[1]s] El miembro \"%[2]s\" se ha añadido a la junta."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:249
 msgid ""
@@ -2903,7 +2914,7 @@ msgstr ""
 msgid ""
 "[%[1]s] Updated comment from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] Comentario actualizado de la tarjeta \"&lt;a href="%[2]s\"&gt;%[3]s</a> \" por %[4]s."
+"[%[1]s] Comentario actualizado de la tarjeta \"<a href=\"%[2]s\">%[3]s</a>\" de %[4]s."
 
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:376
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:391
@@ -3048,23 +3059,23 @@ msgid ""
 "A moderator in another group changed %[1]s's display name to '%[2]s' in "
 "group %[3]s"
 msgstr ""
-"Un moderador de otro grupo cambió el nombre de usuario de %[1]s por '%[2]s' en el grupo %[3]s"
+"Un moderador de otro grupo ha cambiado el nombre visible de %[1]s por el de \"%[2]s\" en el grupo %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:2394
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "A moderator in another group changed %[1]s's email address from %[2]s"
 msgstr ""
-"Un moderador en otro grupo cambió %[1]s's dirección de correo electrónico de %[2]s"
+"Un moderador de otro grupo ha cambiado la dirección de correo electrónico de %[1]s por la de %[2]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:124
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
-"A moderator in another group changed %[1]s's email address from %[2]s to "
-"%[3]s and display name from '%[4]s' to '%[5]s' in group %[6s]"
+"A moderator in another group changed %[1]s's email address from %[2]s to %[3]s "
+"and display name from '%[4]s' to '%[5]s' in group %[6]s"
 msgstr ""
-"Un moderador de otro grupo ha cambiado la dirección de correo electrónico de %[1]s de %[2]s a %[3]s y el nombre para mostrar de '%[4]s' a '%[5]s' en el grupo %[6s]"
+"Un moderador de otro grupo ha cambiado la dirección de correo electrónico de %[1]s de %[2]s a %[3]s y el nombre para mostrar de \"%[4]s\" a \"%[5]s\" en el grupo %[6]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:121
 #, fuzzy
@@ -3073,7 +3084,7 @@ msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to "
 "%[3]s and display name to '%[4]s' in group %[5]s"
 msgstr ""
-"Un moderador de otro grupo cambió la dirección de correo electrónico de %[1]s de %[2]s a %[3]s y el nombre para mostrar a '%[4]s' en el grupo %[5]s"
+"Un moderador de otro grupo ha cambiado la dirección de correo electrónico de %[1]s de %[2]s a %[3]s y el nombre para mostrar a \"%[4]s\" en el grupo %[5]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:128
 #, fuzzy
@@ -3082,7 +3093,7 @@ msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to "
 "%[3]s in group %[4]s"
 msgstr ""
-"Un moderador de otro grupo ha cambiado la dirección de correo electrónico de %[1]s de %[2]s a %[3]s en el grupo %[4]s"
+"Un moderador de otro grupo ha cambiado la dirección de correo electrónico de %[1]s de %[2]s a %[3]s en el grupo %[4]s."
 
 #: ../../pkg/notifications/noteviews/chatnotification.qtpl:87
 msgid "A new chat has been created"
@@ -3214,7 +3225,7 @@ msgstr "Acerca de"
 msgid "About Groups.io"
 msgstr "Acerca de Groups.io"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:188
+#: ../../cmd/web/views/account/groupprofile.qtpl:190
 msgid "About Me"
 msgstr "Sobre mi"
 
@@ -3317,7 +3328,7 @@ msgstr "Historial de actividad"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Actual Respondents:"
-msgstr "Actual Respondents:"
+msgstr "Encuestados reales:"
 
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:119
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:531
@@ -3368,7 +3379,7 @@ msgstr "Añadir Respuesta"
 msgid "Add Choice"
 msgstr "Añadir elección"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:327
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:343
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:289
 msgid "Add Column"
 msgstr "Añadir columna"
@@ -3389,7 +3400,7 @@ msgstr "Ajouter une table"
 msgid "Add Donation Request"
 msgstr "Añadir solicitud de donación"
 
-#: ../../cmd/web/views/account/settings.qtpl:358
+#: ../../cmd/web/views/account/settings.qtpl:359
 msgid "Add Email Alias"
 msgstr "Añadir Alias De Correo Electrónico"
 
@@ -3601,7 +3612,7 @@ msgstr "carpeta añadida"
 #| msgid "Update Folder"
 #. Automatically translated using DeepL
 msgid "Added Folder %s"
-msgstr "Carpeta añadida %s"
+msgstr "Carpeta %s añadida"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:235
 #, fuzzy
@@ -3680,7 +3691,7 @@ msgstr "Información adicional sobre pagos"
 msgid "Address"
 msgstr "Dirección"
 
-#: ../../cmd/web/views/account/settings.qtpl:900
+#: ../../cmd/web/views/account/settings.qtpl:910
 #, fuzzy
 msgid ""
 "Adjust the appearance of Groups.io to reduce glare and give your eyes a "
@@ -3712,7 +3723,7 @@ msgstr "Funciones avanzadas de moderación"
 msgid "Advanced Preferences"
 msgstr "Preferencias avanzadas"
 
-#: ../../cmd/web/views/account/settings.qtpl:307
+#: ../../cmd/web/views/account/settings.qtpl:308
 #, fuzzy
 msgid "Advanced Settings For Email Aliases"
 msgstr "Configuración avanzada de alias de correo electrónico"
@@ -3727,7 +3738,7 @@ msgstr "Afganistán"
 msgid "After"
 msgstr "Después"
 
-#: ../../cmd/web/views/account/settings.qtpl:1143
+#: ../../cmd/web/views/account/settings.qtpl:1153
 #, fuzzy
 msgid ""
 "After scanning the image, the app will display a six-digit code that you can "
@@ -3849,7 +3860,7 @@ msgstr ""
 msgid "All members can post to the group."
 msgstr "Todos los miembros pueden publicar en el grupo."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:138
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:139
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:970
 #: ../../cmd/web/views/sub/editsub.qtpl:247
 #: ../../cmd/web/views/sub/groupinvite.qtpl:213
@@ -3962,12 +3973,12 @@ msgstr "Todos los tipos"
 msgid "Allow"
 msgstr "Permitir"
 
-#: ../../cmd/web/views/account/settings.qtpl:275
+#: ../../cmd/web/views/account/settings.qtpl:276
 #, fuzzy
 msgid "Allow Facebook Login"
 msgstr "Permitir inicio de sesión en Facebook"
 
-#: ../../cmd/web/views/account/settings.qtpl:287
+#: ../../cmd/web/views/account/settings.qtpl:288
 #, fuzzy
 msgid "Allow Google Login"
 msgstr "Permitir inicio de sesión en Google"
@@ -3977,12 +3988,12 @@ msgstr "Permitir inicio de sesión en Google"
 msgid "Allow group members to download the message archive."
 msgstr "Permitir a los miembros del grupo descargar el archivo de mensajes."
 
-#: ../../cmd/web/views/account/settings.qtpl:278
+#: ../../cmd/web/views/account/settings.qtpl:279
 #, fuzzy
 msgid "Allow login to your account via Facebook."
 msgstr "Permitir el inicio de sesión en tu cuenta a través de Facebook."
 
-#: ../../cmd/web/views/account/settings.qtpl:290
+#: ../../cmd/web/views/account/settings.qtpl:291
 #, fuzzy
 msgid "Allow login to your account via Google."
 msgstr "Permitir el acceso a su cuenta a través de Google."
@@ -4099,9 +4110,9 @@ msgstr ""
 msgid "American Samoa"
 msgstr "Samoa Americana"
 
-#: ../../cmd/web/views/account/settings.qtpl:1366
-#: ../../cmd/web/views/account/settings.qtpl:1441
-#: ../../cmd/web/views/account/settings.qtpl:1512
+#: ../../cmd/web/views/account/settings.qtpl:1376
+#: ../../cmd/web/views/account/settings.qtpl:1451
+#: ../../cmd/web/views/account/settings.qtpl:1522
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:385
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:640
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:95
@@ -4138,7 +4149,7 @@ msgstr ""
 "correo electrónico y activar tu suscripción. Busca un mensaje de %[1]s con "
 "el Asunto: \"Confirma tu dirección de correo electrónico de %[2]s\"."
 
-#: ../../cmd/web/views/account/settings.qtpl:437
+#: ../../cmd/web/views/account/settings.qtpl:438
 #, fuzzy
 msgid ""
 "An email has been sent to <strong>%s</strong> with a link that, when "
@@ -4312,7 +4323,7 @@ msgstr "Cualquier miembro del grupo puede añadir archivos a esta carpeta"
 msgid "Any group member can add photos to this album"
 msgstr "Cualquier miembro del grupo puede añadir fotos a este álbum"
 
-#: ../../cmd/web/views/account/settings.qtpl:407
+#: ../../cmd/web/views/account/settings.qtpl:408
 #, fuzzy
 msgid "Any other groups"
 msgstr "Otros grupos"
@@ -4337,7 +4348,7 @@ msgstr "Abertura"
 msgid "API Access"
 msgstr "Accesso API"
 
-#: ../../cmd/web/views/account/settings.qtpl:969
+#: ../../cmd/web/views/account/settings.qtpl:979
 #, fuzzy
 msgid ""
 "App notifications are not allowed on this device. To enable notifications, "
@@ -4462,6 +4473,13 @@ msgstr "Albaricoque"
 #, fuzzy
 msgid "Aquamute"
 msgstr "Aquamute"
+
+#: ../../cmd/web/views/account/settings.qtpl:751
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:231
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Arabic"
+msgstr "Árabe"
 
 #: ../../cmd/web/views/group/grouphome.qtpl:319
 #: ../../cmd/web/views/group/grouphome.qtpl:327
@@ -5136,14 +5154,14 @@ msgstr "Autenticarse con Slack"
 msgid "Authenticate With Trello"
 msgstr "Autenticarse con Trello"
 
-#: ../../cmd/web/views/account/settings.qtpl:1207
+#: ../../cmd/web/views/account/settings.qtpl:1217
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl:145
 #: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl:76
 #, fuzzy
 msgid "Authenticated to Github as:"
 msgstr "Autenticado en Github como:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1233
+#: ../../cmd/web/views/account/settings.qtpl:1243
 #, fuzzy
 msgid "Authenticated to Google as:"
 msgstr "Autentificado en Google como:"
@@ -5153,12 +5171,12 @@ msgstr "Autentificado en Google como:"
 msgid "Authenticated to Google Drive as:"
 msgstr "Autenticado en Google Drive como:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1217
+#: ../../cmd/web/views/account/settings.qtpl:1227
 #, fuzzy
 msgid "Authenticated to Slack as:"
 msgstr "Autenticado en Slack como:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1251
+#: ../../cmd/web/views/account/settings.qtpl:1261
 #, fuzzy
 msgid "Authenticated to Slack team %[1]s as %[2]s"
 msgstr "Autentificado en el equipo Slack %[1]s como %[2]s"
@@ -5168,14 +5186,14 @@ msgstr "Autentificado en el equipo Slack %[1]s como %[2]s"
 msgid "Authenticated to Slack team %[1]s as %[2]s."
 msgstr "Autentificado en el equipo de Slack %[1]s como %[2]s."
 
-#: ../../cmd/web/views/account/settings.qtpl:1225
+#: ../../cmd/web/views/account/settings.qtpl:1235
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl:122
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl:76
 #, fuzzy
 msgid "Authenticated to Trello as:"
 msgstr "Autentificado en Trello como:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1241
+#: ../../cmd/web/views/account/settings.qtpl:1251
 #, fuzzy
 msgid "Authenticated to Zoom as:"
 msgstr "Autentificado en Zoom como:"
@@ -5185,7 +5203,7 @@ msgstr "Autentificado en Zoom como:"
 msgid "Author"
 msgstr "Autor"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:166
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:167
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:996
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1408
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:191
@@ -5212,7 +5230,7 @@ msgstr "Tipo de sincronización automática"
 msgid "Automated help for the %s group"
 msgstr "Ayuda automatizada para el grupo %s"
 
-#: ../../cmd/web/views/account/settings.qtpl:890
+#: ../../cmd/web/views/account/settings.qtpl:900
 msgid "Automatic"
 msgstr "Automático"
 
@@ -5442,20 +5460,20 @@ msgstr "Miembro prohibido"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Banned member %[1]s attempted to send message \"%[2]s\""
-msgstr "Miembro prohibido %[1]s intentó enviar mensaje \"%[2]s\""
+msgstr "El miembro prohibido %[1]s ha intentado enviar el mensaje \"%[2]s\"."
 
 #: ../../tools/genactivities/activities.hjson:1192
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Banned member %s attempted to subscribe"
-msgstr "Miembro prohibido %s intentó suscribirse"
+msgstr "Miembro prohibido %s ha intentado suscribirse"
 
 #: ../../tools/genactivities/activities.hjson:500
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Banned user %[1]s changed email address from %[2]s to %[3]s"
 msgstr ""
-"Usuario prohibido %[1]s cambió su dirección de correo electrónico de %[2]s a %[3]s"
+"El usuario prohibido %[1]s ha cambiado la dirección de correo electrónico de %[2]s a %[3]s."
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:146
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:328
@@ -5544,7 +5562,7 @@ msgid ""
 "associated with %s has been automatically removed from the following Groups."
 "io email groups:"
 msgstr ""
-"Como no has respondido a nuestros correos electrónicos de reverificación, tu cuenta asociada a %s se ha eliminado automáticamente de los siguientes grupos de correo electrónico de Groups.io:"
+"Debido a que no has respondido a nuestros correos electrónicos de reverificación, tu cuenta asociada a %s se ha eliminado automáticamente de los siguientes grupos de correo electrónico de Groups.io:"
 
 #: ../../pkg/notifications/noteviews/reconfirmemailnotification.qtpl:44
 #, fuzzy
@@ -5788,7 +5806,7 @@ msgstr "Rebote - Sonda de rebote enviada"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Bouncing - Member unbounced themselves"
-msgstr "Rebote - El diputado se rebotó a sí mismo"
+msgstr "Rebote - El diputado no se ha rebotado"
 
 #: ../../tools/genactivities/activities.hjson:1510
 #, fuzzy
@@ -5811,7 +5829,7 @@ msgstr "Miembro saltarín"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Bouncing member %[1]s attempted to send message \"%[2]s\""
-msgstr "Miembro rebotado %[1]s intentó enviar mensaje \"%[2]s\""
+msgstr "El miembro rechazado %[1]s ha intentado enviar el mensaje \"%[2]s\"."
 
 #: ../../cmd/web/views/account/bouncing.qtpl:35
 #, fuzzy
@@ -5855,6 +5873,13 @@ msgstr "Ramas y etiquetas"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1755
 msgid "Brazil"
 msgstr "Brasil"
+
+#: ../../cmd/web/views/account/settings.qtpl:754
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:234
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Brazilian Portuguese"
+msgstr "Portugués de Brasil"
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:182
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:364
@@ -6122,13 +6147,13 @@ msgstr "Calendario - Miembro RSVP \"no\""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Calendar - Member RSVP \"not sure\""
-msgstr "Calendario - Miembro RSVP \"not sure\""
+msgstr "Calendario - Miembro RSVP \"no estoy seguro\""
 
 #: ../../tools/genactivities/activities.hjson:1201
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Calendar - Member RSVP \"yes\""
-msgstr "Calendario - Miembro RSVP \"yes\""
+msgstr "Calendario - Miembro RSVP \"sí"
 
 #: ../../tools/genactivities/activities.hjson:2499
 #, fuzzy
@@ -6171,13 +6196,13 @@ msgstr "Calendario - Evento desbloqueado"
 #| msgid "Cancel Event"
 #. Automatically translated using DeepL
 msgid "Calendar event for %s"
-msgstr "Evento del calendario para %s"
+msgstr "Evento del calendario para %s_."
 
 #: ../../pkg/notifications/noteviews/groupcalinvitesnotification.qtpl:47
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Calendar events for %s"
-msgstr "Calendario de actos para %s"
+msgstr "Calendario de eventos para %s_."
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:683
 #, fuzzy
@@ -6221,7 +6246,7 @@ msgid "Canada"
 msgstr "Canadá"
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:187
-#: ../../cmd/web/views/account/settings.qtpl:1157
+#: ../../cmd/web/views/account/settings.qtpl:1167
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:890
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:109
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:204
@@ -6548,7 +6573,7 @@ msgstr "Azul Cerúleo"
 msgid "Chad"
 msgstr "Chad"
 
-#: ../../cmd/web/views/account/settings.qtpl:249
+#: ../../cmd/web/views/account/settings.qtpl:250
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:715
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:794
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:830
@@ -6558,7 +6583,7 @@ msgstr "Cambiar"
 
 #: ../../cmd/web/views/account/bouncing.qtpl:99
 #: ../../cmd/web/views/account/needreverification.qtpl:93
-#: ../../cmd/web/views/account/settings.qtpl:189
+#: ../../cmd/web/views/account/settings.qtpl:190
 msgid "Change Email"
 msgstr "Cambiar email"
 
@@ -6573,7 +6598,7 @@ msgstr "Cambiar Plan"
 msgid "Change RSVP"
 msgstr "Cambiar RSVP"
 
-#: ../../cmd/web/views/account/settings.qtpl:297
+#: ../../cmd/web/views/account/settings.qtpl:298
 #, fuzzy
 msgid "Change Social Login Preferences"
 msgstr "Cambiar las preferencias de inicio de sesión social"
@@ -6612,7 +6637,7 @@ msgstr "Cambiar RSVP"
 msgid "Changelog"
 msgstr "Registro de cambios"
 
-#: ../../cmd/web/views/account/settings.qtpl:605
+#: ../../cmd/web/views/account/settings.qtpl:606
 #, fuzzy
 msgid ""
 "Changes made here will be specific to this group and all subgroups. To edit "
@@ -6623,7 +6648,7 @@ msgstr ""
 "subgrupos. Para editar su perfil general, seleccione <strong>Perfil general</"
 "strong> en el menú desplegable."
 
-#: ../../cmd/web/views/account/settings.qtpl:607
+#: ../../cmd/web/views/account/settings.qtpl:608
 #, fuzzy
 msgid ""
 "Changes made here will be specific to this group. To edit your overall "
@@ -6633,7 +6658,7 @@ msgstr ""
 "su perfil general, seleccione <strong>Perfil general</strong> en el menú "
 "desplegable."
 
-#: ../../cmd/web/views/account/settings.qtpl:462
+#: ../../cmd/web/views/account/settings.qtpl:463
 #, fuzzy
 msgid ""
 "Changes made to this profile will also be made to each group profile, with "
@@ -6842,6 +6867,13 @@ msgstr "Chile"
 msgid "China"
 msgstr "China"
 
+#: ../../cmd/web/views/account/settings.qtpl:757
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:237
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Chinese (Simplified)"
+msgstr "Chino (simplificado)"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:253
 msgid "Choices"
 msgstr "Elecciones"
@@ -6875,7 +6907,7 @@ msgstr "Reclamado por"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Claimed by %[1]s on %[2]s"
-msgstr "Reclamado por %[1]s el %[2]s"
+msgstr "Reclamado por %[1]s a %[2]s"
 
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:244
 msgid "Clear"
@@ -7193,7 +7225,7 @@ msgstr "Azul nublado"
 msgid "Cocos (Keeling) Islands"
 msgstr "Islas Cocos"
 
-#: ../../cmd/web/views/account/settings.qtpl:1151
+#: ../../cmd/web/views/account/settings.qtpl:1161
 #: ../../cmd/web/views/login/twofactor.qtpl:80
 msgid "Code"
 msgstr "Código"
@@ -7286,7 +7318,7 @@ msgstr "Ordenador"
 msgid "Concentration"
 msgstr "Concentración"
 
-#: ../../cmd/web/views/account/settings.qtpl:1113
+#: ../../cmd/web/views/account/settings.qtpl:1123
 #, fuzzy
 msgid ""
 "Configure your authenticator app to receive security codes from Groups.io. "
@@ -7324,14 +7356,14 @@ msgstr "Confirmar correo electrónico"
 #| msgid "Confirm Email Address"
 #. Automatically translated using DeepL
 msgid "Confirm your %s email address"
-msgstr "Confirme su dirección de correo electrónico %s "
+msgstr "Confirme su dirección de correo electrónico %s."
 
 #: ../../pkg/notifications/noteviews/emailsubscribenotification.qtpl:36
 #, fuzzy
 #| msgid "Your Subscription"
 #. Automatically translated using DeepL
 msgid "Confirm Your %s Subscription"
-msgstr "Confirme su suscripción a %s "
+msgstr "Confirme su suscripción a %s."
 
 #: ../../pkg/notifications/noteviews/confirmunsubnotification.qtpl:34
 #, fuzzy
@@ -7399,7 +7431,7 @@ msgstr ""
 msgid "Connect with Stripe"
 msgstr "Conectar con Stripe"
 
-#: ../../cmd/web/views/account/settings.qtpl:1292
+#: ../../cmd/web/views/account/settings.qtpl:1302
 #, fuzzy
 msgid "Connect Your Zoom Account"
 msgstr "Conecte su cuenta de Zoom"
@@ -7656,7 +7688,7 @@ msgstr "Creado este chat."
 msgid "Creating New Page"
 msgstr "Crear una nueva página"
 
-#: ../../cmd/web/views/account/settings.qtpl:1306
+#: ../../cmd/web/views/account/settings.qtpl:1316
 #, fuzzy
 msgid "Credit Card On File"
 msgstr "Tarjeta de crédito registrada"
@@ -7774,7 +7806,7 @@ msgstr "República Checa"
 msgid "Daily"
 msgstr "Diariamente"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:103
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:104
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:857
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:690
 #: ../../cmd/web/views/sub/editsub.qtpl:130
@@ -7804,7 +7836,7 @@ msgstr ""
 msgid "Dark Grey"
 msgstr "Gris oscuro"
 
-#: ../../cmd/web/views/account/settings.qtpl:883
+#: ../../cmd/web/views/account/settings.qtpl:893
 msgid "Dark Mode"
 msgstr "Modo oscuro"
 
@@ -7912,9 +7944,9 @@ msgstr "Bases de datos"
 msgid "Databases are disabled"
 msgstr "Las bases de datos están desactivadas"
 
-#: ../../cmd/web/views/account/settings.qtpl:1357
-#: ../../cmd/web/views/account/settings.qtpl:1435
-#: ../../cmd/web/views/account/settings.qtpl:1500
+#: ../../cmd/web/views/account/settings.qtpl:1367
+#: ../../cmd/web/views/account/settings.qtpl:1445
+#: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
@@ -7966,8 +7998,8 @@ msgstr "Fecha"
 msgid "Date and Time"
 msgstr "Fecha y Hora"
 
-#: ../../cmd/web/views/account/settings.qtpl:804
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:279
+#: ../../cmd/web/views/account/settings.qtpl:814
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:295
 #, fuzzy
 msgid "Date Display"
 msgstr "Visualización de la fecha"
@@ -8017,8 +8049,8 @@ msgstr "Oculto por defecto"
 msgid "Default Sub Settings"
 msgstr "Ajustes secundarios por defecto"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:34
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:60
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:35
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:61
 #, fuzzy
 msgid "Default Subscription Settings"
 msgstr "Configuración predeterminada de la suscripción"
@@ -8028,7 +8060,7 @@ msgstr "Configuración predeterminada de la suscripción"
 msgid "Default timezone for new users."
 msgstr "Zona horaria por defecto para los nuevos usuarios."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:210
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:211
 #, fuzzy
 msgid "Default User Settings"
 msgstr "Configuración de usuario por defecto"
@@ -8119,7 +8151,7 @@ msgid "Delete Message"
 msgstr "Borrar Mensaje"
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:191
-#: ../../cmd/web/views/account/settings.qtpl:374
+#: ../../cmd/web/views/account/settings.qtpl:375
 msgid "Delete My Account"
 msgstr "Eliminar Mi Cuenta"
 
@@ -8136,12 +8168,12 @@ msgstr "Eliminar archivos adjuntos antiguos"
 msgid "Delete Page"
 msgstr "Eliminar página"
 
-#: ../../cmd/web/views/account/settings.qtpl:253
+#: ../../cmd/web/views/account/settings.qtpl:254
 #, fuzzy
 msgid "Delete Password"
 msgstr "Borrar contraseña"
 
-#: ../../cmd/web/views/account/settings.qtpl:1334
+#: ../../cmd/web/views/account/settings.qtpl:1344
 msgid "Delete Payment Method"
 msgstr "Eliminar método de pago"
 
@@ -8284,7 +8316,7 @@ msgstr "carpeta eliminada"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Deleted Folder %s"
-msgstr "Carpeta eliminada %s"
+msgstr "Carpeta %s eliminada"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:187
 msgid "deleted from the"
@@ -8410,14 +8442,14 @@ msgstr "Descripción de esta columna."
 msgid "Description:"
 msgstr "Descripción:"
 
-#: ../../cmd/web/views/account/settings.qtpl:996
+#: ../../cmd/web/views/account/settings.qtpl:1006
 #, fuzzy
 msgid "Desktop notifications are currently not enabled in this browser."
 msgstr ""
 "Las notificaciones de escritorio no están habilitadas actualmente en este "
 "navegador."
 
-#: ../../cmd/web/views/account/settings.qtpl:992
+#: ../../cmd/web/views/account/settings.qtpl:1002
 #, fuzzy
 msgid "Desktop notifications are not supported in this browser."
 msgstr ""
@@ -8505,7 +8537,7 @@ msgstr ""
 "dado permiso explícito para añadirlas a tu grupo. Si abusas de esta función, "
 "puedes ser expulsado."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:97
+#: ../../cmd/web/views/account/groupprofile.qtpl:99
 #: ../../cmd/web/views/group/groupdirectory.qtpl:64
 #: ../../cmd/web/views/group/groupdirectory.qtpl:81
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:705
@@ -8542,17 +8574,17 @@ msgstr "Desactivar la edición de mensajes"
 msgid "Disable No Email"
 msgstr "Desactivar No Email"
 
-#: ../../cmd/web/views/account/settings.qtpl:1015
+#: ../../cmd/web/views/account/settings.qtpl:1025
 #, fuzzy
 msgid "Disable Notifications In This Browser"
 msgstr "Desactivar notificaciones en este navegador"
 
-#: ../../cmd/web/views/account/settings.qtpl:1026
+#: ../../cmd/web/views/account/settings.qtpl:1036
 #, fuzzy
 msgid "Disable Notifications On All Devices"
 msgstr "Desactivar notificaciones en todos los dispositivos"
 
-#: ../../cmd/web/views/account/settings.qtpl:986
+#: ../../cmd/web/views/account/settings.qtpl:996
 #, fuzzy
 msgid "Disable Notifications On This Device"
 msgstr "Desactivar notificaciones en este dispositivo"
@@ -8571,7 +8603,7 @@ msgstr ""
 msgid "Disable Signup"
 msgstr "Desactivar registro"
 
-#: ../../cmd/web/views/account/settings.qtpl:1068
+#: ../../cmd/web/views/account/settings.qtpl:1078
 #, fuzzy
 msgid "Disable two-factor authentication"
 msgstr "Desactivar la autenticación de dos factores"
@@ -8589,7 +8621,7 @@ msgstr "Descartar"
 msgid "Disconnect Connected Stripe Account"
 msgstr "Desconectar cuenta Stripe conectada"
 
-#: ../../cmd/web/views/account/settings.qtpl:1283
+#: ../../cmd/web/views/account/settings.qtpl:1293
 #, fuzzy
 msgid "Disconnect Your Zoom Account"
 msgstr "Desconecta tu cuenta de Zoom"
@@ -8611,11 +8643,11 @@ msgstr "no me ha gustado un mensaje"
 msgid "disliked a photo"
 msgstr "no me ha gustado una foto"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:151
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:161
-#: ../../cmd/web/views/account/settings.qtpl:506
-#: ../../cmd/web/views/account/settings.qtpl:641
-#: ../../cmd/web/views/account/settings.qtpl:651
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:153
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:163
+#: ../../cmd/web/views/account/settings.qtpl:507
+#: ../../cmd/web/views/account/settings.qtpl:642
+#: ../../cmd/web/views/account/settings.qtpl:652
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:211
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:257
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:561
@@ -8629,7 +8661,7 @@ msgstr "Nombre para mostrar"
 msgid "Display name changed"
 msgstr "Nombre para mostrar"
 
-#: ../../cmd/web/views/account/settings.qtpl:734
+#: ../../cmd/web/views/account/settings.qtpl:735
 #, fuzzy
 msgid "Display Preferences"
 msgstr "Preferencias de visualización"
@@ -8787,7 +8819,7 @@ msgstr "Donar"
 msgid "Donate Now"
 msgstr "Dona ahora"
 
-#: ../../cmd/web/views/account/settings.qtpl:1360
+#: ../../cmd/web/views/account/settings.qtpl:1370
 msgid "Donation"
 msgstr "Donación"
 
@@ -8827,7 +8859,7 @@ msgstr "Donación - Solicitud reabierta"
 msgid "Donation - Request updated"
 msgstr "Donación - Solicitud actualizada"
 
-#: ../../cmd/web/views/account/settings.qtpl:1342
+#: ../../cmd/web/views/account/settings.qtpl:1352
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:47
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:80
 msgid "Donation History"
@@ -8978,7 +9010,8 @@ msgstr "Duración"
 msgid "Dusty Mauve"
 msgstr "Malva polvoriento"
 
-#: ../../cmd/web/views/account/settings.qtpl:768
+#: ../../cmd/web/views/account/settings.qtpl:760
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:240
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Dutch"
@@ -9051,9 +9084,9 @@ msgstr "Timor Oriental"
 msgid "Ecuador"
 msgstr "Ecuador"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:210
-#: ../../cmd/web/views/account/settings.qtpl:542
-#: ../../cmd/web/views/account/settings.qtpl:691
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:212
+#: ../../cmd/web/views/account/settings.qtpl:543
+#: ../../cmd/web/views/account/settings.qtpl:692
 #: ../../cmd/web/views/calendar/calendar.qtpl:300
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:846
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:929
@@ -9145,8 +9178,8 @@ msgstr "Editar integraciones de Github"
 msgid "Edit Google Drive Integration"
 msgstr "Editar la integración de Google Drive"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:69
-#: ../../cmd/web/views/account/groupprofile.qtpl:236
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:71
+#: ../../cmd/web/views/account/groupprofile.qtpl:238
 #, fuzzy
 msgid "Edit Group Profile"
 msgstr "Editar perfil de grupo"
@@ -9270,7 +9303,7 @@ msgstr "Enviar una notificación de prueba"
 msgid "Edited message without sending to the group"
 msgstr "Mensaje editado sin enviar al grupo"
 
-#: ../../cmd/web/views/account/settings.qtpl:858
+#: ../../cmd/web/views/account/settings.qtpl:868
 msgid "Editor Preference"
 msgstr "Preferencias del editor"
 
@@ -9303,7 +9336,7 @@ msgstr "Email"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Email '%[1]s' respondents (%[2]d)"
-msgstr "Correo electrónico '%[1]s' encuestados (%[2]d)"
+msgstr "Correo electrónico \"%[1]s\" encuestados (%[2]d)"
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl:179
 #, fuzzy
@@ -9370,11 +9403,11 @@ msgstr "Correos electrónicos"
 msgid "Email Addresses Processed:"
 msgstr "Direcciones de correo electrónico procesadas:"
 
-#: ../../cmd/web/views/account/settings.qtpl:339
+#: ../../cmd/web/views/account/settings.qtpl:340
 msgid "Email Alias"
 msgstr "Alias de correo electrónico"
 
-#: ../../cmd/web/views/account/settings.qtpl:314
+#: ../../cmd/web/views/account/settings.qtpl:315
 msgid "Email Aliases"
 msgstr "Alias de Email"
 
@@ -9418,7 +9451,7 @@ msgstr "Correo electrónico y web/app"
 msgid "Email Communication Is Asynchronous"
 msgstr "La comunicación por correo electrónico es asíncrona"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:69
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:70
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:826
 #: ../../cmd/web/views/sub/editsub.qtpl:97
 #: ../../cmd/web/views/sub/groupinvite.qtpl:125
@@ -9542,7 +9575,7 @@ msgstr "Envíame un enlace para iniciar sesión"
 msgid "Email only"
 msgstr "Solo correo electrónico"
 
-#: ../../cmd/web/views/account/settings.qtpl:908
+#: ../../cmd/web/views/account/settings.qtpl:918
 msgid "Email Preferences"
 msgstr "Preferencias Email"
 
@@ -9554,13 +9587,13 @@ msgstr "Asunto del email"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Email to %s is bouncing"
-msgstr "El correo electrónico a %s rebota"
+msgstr "El correo electrónico a %s rebota."
 
 #: ../../tools/genactivities/activities.hjson:529
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Email to %s is no longer bouncing"
-msgstr "El correo electrónico a %s ya no rebota"
+msgstr "El correo electrónico a %s ya no rebota."
 
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl:79
 #, fuzzy
@@ -9616,12 +9649,12 @@ msgstr "destacó una foto"
 msgid "Enable join before host"
 msgstr "Habilitar unirse antes que el anfitrión"
 
-#: ../../cmd/web/views/account/settings.qtpl:1001
+#: ../../cmd/web/views/account/settings.qtpl:1011
 #, fuzzy
 msgid "Enable Notifications In This Browser"
 msgstr "Activar las notificaciones en este navegador"
 
-#: ../../cmd/web/views/account/settings.qtpl:978
+#: ../../cmd/web/views/account/settings.qtpl:988
 #, fuzzy
 msgid "Enable Notifications On This Device"
 msgstr "Activar notificaciones en este dispositivo"
@@ -9650,13 +9683,13 @@ msgstr "Hora de finalización"
 msgid "Ends"
 msgstr "Termina"
 
-#: ../../cmd/web/views/account/settings.qtpl:747
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:227
+#: ../../cmd/web/views/account/settings.qtpl:748
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:228
 #: ../../cmd/web/views/user/enterprise.qtpl:146
 msgid "English"
 msgstr "Inglés"
 
-#: ../../cmd/web/views/account/settings.qtpl:1140
+#: ../../cmd/web/views/account/settings.qtpl:1150
 #, fuzzy
 msgid "Enter The Six-Digit Code From The Application"
 msgstr "Introduzca el código de seis dígitos de la aplicación"
@@ -9666,7 +9699,7 @@ msgstr "Introduzca el código de seis dígitos de la aplicación"
 msgid "Enter Your Two-factor Authentication Code"
 msgstr "Introduzca su código de autenticación de dos factores"
 
-#: ../../cmd/web/views/account/settings.qtpl:1533
+#: ../../cmd/web/views/account/settings.qtpl:1543
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:140
 #: ../../cmd/web/views/static/staticpricing.qtpl:252
 msgid "Enterprise"
@@ -9830,7 +9863,7 @@ msgstr ""
 "Los propietarios tienen permisos para modificar todos los aspectos de un "
 "grupo. Puedes establecer qué permisos tiene cada moderador."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:150
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:151
 #, fuzzy
 msgid ""
 "Every message in topics or hashtags the members are following is emailed to "
@@ -9860,7 +9893,7 @@ msgstr ""
 "con su selección de envío de correo electrónico, excepto los temas o "
 "hashtags que haya silenciado."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:141
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:142
 #, fuzzy
 msgid ""
 "Every message is emailed to the members, according to their Email Delivery "
@@ -9943,7 +9976,7 @@ msgstr "Expandido"
 msgid "Expiration"
 msgstr "Vencimiento"
 
-#: ../../cmd/web/views/account/settings.qtpl:1322
+#: ../../cmd/web/views/account/settings.qtpl:1332
 msgid "Expiration:"
 msgstr "Vencimiento:"
 
@@ -9960,7 +9993,7 @@ msgstr "Expirado"
 msgid "Export"
 msgstr "Exportar"
 
-#: ../../cmd/web/views/account/settings.qtpl:388
+#: ../../cmd/web/views/account/settings.qtpl:389
 #, fuzzy
 msgid "Export Account Data"
 msgstr "Exportar datos de cuenta"
@@ -9980,7 +10013,7 @@ msgstr "Exportar grupo"
 msgid "Export Group Data"
 msgstr "Exportar datos de grupo"
 
-#: ../../cmd/web/views/account/settings.qtpl:369
+#: ../../cmd/web/views/account/settings.qtpl:370
 #, fuzzy
 msgid "Export My Account"
 msgstr "Exportar mi cuenta"
@@ -9990,7 +10023,7 @@ msgstr "Exportar mi cuenta"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Export of %s"
-msgstr "Exportación de %s"
+msgstr "Exportación de %s (en inglés)"
 
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl:302
 #, fuzzy
@@ -10005,7 +10038,7 @@ msgstr "Exportar encuesta"
 msgid "Export Table"
 msgstr "Tabla de exportación"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:317
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:333
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:452
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:391
 #: ../../cmd/web/views/sub/editsub.qtpl:719
@@ -10013,8 +10046,8 @@ msgstr "Tabla de exportación"
 msgid "Extra Member Data"
 msgstr "Datos adicionales de los miembros"
 
-#: ../../cmd/web/views/account/settings.qtpl:1404
-#: ../../cmd/web/views/account/settings.qtpl:1546
+#: ../../cmd/web/views/account/settings.qtpl:1414
+#: ../../cmd/web/views/account/settings.qtpl:1556
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:156
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:123
@@ -10116,7 +10149,7 @@ msgstr[1] "%#[1]d archivos borrados"
 msgid "File %[2]s updated"
 msgid_plural "%#[1]d files updated"
 msgstr[0] "Fichero %[2]s actualizado"
-msgstr[1] "%#[1]d archivos actualizados"
+msgstr[1] "%#[1]d ficheros actualizados"
 
 #: ../../pkg/notifications/noteviews/filenotification.qtpl:60
 #, fuzzy
@@ -10135,7 +10168,7 @@ msgstr "Fichero - Añadido"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "File - Attempted add with virus"
-msgstr "Archivo - Intento de añadir con virus"
+msgstr "Archivo - Intento de adición con virus"
 
 #: ../../tools/genactivities/activities.hjson:767
 #, fuzzy
@@ -10289,9 +10322,9 @@ msgstr "Finlandia"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "First Login"
-msgstr "Primera conexión"
+msgstr "Primer acceso"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:156
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:157
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:986
 #: ../../cmd/web/views/sub/editsub.qtpl:266
 #: ../../cmd/web/views/sub/groupinvite.qtpl:232
@@ -10332,7 +10365,7 @@ msgstr "Seguir"
 #| msgid "Follow"
 #. Automatically translated using DeepL
 msgid "Follow #%s"
-msgstr "Seguir%s"
+msgstr "Seguir #%s"
 
 #: ../../cmd/web/views/mutefollow/followedkeywords.qtpl:74
 #, fuzzy
@@ -10417,7 +10450,7 @@ msgstr "Temas seguidos"
 msgid "Following Events"
 msgstr "Eventos siguientes"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:147
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:148
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:977
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1399
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:182
@@ -10532,8 +10565,8 @@ msgstr ""
 "Después de crear tu grupo, podrás actualizarlo a un grupo Premium o "
 "Enterprise."
 
-#: ../../cmd/web/views/account/settings.qtpl:753
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:233
+#: ../../cmd/web/views/account/settings.qtpl:763
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:243
 #: ../../cmd/web/views/user/enterprise.qtpl:152
 msgid "French"
 msgstr "Francés"
@@ -10582,7 +10615,7 @@ msgstr "De no abonado"
 msgid "Full Digest"
 msgstr "Resumen completo"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:83
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:84
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:841
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:678
 #: ../../cmd/web/views/sub/editsub.qtpl:114
@@ -10636,11 +10669,11 @@ msgstr "General"
 msgid "Generate a PDF formatted for this Avery template."
 msgstr "Generar un PDF formateado para esta plantilla Avery."
 
-#: ../../cmd/web/views/account/settings.qtpl:414
+#: ../../cmd/web/views/account/settings.qtpl:415
 msgid "Generate Export"
 msgstr "Generar c&oacute;digo de exportaci&oacute;n"
 
-#: ../../cmd/web/views/account/settings.qtpl:1193
+#: ../../cmd/web/views/account/settings.qtpl:1203
 #, fuzzy
 msgid "Generate New Recovery Codes"
 msgstr "Generar nuevos códigos de recuperación"
@@ -10657,8 +10690,8 @@ msgstr "Enlace genérico"
 msgid "Georgia"
 msgstr "Georgia"
 
-#: ../../cmd/web/views/account/settings.qtpl:756
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:236
+#: ../../cmd/web/views/account/settings.qtpl:766
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:246
 #: ../../cmd/web/views/user/enterprise.qtpl:155
 msgid "German"
 msgstr "Alemán"
@@ -10812,9 +10845,9 @@ msgstr "Granada"
 msgid "Grey Blue"
 msgstr "Gris Azul"
 
-#: ../../cmd/web/views/account/settings.qtpl:1354
-#: ../../cmd/web/views/account/settings.qtpl:1432
-#: ../../cmd/web/views/account/settings.qtpl:1497
+#: ../../cmd/web/views/account/settings.qtpl:1364
+#: ../../cmd/web/views/account/settings.qtpl:1442
+#: ../../cmd/web/views/account/settings.qtpl:1507
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:709
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:736
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:753
@@ -10986,8 +11019,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Group invoice %#d was paid from sponsorship reserves"
-msgstr ""
-"La factura del Grupo %#d se pagó con cargo a las reservas de patrocinio"
+msgstr "La factura del grupo %#d se pagó con las reservas de patrocinio"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:338
 #, fuzzy
@@ -11120,7 +11152,7 @@ msgstr "Notificación"
 msgid "Group Owner"
 msgstr "Creador del grupo"
 
-#: ../../cmd/web/views/account/settings.qtpl:1485
+#: ../../cmd/web/views/account/settings.qtpl:1495
 #, fuzzy
 msgid "Group Payment History"
 msgstr "Historial de pagos del grupo"
@@ -11130,7 +11162,7 @@ msgstr "Historial de pagos del grupo"
 msgid "Group Policies"
 msgstr "Perfil del grupo"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:43
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:45
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #, fuzzy
@@ -11180,7 +11212,7 @@ msgstr "Tipo de grupo"
 msgid "Group Type and Moderation"
 msgstr "Moderador de Grupo"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:96
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:97
 #, fuzzy
 msgid ""
 "Group up to 12 messages together as one email instead of being sent "
@@ -11189,7 +11221,7 @@ msgstr ""
 "Agrupa hasta 12 mensajes en un solo correo electrónico en lugar de enviarlos "
 "individualmente (formato normal)."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:86
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:87
 #, fuzzy
 msgid ""
 "Group up to 12 messages together as one email instead of being sent "
@@ -11869,19 +11901,19 @@ msgid "How to be notified when storage limits are reached."
 msgstr ""
 "Cómo recibir notificaciones cuando se alcanzan los límites de almacenamiento."
 
-#: ../../cmd/web/views/account/settings.qtpl:818
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:293
+#: ../../cmd/web/views/account/settings.qtpl:828
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:309
 #, fuzzy
 msgid "How to display dates."
 msgstr "Cómo mostrar las fechas."
 
-#: ../../cmd/web/views/account/settings.qtpl:799
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:274
+#: ../../cmd/web/views/account/settings.qtpl:809
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:290
 #, fuzzy
 msgid "How to display times."
 msgstr "Cómo visualizar los tiempos."
 
-#: ../../cmd/web/views/account/settings.qtpl:865
+#: ../../cmd/web/views/account/settings.qtpl:875
 msgid "HTML"
 msgstr "HTML"
 
@@ -11900,7 +11932,7 @@ msgstr "Hungría"
 msgid "I Agree"
 msgstr "Acepto"
 
-#: ../../cmd/web/views/account/settings.qtpl:919
+#: ../../cmd/web/views/account/settings.qtpl:929
 #, fuzzy
 msgid "I always want copies of my own emails"
 msgstr "Siempre quiero copias de mis propios correos electrónicos"
@@ -12005,7 +12037,7 @@ msgstr ""
 "Si se especifica, sólo se guardarán los archivos adjuntos en los correos "
 "electrónicos con este hashtag."
 
-#: ../../cmd/web/views/account/settings.qtpl:1106
+#: ../../cmd/web/views/account/settings.qtpl:1116
 #, fuzzy
 msgid ""
 "If the authentication code is lost (for example, if a device is reset to "
@@ -12017,7 +12049,7 @@ msgstr ""
 "recuperación, deberás ponerte en contacto con el servicio de asistencia de "
 "Groups.io para poder iniciar sesión."
 
-#: ../../cmd/web/views/account/settings.qtpl:342
+#: ../../cmd/web/views/account/settings.qtpl:343
 #, fuzzy
 msgid ""
 "If the email service you use for this account sends your outgoing messages "
@@ -12301,7 +12333,7 @@ msgstr ""
 "en el siguiente enlace para confirmar su dirección de correo electrónico, "
 "establecer una contraseña y elegir otras opciones de suscripción:"
 
-#: ../../cmd/web/views/account/settings.qtpl:426
+#: ../../cmd/web/views/account/settings.qtpl:427
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -12310,7 +12342,7 @@ msgid ""
 "<strong>%[2]s</strong> with a link that, when clicked, will cause the "
 "accounts to be merged and this account to be deleted."
 msgstr ""
-"Si desea fusionar esta cuenta <strong>%[1]s</strong>en esa cuenta, haga clic en el botón Fusionar cuentas. Se enviará un correo electrónico a <strong>%[2]s</strong> con un enlace que, al pulsarlo, hará que se fusionen las cuentas y que se elimine esta cuenta."
+"Si desea fusionar esta cuenta, <strong>%[1]s</strong>, con esa cuenta, haga clic en el botón Fusionar cuentas. Se enviará un correo electrónico a <strong>%[2]s</strong> con un enlace que, al hacer clic en él, hará que se fusionen las cuentas y se elimine esta cuenta."
 
 #: ../../cmd/web/views/sub/groupinvite.qtpl:80
 #, fuzzy
@@ -12337,7 +12369,7 @@ msgid ""
 "If you would like to increase the amount of storage space available for your "
 "group, please visit our plans page <a href=\"%s\">here</a>."
 msgstr ""
-"Si desea aumentar el espacio de almacenamiento disponible para su grupo, visite nuestra página de planos &lt;a href="%s\"&gt;aquí</a>."
+"Si desea aumentar el espacio de almacenamiento disponible para su grupo, visite nuestra página de planos <a href=\"%s\">aquí</a>."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:168
 #, fuzzy
@@ -12486,7 +12518,7 @@ msgstr ""
 msgid "In addition to adding to the %s group, add to the following subgroups:"
 msgstr "Además de añadir al grupo %s, añade a los siguientes subgrupos:"
 
-#: ../../cmd/web/views/account/settings.qtpl:945
+#: ../../cmd/web/views/account/settings.qtpl:955
 #, fuzzy
 msgid ""
 "In addition to email, you can receive notifications about activity through "
@@ -12672,7 +12704,7 @@ msgstr ""
 msgid "Individual"
 msgstr "Individual"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:74
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:75
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:834
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:673
 #: ../../cmd/web/views/sub/editsub.qtpl:107
@@ -12694,7 +12726,7 @@ msgstr "mensajes individuales"
 msgid "Indonesia"
 msgstr "Indonesia"
 
-#: ../../cmd/web/views/account/settings.qtpl:846
+#: ../../cmd/web/views/account/settings.qtpl:856
 msgid "Infinite scroll"
 msgstr "Scroll infinito"
 
@@ -12707,15 +12739,15 @@ msgstr ""
 "Alerta informativa. Nulla ad proident do cupidatat. Laborum ad voluptate id "
 "adipisicing sint pariatur mollit aliqua nisi."
 
-#. TRANSLATORS: The %s is the page title
-#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:151
-#, fuzzy
-msgid "Initial %s page"
-msgstr "Página inicial %s"
-
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl:184
 msgid "Initial message"
 msgstr "Mensaje inicial"
+
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:150
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Initial page"
+msgstr "Página inicial"
 
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:321
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:430
@@ -12853,14 +12885,14 @@ msgstr "Integración - Eliminada la integración con Trello"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent message #%#[2]d %[3]s"
-msgstr "Integración \"%[1]s\" mensaje enviado #%#[2]d %[3]s"
+msgstr "Integración \"%[1]s\" enviado mensaje #%#[2]d %[3]s"
 
 #: ../../tools/genactivities/activities.hjson:47
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent message \"%[2]s\" requiring approval"
 msgstr ""
-"Integración \"%[1]s\" mensaje enviado \"%[2]s\" que requiere aprobación"
+"Integración \"%[1]s\" envió mensaje \"%[2]s\" que requiere aprobación"
 
 #: ../../tools/genactivities/activities.hjson:15
 #, fuzzy
@@ -12873,14 +12905,14 @@ msgstr "Integración \"%[1]s\" enviado aviso especial #%#[2]d %[3]s"
 #. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent special notice \"%[2]s\" requiring approval"
 msgstr ""
-"Integración \"%[1]s\" enviado aviso especial \"%[2]s\" requiriendo aprobación"
+"Integración \"%[1]s\" envió notificación especial \"%[2]s\" que requiere aprobación"
 
 #: ../../tools/genactivities/activities.hjson:53
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Integration message \"%s\" was sent requiring approval"
 msgstr ""
-"Se ha enviado el mensaje de integración "%s" que requiere aprobación."
+"Se ha enviado el mensaje de integración \"%s\" que requiere aprobación."
 
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:134
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl:144
@@ -12897,7 +12929,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "Integration special notice \"%s\" was sent requiring approval"
 msgstr ""
-"Se envió un aviso especial de integración a%s que requería aprobación."
+"Se ha enviado el anuncio especial de integración \"%s\", que requiere autorización."
 
 #: ../../cmd/web/views/group/grouphome.qtpl:391
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:507
@@ -13054,13 +13086,13 @@ msgstr "Factura Vencida"
 msgid "Invoice History"
 msgstr "Historial de facturas"
 
-#: ../../cmd/web/views/account/settings.qtpl:1351
-#: ../../cmd/web/views/account/settings.qtpl:1429
-#: ../../cmd/web/views/account/settings.qtpl:1494
+#: ../../cmd/web/views/account/settings.qtpl:1361
+#: ../../cmd/web/views/account/settings.qtpl:1439
+#: ../../cmd/web/views/account/settings.qtpl:1504
 msgid "Invoice ID"
 msgstr "ID de factura"
 
-#: ../../cmd/web/views/account/settings.qtpl:1537
+#: ../../cmd/web/views/account/settings.qtpl:1547
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:678
 msgid "Invoiced"
 msgstr "Facturado"
@@ -13173,8 +13205,8 @@ msgstr ""
 msgid "it's a moderated integration message"
 msgstr "es un mensaje de integración moderado"
 
-#: ../../cmd/web/views/account/settings.qtpl:750
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:230
+#: ../../cmd/web/views/account/settings.qtpl:769
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:249
 #: ../../cmd/web/views/user/enterprise.qtpl:149
 msgid "Italian"
 msgstr "Italiano"
@@ -13185,7 +13217,7 @@ msgstr "Italiano"
 msgid "Italy"
 msgstr "Italia"
 
-#: ../../cmd/web/views/account/settings.qtpl:833
+#: ../../cmd/web/views/account/settings.qtpl:843
 msgid "Items Per Page"
 msgstr "Elementos por página"
 
@@ -13242,7 +13274,7 @@ msgstr "Unirse al grupo"
 msgid "Join This Group"
 msgstr "Unirse a este grupo"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:114
+#: ../../cmd/web/views/account/groupprofile.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:283
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:586
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:125
@@ -13351,18 +13383,18 @@ msgstr "Etiqueta eliminada"
 msgid "Label removed from issue"
 msgstr "Borrar encuesta"
 
-#: ../../cmd/web/views/account/settings.qtpl:740
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:220
+#: ../../cmd/web/views/account/settings.qtpl:741
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:221
 #: ../../cmd/web/views/user/enterprise.qtpl:139
 msgid "Language Preference"
 msgstr "Preferencia de idioma"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:246
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:262
 #: ../../cmd/web/views/user/enterprise.qtpl:165
 msgid "Language the website and notifications are in."
 msgstr "Idioma de la página web y las notificaciones están en."
 
-#: ../../cmd/web/views/account/settings.qtpl:772
+#: ../../cmd/web/views/account/settings.qtpl:782
 #, fuzzy
 msgid ""
 "Language the website and notifications are in. Please see our <a href=\"/"
@@ -13415,7 +13447,7 @@ msgstr "se rió de un mensaje"
 msgid "laughed at a photo"
 msgstr "se rió de una foto"
 
-#: ../../cmd/web/views/account/settings.qtpl:217
+#: ../../cmd/web/views/account/settings.qtpl:218
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:112
 msgid "Learn More"
 msgstr "Aprende más"
@@ -13576,7 +13608,7 @@ msgstr "Enlace a Google Drive"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Link to log into %s"
-msgstr "Enlace para conectarse %s"
+msgstr "Enlace para iniciar sesión en %s."
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl:265
 #, fuzzy
@@ -13638,7 +13670,7 @@ msgstr "Lista renombrada"
 msgid "List moved to other board"
 msgstr "Lista movida a otro foro"
 
-#: ../../cmd/web/views/account/settings.qtpl:1095
+#: ../../cmd/web/views/account/settings.qtpl:1105
 #, fuzzy
 msgid "List of recent account accesses."
 msgstr "Lista de accesos recientes a la cuenta."
@@ -13675,9 +13707,9 @@ msgstr "Lituania"
 msgid "LLM"
 msgstr "LLM"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:216
-#: ../../cmd/web/views/account/settings.qtpl:549
-#: ../../cmd/web/views/account/settings.qtpl:698
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:218
+#: ../../cmd/web/views/account/settings.qtpl:550
+#: ../../cmd/web/views/account/settings.qtpl:699
 #: ../../cmd/web/views/account/usersessions.qtpl:81
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:514
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:565
@@ -13807,7 +13839,7 @@ msgstr "Inicie sesión si ya es miembro"
 #| msgid "Log In"
 #. Automatically translated using DeepL
 msgid "Log In Via %s"
-msgstr "Conéctese a través de %s"
+msgstr "Conectarse a través de %s."
 
 #: ../../cmd/web/views/login/login.qtpl:146
 #, fuzzy
@@ -13823,12 +13855,12 @@ msgstr "Inicia tu sesión con Facebook"
 msgid "Log in with Google"
 msgstr "Ingresar con Google"
 
-#: ../../cmd/web/views/account/settings.qtpl:1210
 #: ../../cmd/web/views/account/settings.qtpl:1220
-#: ../../cmd/web/views/account/settings.qtpl:1228
-#: ../../cmd/web/views/account/settings.qtpl:1236
-#: ../../cmd/web/views/account/settings.qtpl:1244
+#: ../../cmd/web/views/account/settings.qtpl:1230
+#: ../../cmd/web/views/account/settings.qtpl:1238
+#: ../../cmd/web/views/account/settings.qtpl:1246
 #: ../../cmd/web/views/account/settings.qtpl:1254
+#: ../../cmd/web/views/account/settings.qtpl:1264
 #: ../../cmd/web/views/base.qtpl:568
 #: ../../cmd/web/views/base.qtpl:693
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl:104
@@ -13848,7 +13880,7 @@ msgstr "Cerrar sesión"
 msgid "Logged out"
 msgstr "Desconectado"
 
-#: ../../cmd/web/views/account/settings.qtpl:160
+#: ../../cmd/web/views/account/settings.qtpl:161
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:213
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:213
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:224
@@ -14015,7 +14047,7 @@ msgstr "Vista de Mapa"
 msgid "Mar"
 msgstr "Mar"
 
-#: ../../cmd/web/views/account/settings.qtpl:868
+#: ../../cmd/web/views/account/settings.qtpl:878
 msgid "Markdown"
 msgstr "Markdown"
 
@@ -14048,7 +14080,7 @@ msgstr "Mauritania"
 msgid "Mauritius"
 msgstr "Mauricio"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:179
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:180
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1009
 #: ../../cmd/web/views/sub/editsub.qtpl:288
 #: ../../cmd/web/views/sub/groupinvite.qtpl:254
@@ -14106,7 +14138,7 @@ msgstr "Tamaño máximo de la foto en el correo electrónico"
 msgid "Max Size In Photos Section"
 msgstr "Tamaño máximo en la sección de fotos"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:199
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:200
 #, fuzzy
 msgid ""
 "Max size of attachments sent to the member in emails. For attachments larger "
@@ -14187,7 +14219,8 @@ msgstr "Miembro"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Member %[1]s attempted to send a message to locked topic %[2]s"
-msgstr "Miembro %[1]s intentó enviar un mensaje a un tema bloqueado %[2]s"
+msgstr ""
+"El miembro %[1]s ha intentado enviar un mensaje al tema bloqueado %[2]s."
 
 #: ../../tools/genactivities/activities.hjson:204
 #, fuzzy
@@ -14195,7 +14228,7 @@ msgstr "Miembro %[1]s intentó enviar un mensaje a un tema bloqueado %[2]s"
 msgid ""
 "Member %[1]s attempted to send message \"%[2]s\" to an announcement group"
 msgstr ""
-"El miembro %[1]s intentó enviar el mensaje \"%[2]s\" a un grupo de anuncios"
+"El miembro %[1]s ha intentado enviar el mensaje \"%[2]s\" a un grupo de anuncios."
 
 #: ../../tools/genactivities/activities.hjson:217
 #, fuzzy
@@ -14204,7 +14237,7 @@ msgid ""
 "Member %[1]s attempted to send message \"%[2]s\" to an announcement group with "
 "the wrong password"
 msgstr ""
-"El miembro %[1]s ha intentado enviar un mensaje \"%[2]s\" a un grupo de anuncios con una contraseña incorrecta."
+"El miembro %[1]s ha intentado enviar el mensaje \"%[2]s\" a un grupo de anuncios con una contraseña incorrecta."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:96
 #, fuzzy
@@ -14401,7 +14434,7 @@ msgstr "Miembros"
 msgid "Members @ $0.%02d/member"
 msgstr "Miembros @ $0.%d/miembro"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:169
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:170
 #, fuzzy
 msgid "Members automatically follow any topics they've started or replied to."
 msgstr ""
@@ -14574,7 +14607,7 @@ msgstr ""
 msgid "Members Only"
 msgstr "Solo miembros"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:106
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:107
 #, fuzzy
 msgid ""
 "Members receive a daily summary, delivered in the morning, of the group's "
@@ -14598,18 +14631,18 @@ msgstr "Los miembros deben ser aprobados antes de poder unirse al grupo."
 msgid "Members To Be Removed"
 msgstr "Miembros que deben ser destituidos"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:115
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:116
 #, fuzzy
 msgid "Members will only receive special notices from the moderators."
 msgstr "Los miembros sólo recibirán avisos especiales de los moderadores."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:77
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:78
 #, fuzzy
 msgid "Members will receive each message in an individual email."
 msgstr ""
 "Los miembros recibirán cada mensaje en un correo electrónico individual."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:125
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:126
 #, fuzzy
 msgid "Members will receive no emails."
 msgstr "Los afiliados no recibirán correos electrónicos."
@@ -14630,7 +14663,7 @@ msgstr "Afiliación - Cambio de nombre de usuario"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Membership - Display name changed by moderator"
-msgstr "Afiliación - Nombre para mostrar cambiado por el moderador"
+msgstr "Afiliación - El moderador ha cambiado el nombre para mostrar"
 
 #: ../../tools/genactivities/activities.hjson:495
 #, fuzzy
@@ -14834,7 +14867,7 @@ msgid "Membership - Username changed by member"
 msgstr "Afiliación - Nombre de usuario cambiado por el afiliado"
 
 #: ../../cmd/web/views/account/mergeaccounts.qtpl:56
-#: ../../cmd/web/views/account/settings.qtpl:430
+#: ../../cmd/web/views/account/settings.qtpl:431
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl:182
 msgid "Merge"
 msgstr "Unir"
@@ -14854,8 +14887,8 @@ msgstr "Fusionar en"
 msgid "mergeaccounts+"
 msgstr "fusionarcuentas+"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:138
-#: ../../cmd/web/views/account/groupprofile.qtpl:142
+#: ../../cmd/web/views/account/groupprofile.qtpl:140
+#: ../../cmd/web/views/account/groupprofile.qtpl:144
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl:36
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:192
 #: ../../cmd/web/views/user/original.qtpl:38
@@ -14871,7 +14904,7 @@ msgstr "Mensaje"
 #| msgid "messages"
 #. Automatically translated using DeepL
 msgid "message %[1]s"
-msgstr "mensaje %[1]s"
+msgstr "Mensaje %[1]s."
 
 #: ../../tools/genactivities/activities.hjson:373
 #, fuzzy
@@ -15002,7 +15035,7 @@ msgstr "Mensaje no encontrado"
 msgid "Message Policies"
 msgstr "Políticas de mensajes"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:133
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:134
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:965
 #: ../../cmd/web/views/sub/editsub.qtpl:242
 #: ../../cmd/web/views/sub/groupinvite.qtpl:208
@@ -15209,7 +15242,7 @@ msgid ""
 "change your delivery and other subscription options, visit your <a "
 "href=\"%[2]s\"</a>Subscription page</a>."
 msgstr ""
-"Los mensajes publicados en este grupo se enviarán a <code>%[1]s</code>. Para cambiar su entrega y otras opciones de suscripción, visite su &lt;a href="%[2]s\"</a>Página de suscripción</a>."
+"Los mensajes publicados en este grupo se le enviarán a <code>%[1]s</code>. Para cambiar su entrega y otras opciones de suscripción, visite su <a href=\"%[2]s\"</a>Página de suscripción</a>."
 
 #: ../../cmd/web/views/group/creategroup.qtpl:344
 #, fuzzy
@@ -15287,7 +15320,7 @@ msgstr "Microsoft OneDrive"
 msgid "Military"
 msgstr "Militar"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:270
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:286
 #, fuzzy
 msgid "Military Time (15:04)"
 msgstr "Hora militar (15:04)"
@@ -15527,8 +15560,8 @@ msgstr "Lun"
 msgid "Monaco"
 msgstr "Mónaco"
 
-#: ../../cmd/web/views/account/settings.qtpl:824
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:299
+#: ../../cmd/web/views/account/settings.qtpl:834
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:315
 #, fuzzy
 msgid "Monday Start"
 msgstr "Lunes Inicio"
@@ -15699,7 +15732,7 @@ msgstr "carpeta movida"
 #| msgid "Upload Folder"
 #. Automatically translated using DeepL
 msgid "Moved Folder %s"
-msgstr "Carpeta desplazada %s"
+msgstr "Carpeta movida %s"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:176
 msgid "moved from"
@@ -15762,7 +15795,7 @@ msgstr "Modo silencio"
 #| msgid "Mute"
 #. Automatically translated using DeepL
 msgid "Mute #%s"
-msgstr "Silencio%s"
+msgstr "Silenciar #%s"
 
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl:75
 #, fuzzy
@@ -15858,7 +15891,7 @@ msgstr "Etiquetas silenciadas"
 msgid "Muted Topics"
 msgstr "Temas silenciados"
 
-#: ../../cmd/web/views/account/settings.qtpl:914
+#: ../../cmd/web/views/account/settings.qtpl:924
 msgid "My Messages"
 msgstr "Mis mensajes"
 
@@ -16066,7 +16099,7 @@ msgstr "Nuevo Chat"
 #| msgid "New Chat"
 #. Automatically translated using DeepL
 msgid "New Chat: %s"
-msgstr "Nuevo chat: %s"
+msgstr "Nuevo Chat: %s"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:70
 msgid "New comment"
@@ -16096,7 +16129,7 @@ msgstr "Solicitud de donación"
 
 #: ../../cmd/web/views/account/bouncing.qtpl:79
 #: ../../cmd/web/views/account/needreverification.qtpl:74
-#: ../../cmd/web/views/account/settings.qtpl:169
+#: ../../cmd/web/views/account/settings.qtpl:170
 msgid "New Email"
 msgstr "Nuevo Email"
 
@@ -16183,7 +16216,7 @@ msgstr "Añadir Notificación"
 msgid "New Page"
 msgstr "Nueva página"
 
-#: ../../cmd/web/views/account/settings.qtpl:228
+#: ../../cmd/web/views/account/settings.qtpl:229
 msgid "New Password"
 msgstr "Nueva contraseña"
 
@@ -16225,7 +16258,7 @@ msgstr "Nuevo abonado - %[1]s se ha unido a %[2]s"
 #| msgid "Subscribe to"
 #. Automatically translated using DeepL
 msgid "New Subscribers To %s"
-msgstr "Nuevos abonados a %s"
+msgstr "Nuevos abonados a %s."
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl:85
 #, fuzzy
@@ -16413,7 +16446,7 @@ msgstr "Sin cambios"
 msgid "No Color"
 msgstr "Color"
 
-#: ../../cmd/web/views/account/settings.qtpl:1312
+#: ../../cmd/web/views/account/settings.qtpl:1322
 #, fuzzy
 msgid "No credit card is on file."
 msgstr "No hay ninguna tarjeta de crédito registrada."
@@ -16442,7 +16475,7 @@ msgstr "No se ha prohibido ningún dominio."
 msgid "No donations have been made."
 msgstr "No se han realizado donaciones."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:122
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:123
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:872
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:701
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1396
@@ -16463,9 +16496,9 @@ msgstr "Sin Email"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "no email"
-msgstr "en el correo electrónico"
+msgstr "no email"
 
-#: ../../cmd/web/views/account/settings.qtpl:331
+#: ../../cmd/web/views/account/settings.qtpl:332
 #, fuzzy
 msgid "No email aliases have been defined."
 msgstr "No se ha definido ningún alias de correo electrónico."
@@ -16561,7 +16594,7 @@ msgstr "No miembro"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Non-member %[1]s attempted to send message \"%[2]s\""
-msgstr "No miembro %[1]s intentó enviar mensaje \"%[2]s\""
+msgstr "El no miembro %[1]s ha intentado enviar el mensaje \"%[2]s\"."
 
 #: ../../tools/genactivities/activities.hjson:85
 #, fuzzy
@@ -16570,7 +16603,7 @@ msgid ""
 "Non-member %[1]s attempted to send message \"%[2]s\" and the message was "
 "rejected because"
 msgstr ""
-"El no miembro %[1]s intentó enviar el mensaje \"%[2]s\" y el mensaje fue rechazado porque"
+"El no miembro %[1]s ha intentado enviar el mensaje \"%[2]s\" y el mensaje ha sido rechazado porque"
 
 #: ../../tools/genactivities/activities.hjson:286
 #, fuzzy
@@ -16578,13 +16611,13 @@ msgstr ""
 msgid ""
 "Non-member %[1]s attempted to send message \"%[2]s\" but it had the %[3]s virus"
 msgstr ""
-"El no miembro %[1]s intentó enviar el mensaje \"%[2]s\" pero tenía el virus %[3]s "
+"El no miembro %[1]s intentó enviar el mensaje \"%[2]s\" pero tenía el virus %[3]s."
 
 #: ../../tools/genactivities/activities.hjson:60
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Non-member %[1]s sent \"%[2]s\" requiring approval"
-msgstr "No miembro %[1]s enviado \"%[2]s\" que requiere aprobación"
+msgstr "El no socio %[1]s envía a \"%[2]s\" que requiere aprobación"
 
 #: ../../tools/genactivities/activities.hjson:416
 #, fuzzy
@@ -16593,19 +16626,20 @@ msgid ""
 "Non-member %s attempted to send a message from a banned domain to the +owner "
 "address"
 msgstr ""
-"No miembro %s intentó enviar un mensaje desde un dominio prohibido a la dirección +propietario"
+"Un no miembro %s ha intentado enviar un mensaje desde un dominio prohibido a la dirección del +propietario"
 
 #: ../../tools/genactivities/activities.hjson:273
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Non-member %s attempted to send message from a banned domain"
-msgstr "No miembro %s intentó enviar un mensaje desde un dominio prohibido"
+msgstr ""
+"El no miembro %s ha intentado enviar un mensaje desde un dominio prohibido."
 
 #: ../../tools/genactivities/activities.hjson:1244
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Non-member %s attempted to subscribe with a banned domain"
-msgstr "No miembro %s intentó suscribirse con un dominio prohibido"
+msgstr "El no miembro %s ha intentado suscribirse con un dominio prohibido."
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:481
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:500
@@ -16761,7 +16795,7 @@ msgstr "Sin confirmar"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Not confirmed member %[1]s attempted to send message \"%[2]s\""
-msgstr "Miembro no confirmado %[1]s intento enviar mensaje \"%[2]s\""
+msgstr "Miembro no confirmado %[1]s intentó enviar mensaje \"%[2]s\""
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:439
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:451
@@ -16791,12 +16825,12 @@ msgstr "No aparece en el directorio de Groups.io."
 msgid "not restrict attachment size"
 msgstr "no restringir el tamaño de los archivos adjuntos"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:145
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:164
-#: ../../cmd/web/views/account/settings.qtpl:635
-#: ../../cmd/web/views/account/settings.qtpl:654
-#: ../../cmd/web/views/account/settings.qtpl:744
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:224
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:147
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:166
+#: ../../cmd/web/views/account/settings.qtpl:636
+#: ../../cmd/web/views/account/settings.qtpl:655
+#: ../../cmd/web/views/account/settings.qtpl:745
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:225
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:260
 #: ../../cmd/web/views/user/enterprise.qtpl:143
 msgid "Not set"
@@ -16847,7 +16881,7 @@ msgstr "Nota"
 msgid "Note To Send Attendees"
 msgstr "Nota para los asistentes"
 
-#: ../../cmd/web/views/account/settings.qtpl:206
+#: ../../cmd/web/views/account/settings.qtpl:207
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:220
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:166
 msgid "Note:"
@@ -17002,9 +17036,9 @@ msgstr "Notificación"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Notification \"%s\" was sent requiring approval"
-msgstr "Notificación \"%s\" fue enviada requiriendo aprobación"
+msgstr "Se ha enviado la notificación \"%s\" que requiere aprobación"
 
-#: ../../cmd/web/views/account/settings.qtpl:940
+#: ../../cmd/web/views/account/settings.qtpl:950
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl:109
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl:109
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:217
@@ -17013,7 +17047,7 @@ msgstr "Notificación \"%s\" fue enviada requiriendo aprobación"
 msgid "Notifications"
 msgstr "Notificaciones"
 
-#: ../../cmd/web/views/account/settings.qtpl:973
+#: ../../cmd/web/views/account/settings.qtpl:983
 #, fuzzy
 msgid "Notifications are currently not enabled on this device."
 msgstr ""
@@ -17102,7 +17136,7 @@ msgstr "NuM"
 msgid "Number"
 msgstr "Número"
 
-#: ../../cmd/web/views/account/settings.qtpl:850
+#: ../../cmd/web/views/account/settings.qtpl:860
 #, fuzzy
 msgid "Number of items displayed per page."
 msgstr "Número de elementos mostrados por página."
@@ -17113,7 +17147,7 @@ msgstr "Número de elementos mostrados por página."
 msgid "Number Of Members"
 msgstr "Número de miembros"
 
-#: ../../cmd/web/views/account/settings.qtpl:1199
+#: ../../cmd/web/views/account/settings.qtpl:1209
 #, fuzzy
 msgid "Oauth Logins"
 msgstr "Inicio de sesión Oauth"
@@ -17148,7 +17182,7 @@ msgstr "de"
 msgid "of $"
 msgstr "de $"
 
-#: ../../cmd/web/views/account/settings.qtpl:893
+#: ../../cmd/web/views/account/settings.qtpl:903
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1044
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1059
 msgid "Off"
@@ -17169,7 +17203,7 @@ msgstr "OK"
 msgid "Oman"
 msgstr "Omán"
 
-#: ../../cmd/web/views/account/settings.qtpl:896
+#: ../../cmd/web/views/account/settings.qtpl:906
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:460
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1040
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1055
@@ -17320,9 +17354,9 @@ msgstr ""
 "Mostrar los resultados sólo cuando la encuesta se haya cerrado. Los "
 "moderadores y creadores de encuestas siempre pueden ver los resultados."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:174
-#: ../../cmd/web/views/account/settings.qtpl:519
-#: ../../cmd/web/views/account/settings.qtpl:664
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:176
+#: ../../cmd/web/views/account/settings.qtpl:520
+#: ../../cmd/web/views/account/settings.qtpl:665
 #, fuzzy
 msgid "Only group owners & moderators"
 msgstr "Sólo propietarios de grupos y moderadores"
@@ -17593,13 +17627,13 @@ msgstr "Otros grupos"
 msgid "Other Info"
 msgstr "Otra información"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:177
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:179
 #, fuzzy
 msgid "Other members of your group"
 msgstr "Otros miembros de su grupo"
 
-#: ../../cmd/web/views/account/settings.qtpl:522
-#: ../../cmd/web/views/account/settings.qtpl:667
+#: ../../cmd/web/views/account/settings.qtpl:523
+#: ../../cmd/web/views/account/settings.qtpl:668
 #, fuzzy
 msgid "Other members of your groups"
 msgstr "Otros miembros de sus grupos"
@@ -17653,8 +17687,8 @@ msgstr "de 5"
 msgid "Out Of Space"
 msgstr "Fuera del espacio"
 
-#: ../../cmd/web/views/account/settings.qtpl:444
-#: ../../cmd/web/views/account/settings.qtpl:588
+#: ../../cmd/web/views/account/settings.qtpl:445
+#: ../../cmd/web/views/account/settings.qtpl:589
 #, fuzzy
 msgid "Overall Profile"
 msgstr "Perfil general"
@@ -17925,7 +17959,7 @@ msgid "Password"
 msgstr "Contraseña"
 
 #: ../../cmd/web/views/account/register.qtpl:111
-#: ../../cmd/web/views/account/settings.qtpl:245
+#: ../../cmd/web/views/account/settings.qtpl:246
 #: ../../cmd/web/views/static/staticwelcome.qtpl:96
 msgid "Passwords must be at least 6 characters long."
 msgstr "Las contraseñas deben tener al menos 6 caracteres."
@@ -18027,9 +18061,9 @@ msgstr "Detalles del pago"
 msgid "Payment History"
 msgstr "Historial de pagos"
 
-#: ../../cmd/web/views/account/settings.qtpl:1363
-#: ../../cmd/web/views/account/settings.qtpl:1438
-#: ../../cmd/web/views/account/settings.qtpl:1506
+#: ../../cmd/web/views/account/settings.qtpl:1373
+#: ../../cmd/web/views/account/settings.qtpl:1448
+#: ../../cmd/web/views/account/settings.qtpl:1516
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:637
 msgid "Payment Method"
 msgstr "Método de Pago"
@@ -18078,14 +18112,14 @@ msgstr "Pendiente de Aprobación"
 #. Automatically translated using DeepL
 msgid "Pending integration message \"%s\" expired and was deleted"
 msgstr ""
-"El mensaje de integración pendiente "%s" ha caducado y ha sido eliminado."
+"El mensaje de integración pendiente \"%s\" ha caducado y se ha eliminado."
 
 #: ../../tools/genactivities/activities.hjson:2663
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Pending integration special notice \"%s\" expired and was deleted"
 msgstr ""
-"Aviso especial de integración pendiente \"%s\" expiró y fue eliminado."
+"El aviso especial de integración pendiente \"%s\" ha expirado y se ha eliminado."
 
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl:156
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:109
@@ -18096,7 +18130,7 @@ msgstr "Miembro Pendiente"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Pending member %[1]s attempted to send message \"%[2]s\""
-msgstr "Miembro pendiente %[1]s intentó enviar mensaje \"%[2]s\""
+msgstr "El miembro pendiente %[1]s ha intentado enviar el mensaje \"%[2]s\"."
 
 #: ../../tools/genactivities/activities.hjson:468
 #, fuzzy
@@ -18184,7 +18218,7 @@ msgstr "mensajes pendientes"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Pending notification \"%s\" expired and was deleted"
-msgstr "Notificación pendiente \"%s\" caducada y eliminada."
+msgstr "La notificación pendiente \"%s\" ha expirado y se ha eliminado."
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl:96
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl:67
@@ -18399,7 +18433,7 @@ msgid "Place message footers in a separate MIME part."
 msgstr ""
 "Coloque los pies de página de los mensajes en una parte MIME separada."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:93
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:94
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:849
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:684
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1388
@@ -18417,7 +18451,7 @@ msgstr "Resumen"
 msgid "plain digest"
 msgstr "resumen simple"
 
-#: ../../cmd/web/views/account/settings.qtpl:871
+#: ../../cmd/web/views/account/settings.qtpl:881
 msgid "Plain Text"
 msgstr "Texto sin formato"
 
@@ -18425,7 +18459,7 @@ msgstr "Texto sin formato"
 msgid "Plain Text Only"
 msgstr "Solo texto sin formato"
 
-#: ../../cmd/web/views/account/settings.qtpl:1503
+#: ../../cmd/web/views/account/settings.qtpl:1513
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:634
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:333
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl:110
@@ -18597,7 +18631,8 @@ msgstr "Pornografía, contenido para adultos o desnudos."
 msgid "Portugal"
 msgstr "Portugal"
 
-#: ../../cmd/web/views/account/settings.qtpl:762
+#: ../../cmd/web/views/account/settings.qtpl:772
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
 msgid "Portuguese"
 msgstr "Portugués"
 
@@ -18782,7 +18817,7 @@ msgstr "Preferencias"
 msgid "Prefs"
 msgstr "Preferencias"
 
-#: ../../cmd/web/views/account/settings.qtpl:1533
+#: ../../cmd/web/views/account/settings.qtpl:1543
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:130
 #: ../../cmd/web/views/static/staticpricing.qtpl:172
 msgid "Premium"
@@ -18832,9 +18867,9 @@ msgstr ""
 msgid "Prevented by Free Group Limits"
 msgstr "Impedido por los límites del grupo libre"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:206
-#: ../../cmd/web/views/account/settings.qtpl:538
-#: ../../cmd/web/views/account/settings.qtpl:687
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:208
+#: ../../cmd/web/views/account/settings.qtpl:539
+#: ../../cmd/web/views/account/settings.qtpl:688
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:842
 #: ../../cmd/web/views/group/grouppromote.qtpl:241
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:925
@@ -18918,17 +18953,17 @@ msgstr "Política de privacidad"
 msgid "Private"
 msgstr "Privado"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:70
+#: ../../cmd/web/views/account/groupprofile.qtpl:72
 msgid "Profile"
 msgstr "Perfil"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:124
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:126
 msgid "Profile Photo"
 msgstr "Foto del perfil"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:170
-#: ../../cmd/web/views/account/settings.qtpl:515
-#: ../../cmd/web/views/account/settings.qtpl:660
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:172
+#: ../../cmd/web/views/account/settings.qtpl:516
+#: ../../cmd/web/views/account/settings.qtpl:661
 msgid "Profile Privacy"
 msgstr "Privacidad del Perfil"
 
@@ -18944,7 +18979,7 @@ msgstr "Promocionar"
 msgid "Promote Your Group"
 msgstr "Promocione su grupo"
 
-#: ../../cmd/web/views/account/settings.qtpl:1055
+#: ../../cmd/web/views/account/settings.qtpl:1065
 #, fuzzy
 msgid "Protect your account with an extra level of security."
 msgstr "Proteja su cuenta con un nivel de seguridad adicional."
@@ -18953,9 +18988,9 @@ msgstr "Proteja su cuenta con un nivel de seguridad adicional."
 msgid "Provider"
 msgstr "Proveedor"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:181
-#: ../../cmd/web/views/account/settings.qtpl:526
-#: ../../cmd/web/views/account/settings.qtpl:671
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:183
+#: ../../cmd/web/views/account/settings.qtpl:527
+#: ../../cmd/web/views/account/settings.qtpl:672
 msgid "Public"
 msgstr "Público"
 
@@ -19144,7 +19179,7 @@ msgstr "Motivo del rechazo"
 msgid "Reason for removal."
 msgstr "Motivo de la eliminación."
 
-#: ../../cmd/web/views/account/settings.qtpl:922
+#: ../../cmd/web/views/account/settings.qtpl:932
 #, fuzzy
 msgid "Receive copies of your own emails sent to groups."
 msgstr "Reciba copias de sus propios correos electrónicos enviados a grupos."
@@ -19254,7 +19289,7 @@ msgstr ""
 msgid "Recent Chats"
 msgstr "Chats recientes"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:213
+#: ../../cmd/web/views/account/groupprofile.qtpl:215
 #, fuzzy
 msgid "Recent Messages"
 msgstr "Rechazar mensajes"
@@ -19281,7 +19316,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Reconfirm Your %s Account"
-msgstr "Reconfirme su cuenta %s "
+msgstr "Reconfirme su cuenta %s."
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1110
 #, fuzzy
@@ -19292,8 +19327,8 @@ msgstr "Graba la reunión automáticamente en el ordenador local"
 msgid "Records"
 msgstr "Registros"
 
-#: ../../cmd/web/views/account/settings.qtpl:1072
-#: ../../cmd/web/views/account/settings.qtpl:1165
+#: ../../cmd/web/views/account/settings.qtpl:1082
+#: ../../cmd/web/views/account/settings.qtpl:1175
 #, fuzzy
 msgid ""
 "Recovery codes can be used to access your account in the event you lose "
@@ -19570,7 +19605,7 @@ msgstr ""
 #| msgid "Upload Folder"
 #. Automatically translated using DeepL
 msgid "Renamed Folder %s"
-msgstr "Carpeta con nuevo nombre %s"
+msgstr "Ha cambiado el nombre de la carpeta %s."
 
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl:139
 msgid "Reopen"
@@ -19805,7 +19840,7 @@ msgstr "Informar de este mensaje"
 msgid "Report This Photo"
 msgstr "Denunciar esta foto"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:241
+#: ../../cmd/web/views/account/groupprofile.qtpl:243
 #, fuzzy
 msgid "Report This Profile"
 msgstr "Perfil del informe"
@@ -19883,8 +19918,8 @@ msgstr "Solicitar contraseña para la reunión"
 msgid "Resend Pending Membership Notice"
 msgstr "Reenviar el aviso de afiliación pendiente"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:246
-#: ../../cmd/web/views/account/settings.qtpl:723
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:248
+#: ../../cmd/web/views/account/settings.qtpl:724
 #, fuzzy
 msgid "Reset Group Profile"
 msgstr "Restablecer perfil de grupo"
@@ -20223,7 +20258,7 @@ msgstr ""
 msgid "Saving attachments to <b>%s</b>."
 msgstr "Guardar archivos adjuntos en <b>%s</b>."
 
-#: ../../cmd/web/views/account/settings.qtpl:1076
+#: ../../cmd/web/views/account/settings.qtpl:1086
 #, fuzzy
 msgid ""
 "Saving your recovery codes in a safe place can help keep you from being "
@@ -20239,19 +20274,19 @@ msgstr ""
 "códigos de recuperación, tendrás que ponerte en contacto con el servicio de "
 "asistencia de Groups.io para poder iniciar sesión."
 
-#: ../../cmd/web/views/account/settings.qtpl:1110
+#: ../../cmd/web/views/account/settings.qtpl:1120
 #, fuzzy
 msgid "Scan This Barcode With Your App"
 msgstr "Escanee este código de barras con su aplicación"
 
-#: ../../cmd/web/views/account/settings.qtpl:1130
+#: ../../cmd/web/views/account/settings.qtpl:1140
 #, fuzzy
+#. Automatically translated using DeepL
 msgid ""
-"Scan this image using your authentication app. If you can't use a barcode, "
-"enter the code <strong>%s</strong>instead."
+"Scan this image using your authentication app. If you can't use a barcode, enter "
+"the code <strong>%s</strong> instead."
 msgstr ""
-"Escanee esta imagen con su aplicación de autenticación. Si no puede utilizar "
-"un código de barras, introduzca el código <strong>%s</strong>en su lugar."
+"Escanee esta imagen con su aplicación de autenticación. Si no puede utilizar un código de barras, introduzca en su lugar el código <strong>%s</strong>."
 
 #: ../../tools/genactivities/activities.hjson:557
 #: ../../tools/genactivities/activities.hjson:573
@@ -20259,7 +20294,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "scheduled for %s"
-msgstr "prevista para %s"
+msgstr "programado para %s."
 
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:65
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:88
@@ -20371,7 +20406,7 @@ msgstr ""
 "electrónico con un enlace a los datos cuando estén listos (generalmente en "
 "10 minutos)."
 
-#: ../../cmd/web/views/account/settings.qtpl:393
+#: ../../cmd/web/views/account/settings.qtpl:394
 #, fuzzy
 msgid "Select the groups you wish to export data from:"
 msgstr "Seleccione los grupos de los que desea exportar datos:"
@@ -20401,7 +20436,7 @@ msgstr ""
 "Enviar un conjunto de invitaciones de calendario al unirse al grupo y "
 "cancelar avisos de eventos al abandonar el grupo."
 
-#: ../../cmd/web/views/account/settings.qtpl:1010
+#: ../../cmd/web/views/account/settings.qtpl:1020
 #, fuzzy
 msgid "Send A Test Notification"
 msgstr "Enviar una notificación de prueba"
@@ -20659,11 +20694,11 @@ msgstr "Sincronización de servicios"
 msgid "Service to sync with."
 msgstr "Servicio con el que sincronizar."
 
-#: ../../cmd/web/views/account/settings.qtpl:1091
+#: ../../cmd/web/views/account/settings.qtpl:1101
 msgid "Sessions"
 msgstr "Sesiones"
 
-#: ../../cmd/web/views/account/settings.qtpl:249
+#: ../../cmd/web/views/account/settings.qtpl:250
 msgid "Set"
 msgstr "Establecer"
 
@@ -20736,7 +20771,7 @@ msgstr ""
 msgid "Set Password"
 msgstr "Establecer Contraseña"
 
-#: ../../cmd/web/views/account/settings.qtpl:1316
+#: ../../cmd/web/views/account/settings.qtpl:1326
 #, fuzzy
 msgid "Set Payment Method"
 msgstr "Establecer método de pago"
@@ -20778,7 +20813,7 @@ msgstr "Resumen"
 msgid "Set to special notices only"
 msgstr "Sólo avisos especiales"
 
-#: ../../cmd/web/views/account/settings.qtpl:1059
+#: ../../cmd/web/views/account/settings.qtpl:1069
 #, fuzzy
 msgid "Set up two-factor authentication"
 msgstr "Configurar la autenticación de dos factores"
@@ -20788,7 +20823,7 @@ msgstr "Configurar la autenticación de dos factores"
 msgid "Set Up Your Profile"
 msgstr "Configure su perfil"
 
-#: ../../cmd/web/views/account/settings.qtpl:124
+#: ../../cmd/web/views/account/settings.qtpl:125
 #: ../../cmd/web/views/base.qtpl:562
 #: ../../cmd/web/views/base.qtpl:687
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:37
@@ -20958,7 +20993,7 @@ msgstr "Eslovaquia"
 msgid "Slovenia"
 msgstr "Eslovenia"
 
-#: ../../cmd/web/views/account/settings.qtpl:267
+#: ../../cmd/web/views/account/settings.qtpl:268
 msgid "Social Logins"
 msgstr "Inicio de sesión sociales"
 
@@ -21025,8 +21060,8 @@ msgstr "Spam - El sistema eliminó a un miembro debido a un informe de spam"
 msgid "SPAM Left"
 msgstr "SPAM Izquierda"
 
-#: ../../cmd/web/views/account/settings.qtpl:759
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:239
+#: ../../cmd/web/views/account/settings.qtpl:775
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:255
 #: ../../cmd/web/views/user/enterprise.qtpl:158
 msgid "Spanish"
 msgstr "Español"
@@ -21039,7 +21074,7 @@ msgstr "Español"
 msgid "Special"
 msgstr "Especial"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:112
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:113
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:864
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:695
 #: ../../cmd/web/views/sub/editsub.qtpl:137
@@ -21094,7 +21129,7 @@ msgstr "Patrocinar este grupo"
 msgid "sponsorship help"
 msgstr "ayuda al mecenazgo"
 
-#: ../../cmd/web/views/account/settings.qtpl:1420
+#: ../../cmd/web/views/account/settings.qtpl:1430
 #, fuzzy
 msgid "Sponsorship History"
 msgstr "Historia del patrocinio"
@@ -21103,7 +21138,7 @@ msgstr "Historia del patrocinio"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Sponsorship receipt for %s"
-msgstr "Recibo de patrocinio de %s"
+msgstr "Recibo de patrocinio de %s."
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:685
 #, fuzzy
@@ -21133,7 +21168,7 @@ msgstr "Isla Santa Elena"
 msgid "St. Pierre and Miquelon"
 msgstr "San Pedro y Miquelón"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:267
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:283
 #, fuzzy
 msgid "Standard Time (3:04pm)"
 msgstr "Hora estándar (15:04)"
@@ -21180,8 +21215,8 @@ msgstr "Fecha de inicio"
 msgid "Start Merge"
 msgstr "Iniciar fusión"
 
-#: ../../cmd/web/views/account/settings.qtpl:827
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:302
+#: ../../cmd/web/views/account/settings.qtpl:837
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:318
 #, fuzzy
 msgid "Start the calendar week on Monday instead of Sunday."
 msgstr "Comience la semana natural el lunes en lugar del domingo."
@@ -21211,21 +21246,21 @@ msgstr "Comienza en"
 msgid "State"
 msgstr "Estado"
 
-#: ../../cmd/web/views/account/settings.qtpl:1369
-#: ../../cmd/web/views/account/settings.qtpl:1509
+#: ../../cmd/web/views/account/settings.qtpl:1379
+#: ../../cmd/web/views/account/settings.qtpl:1519
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:646
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:121
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:101
 msgid "Status"
 msgstr "Estado"
 
-#: ../../cmd/web/views/account/settings.qtpl:1044
-#: ../../cmd/web/views/account/settings.qtpl:1052
+#: ../../cmd/web/views/account/settings.qtpl:1054
+#: ../../cmd/web/views/account/settings.qtpl:1062
 #, fuzzy
 msgid "Status: Off"
 msgstr "Estado: Off"
 
-#: ../../cmd/web/views/account/settings.qtpl:1063
+#: ../../cmd/web/views/account/settings.qtpl:1073
 #, fuzzy
 msgid "Status: On"
 msgstr "Situación: En"
@@ -21531,7 +21566,7 @@ msgstr "Suscriptor eliminado por marcar un mensaje como spam"
 #| msgid "Subscribe to"
 #. Automatically translated using DeepL
 msgid "Subscribers have left %s"
-msgstr "Los abonados se han ido %s"
+msgstr "Los abonados han abandonado %s."
 
 #: ../../cmd/web/views/group/grouphome.qtpl:523
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:521
@@ -21542,7 +21577,7 @@ msgstr "Suscripción"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Subscription Approval Needed - %[1]s applied to %[2]s"
-msgstr "Subscription Approval Needed - %[1]s aplicado a %[2]s"
+msgstr "Aprobación de suscripción necesaria - %[1]s aplicada a %[2]s."
 
 #: ../../cmd/web/views/sub/groupinvite.qtpl:119
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:150
@@ -21570,8 +21605,8 @@ msgid "Subscriptions to this group require approval from the moderators."
 msgstr ""
 "Las suscripciones a este grupo requieren la aprobación de los moderadores."
 
-#: ../../cmd/web/views/account/settings.qtpl:1406
-#: ../../cmd/web/views/account/settings.qtpl:1548
+#: ../../cmd/web/views/account/settings.qtpl:1416
+#: ../../cmd/web/views/account/settings.qtpl:1558
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:715
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:125
 msgid "Succeeded"
@@ -21872,7 +21907,7 @@ msgid ""
 "want - a subscription to this group, please accept our apologies and ignore "
 "this message."
 msgstr ""
-"Gracias por su interés en %[1]s y el grupo %[2]s. Para completar su suscripción, responda a este correo electrónico. Si no ha solicitado -o no desea- suscribirse a este grupo, acepte nuestras disculpas e ignore este mensaje."
+"Gracias por su interés en %[1]s y el grupo %[2]s. Para completar su suscripción, responda a este correo electrónico. Si no ha solicitado -o no desea- la suscripción a este grupo, acepte nuestras disculpas e ignore este mensaje."
 
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl:71
 #, fuzzy
@@ -21999,7 +22034,7 @@ msgid "That email address does not have a %s account."
 msgstr "Esa dirección de correo electrónico no tiene una cuenta %s."
 
 #: ../../cmd/web/views/account/register.qtpl:88
-#: ../../cmd/web/views/account/settings.qtpl:351
+#: ../../cmd/web/views/account/settings.qtpl:352
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:199
 #, fuzzy
 msgid "That email address is already registered."
@@ -22007,7 +22042,7 @@ msgstr "Esa dirección de correo electrónico ya está registrada."
 
 #: ../../cmd/web/views/account/bouncing.qtpl:92
 #: ../../cmd/web/views/account/needreverification.qtpl:87
-#: ../../cmd/web/views/account/settings.qtpl:182
+#: ../../cmd/web/views/account/settings.qtpl:183
 #, fuzzy
 msgid ""
 "That email address is already registered. If you wish to merge the two "
@@ -22030,7 +22065,7 @@ msgstr ""
 
 #: ../../cmd/web/views/account/bouncing.qtpl:88
 #: ../../cmd/web/views/account/needreverification.qtpl:83
-#: ../../cmd/web/views/account/settings.qtpl:178
+#: ../../cmd/web/views/account/settings.qtpl:179
 #, fuzzy
 msgid "That email address is already your current email address."
 msgstr ""
@@ -22040,8 +22075,8 @@ msgstr ""
 #: ../../cmd/web/views/account/bouncing.qtpl:84
 #: ../../cmd/web/views/account/needreverification.qtpl:79
 #: ../../cmd/web/views/account/register.qtpl:84
-#: ../../cmd/web/views/account/settings.qtpl:174
-#: ../../cmd/web/views/account/settings.qtpl:347
+#: ../../cmd/web/views/account/settings.qtpl:175
+#: ../../cmd/web/views/account/settings.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:195
 msgid "That email address is not valid."
 msgstr "Esa dirección de correo electrónico no es válida."
@@ -22120,7 +22155,7 @@ msgstr ""
 "Esa contraseña es demasiado corta. Las contraseñas deben tener al menos 6 "
 "caracteres."
 
-#: ../../cmd/web/views/account/settings.qtpl:241
+#: ../../cmd/web/views/account/settings.qtpl:242
 #, fuzzy
 msgid ""
 "That password is too long. Passwords must be no more than 60 characters long."
@@ -22129,7 +22164,7 @@ msgstr ""
 "caracteres."
 
 #: ../../cmd/web/views/account/register.qtpl:103
-#: ../../cmd/web/views/account/settings.qtpl:237
+#: ../../cmd/web/views/account/settings.qtpl:238
 #, fuzzy
 msgid ""
 "That password is too short. Passwords must be at least 6 characters long."
@@ -22156,7 +22191,7 @@ msgstr ""
 "Ese enlace para darse de baja ya ha sido pulsado y la persona suscrita al "
 "grupo ha sido eliminada."
 
-#: ../../cmd/web/views/account/settings.qtpl:496
+#: ../../cmd/web/views/account/settings.qtpl:497
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:429
 #, fuzzy
 msgid "That username has already been taken."
@@ -22170,7 +22205,7 @@ msgstr "Ese nombre de usuario ya está cogido."
 #| msgid "Moderator"
 #. Automatically translated using DeepL
 msgid "The %s Moderator"
-msgstr "El moderador de %s "
+msgstr "El moderador de %s."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:113
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl:67
@@ -22208,7 +22243,7 @@ msgid ""
 "The address to send an email to the groups is <a href=\"mailto:"
 "%[1]s\">%[1]s</a>."
 msgstr ""
-"La dirección para enviar un correo electrónico a los grupos es &lt;a href="mailto:%[1]s\"&gt;%[1]s</a> ."
+"La dirección para enviar un correo electrónico a los grupos es <a href=\"mailto:%[1]s\">%[1]s</a>."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:508
 #, fuzzy
@@ -22392,7 +22427,7 @@ msgid ""
 "participants to post via web or email, you can use this email to post new "
 "topics."
 msgstr ""
-"La dirección de correo electrónico de este grupo es: %s. Dado que nuestro sistema permite a los participantes enviar mensajes a través de la web o por correo electrónico, puede utilizar esta dirección para enviar nuevos temas."
+"La dirección de correo electrónico de este grupo es %s. Dado que nuestro sistema permite a los participantes enviar mensajes a través de la web o por correo electrónico, puede utilizar este correo electrónico para enviar nuevos temas."
 
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl:142
 #, fuzzy
@@ -22406,7 +22441,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "The email for this group is: %[1]s."
-msgstr "El correo electrónico de este grupo es: %[1]s."
+msgstr "El correo electrónico para este grupo es: %[1]s."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:97
 #, fuzzy
@@ -22494,7 +22529,7 @@ msgstr ""
 "sigues, combinados en un único correo electrónico resumido, te serán "
 "enviados a %s."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:159
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:160
 #, fuzzy
 msgid "The first message of every new thread is also emailed to the members."
 msgstr ""
@@ -22842,7 +22877,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "The monthly reminder email \"%s\" was sent to the group"
 msgstr ""
-"El correo electrónico recordatorio mensual \"%s\" fue enviado al grupo"
+"Se ha enviado al grupo el correo electrónico recordatorio mensual \"%s\"."
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl:75
 #, fuzzy
@@ -22859,7 +22894,7 @@ msgstr "El sistema de listas de correo más avanzado del mercado"
 msgid "The name cannot be empty."
 msgstr "El nombre no puede estar vacío."
 
-#: ../../cmd/web/views/account/settings.qtpl:510
+#: ../../cmd/web/views/account/settings.qtpl:511
 #, fuzzy
 msgid ""
 "The name listed with your messages. Note: When you send a message, your "
@@ -22869,7 +22904,7 @@ msgstr ""
 "dirección de correo electrónico también se muestra a los miembros del grupo "
 "que reciben mensajes por correo electrónico."
 
-#: ../../cmd/web/views/account/settings.qtpl:645
+#: ../../cmd/web/views/account/settings.qtpl:646
 #, fuzzy
 msgid ""
 "The name listed with your messages. Note: When you send messages to this "
@@ -22885,7 +22920,7 @@ msgstr ""
 msgid "The name listed with your posts."
 msgstr "No está permitido unirse a este grupo."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:155
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:157
 #, fuzzy
 msgid ""
 "The name listed with your posts. Note: When you post, your email address is "
@@ -23317,7 +23352,7 @@ msgid ""
 "There's a due invoice, from %[1]s, in the amount of $%.02[2]. If this "
 "invoice is not paid, the group will be downgraded to the free plan."
 msgstr ""
-"Hay una factura pendiente de pago, de %[1]s, por importe de $%.02[2]. Si no se paga esta factura, el grupo pasará al plan gratuito."
+"Hay una factura vencida, de %[1]s, por importe de $%.02[2]. Si no se paga esta factura, el grupo pasará al plan gratuito."
 
 #. TRANSLATORS: %[1]s refers to the date the invoice is due, %[2]f refers to the amount of the invoice.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:266
@@ -23763,7 +23798,7 @@ msgid "This topic has been removed because of a DMCA take down request."
 msgstr ""
 "Este tema ha sido eliminado debido a una solicitud de retirada de la DMCA."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:204
+#: ../../cmd/web/views/account/groupprofile.qtpl:206
 #, fuzzy
 msgid "This user has never posted to the group."
 msgstr "El remitente no puede enviar mensajes al grupo."
@@ -23795,8 +23830,8 @@ msgstr "Jue"
 msgid "Time"
 msgstr "Hora"
 
-#: ../../cmd/web/views/account/settings.qtpl:788
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:263
+#: ../../cmd/web/views/account/settings.qtpl:798
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:279
 msgid "Time Display"
 msgstr "Mostrar tiempo"
 
@@ -23804,9 +23839,9 @@ msgstr "Mostrar tiempo"
 msgid "times"
 msgstr "veces"
 
-#: ../../cmd/web/views/account/settings.qtpl:777
+#: ../../cmd/web/views/account/settings.qtpl:787
 #: ../../cmd/web/views/calendar/calendar.qtpl:231
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:268
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:319
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:167
 #: ../../cmd/web/views/user/enterprise.qtpl:171
@@ -23888,7 +23923,7 @@ msgstr ""
 "Para ponerse en contacto con los propietarios de este grupo, envíe un correo "
 "electrónico a:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1047
+#: ../../cmd/web/views/account/settings.qtpl:1057
 #, fuzzy
 msgid ""
 "To enable two-factor authentication, first log out and log back in using "
@@ -24115,8 +24150,8 @@ msgstr "para:"
 msgid "Today"
 msgstr "Hoy"
 
-#: ../../cmd/web/views/account/settings.qtpl:447
-#: ../../cmd/web/views/account/settings.qtpl:581
+#: ../../cmd/web/views/account/settings.qtpl:448
+#: ../../cmd/web/views/account/settings.qtpl:582
 #: ../../cmd/web/views/calendar/calendar.qtpl:143
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl:91
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:131
@@ -24242,13 +24277,13 @@ msgstr "Tema - Unstuck"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Topic \"%[1]s\" was deleted because the hashtag %[2]s expired"
-msgstr "Tema \"%[1]s\" fue eliminado porque el hashtag %[2]s caducado"
+msgstr "El tema \"%[1]s\" se ha eliminado porque el hashtag %[2]s ha caducado."
 
 #: ../../tools/genactivities/activities.hjson:259
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Topic \"%s\" was deleted because a hashtag expired"
-msgstr "Tema \"%s\" fue borrado porque un hashtag expiró"
+msgstr "El tema \"%s\" se ha eliminado porque un hashtag ha caducado."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl:158
 #, fuzzy
@@ -24365,7 +24400,7 @@ msgstr "ID de Transacción"
 msgid "Transaction ID:"
 msgstr "ID de transacción:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1169
+#: ../../cmd/web/views/account/settings.qtpl:1179
 #, fuzzy
 msgid ""
 "Treat your recovery codes with the same level of attention as you would your "
@@ -24465,7 +24500,7 @@ msgstr ""
 "La autenticación de dos factores está activada para esa cuenta. Esta función "
 "no está disponible."
 
-#: ../../cmd/web/views/account/settings.qtpl:1038
+#: ../../cmd/web/views/account/settings.qtpl:1048
 msgid "Two-Factor Authentication"
 msgstr "Autenticación de dos factores"
 
@@ -24479,7 +24514,7 @@ msgstr "Se ha desactivado la autenticación de dos factores para tu cuenta."
 msgid "Two-factor authentication is now set up for your account."
 msgstr "La autenticación de dos factores ya está configurada para tu cuenta."
 
-#: ../../cmd/web/views/account/settings.qtpl:1162
+#: ../../cmd/web/views/account/settings.qtpl:1172
 #, fuzzy
 msgid "Two-factor Recovery Codes"
 msgstr "Códigos de recuperación de dos factores"
@@ -24510,8 +24545,8 @@ msgstr "Uganda"
 msgid "Ukraine"
 msgstr "Ucrania"
 
-#: ../../cmd/web/views/account/settings.qtpl:765
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:242
+#: ../../cmd/web/views/account/settings.qtpl:778
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:258
 #: ../../cmd/web/views/user/enterprise.qtpl:161
 msgid "Ukrainian"
 msgstr "Ucraniano"
@@ -24647,7 +24682,7 @@ msgstr ""
 "\t\t\tLa naturaleza asíncrona del correo electrónico tiene varias ventajas, "
 "especialmente para grupos grandes y distribuidos."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:183
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:184
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:603
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1013
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:841
@@ -24808,7 +24843,7 @@ msgstr "Darse de baja de %s"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Unsubscription - %[1]s has left %[2]s"
-msgstr "Baja - %[1]s se ha ido %[2]s"
+msgstr "Baja: %[1]s ha abandonado %[2]s."
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:474
 msgid "Until"
@@ -24930,8 +24965,8 @@ msgstr "Actualizar carpeta"
 msgid "Update Group"
 msgstr "Actualizar Grupo"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:242
-#: ../../cmd/web/views/account/settings.qtpl:719
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:244
+#: ../../cmd/web/views/account/settings.qtpl:720
 #, fuzzy
 msgid "Update Group Profile"
 msgstr "Actualizar perfil de grupo"
@@ -24956,12 +24991,12 @@ msgstr "Notificación de actualización"
 msgid "Update on Groups.io Reverification Process"
 msgstr "Notificación"
 
-#: ../../cmd/web/views/account/settings.qtpl:570
+#: ../../cmd/web/views/account/settings.qtpl:571
 #, fuzzy
 msgid "Update Overall Profile"
 msgstr "Actualizar el perfil general"
 
-#: ../../cmd/web/views/account/settings.qtpl:1330
+#: ../../cmd/web/views/account/settings.qtpl:1340
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:321
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:355
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:352
@@ -24978,7 +25013,7 @@ msgstr "Actualizar foto"
 msgid "Update Poll"
 msgstr "Encuesta de actualización"
 
-#: ../../cmd/web/views/account/settings.qtpl:932
+#: ../../cmd/web/views/account/settings.qtpl:942
 msgid "Update Preferences"
 msgstr "Actualizar Preferencias"
 
@@ -24986,7 +25021,7 @@ msgstr "Actualizar Preferencias"
 msgid "Update Row"
 msgstr "Actualizar fila"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:339
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:355
 #: ../../cmd/web/views/user/enterprise.qtpl:293
 msgid "Update Settings"
 msgstr "Actualizar ajustes"
@@ -25025,12 +25060,6 @@ msgstr "Actualizado"
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:293
 msgid "updated"
 msgstr "actualizado"
-
-#. TRANSLATORS: The %s is the page title
-#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:154
-#, fuzzy
-msgid "Updated %s page"
-msgstr "Página %s actualizada"
 
 #: ../../pkg/notifications/noteviews/chatnotification.qtpl:117
 #, fuzzy
@@ -25091,6 +25120,12 @@ msgstr "carpeta actualizada"
 msgid "updated in the"
 msgstr "actualizado en el"
 
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:152
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Updated page"
+msgstr "Página actualizada"
+
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:237
 #, fuzzy
 #| msgid "Updated"
@@ -25130,7 +25165,7 @@ msgstr "Página Wiki actualizada"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Updated Wiki Page: %s"
-msgstr "Página Wiki actualizada: %s"
+msgstr "Página Wiki actualizada: %s (EN INGLÉS)"
 
 #: ../../pkg/notifications/noteviews/donationrequestnotification.qtpl:53
 #: ../../pkg/notifications/noteviews/donationrequestnotification.qtpl:96
@@ -25351,9 +25386,9 @@ msgstr "Uruguay"
 msgid "Usage"
 msgstr "Uso"
 
-#: ../../cmd/web/views/account/settings.qtpl:1399
-#: ../../cmd/web/views/account/settings.qtpl:1471
-#: ../../cmd/web/views/account/settings.qtpl:1551
+#: ../../cmd/web/views/account/settings.qtpl:1409
+#: ../../cmd/web/views/account/settings.qtpl:1481
+#: ../../cmd/web/views/account/settings.qtpl:1561
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:115
 #, fuzzy
 msgid "USD $"
@@ -25428,8 +25463,8 @@ msgstr "Utiliza esta foto como portada del álbum."
 msgid "Use this poster of the video as the cover for the album."
 msgstr "Utiliza esta foto como portada del álbum."
 
-#: ../../cmd/web/views/account/settings.qtpl:783
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:258
+#: ../../cmd/web/views/account/settings.qtpl:793
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:274
 #, fuzzy
 msgid "Used for displaying times."
 msgstr "Se utiliza para visualizar las horas."
@@ -25456,9 +25491,9 @@ msgstr "El nombre de usuario no está configurado."
 msgid "User Sessions"
 msgstr "Sesiones de usuario"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:142
-#: ../../cmd/web/views/account/settings.qtpl:486
-#: ../../cmd/web/views/account/settings.qtpl:632
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:144
+#: ../../cmd/web/views/account/settings.qtpl:487
+#: ../../cmd/web/views/account/settings.qtpl:633
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:266
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:419
 msgid "Username"
@@ -25495,7 +25530,7 @@ msgstr "Uso de %s para almacenar fotos"
 msgid "Uzbekistan"
 msgstr "Uzbekistán"
 
-#: ../../cmd/web/views/account/settings.qtpl:1154
+#: ../../cmd/web/views/account/settings.qtpl:1164
 msgid "Validate"
 msgstr "Validar"
 
@@ -25802,7 +25837,7 @@ msgstr "VER TODO"
 msgid "View All %d Messages"
 msgstr "Ver todos %d Mensajes en el tema"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:224
+#: ../../cmd/web/views/account/groupprofile.qtpl:226
 #, fuzzy
 #| msgid "All Messages"
 msgid "View All Messages"
@@ -25909,7 +25944,7 @@ msgstr "Ver chat"
 msgid "View this message online"
 msgstr "Ver este mensaje en línea"
 
-#: ../../cmd/web/views/account/settings.qtpl:1080
+#: ../../cmd/web/views/account/settings.qtpl:1090
 #, fuzzy
 msgid "View your recovery codes"
 msgstr "Ver sus códigos de recuperación"
@@ -26408,9 +26443,9 @@ msgstr "Web/App Notificar"
 msgid "Web/App only"
 msgstr "Sólo Web/App"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:226
-#: ../../cmd/web/views/account/settings.qtpl:559
-#: ../../cmd/web/views/account/settings.qtpl:708
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:228
+#: ../../cmd/web/views/account/settings.qtpl:560
+#: ../../cmd/web/views/account/settings.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:215
 #: ../../cmd/web/views/user/enterprise.qtpl:63
 msgid "Website"
@@ -26563,7 +26598,7 @@ msgid "When"
 msgstr "Cuando"
 
 #. TRANSLATORS: The %s is the organization's domain (usually groups.io unless an enterprise group).
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:214
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:215
 #, fuzzy
 msgid ""
 "When a member joins that does not already have a %s account, their account "
@@ -26592,7 +26627,7 @@ msgstr ""
 "Cuando se trata de comunicación en equipo, más rápido no siempre es mejor - "
 "Amir Salihefendić"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:63
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:64
 #, fuzzy
 msgid ""
 "When new members join, their subscription will default to these settings."
@@ -26703,7 +26738,7 @@ msgstr ""
 "padre será ahora <em>main@%[</em> 2]s y tu subgrupo se llamará <em>sg@%[2]s. "
 "Puedes cambiar main por cualquier otro nombre que desees."
 
-#: ../../cmd/web/views/account/settings.qtpl:1190
+#: ../../cmd/web/views/account/settings.qtpl:1200
 #, fuzzy
 msgid ""
 "When you generate new recovery codes, you must download or print the new "
@@ -26742,7 +26777,7 @@ msgstr "Permitir también el inicio de sesión por correo electrónico."
 msgid "Whether to be notified of new messages."
 msgstr "Si desea recibir notificaciones de nuevos mensajes."
 
-#: ../../cmd/web/views/account/settings.qtpl:875
+#: ../../cmd/web/views/account/settings.qtpl:885
 #, fuzzy
 msgid "Which editor to use for composing messages on the website."
 msgstr "Qué editor utilizar para redactar mensajes en el sitio web."
@@ -26781,9 +26816,9 @@ msgstr "Quién puede editar las filas de la tabla."
 msgid "Who can edit the database options."
 msgstr "Quién puede editar las opciones de la tabla."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:186
-#: ../../cmd/web/views/account/settings.qtpl:531
-#: ../../cmd/web/views/account/settings.qtpl:676
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:188
+#: ../../cmd/web/views/account/settings.qtpl:532
+#: ../../cmd/web/views/account/settings.qtpl:677
 #, fuzzy
 msgid "Who can see your profile information."
 msgstr "Quién puede ver la información de tu perfil."
@@ -27736,7 +27771,7 @@ msgstr ""
 "No puedes darte de baja porque eres el único propietario del grupo. Borra el "
 "grupo o añade a otra persona como propietario."
 
-#: ../../cmd/web/views/account/settings.qtpl:949
+#: ../../cmd/web/views/account/settings.qtpl:959
 #, fuzzy
 msgid "You currently have no devices enabled to receive notifications."
 msgstr ""
@@ -27826,7 +27861,7 @@ msgid ""
 "this in the future using the \"email me a link to login\" button on the "
 "Login page."
 msgstr ""
-"El equipo de %[1]s le ha añadido a %[2]s. Puede utilizar &lt;a href="%[3]s\"&gt;este enlace</a> durante las próximas 24 horas para iniciar sesión si es la primera vez que lo hace o si ha olvidado su contraseña. Puede hacerlo en el futuro utilizando el botón \"envíeme por correo electrónico un enlace para iniciar sesión\" de la página de inicio de sesión."
+"El equipo %[1]s le ha añadido a %[2]s. Puede utilizar <a href=\"%[3]s\">este enlace</a> durante las próximas 24 horas para iniciar sesión si es la primera vez que lo hace o si ha olvidado su contraseña. Puedes hacerlo en el futuro utilizando el botón \"envíame un enlace para iniciar sesión por correo electrónico\" de la página de inicio de sesión."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:88
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:90
@@ -27956,17 +27991,17 @@ msgstr "No tiene suscripciones."
 msgid "You have no Trello integrations."
 msgstr "No tiene integraciones con Trello."
 
-#: ../../cmd/web/views/account/settings.qtpl:1288
+#: ../../cmd/web/views/account/settings.qtpl:1298
 #, fuzzy
 msgid "You have not connected your Zoom account to Groups.io."
 msgstr "No has conectado tu cuenta de Zoom a Groups.io."
 
-#: ../../cmd/web/views/account/settings.qtpl:1413
+#: ../../cmd/web/views/account/settings.qtpl:1423
 #, fuzzy
 msgid "You have not made any donations."
 msgstr "No ha hecho ninguna donación."
 
-#: ../../cmd/web/views/account/settings.qtpl:1558
+#: ../../cmd/web/views/account/settings.qtpl:1568
 msgid "You have not made any payments."
 msgstr "No has realizado ningún pago."
 
@@ -27984,7 +28019,7 @@ msgstr ""
 "No ha establecido una contraseña para su cuenta %s. No es necesario "
 "establecer una para participar en el grupo a través del correo electrónico."
 
-#: ../../cmd/web/views/account/settings.qtpl:1478
+#: ../../cmd/web/views/account/settings.qtpl:1488
 #, fuzzy
 msgid "You have not sponsored any groups."
 msgstr "No has patrocinado a ningún grupo."
@@ -28016,7 +28051,7 @@ msgstr ""
 "Una vez que sus nuevas invitaciones hayan sido aprobadas, serán enviadas. "
 "Recibirás una notificación cuando esto ocurra."
 
-#: ../../cmd/web/views/account/settings.qtpl:422
+#: ../../cmd/web/views/account/settings.qtpl:423
 #, fuzzy
 msgid ""
 "You have specified an email address, <strong>%s</strong>, that already has "
@@ -28025,7 +28060,7 @@ msgstr ""
 "Has especificado una dirección de correo electrónico <strong>%s</strong>que "
 "ya tiene una cuenta en Groups.io."
 
-#: ../../cmd/web/views/account/settings.qtpl:953
+#: ../../cmd/web/views/account/settings.qtpl:963
 #, fuzzy
 msgid "You have the following notification subscriptions:"
 msgstr "Dispone de las siguientes suscripciones de notificación:"
@@ -28068,7 +28103,7 @@ msgstr ""
 "recomendamos encarecidamente que <a href=\"/account?page=security\">genere "
 "un nuevo conjunto</a>."
 
-#: ../../cmd/web/views/account/settings.qtpl:1185
+#: ../../cmd/web/views/account/settings.qtpl:1195
 #, fuzzy
 msgid "You have used up all your recovery codes."
 msgstr "Has agotado todos tus códigos de recuperación."
@@ -28127,7 +28162,7 @@ msgid "You must enter a name for the event."
 msgstr "Debe introducir un nombre para el evento."
 
 #: ../../cmd/web/views/account/register.qtpl:99
-#: ../../cmd/web/views/account/settings.qtpl:233
+#: ../../cmd/web/views/account/settings.qtpl:234
 #: ../../cmd/web/views/login/login.qtpl:120
 msgid "You must enter a password."
 msgstr "Debes introducir una contraseña."
@@ -28428,7 +28463,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Your %s Account Has Been Changed"
-msgstr "Su cuenta %s ha sido modificada"
+msgstr "Se ha modificado su cuenta %s."
 
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl:67
 #, fuzzy
@@ -28523,7 +28558,7 @@ msgstr "Sus sesiones activas"
 msgid "Your Activity"
 msgstr "Su actividad"
 
-#: ../../cmd/web/views/account/settings.qtpl:1301
+#: ../../cmd/web/views/account/settings.qtpl:1311
 #, fuzzy
 msgid ""
 "Your billing info, if entered, will be used for any groups you create that "
@@ -28613,7 +28648,7 @@ msgid ""
 "Your credit card on file, <strong><i class=\"fa fa-credit-card\"></i>%[1]s "
 "XXXX XXXX XXXX %[2]s</strong>, will be charged."
 msgstr ""
-"Se efectuará el cargo en su tarjeta de crédito registrada, <strong><i class=\"fa fa-credit-card\"></i>%[1]s XXXX XXXX XXXX %[2]s</strong>."
+"Se realizará el cargo en su tarjeta de crédito registrada, <strong><i class=\"fa fa-credit-card\"></i>%[1]s XXXX XXXX XXXX %[2]s</strong>."
 
 #: ../../cmd/web/views/account/usersessions.qtpl:141
 #, fuzzy
@@ -28645,7 +28680,7 @@ msgstr "Tu dirección de correo electrónico o contraseña son incorrectas."
 msgid "Your Email Addresses"
 msgstr "Sus direcciones de correo electrónico"
 
-#: ../../cmd/web/views/account/settings.qtpl:212
+#: ../../cmd/web/views/account/settings.qtpl:213
 #, fuzzy
 msgid ""
 "Your email is hosted by Exchange, so we will rewrite the From line for all "
@@ -28654,7 +28689,7 @@ msgstr ""
 "Su correo electrónico está alojado en Exchange, por lo que reescribiremos la "
 "línea \"De\" de todos los mensajes de grupo que se le envíen."
 
-#: ../../cmd/web/views/account/settings.qtpl:209
+#: ../../cmd/web/views/account/settings.qtpl:210
 #, fuzzy
 msgid ""
 "Your email is hosted by Gmail, so we will rewrite the From line for the "
@@ -28743,9 +28778,9 @@ msgstr "Se ha actualizado la configuración de tus hashtags."
 msgid "Your Identity"
 msgstr "Identidad"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:220
-#: ../../cmd/web/views/account/settings.qtpl:553
-#: ../../cmd/web/views/account/settings.qtpl:702
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:222
+#: ../../cmd/web/views/account/settings.qtpl:554
+#: ../../cmd/web/views/account/settings.qtpl:703
 #, fuzzy
 msgid "Your location."
 msgstr "Tu ubicación."
@@ -28867,7 +28902,7 @@ msgstr "Su contraseña se ha actualizado."
 msgid "Your pending membership in the %s group"
 msgstr "Su pertenencia pendiente al grupo %s"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:136
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:138
 msgid ""
 "Your picture is posted in the message archives next to your display name on "
 "any posts you make in this group and events to which you RSVP. Feel free to "
@@ -28963,7 +28998,7 @@ msgstr "Su RSVP ha sido guardada."
 msgid "Your RSVP to the %s event has been changed"
 msgstr "Tu RSVP para el evento %s ha sido modificada"
 
-#: ../../cmd/web/views/account/settings.qtpl:500
+#: ../../cmd/web/views/account/settings.qtpl:501
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:433
 #, fuzzy
 msgid ""
@@ -29017,14 +29052,14 @@ msgstr "Sus Suscripciones"
 msgid "Your waitlist position has changed for the %s event"
 msgstr "Tu posición en la lista de espera ha cambiado para el evento %s"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:230
-#: ../../cmd/web/views/account/settings.qtpl:563
-#: ../../cmd/web/views/account/settings.qtpl:712
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:232
+#: ../../cmd/web/views/account/settings.qtpl:564
+#: ../../cmd/web/views/account/settings.qtpl:713
 #, fuzzy
 msgid "Your website."
 msgstr "Tu página web."
 
-#: ../../cmd/web/views/account/settings.qtpl:1279
+#: ../../cmd/web/views/account/settings.qtpl:1289
 #, fuzzy
 msgid ""
 "Your Zoom account is connected to your Groups.io account. Now, when you "
@@ -29076,7 +29111,7 @@ msgstr "Integración de Zoom Calendar"
 msgid "Zoom CB"
 msgstr "Zoom CB"
 
-#: ../../cmd/web/views/account/settings.qtpl:1274
+#: ../../cmd/web/views/account/settings.qtpl:1284
 #, fuzzy
 msgid ""
 "Zoom integration allows the easy creation of new Zoom meetings when creating "
@@ -29096,7 +29131,7 @@ msgstr ""
 "io, lo que facilita su eliminación y, posiblementevolver a crear la reunión "
 "de Zoom en caso de que cambie el evento."
 
-#: ../../cmd/web/views/account/settings.qtpl:1265
+#: ../../cmd/web/views/account/settings.qtpl:1275
 msgid "Zoom Login"
 msgstr "Iniciar sesión en Zoom"
 

@@ -3184,7 +3184,7 @@ msgstr "نبذة عن"
 msgid "About Groups.io"
 msgstr "نبذة عن Groups.io"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:188
+#: ../../cmd/web/views/account/groupprofile.qtpl:190
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "About Me"
@@ -9326,7 +9326,7 @@ msgid ""
 msgstr ""
 "إضافة أشخاص مباشرة إلى مجموعتك. أضف فقط الأشخاص الذين منحوك الإذن صراحةً بإضافتهم إلى مجموعتك. قد يؤدي إساءة استخدام هذه الميزة إلى حظرك."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:97
+#: ../../cmd/web/views/account/groupprofile.qtpl:99
 #: ../../cmd/web/views/group/groupdirectory.qtpl:64
 #: ../../cmd/web/views/group/groupdirectory.qtpl:81
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:705
@@ -9453,8 +9453,8 @@ msgstr "لم تعجبني رسالة"
 msgid "disliked a photo"
 msgstr "لم تعجبني صورة"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:151
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:161
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:153
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:163
 #: ../../cmd/web/views/account/settings.qtpl:507
 #: ../../cmd/web/views/account/settings.qtpl:642
 #: ../../cmd/web/views/account/settings.qtpl:652
@@ -9955,7 +9955,7 @@ msgstr "تيمور الشرقية"
 msgid "Ecuador"
 msgstr "الإكوادور"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:210
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:212
 #: ../../cmd/web/views/account/settings.qtpl:543
 #: ../../cmd/web/views/account/settings.qtpl:692
 #: ../../cmd/web/views/calendar/calendar.qtpl:300
@@ -10065,8 +10065,8 @@ msgstr "تحرير تكامل Github"
 msgid "Edit Google Drive Integration"
 msgstr "تحرير تكامل Google Drive"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:69
-#: ../../cmd/web/views/account/groupprofile.qtpl:236
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:71
+#: ../../cmd/web/views/account/groupprofile.qtpl:238
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Edit Group Profile"
@@ -12436,7 +12436,7 @@ msgstr "سجل مدفوعات المجموعة"
 msgid "Group Policies"
 msgstr "سياسات المجموعة"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:43
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:45
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #, fuzzy
@@ -14741,7 +14741,7 @@ msgstr "انضم إلى المجموعة"
 msgid "Join This Group"
 msgstr "انضم إلى هذه المجموعة"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:114
+#: ../../cmd/web/views/account/groupprofile.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:283
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:586
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:125
@@ -15290,7 +15290,7 @@ msgstr "ليتوانيا"
 msgid "LLM"
 msgstr "ماجستير في القانون"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:216
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:218
 #: ../../cmd/web/views/account/settings.qtpl:550
 #: ../../cmd/web/views/account/settings.qtpl:699
 #: ../../cmd/web/views/account/usersessions.qtpl:81
@@ -16657,8 +16657,8 @@ msgstr "الدمج في"
 msgid "mergeaccounts+"
 msgstr "دمج الحسابات +"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:138
-#: ../../cmd/web/views/account/groupprofile.qtpl:142
+#: ../../cmd/web/views/account/groupprofile.qtpl:140
+#: ../../cmd/web/views/account/groupprofile.qtpl:144
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl:36
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:192
 #: ../../cmd/web/views/user/original.qtpl:38
@@ -18940,8 +18940,8 @@ msgstr "غير مدرج في دليل Groups.io."
 msgid "not restrict attachment size"
 msgstr "عدم تقييد حجم المرفق"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:145
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:164
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:147
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:166
 #: ../../cmd/web/views/account/settings.qtpl:636
 #: ../../cmd/web/views/account/settings.qtpl:655
 #: ../../cmd/web/views/account/settings.qtpl:745
@@ -19531,7 +19531,7 @@ msgid ""
 msgstr ""
 "عرض النتائج فقط عند إغلاق الاستطلاع. يمكن للمنسقين ومنشئي الاستطلاع عرض النتائج دائمًا."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:174
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:176
 #: ../../cmd/web/views/account/settings.qtpl:520
 #: ../../cmd/web/views/account/settings.qtpl:665
 #, fuzzy
@@ -19862,7 +19862,7 @@ msgstr "مجموعات أخرى"
 msgid "Other Info"
 msgstr "معلومات أخرى"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:177
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:179
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Other members of your group"
@@ -21324,7 +21324,7 @@ msgstr ""
 msgid "Prevented by Free Group Limits"
 msgstr "تم منعها بحدود المجموعة الحرة"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:206
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:208
 #: ../../cmd/web/views/account/settings.qtpl:539
 #: ../../cmd/web/views/account/settings.qtpl:688
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:842
@@ -21425,19 +21425,19 @@ msgstr "سياسة الخصوصية"
 msgid "Private"
 msgstr "خاص"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:70
+#: ../../cmd/web/views/account/groupprofile.qtpl:72
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile"
 msgstr "الملف الشخصي"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:124
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:126
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile Photo"
 msgstr "صورة الملف الشخصي"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:170
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:172
 #: ../../cmd/web/views/account/settings.qtpl:516
 #: ../../cmd/web/views/account/settings.qtpl:661
 #, fuzzy
@@ -21473,7 +21473,7 @@ msgstr ""
 msgid "Provider"
 msgstr "المزود"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:181
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:183
 #: ../../cmd/web/views/account/settings.qtpl:527
 #: ../../cmd/web/views/account/settings.qtpl:672
 #, fuzzy
@@ -21834,7 +21834,7 @@ msgstr ""
 msgid "Recent Chats"
 msgstr "الدردشات الأخيرة"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:213
+#: ../../cmd/web/views/account/groupprofile.qtpl:215
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Recent Messages"
@@ -22482,7 +22482,7 @@ msgstr "الإبلاغ عن هذه الرسالة"
 msgid "Report This Photo"
 msgstr "الإبلاغ عن هذه الصورة"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:241
+#: ../../cmd/web/views/account/groupprofile.qtpl:243
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Report This Profile"
@@ -22581,7 +22581,7 @@ msgstr "طلب كلمة مرور الاجتماع"
 msgid "Resend Pending Membership Notice"
 msgstr "إعادة إرسال إشعار العضوية المعلقة"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:246
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:248
 #: ../../cmd/web/views/account/settings.qtpl:724
 #, fuzzy
 #. Automatically translated using DeepL
@@ -23023,9 +23023,9 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, enter "
-"the code <strong>%s</strong>instead."
+"the code <strong>%s</strong> instead."
 msgstr ""
-"امسح هذه الصورة ضوئيًا باستخدام تطبيق المصادقة الخاص بك. إذا لم تتمكن من استخدام الرمز الشريطي، فأدخل الرمز <strong>%s</strong>بدلاً من ذلك."
+"امسح هذه الصورة ضوئيًا باستخدام تطبيق المصادقة الخاص بك. إذا لم تتمكن من استخدام الرمز الشريطي، أدخل الرمز <strong>%s</strong> بدلاً من ذلك."
 
 #: ../../tools/genactivities/activities.hjson:557
 #: ../../tools/genactivities/activities.hjson:573
@@ -26123,7 +26123,7 @@ msgstr ""
 msgid "The name listed with your posts."
 msgstr "الاسم المدرج مع مشاركاتك."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:155
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:157
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -27113,7 +27113,7 @@ msgid "This topic has been removed because of a DMCA take down request."
 msgstr ""
 "تمت إزالة هذا الموضوع بسبب طلب إزالة من قانون الألفية الجديدة لحقوق طبع ونشر المواد الرقمية."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:204
+#: ../../cmd/web/views/account/groupprofile.qtpl:206
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "This user has never posted to the group."
@@ -28482,7 +28482,7 @@ msgstr "مجلد التحديث"
 msgid "Update Group"
 msgstr "مجموعة التحديثات"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:242
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:244
 #: ../../cmd/web/views/account/settings.qtpl:720
 #, fuzzy
 #. Automatically translated using DeepL
@@ -29099,7 +29099,7 @@ msgstr "لم يتم تعيين اسم المستخدم."
 msgid "User Sessions"
 msgstr "جلسات المستخدم"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:142
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:144
 #: ../../cmd/web/views/account/settings.qtpl:487
 #: ../../cmd/web/views/account/settings.qtpl:633
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:266
@@ -29509,7 +29509,7 @@ msgstr "عرض الكل"
 msgid "View All %d Messages"
 msgstr "عرض جميع الرسائل %d"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:224
+#: ../../cmd/web/views/account/groupprofile.qtpl:226
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "View All Messages"
@@ -30169,7 +30169,7 @@ msgstr "إشعار الويب/التطبيق"
 msgid "Web/App only"
 msgstr "الويب/التطبيق فقط"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:226
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:228
 #: ../../cmd/web/views/account/settings.qtpl:560
 #: ../../cmd/web/views/account/settings.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:215
@@ -30583,7 +30583,7 @@ msgstr ""
 msgid "Who can edit the database options."
 msgstr "من يمكنه تعديل خيارات قاعدة البيانات."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:186
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:188
 #: ../../cmd/web/views/account/settings.qtpl:532
 #: ../../cmd/web/views/account/settings.qtpl:677
 #, fuzzy
@@ -32766,7 +32766,7 @@ msgstr "تم تحديث إعدادات الهاشتاج الخاص بك."
 msgid "Your Identity"
 msgstr "هويتك"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:220
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:222
 #: ../../cmd/web/views/account/settings.qtpl:554
 #: ../../cmd/web/views/account/settings.qtpl:703
 #, fuzzy
@@ -32918,7 +32918,7 @@ msgstr "تم تحديث كلمة المرور الخاصة بك."
 msgid "Your pending membership in the %s group"
 msgstr "عضويتك المعلقة في المجموعة %s"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:136
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:138
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -33090,7 +33090,7 @@ msgid "Your waitlist position has changed for the %s event"
 msgstr ""
 "لقد تم تغيير موضعك في قائمة الانتظار للحدث %s"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:230
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:232
 #: ../../cmd/web/views/account/settings.qtpl:564
 #: ../../cmd/web/views/account/settings.qtpl:713
 #, fuzzy

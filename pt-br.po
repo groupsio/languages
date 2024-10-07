@@ -3140,7 +3140,7 @@ msgstr "Sobre"
 msgid "About Groups.io"
 msgstr "Sobre o Groups.io"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:188
+#: ../../cmd/web/views/account/groupprofile.qtpl:190
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "About Me"
@@ -9212,7 +9212,7 @@ msgid ""
 msgstr ""
 "Adicione pessoas diretamente ao seu grupo. Somente adicione pessoas que tenham lhe dado permissão explícita para adicioná-las ao seu grupo. O uso indevido desse recurso pode fazer com que você seja banido."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:97
+#: ../../cmd/web/views/account/groupprofile.qtpl:99
 #: ../../cmd/web/views/group/groupdirectory.qtpl:64
 #: ../../cmd/web/views/group/groupdirectory.qtpl:81
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:705
@@ -9338,8 +9338,8 @@ msgstr "não gostou de uma mensagem"
 msgid "disliked a photo"
 msgstr "não gostou de uma foto"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:151
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:161
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:153
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:163
 #: ../../cmd/web/views/account/settings.qtpl:507
 #: ../../cmd/web/views/account/settings.qtpl:642
 #: ../../cmd/web/views/account/settings.qtpl:652
@@ -9833,7 +9833,7 @@ msgstr "Timor Leste"
 msgid "Ecuador"
 msgstr "Equador"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:210
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:212
 #: ../../cmd/web/views/account/settings.qtpl:543
 #: ../../cmd/web/views/account/settings.qtpl:692
 #: ../../cmd/web/views/calendar/calendar.qtpl:300
@@ -9942,8 +9942,8 @@ msgstr "Editar integrações do Github"
 msgid "Edit Google Drive Integration"
 msgstr "Editar a integração com o Google Drive"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:69
-#: ../../cmd/web/views/account/groupprofile.qtpl:236
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:71
+#: ../../cmd/web/views/account/groupprofile.qtpl:238
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Edit Group Profile"
@@ -12281,7 +12281,7 @@ msgstr "Histórico de pagamentos do grupo"
 msgid "Group Policies"
 msgstr "Políticas de grupo"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:43
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:45
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #, fuzzy
@@ -14548,7 +14548,7 @@ msgstr "Participar do grupo"
 msgid "Join This Group"
 msgstr "Participe deste grupo"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:114
+#: ../../cmd/web/views/account/groupprofile.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:283
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:586
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:125
@@ -15094,7 +15094,7 @@ msgstr "Lituânia"
 msgid "LLM"
 msgstr "LLM"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:216
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:218
 #: ../../cmd/web/views/account/settings.qtpl:550
 #: ../../cmd/web/views/account/settings.qtpl:699
 #: ../../cmd/web/views/account/usersessions.qtpl:81
@@ -16425,8 +16425,8 @@ msgstr "Mesclar em"
 msgid "mergeaccounts+"
 msgstr "mergeaccounts+"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:138
-#: ../../cmd/web/views/account/groupprofile.qtpl:142
+#: ../../cmd/web/views/account/groupprofile.qtpl:140
+#: ../../cmd/web/views/account/groupprofile.qtpl:144
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl:36
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:192
 #: ../../cmd/web/views/user/original.qtpl:38
@@ -18684,8 +18684,8 @@ msgstr "Não listado no diretório Groups.io."
 msgid "not restrict attachment size"
 msgstr "não restringir o tamanho do anexo"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:145
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:164
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:147
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:166
 #: ../../cmd/web/views/account/settings.qtpl:636
 #: ../../cmd/web/views/account/settings.qtpl:655
 #: ../../cmd/web/views/account/settings.qtpl:745
@@ -19268,7 +19268,7 @@ msgid ""
 msgstr ""
 "Exibir os resultados somente quando a enquete for encerrada. Os moderadores e criadores de enquetes sempre podem ver os resultados."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:174
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:176
 #: ../../cmd/web/views/account/settings.qtpl:520
 #: ../../cmd/web/views/account/settings.qtpl:665
 #, fuzzy
@@ -19589,7 +19589,7 @@ msgstr "Outros grupos"
 msgid "Other Info"
 msgstr "Outras informações"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:177
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:179
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Other members of your group"
@@ -21037,7 +21037,7 @@ msgstr ""
 msgid "Prevented by Free Group Limits"
 msgstr "Impedido por limites de grupos livres"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:206
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:208
 #: ../../cmd/web/views/account/settings.qtpl:539
 #: ../../cmd/web/views/account/settings.qtpl:688
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:842
@@ -21138,19 +21138,19 @@ msgstr "Política de privacidade"
 msgid "Private"
 msgstr "Privado"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:70
+#: ../../cmd/web/views/account/groupprofile.qtpl:72
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile"
 msgstr "Perfil"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:124
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:126
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile Photo"
 msgstr "Foto do perfil"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:170
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:172
 #: ../../cmd/web/views/account/settings.qtpl:516
 #: ../../cmd/web/views/account/settings.qtpl:661
 #, fuzzy
@@ -21185,7 +21185,7 @@ msgstr "Proteja sua conta com um nível extra de segurança."
 msgid "Provider"
 msgstr "Provedor"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:181
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:183
 #: ../../cmd/web/views/account/settings.qtpl:527
 #: ../../cmd/web/views/account/settings.qtpl:672
 #, fuzzy
@@ -21543,7 +21543,7 @@ msgstr ""
 msgid "Recent Chats"
 msgstr "Bate-papos recentes"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:213
+#: ../../cmd/web/views/account/groupprofile.qtpl:215
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Recent Messages"
@@ -22182,7 +22182,7 @@ msgstr "Denunciar esta mensagem"
 msgid "Report This Photo"
 msgstr "Denunciar esta foto"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:241
+#: ../../cmd/web/views/account/groupprofile.qtpl:243
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Report This Profile"
@@ -22280,7 +22280,7 @@ msgstr "Exigir a senha da reunião"
 msgid "Resend Pending Membership Notice"
 msgstr "Reenviar notificação de associação pendente"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:246
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:248
 #: ../../cmd/web/views/account/settings.qtpl:724
 #, fuzzy
 #. Automatically translated using DeepL
@@ -22721,9 +22721,9 @@ msgstr "Leia este código de barras com seu aplicativo"
 #. Automatically translated using DeepL
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, enter "
-"the code <strong>%s</strong>instead."
+"the code <strong>%s</strong> instead."
 msgstr ""
-"Digitalize essa imagem usando seu aplicativo de autenticação. Se você não puder usar um código de barras, digite o código <strong>%s</strong>em vez disso."
+"Digitalize essa imagem usando seu aplicativo de autenticação. Se não for possível usar um código de barras, digite o código <strong>%s</strong>."
 
 #: ../../tools/genactivities/activities.hjson:557
 #: ../../tools/genactivities/activities.hjson:573
@@ -25767,7 +25767,7 @@ msgstr ""
 msgid "The name listed with your posts."
 msgstr "O nome listado com suas postagens."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:155
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:157
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -26733,7 +26733,7 @@ msgid "This topic has been removed because of a DMCA take down request."
 msgstr ""
 "Este tópico foi removido devido a uma solicitação de remoção DMCA."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:204
+#: ../../cmd/web/views/account/groupprofile.qtpl:206
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "This user has never posted to the group."
@@ -28080,7 +28080,7 @@ msgstr "Pasta de atualização"
 msgid "Update Group"
 msgstr "Grupo de atualização"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:242
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:244
 #: ../../cmd/web/views/account/settings.qtpl:720
 #, fuzzy
 #. Automatically translated using DeepL
@@ -28692,7 +28692,7 @@ msgstr "O nome de usuário não está definido."
 msgid "User Sessions"
 msgstr "Sessões de usuários"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:142
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:144
 #: ../../cmd/web/views/account/settings.qtpl:487
 #: ../../cmd/web/views/account/settings.qtpl:633
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:266
@@ -29101,7 +29101,7 @@ msgstr "VER TUDO"
 msgid "View All %d Messages"
 msgstr "Ver todas as mensagens de %d"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:224
+#: ../../cmd/web/views/account/groupprofile.qtpl:226
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "View All Messages"
@@ -29757,7 +29757,7 @@ msgstr "Notificação de Web/App"
 msgid "Web/App only"
 msgstr "Somente Web/App"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:226
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:228
 #: ../../cmd/web/views/account/settings.qtpl:560
 #: ../../cmd/web/views/account/settings.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:215
@@ -30162,7 +30162,7 @@ msgstr "Quem pode editar linhas no banco de dados."
 msgid "Who can edit the database options."
 msgstr "Quem pode editar as opções do banco de dados."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:186
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:188
 #: ../../cmd/web/views/account/settings.qtpl:532
 #: ../../cmd/web/views/account/settings.qtpl:677
 #, fuzzy
@@ -32307,7 +32307,7 @@ msgstr "Suas configurações de hashtag foram atualizadas."
 msgid "Your Identity"
 msgstr "Sua identidade"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:220
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:222
 #: ../../cmd/web/views/account/settings.qtpl:554
 #: ../../cmd/web/views/account/settings.qtpl:703
 #, fuzzy
@@ -32453,7 +32453,7 @@ msgstr "Sua senha foi atualizada."
 msgid "Your pending membership in the %s group"
 msgstr "Sua associação pendente no grupo %s"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:136
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:138
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32622,7 +32622,7 @@ msgstr "Suas assinaturas"
 msgid "Your waitlist position has changed for the %s event"
 msgstr "Sua posição na lista de espera foi alterada para o evento %s"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:230
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:232
 #: ../../cmd/web/views/account/settings.qtpl:564
 #: ../../cmd/web/views/account/settings.qtpl:713
 #, fuzzy

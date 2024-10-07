@@ -2102,7 +2102,7 @@ msgstr "(uitgeschakeld omdat deze groep geen leden meer kan toevoegen)"
 msgid "(members with private profiles are not shown)"
 msgstr "(leden met een privéprofiel worden niet getoond)"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:186
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:187
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1016
 #: ../../cmd/web/views/sub/editsub.qtpl:295
 #: ../../cmd/web/views/sub/groupinvite.qtpl:261
@@ -2225,13 +2225,13 @@ msgid ""
 msgstr ""
 "1. Stuur een antwoord op deze e-mail zonder tekst toe te voegen. Dit wordt door de software van Groups.io gezien als een wens om in je groepen te blijven."
 
-#: ../../cmd/web/views/account/settings.qtpl:843
+#: ../../cmd/web/views/account/settings.qtpl:853
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "100 items"
 msgstr "100 artikelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:792
+#: ../../cmd/web/views/account/settings.qtpl:802
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "12 Hour Clock (3:04pm)"
@@ -2257,13 +2257,13 @@ msgstr "1TB opslagruimte"
 msgid "2. Or you can click"
 msgstr "2. U kunt ook klikken op"
 
-#: ../../cmd/web/views/account/settings.qtpl:837
+#: ../../cmd/web/views/account/settings.qtpl:847
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "20 items"
 msgstr "20 artikelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:795
+#: ../../cmd/web/views/account/settings.qtpl:805
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "24 Hour Clock (15:04)"
@@ -2276,7 +2276,7 @@ msgstr "24-uurs klok (15:04)"
 msgid "30GB Storage Space"
 msgstr "30 GB opslagruimte"
 
-#: ../../cmd/web/views/account/settings.qtpl:840
+#: ../../cmd/web/views/account/settings.qtpl:850
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "50 items"
@@ -2571,7 +2571,7 @@ msgid ""
 msgstr ""
 "<p>We hebben een verzoek ontvangen om je uit te schrijven van de %[1]s %[2]s groep. Als dit correct is, kunt u deze e-mail beantwoorden en wordt u direct uitgeschreven. <p>Als u dit niet heeft aangevraagd, accepteer dan onze excuses en negeer dit bericht."
 
-#: ../../cmd/web/views/account/settings.qtpl:1103
+#: ../../cmd/web/views/account/settings.qtpl:1113
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -2600,7 +2600,7 @@ msgid ""
 msgstr ""
 "<strong>Opmerking:</strong> Als je groep al over zijn opslagcapaciteit heen is, verwijderen we bijlagen vanaf twee weken nadat je dit bericht hebt ontvangen."
 
-#: ../../cmd/web/views/account/settings.qtpl:965
+#: ../../cmd/web/views/account/settings.qtpl:975
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -2988,9 +2988,9 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to %[3]s "
-"and display name from '%[4]s' to '%[5]s' in group %[6s]"
+"and display name from '%[4]s' to '%[5]s' in group %[6]s"
 msgstr ""
-"Een moderator in een andere groep veranderde %[1]s's e-mailadres van %[2]s naar %[3]s en displaynaam van '%[4]s' naar '%[5]s' in groep %[6s]"
+"Een moderator in een andere groep heeft het e-mailadres van %[1]s gewijzigd van %[2]s in %[3]s en de weergavenaam van '%[4]s' in '%[5]s' in groep %[6]s."
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl:121
 #, fuzzy
@@ -3129,7 +3129,7 @@ msgstr "Over"
 msgid "About Groups.io"
 msgstr "Over Groups.io"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:188
+#: ../../cmd/web/views/account/groupprofile.qtpl:190
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "About Me"
@@ -3313,7 +3313,7 @@ msgstr "Antwoord toevoegen"
 msgid "Add Choice"
 msgstr "Keuze toevoegen"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:327
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:343
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl:289
 #, fuzzy
 #. Automatically translated using DeepL
@@ -3339,7 +3339,7 @@ msgstr "Database toevoegen"
 msgid "Add Donation Request"
 msgstr "Donatieverzoek toevoegen"
 
-#: ../../cmd/web/views/account/settings.qtpl:358
+#: ../../cmd/web/views/account/settings.qtpl:359
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Add Email Alias"
@@ -3691,7 +3691,7 @@ msgstr "Aanvullende betalingsinformatie"
 msgid "Address"
 msgstr "Adres"
 
-#: ../../cmd/web/views/account/settings.qtpl:900
+#: ../../cmd/web/views/account/settings.qtpl:910
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -3727,7 +3727,7 @@ msgstr "Geavanceerde moderatiefuncties"
 msgid "Advanced Preferences"
 msgstr "Geavanceerde voorkeuren"
 
-#: ../../cmd/web/views/account/settings.qtpl:307
+#: ../../cmd/web/views/account/settings.qtpl:308
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Advanced Settings For Email Aliases"
@@ -3747,7 +3747,7 @@ msgstr "Afghanistan"
 msgid "After"
 msgstr "Na"
 
-#: ../../cmd/web/views/account/settings.qtpl:1143
+#: ../../cmd/web/views/account/settings.qtpl:1153
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -3894,7 +3894,7 @@ msgstr ""
 msgid "All members can post to the group."
 msgstr "Alle leden kunnen berichten plaatsen in de groep."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:138
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:139
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:970
 #: ../../cmd/web/views/sub/editsub.qtpl:247
 #: ../../cmd/web/views/sub/groupinvite.qtpl:213
@@ -4018,13 +4018,13 @@ msgstr "Alle soorten"
 msgid "Allow"
 msgstr "Sta  toe."
 
-#: ../../cmd/web/views/account/settings.qtpl:275
+#: ../../cmd/web/views/account/settings.qtpl:276
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Allow Facebook Login"
 msgstr "Facebook-login toestaan"
 
-#: ../../cmd/web/views/account/settings.qtpl:287
+#: ../../cmd/web/views/account/settings.qtpl:288
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Allow Google Login"
@@ -4036,13 +4036,13 @@ msgstr "Google-login toestaan"
 msgid "Allow group members to download the message archive."
 msgstr "Sta groepsleden toe om het berichtenarchief te downloaden."
 
-#: ../../cmd/web/views/account/settings.qtpl:278
+#: ../../cmd/web/views/account/settings.qtpl:279
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Allow login to your account via Facebook."
 msgstr "Log in op je account via Facebook."
 
-#: ../../cmd/web/views/account/settings.qtpl:290
+#: ../../cmd/web/views/account/settings.qtpl:291
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Allow login to your account via Google."
@@ -4176,9 +4176,9 @@ msgstr ""
 msgid "American Samoa"
 msgstr "Amerikaans-Samoa"
 
-#: ../../cmd/web/views/account/settings.qtpl:1366
-#: ../../cmd/web/views/account/settings.qtpl:1441
-#: ../../cmd/web/views/account/settings.qtpl:1512
+#: ../../cmd/web/views/account/settings.qtpl:1376
+#: ../../cmd/web/views/account/settings.qtpl:1451
+#: ../../cmd/web/views/account/settings.qtpl:1522
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:385
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:640
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:95
@@ -4220,7 +4220,7 @@ msgid ""
 msgstr ""
 "Er is een e-mail verzonden vanuit Groups.io om je e-mailadres te bevestigen en je lidmaatschap te activeren. Zoek naar een bericht van %[1]s met als onderwerp: \"Bevestig je e-mailadres %[2]s "."
 
-#: ../../cmd/web/views/account/settings.qtpl:437
+#: ../../cmd/web/views/account/settings.qtpl:438
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -4425,7 +4425,7 @@ msgstr "Elk groepslid kan bestanden toevoegen aan deze map"
 msgid "Any group member can add photos to this album"
 msgstr "Elk groepslid kan foto's toevoegen aan dit album"
 
-#: ../../cmd/web/views/account/settings.qtpl:407
+#: ../../cmd/web/views/account/settings.qtpl:408
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Any other groups"
@@ -4457,7 +4457,7 @@ msgstr "Opening"
 msgid "API Access"
 msgstr "API-toegang"
 
-#: ../../cmd/web/views/account/settings.qtpl:969
+#: ../../cmd/web/views/account/settings.qtpl:979
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -4605,6 +4605,13 @@ msgstr "Abrikoos"
 #. Automatically translated using DeepL
 msgid "Aquamute"
 msgstr "Aquamute"
+
+#: ../../cmd/web/views/account/settings.qtpl:751
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:231
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Arabic"
+msgstr "Arabisch"
 
 #: ../../cmd/web/views/group/grouphome.qtpl:319
 #: ../../cmd/web/views/group/grouphome.qtpl:327
@@ -5343,7 +5350,7 @@ msgstr "Authenticeren met Slack"
 msgid "Authenticate With Trello"
 msgstr "Authenticeren met Trello"
 
-#: ../../cmd/web/views/account/settings.qtpl:1207
+#: ../../cmd/web/views/account/settings.qtpl:1217
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl:145
 #: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl:76
 #, fuzzy
@@ -5351,7 +5358,7 @@ msgstr "Authenticeren met Trello"
 msgid "Authenticated to Github as:"
 msgstr "Geauthenticeerd bij Github als:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1233
+#: ../../cmd/web/views/account/settings.qtpl:1243
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Authenticated to Google as:"
@@ -5363,13 +5370,13 @@ msgstr "Geauthenticeerd bij Google als:"
 msgid "Authenticated to Google Drive as:"
 msgstr "Geauthenticeerd op Google Drive als:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1217
+#: ../../cmd/web/views/account/settings.qtpl:1227
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Authenticated to Slack as:"
 msgstr "Geauthenticeerd bij Slack als:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1251
+#: ../../cmd/web/views/account/settings.qtpl:1261
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Authenticated to Slack team %[1]s as %[2]s"
@@ -5381,7 +5388,7 @@ msgstr "Geauthenticeerd bij Slack-team %[1]s als %[2]s"
 msgid "Authenticated to Slack team %[1]s as %[2]s."
 msgstr "Geauthenticeerd bij Slack team %[1]s als %[2]s."
 
-#: ../../cmd/web/views/account/settings.qtpl:1225
+#: ../../cmd/web/views/account/settings.qtpl:1235
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl:122
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl:76
 #, fuzzy
@@ -5389,7 +5396,7 @@ msgstr "Geauthenticeerd bij Slack team %[1]s als %[2]s."
 msgid "Authenticated to Trello as:"
 msgstr "Geauthenticeerd op Trello als:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1241
+#: ../../cmd/web/views/account/settings.qtpl:1251
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Authenticated to Zoom as:"
@@ -5402,7 +5409,7 @@ msgstr "Geauthenticeerd voor Zoom als:"
 msgid "Author"
 msgstr "Auteur"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:166
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:167
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:996
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1408
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:191
@@ -5433,7 +5440,7 @@ msgstr "Type automatische synchronisatie"
 msgid "Automated help for the %s group"
 msgstr "Geautomatiseerde hulp voor de %s groep"
 
-#: ../../cmd/web/views/account/settings.qtpl:890
+#: ../../cmd/web/views/account/settings.qtpl:900
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Automatic"
@@ -6162,6 +6169,13 @@ msgstr "Takken en tags"
 msgid "Brazil"
 msgstr "Brazilië"
 
+#: ../../cmd/web/views/account/settings.qtpl:754
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:234
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Brazilian Portuguese"
+msgstr "Braziliaans Portugees"
+
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:182
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:364
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1758
@@ -6536,7 +6550,7 @@ msgid "Canada"
 msgstr "Canada"
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:187
-#: ../../cmd/web/views/account/settings.qtpl:1157
+#: ../../cmd/web/views/account/settings.qtpl:1167
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:890
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:109
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl:204
@@ -6892,7 +6906,7 @@ msgstr "Ceruleumblauw"
 msgid "Chad"
 msgstr "Chad"
 
-#: ../../cmd/web/views/account/settings.qtpl:249
+#: ../../cmd/web/views/account/settings.qtpl:250
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:715
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:794
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:830
@@ -6904,7 +6918,7 @@ msgstr "Verander"
 
 #: ../../cmd/web/views/account/bouncing.qtpl:99
 #: ../../cmd/web/views/account/needreverification.qtpl:93
-#: ../../cmd/web/views/account/settings.qtpl:189
+#: ../../cmd/web/views/account/settings.qtpl:190
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Change Email"
@@ -6924,7 +6938,7 @@ msgstr "Veranderingsplan"
 msgid "Change RSVP"
 msgstr "RSVP wijzigen"
 
-#: ../../cmd/web/views/account/settings.qtpl:297
+#: ../../cmd/web/views/account/settings.qtpl:298
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Change Social Login Preferences"
@@ -6970,7 +6984,7 @@ msgstr "Je RSVP wijzigen"
 msgid "Changelog"
 msgstr "Changelog"
 
-#: ../../cmd/web/views/account/settings.qtpl:605
+#: ../../cmd/web/views/account/settings.qtpl:606
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -6979,7 +6993,7 @@ msgid ""
 msgstr ""
 "Wijzigingen die je hier aanbrengt, zijn specifiek voor deze groep en alle subgroepen. Om je algemene profiel te bewerken, selecteer je <strong>Algemeen profiel</strong> in de vervolgkeuzelijst."
 
-#: ../../cmd/web/views/account/settings.qtpl:607
+#: ../../cmd/web/views/account/settings.qtpl:608
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -6988,7 +7002,7 @@ msgid ""
 msgstr ""
 "Wijzigingen die je hier aanbrengt, zijn specifiek voor deze groep. Om je algemene profiel te bewerken, selecteer je <strong>Algemeen profiel</strong> in de vervolgkeuzelijst."
 
-#: ../../cmd/web/views/account/settings.qtpl:462
+#: ../../cmd/web/views/account/settings.qtpl:463
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -7229,6 +7243,13 @@ msgstr "Chili"
 #. Automatically translated using DeepL
 msgid "China"
 msgstr "China"
+
+#: ../../cmd/web/views/account/settings.qtpl:757
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:237
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Chinese (Simplified)"
+msgstr "Chinees (Vereenvoudigd)"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:253
 #, fuzzy
@@ -7617,7 +7638,7 @@ msgstr "Bewolkt Blauw"
 msgid "Cocos (Keeling) Islands"
 msgstr "Cocos (Keeling) Eilanden"
 
-#: ../../cmd/web/views/account/settings.qtpl:1151
+#: ../../cmd/web/views/account/settings.qtpl:1161
 #: ../../cmd/web/views/login/twofactor.qtpl:80
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7738,7 +7759,7 @@ msgstr "Computer"
 msgid "Concentration"
 msgstr "Concentratie"
 
-#: ../../cmd/web/views/account/settings.qtpl:1113
+#: ../../cmd/web/views/account/settings.qtpl:1123
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -7867,7 +7888,7 @@ msgstr ""
 msgid "Connect with Stripe"
 msgstr "Maak verbinding met Stripe"
 
-#: ../../cmd/web/views/account/settings.qtpl:1292
+#: ../../cmd/web/views/account/settings.qtpl:1302
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Connect Your Zoom Account"
@@ -8161,7 +8182,7 @@ msgstr "Deze chat gemaakt."
 msgid "Creating New Page"
 msgstr "Nieuwe pagina maken"
 
-#: ../../cmd/web/views/account/settings.qtpl:1306
+#: ../../cmd/web/views/account/settings.qtpl:1316
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Credit Card On File"
@@ -8309,7 +8330,7 @@ msgstr "Tsjechië"
 msgid "Daily"
 msgstr "Dagelijks"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:103
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:104
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:857
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:690
 #: ../../cmd/web/views/sub/editsub.qtpl:130
@@ -8343,7 +8364,7 @@ msgstr ""
 msgid "Dark Grey"
 msgstr "Donkergrijs"
 
-#: ../../cmd/web/views/account/settings.qtpl:883
+#: ../../cmd/web/views/account/settings.qtpl:893
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Dark Mode"
@@ -8466,9 +8487,9 @@ msgstr "Databases"
 msgid "Databases are disabled"
 msgstr "Databases zijn uitgeschakeld"
 
-#: ../../cmd/web/views/account/settings.qtpl:1357
-#: ../../cmd/web/views/account/settings.qtpl:1435
-#: ../../cmd/web/views/account/settings.qtpl:1500
+#: ../../cmd/web/views/account/settings.qtpl:1367
+#: ../../cmd/web/views/account/settings.qtpl:1445
+#: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
@@ -8524,8 +8545,8 @@ msgstr "Datum"
 msgid "Date and Time"
 msgstr "Datum en tijd"
 
-#: ../../cmd/web/views/account/settings.qtpl:804
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:279
+#: ../../cmd/web/views/account/settings.qtpl:814
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:295
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Date Display"
@@ -8590,8 +8611,8 @@ msgstr "Standaard verborgen"
 msgid "Default Sub Settings"
 msgstr "Standaard subinstellingen"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:34
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:60
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:35
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:61
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Default Subscription Settings"
@@ -8603,7 +8624,7 @@ msgstr "Standaard abonnementsinstellingen"
 msgid "Default timezone for new users."
 msgstr "Standaard tijdzone voor nieuwe gebruikers."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:210
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:211
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Default User Settings"
@@ -8718,7 +8739,7 @@ msgid "Delete Message"
 msgstr "Bericht verwijderen"
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:191
-#: ../../cmd/web/views/account/settings.qtpl:374
+#: ../../cmd/web/views/account/settings.qtpl:375
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Delete My Account"
@@ -8742,13 +8763,13 @@ msgstr "Oude bijlagen verwijderen"
 msgid "Delete Page"
 msgstr "Pagina verwijderen"
 
-#: ../../cmd/web/views/account/settings.qtpl:253
+#: ../../cmd/web/views/account/settings.qtpl:254
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Delete Password"
 msgstr "Wachtwoord verwijderen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1334
+#: ../../cmd/web/views/account/settings.qtpl:1344
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Delete Payment Method"
@@ -9069,13 +9090,13 @@ msgstr "Beschrijving van deze kolom."
 msgid "Description:"
 msgstr "Beschrijving:"
 
-#: ../../cmd/web/views/account/settings.qtpl:996
+#: ../../cmd/web/views/account/settings.qtpl:1006
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Desktop notifications are currently not enabled in this browser."
 msgstr "Desktopmeldingen zijn momenteel niet ingeschakeld in deze browser."
 
-#: ../../cmd/web/views/account/settings.qtpl:992
+#: ../../cmd/web/views/account/settings.qtpl:1002
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Desktop notifications are not supported in this browser."
@@ -9173,7 +9194,7 @@ msgid ""
 msgstr ""
 "Direct mensen toevoegen aan je groep. Voeg alleen mensen toe die je expliciet toestemming hebben gegeven om ze aan je groep toe te voegen. Misbruik van deze functie kan je verbannen."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:97
+#: ../../cmd/web/views/account/groupprofile.qtpl:99
 #: ../../cmd/web/views/group/groupdirectory.qtpl:64
 #: ../../cmd/web/views/group/groupdirectory.qtpl:81
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:705
@@ -9218,19 +9239,19 @@ msgstr "Berichten bewerken uitschakelen"
 msgid "Disable No Email"
 msgstr "Geen e-mail uitschakelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1015
+#: ../../cmd/web/views/account/settings.qtpl:1025
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Disable Notifications In This Browser"
 msgstr "Meldingen in deze browser uitschakelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1026
+#: ../../cmd/web/views/account/settings.qtpl:1036
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Disable Notifications On All Devices"
 msgstr "Meldingen op alle apparaten uitschakelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:986
+#: ../../cmd/web/views/account/settings.qtpl:996
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Disable Notifications On This Device"
@@ -9251,7 +9272,7 @@ msgstr ""
 msgid "Disable Signup"
 msgstr "Aanmelden uitschakelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1068
+#: ../../cmd/web/views/account/settings.qtpl:1078
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Disable two-factor authentication"
@@ -9273,7 +9294,7 @@ msgstr "Gooi weg"
 msgid "Disconnect Connected Stripe Account"
 msgstr "Verbinding verbreken met Stripe-account"
 
-#: ../../cmd/web/views/account/settings.qtpl:1283
+#: ../../cmd/web/views/account/settings.qtpl:1293
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Disconnect Your Zoom Account"
@@ -9299,11 +9320,11 @@ msgstr "vond een bericht niet leuk"
 msgid "disliked a photo"
 msgstr "vond een foto niet leuk"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:151
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:161
-#: ../../cmd/web/views/account/settings.qtpl:506
-#: ../../cmd/web/views/account/settings.qtpl:641
-#: ../../cmd/web/views/account/settings.qtpl:651
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:153
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:163
+#: ../../cmd/web/views/account/settings.qtpl:507
+#: ../../cmd/web/views/account/settings.qtpl:642
+#: ../../cmd/web/views/account/settings.qtpl:652
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:211
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:257
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:561
@@ -9319,7 +9340,7 @@ msgstr "Naam weergeven"
 msgid "Display name changed"
 msgstr "Weergavenaam gewijzigd"
 
-#: ../../cmd/web/views/account/settings.qtpl:734
+#: ../../cmd/web/views/account/settings.qtpl:735
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Display Preferences"
@@ -9503,7 +9524,7 @@ msgstr "Doneer"
 msgid "Donate Now"
 msgstr "Doneer nu"
 
-#: ../../cmd/web/views/account/settings.qtpl:1360
+#: ../../cmd/web/views/account/settings.qtpl:1370
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Donation"
@@ -9545,7 +9566,7 @@ msgstr "Donatie - Verzoek heropend"
 msgid "Donation - Request updated"
 msgstr "Donatie - Verzoek bijgewerkt"
 
-#: ../../cmd/web/views/account/settings.qtpl:1342
+#: ../../cmd/web/views/account/settings.qtpl:1352
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:47
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:80
 #, fuzzy
@@ -9727,7 +9748,8 @@ msgstr "Duur"
 msgid "Dusty Mauve"
 msgstr "Dusty Mauve"
 
-#: ../../cmd/web/views/account/settings.qtpl:768
+#: ../../cmd/web/views/account/settings.qtpl:760
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:240
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Dutch"
@@ -9793,9 +9815,9 @@ msgstr "Oost-Timor"
 msgid "Ecuador"
 msgstr "Ecuador"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:210
-#: ../../cmd/web/views/account/settings.qtpl:542
-#: ../../cmd/web/views/account/settings.qtpl:691
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:212
+#: ../../cmd/web/views/account/settings.qtpl:543
+#: ../../cmd/web/views/account/settings.qtpl:692
 #: ../../cmd/web/views/calendar/calendar.qtpl:300
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:846
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:929
@@ -9902,8 +9924,8 @@ msgstr "Github-integraties bewerken"
 msgid "Edit Google Drive Integration"
 msgstr "Google Drive-integratie bewerken"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:69
-#: ../../cmd/web/views/account/groupprofile.qtpl:236
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:71
+#: ../../cmd/web/views/account/groupprofile.qtpl:238
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Edit Group Profile"
@@ -10059,7 +10081,7 @@ msgstr "Bericht met bewerking"
 msgid "Edited message without sending to the group"
 msgstr "Bewerkt bericht zonder te verzenden naar de groep"
 
-#: ../../cmd/web/views/account/settings.qtpl:858
+#: ../../cmd/web/views/account/settings.qtpl:868
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Editor Preference"
@@ -10176,13 +10198,13 @@ msgstr "E-mailadressen"
 msgid "Email Addresses Processed:"
 msgstr "Verwerkte e-mailadressen:"
 
-#: ../../cmd/web/views/account/settings.qtpl:339
+#: ../../cmd/web/views/account/settings.qtpl:340
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Email Alias"
 msgstr "E-mail alias"
 
-#: ../../cmd/web/views/account/settings.qtpl:314
+#: ../../cmd/web/views/account/settings.qtpl:315
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Email Aliases"
@@ -10230,7 +10252,7 @@ msgstr "E-mail en web/app"
 msgid "Email Communication Is Asynchronous"
 msgstr "E-mailcommunicatie is asynchroon"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:69
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:70
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:826
 #: ../../cmd/web/views/sub/editsub.qtpl:97
 #: ../../cmd/web/views/sub/groupinvite.qtpl:125
@@ -10369,7 +10391,7 @@ msgstr "E-mail me een link om in te loggen"
 msgid "Email only"
 msgstr "Alleen e-mail"
 
-#: ../../cmd/web/views/account/settings.qtpl:908
+#: ../../cmd/web/views/account/settings.qtpl:918
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Email Preferences"
@@ -10463,13 +10485,13 @@ msgstr "benadrukte een foto"
 msgid "Enable join before host"
 msgstr "Samenvoegen vóór host inschakelen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1001
+#: ../../cmd/web/views/account/settings.qtpl:1011
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Enable Notifications In This Browser"
 msgstr "Meldingen inschakelen in deze browser"
 
-#: ../../cmd/web/views/account/settings.qtpl:978
+#: ../../cmd/web/views/account/settings.qtpl:988
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Enable Notifications On This Device"
@@ -10509,15 +10531,15 @@ msgstr "Eindtijd"
 msgid "Ends"
 msgstr "Eindigt op"
 
-#: ../../cmd/web/views/account/settings.qtpl:747
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:227
+#: ../../cmd/web/views/account/settings.qtpl:748
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:228
 #: ../../cmd/web/views/user/enterprise.qtpl:146
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "English"
 msgstr "Engels"
 
-#: ../../cmd/web/views/account/settings.qtpl:1140
+#: ../../cmd/web/views/account/settings.qtpl:1150
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Enter The Six-Digit Code From The Application"
@@ -10529,7 +10551,7 @@ msgstr "Voer de zescijferige code uit de applicatie in"
 msgid "Enter Your Two-factor Authentication Code"
 msgstr "Voer uw twee-factor authenticatiecode in"
 
-#: ../../cmd/web/views/account/settings.qtpl:1533
+#: ../../cmd/web/views/account/settings.qtpl:1543
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:140
 #: ../../cmd/web/views/static/staticpricing.qtpl:252
 #, fuzzy
@@ -10719,7 +10741,7 @@ msgid ""
 msgstr ""
 "Elke groep heeft minstens één eigenaar. Op dit moment ben jij dat, omdat jij de groep hebt aangemaakt. Je kunt andere leden van je groep ook eigenaar maken. Bovendien kun je andere leden van je groep moderators maken. Eigenaars hebben rechten om alle aspecten van een groep te wijzigen. Je kunt instellen welke rechten elke moderator heeft."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:150
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:151
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -10748,7 +10770,7 @@ msgid ""
 msgstr ""
 "Elk bericht wordt naar het lid gemaild, volgens de Email Delivery Selection van het lid, behalve onderwerpen of hashtags die ze hebben gedempt."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:141
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:142
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -10847,7 +10869,7 @@ msgstr "Uitgebreid"
 msgid "Expiration"
 msgstr "Vervaldatum"
 
-#: ../../cmd/web/views/account/settings.qtpl:1322
+#: ../../cmd/web/views/account/settings.qtpl:1332
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Expiration:"
@@ -10870,7 +10892,7 @@ msgstr "Verlopen"
 msgid "Export"
 msgstr "Exporteer"
 
-#: ../../cmd/web/views/account/settings.qtpl:388
+#: ../../cmd/web/views/account/settings.qtpl:389
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Export Account Data"
@@ -10894,7 +10916,7 @@ msgstr "Export Groep"
 msgid "Export Group Data"
 msgstr "Groepsgegevens exporteren"
 
-#: ../../cmd/web/views/account/settings.qtpl:369
+#: ../../cmd/web/views/account/settings.qtpl:370
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Export My Account"
@@ -10922,7 +10944,7 @@ msgstr "Poll exporteren"
 msgid "Export Table"
 msgstr "Tabel exporteren"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:317
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:333
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:452
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:391
 #: ../../cmd/web/views/sub/editsub.qtpl:719
@@ -10931,8 +10953,8 @@ msgstr "Tabel exporteren"
 msgid "Extra Member Data"
 msgstr "Extra lidmaatschapsgegevens"
 
-#: ../../cmd/web/views/account/settings.qtpl:1404
-#: ../../cmd/web/views/account/settings.qtpl:1546
+#: ../../cmd/web/views/account/settings.qtpl:1414
+#: ../../cmd/web/views/account/settings.qtpl:1556
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:156
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:123
@@ -11253,7 +11275,7 @@ msgstr "Finland"
 msgid "First Login"
 msgstr "Eerste aanmelding"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:156
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:157
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:986
 #: ../../cmd/web/views/sub/editsub.qtpl:266
 #: ../../cmd/web/views/sub/groupinvite.qtpl:232
@@ -11402,7 +11424,7 @@ msgstr "Gevolgde onderwerpen"
 msgid "Following Events"
 msgstr "Volgende gebeurtenissen"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:147
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:148
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:977
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1399
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:182
@@ -11532,8 +11554,8 @@ msgid ""
 msgstr ""
 "Gratis groepen hebben 1 GB opslagruimte. Nadat je je groep hebt gemaakt, kun je deze upgraden naar een Premium- of Enterprise-groep."
 
-#: ../../cmd/web/views/account/settings.qtpl:753
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:233
+#: ../../cmd/web/views/account/settings.qtpl:763
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:243
 #: ../../cmd/web/views/user/enterprise.qtpl:152
 #, fuzzy
 #. Automatically translated using DeepL
@@ -11597,7 +11619,7 @@ msgstr "Van niet-abonnee"
 msgid "Full Digest"
 msgstr "Volledige inhoud"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:83
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:84
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:841
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:678
 #: ../../cmd/web/views/sub/editsub.qtpl:114
@@ -11663,13 +11685,13 @@ msgstr "Algemeen"
 msgid "Generate a PDF formatted for this Avery template."
 msgstr "Genereer een PDF opgemaakt voor dit Avery-sjabloon."
 
-#: ../../cmd/web/views/account/settings.qtpl:414
+#: ../../cmd/web/views/account/settings.qtpl:415
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Generate Export"
 msgstr "Genereer export"
 
-#: ../../cmd/web/views/account/settings.qtpl:1193
+#: ../../cmd/web/views/account/settings.qtpl:1203
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Generate New Recovery Codes"
@@ -11690,8 +11712,8 @@ msgstr "Algemene link"
 msgid "Georgia"
 msgstr "Georgië"
 
-#: ../../cmd/web/views/account/settings.qtpl:756
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:236
+#: ../../cmd/web/views/account/settings.qtpl:766
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:246
 #: ../../cmd/web/views/user/enterprise.qtpl:155
 #, fuzzy
 #. Automatically translated using DeepL
@@ -11885,9 +11907,9 @@ msgstr "Grenada"
 msgid "Grey Blue"
 msgstr "Grijsblauw"
 
-#: ../../cmd/web/views/account/settings.qtpl:1354
-#: ../../cmd/web/views/account/settings.qtpl:1432
-#: ../../cmd/web/views/account/settings.qtpl:1497
+#: ../../cmd/web/views/account/settings.qtpl:1364
+#: ../../cmd/web/views/account/settings.qtpl:1442
+#: ../../cmd/web/views/account/settings.qtpl:1507
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:709
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:736
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:753
@@ -12229,7 +12251,7 @@ msgstr "Groepsmelding"
 msgid "Group Owner"
 msgstr "Groepseigenaar"
 
-#: ../../cmd/web/views/account/settings.qtpl:1485
+#: ../../cmd/web/views/account/settings.qtpl:1495
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Group Payment History"
@@ -12241,7 +12263,7 @@ msgstr "Geschiedenis groepsbetalingen"
 msgid "Group Policies"
 msgstr "Groepsbeleid"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:43
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:45
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #, fuzzy
@@ -12302,7 +12324,7 @@ msgstr "Groep Type"
 msgid "Group Type and Moderation"
 msgstr "Groepstype en moderatie"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:96
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:97
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -12311,7 +12333,7 @@ msgid ""
 msgstr ""
 "Groepeer tot 12 berichten als één e-mail in plaats van ze afzonderlijk te verzenden (gewone opmaak)."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:86
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:87
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -13067,21 +13089,21 @@ msgstr ""
 msgid "How to be notified when storage limits are reached."
 msgstr "Hoe u gewaarschuwd kunt worden wanneer de opslaglimieten zijn bereikt."
 
-#: ../../cmd/web/views/account/settings.qtpl:818
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:293
+#: ../../cmd/web/views/account/settings.qtpl:828
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:309
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "How to display dates."
 msgstr "Hoe datums weergeven."
 
-#: ../../cmd/web/views/account/settings.qtpl:799
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:274
+#: ../../cmd/web/views/account/settings.qtpl:809
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:290
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "How to display times."
 msgstr "Hoe tijden weergeven."
 
-#: ../../cmd/web/views/account/settings.qtpl:865
+#: ../../cmd/web/views/account/settings.qtpl:875
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "HTML"
@@ -13107,7 +13129,7 @@ msgstr "Hongarije"
 msgid "I Agree"
 msgstr "Mee eens"
 
-#: ../../cmd/web/views/account/settings.qtpl:919
+#: ../../cmd/web/views/account/settings.qtpl:929
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "I always want copies of my own emails"
@@ -13218,7 +13240,7 @@ msgid ""
 msgstr ""
 "Als dit wordt opgegeven, worden alleen bijlagen in e-mails met deze hashtag opgeslagen."
 
-#: ../../cmd/web/views/account/settings.qtpl:1106
+#: ../../cmd/web/views/account/settings.qtpl:1116
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -13228,7 +13250,7 @@ msgid ""
 msgstr ""
 "Als de verificatiecode verloren is gegaan (bijvoorbeeld als een apparaat is teruggezet naar de fabrieksinstellingen) en je geen herstelcodes meer hebt, moet je contact opnemen met Groups.io Support om te kunnen inloggen."
 
-#: ../../cmd/web/views/account/settings.qtpl:342
+#: ../../cmd/web/views/account/settings.qtpl:343
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -13488,7 +13510,7 @@ msgid ""
 msgstr ""
 "Als je de bronnen wilt gebruiken en berichten op de website wilt lezen, klik dan op de link hieronder om je e-mailadres te bevestigen, een wachtwoord in te stellen en andere abonnementsinstellingen te kiezen:"
 
-#: ../../cmd/web/views/account/settings.qtpl:426
+#: ../../cmd/web/views/account/settings.qtpl:427
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -13682,7 +13704,7 @@ msgid "In addition to adding to the %s group, add to the following subgroups:"
 msgstr ""
 "Voeg niet alleen toe aan de groep %s, maar ook aan de volgende subgroepen:"
 
-#: ../../cmd/web/views/account/settings.qtpl:945
+#: ../../cmd/web/views/account/settings.qtpl:955
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -13863,7 +13885,7 @@ msgstr ""
 msgid "Individual"
 msgstr "Individueel"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:74
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:75
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:834
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:673
 #: ../../cmd/web/views/sub/editsub.qtpl:107
@@ -13888,7 +13910,7 @@ msgstr "individuele berichten"
 msgid "Indonesia"
 msgstr "Indonesië"
 
-#: ../../cmd/web/views/account/settings.qtpl:846
+#: ../../cmd/web/views/account/settings.qtpl:856
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Infinite scroll"
@@ -13903,18 +13925,17 @@ msgid ""
 msgstr ""
 "Info alert. Nulla ad proident do cupidatat. Laborum ad voluptate id adipisicing sint pariatur mollit aliqua nisi."
 
-#. TRANSLATORS: The %s is the page title
-#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:151
-#, fuzzy
-#. Automatically translated using DeepL
-msgid "Initial %s page"
-msgstr "%s Eerste pagina"
-
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl:184
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Initial message"
 msgstr "Eerste bericht"
+
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:150
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Initial page"
+msgstr "Eerste pagina"
 
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:321
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:430
@@ -14288,15 +14309,15 @@ msgstr "Factuur te betalen"
 msgid "Invoice History"
 msgstr "Factuurgeschiedenis"
 
-#: ../../cmd/web/views/account/settings.qtpl:1351
-#: ../../cmd/web/views/account/settings.qtpl:1429
-#: ../../cmd/web/views/account/settings.qtpl:1494
+#: ../../cmd/web/views/account/settings.qtpl:1361
+#: ../../cmd/web/views/account/settings.qtpl:1439
+#: ../../cmd/web/views/account/settings.qtpl:1504
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Invoice ID"
 msgstr "Factuur ID"
 
-#: ../../cmd/web/views/account/settings.qtpl:1537
+#: ../../cmd/web/views/account/settings.qtpl:1547
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:678
 #, fuzzy
 #. Automatically translated using DeepL
@@ -14423,8 +14444,8 @@ msgstr ""
 msgid "it's a moderated integration message"
 msgstr "het is een gemodereerd integratiebericht"
 
-#: ../../cmd/web/views/account/settings.qtpl:750
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:230
+#: ../../cmd/web/views/account/settings.qtpl:769
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:249
 #: ../../cmd/web/views/user/enterprise.qtpl:149
 #, fuzzy
 #. Automatically translated using DeepL
@@ -14439,7 +14460,7 @@ msgstr "Italiaans"
 msgid "Italy"
 msgstr "Italië"
 
-#: ../../cmd/web/views/account/settings.qtpl:833
+#: ../../cmd/web/views/account/settings.qtpl:843
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Items Per Page"
@@ -14513,7 +14534,7 @@ msgstr "Word lid van groep"
 msgid "Join This Group"
 msgstr "Word lid van deze groep"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:114
+#: ../../cmd/web/views/account/groupprofile.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:283
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:586
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:125
@@ -14655,22 +14676,22 @@ msgstr "Label verwijderd"
 msgid "Label removed from issue"
 msgstr "Label uit uitgave verwijderd"
 
-#: ../../cmd/web/views/account/settings.qtpl:740
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:220
+#: ../../cmd/web/views/account/settings.qtpl:741
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:221
 #: ../../cmd/web/views/user/enterprise.qtpl:139
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Language Preference"
 msgstr "Taal voorkeur"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:246
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:262
 #: ../../cmd/web/views/user/enterprise.qtpl:165
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Language the website and notifications are in."
 msgstr "Taal van de website en meldingen zijn binnen."
 
-#: ../../cmd/web/views/account/settings.qtpl:772
+#: ../../cmd/web/views/account/settings.qtpl:782
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -14736,7 +14757,7 @@ msgstr "gelachen om een bericht"
 msgid "laughed at a photo"
 msgstr "lachte om een foto"
 
-#: ../../cmd/web/views/account/settings.qtpl:217
+#: ../../cmd/web/views/account/settings.qtpl:218
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:112
 #, fuzzy
 #. Automatically translated using DeepL
@@ -15015,7 +15036,7 @@ msgstr "Lijst verplaatst"
 msgid "List moved to other board"
 msgstr "Lijst verplaatst naar ander forum"
 
-#: ../../cmd/web/views/account/settings.qtpl:1095
+#: ../../cmd/web/views/account/settings.qtpl:1105
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "List of recent account accesses."
@@ -15059,9 +15080,9 @@ msgstr "Litouwen"
 msgid "LLM"
 msgstr "LLM"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:216
-#: ../../cmd/web/views/account/settings.qtpl:549
-#: ../../cmd/web/views/account/settings.qtpl:698
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:218
+#: ../../cmd/web/views/account/settings.qtpl:550
+#: ../../cmd/web/views/account/settings.qtpl:699
 #: ../../cmd/web/views/account/usersessions.qtpl:81
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:514
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:565
@@ -15226,12 +15247,12 @@ msgstr "Aanmelden met Facebook"
 msgid "Log in with Google"
 msgstr "Aanmelden met Google"
 
-#: ../../cmd/web/views/account/settings.qtpl:1210
 #: ../../cmd/web/views/account/settings.qtpl:1220
-#: ../../cmd/web/views/account/settings.qtpl:1228
-#: ../../cmd/web/views/account/settings.qtpl:1236
-#: ../../cmd/web/views/account/settings.qtpl:1244
+#: ../../cmd/web/views/account/settings.qtpl:1230
+#: ../../cmd/web/views/account/settings.qtpl:1238
+#: ../../cmd/web/views/account/settings.qtpl:1246
 #: ../../cmd/web/views/account/settings.qtpl:1254
+#: ../../cmd/web/views/account/settings.qtpl:1264
 #: ../../cmd/web/views/base.qtpl:568
 #: ../../cmd/web/views/base.qtpl:693
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl:104
@@ -15253,7 +15274,7 @@ msgstr "Afmelden"
 msgid "Logged out"
 msgstr "Uitgelogd"
 
-#: ../../cmd/web/views/account/settings.qtpl:160
+#: ../../cmd/web/views/account/settings.qtpl:161
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:213
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:213
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:224
@@ -15457,7 +15478,7 @@ msgstr "Kaart bekijken"
 msgid "Mar"
 msgstr "Mar"
 
-#: ../../cmd/web/views/account/settings.qtpl:868
+#: ../../cmd/web/views/account/settings.qtpl:878
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Markdown"
@@ -15501,7 +15522,7 @@ msgstr "Mauritanië"
 msgid "Mauritius"
 msgstr "Mauritius"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:179
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:180
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1009
 #: ../../cmd/web/views/sub/editsub.qtpl:288
 #: ../../cmd/web/views/sub/groupinvite.qtpl:254
@@ -15568,7 +15589,7 @@ msgstr "Max. grootte foto in e-mail"
 msgid "Max Size In Photos Section"
 msgstr "Max. grootte in fotogedeelte"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:199
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:200
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -15904,7 +15925,7 @@ msgstr "Leden"
 msgid "Members @ $0.%02d/member"
 msgstr "Leden @ $0.%02d/lid"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:169
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:170
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Members automatically follow any topics they've started or replied to."
@@ -16094,7 +16115,7 @@ msgstr ""
 msgid "Members Only"
 msgstr "Alleen voor leden"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:106
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:107
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -16122,19 +16143,19 @@ msgstr ""
 msgid "Members To Be Removed"
 msgstr "Te verwijderen leden"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:115
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:116
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Members will only receive special notices from the moderators."
 msgstr "Leden ontvangen alleen speciale mededelingen van de moderators."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:77
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:78
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Members will receive each message in an individual email."
 msgstr "Leden ontvangen elk bericht in een afzonderlijke e-mail."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:125
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:126
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Members will receive no emails."
@@ -16357,7 +16378,7 @@ msgid "Membership - Username changed by member"
 msgstr "Lidmaatschap - Gebruikersnaam gewijzigd door lid"
 
 #: ../../cmd/web/views/account/mergeaccounts.qtpl:56
-#: ../../cmd/web/views/account/settings.qtpl:430
+#: ../../cmd/web/views/account/settings.qtpl:431
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl:182
 #, fuzzy
 #. Automatically translated using DeepL
@@ -16383,8 +16404,8 @@ msgstr "Samenvoegen in"
 msgid "mergeaccounts+"
 msgstr "rekeningen samenvoegen+"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:138
-#: ../../cmd/web/views/account/groupprofile.qtpl:142
+#: ../../cmd/web/views/account/groupprofile.qtpl:140
+#: ../../cmd/web/views/account/groupprofile.qtpl:144
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl:36
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:192
 #: ../../cmd/web/views/user/original.qtpl:38
@@ -16543,7 +16564,7 @@ msgstr "Bericht niet gevonden"
 msgid "Message Policies"
 msgstr "Beleid berichten"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:133
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:134
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:965
 #: ../../cmd/web/views/sub/editsub.qtpl:242
 #: ../../cmd/web/views/sub/groupinvite.qtpl:208
@@ -16866,7 +16887,7 @@ msgstr "Microsoft OneDrive"
 msgid "Military"
 msgstr "Militair"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:270
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:286
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Military Time (15:04)"
@@ -17141,8 +17162,8 @@ msgstr "Mon"
 msgid "Monaco"
 msgstr "Monaco"
 
-#: ../../cmd/web/views/account/settings.qtpl:824
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:299
+#: ../../cmd/web/views/account/settings.qtpl:834
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:315
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Monday Start"
@@ -17539,7 +17560,7 @@ msgstr "Gedempte tags"
 msgid "Muted Topics"
 msgstr "Gedempte onderwerpen"
 
-#: ../../cmd/web/views/account/settings.qtpl:914
+#: ../../cmd/web/views/account/settings.qtpl:924
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "My Messages"
@@ -17820,7 +17841,7 @@ msgstr "Nieuwe donatie ontvangen"
 
 #: ../../cmd/web/views/account/bouncing.qtpl:79
 #: ../../cmd/web/views/account/needreverification.qtpl:74
-#: ../../cmd/web/views/account/settings.qtpl:169
+#: ../../cmd/web/views/account/settings.qtpl:170
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "New Email"
@@ -17934,7 +17955,7 @@ msgstr "Nieuwe kennisgeving"
 msgid "New Page"
 msgstr "Nieuwe pagina"
 
-#: ../../cmd/web/views/account/settings.qtpl:228
+#: ../../cmd/web/views/account/settings.qtpl:229
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "New Password"
@@ -18207,7 +18228,7 @@ msgstr "Geen wijzigingen"
 msgid "No Color"
 msgstr "Geen kleur"
 
-#: ../../cmd/web/views/account/settings.qtpl:1312
+#: ../../cmd/web/views/account/settings.qtpl:1322
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "No credit card is on file."
@@ -18243,7 +18264,7 @@ msgstr "Er zijn geen domeinen verboden."
 msgid "No donations have been made."
 msgstr "Er zijn geen donaties gedaan."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:122
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:123
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:872
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:701
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1396
@@ -18268,7 +18289,7 @@ msgstr "Geen e-mail"
 msgid "no email"
 msgstr "in de e-mail"
 
-#: ../../cmd/web/views/account/settings.qtpl:331
+#: ../../cmd/web/views/account/settings.qtpl:332
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "No email aliases have been defined."
@@ -18636,12 +18657,12 @@ msgstr "Niet vermeld in de map Groups.io."
 msgid "not restrict attachment size"
 msgstr "de grootte van bijlagen niet beperken"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:145
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:164
-#: ../../cmd/web/views/account/settings.qtpl:635
-#: ../../cmd/web/views/account/settings.qtpl:654
-#: ../../cmd/web/views/account/settings.qtpl:744
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:224
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:147
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:166
+#: ../../cmd/web/views/account/settings.qtpl:636
+#: ../../cmd/web/views/account/settings.qtpl:655
+#: ../../cmd/web/views/account/settings.qtpl:745
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:225
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:260
 #: ../../cmd/web/views/user/enterprise.qtpl:143
 #, fuzzy
@@ -18705,7 +18726,7 @@ msgstr "Opmerking"
 msgid "Note To Send Attendees"
 msgstr "Opmerking voor deelnemers"
 
-#: ../../cmd/web/views/account/settings.qtpl:206
+#: ../../cmd/web/views/account/settings.qtpl:207
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:220
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:166
 #, fuzzy
@@ -18866,7 +18887,7 @@ msgstr "Melding"
 msgid "Notification \"%s\" was sent requiring approval"
 msgstr "Notificatie%s is verzonden waarvoor goedkeuring nodig is."
 
-#: ../../cmd/web/views/account/settings.qtpl:940
+#: ../../cmd/web/views/account/settings.qtpl:950
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl:109
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl:109
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl:217
@@ -18877,7 +18898,7 @@ msgstr "Notificatie%s is verzonden waarvoor goedkeuring nodig is."
 msgid "Notifications"
 msgstr "Meldingen"
 
-#: ../../cmd/web/views/account/settings.qtpl:973
+#: ../../cmd/web/views/account/settings.qtpl:983
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Notifications are currently not enabled on this device."
@@ -18980,7 +19001,7 @@ msgstr "NuM"
 msgid "Number"
 msgstr "Aantal"
 
-#: ../../cmd/web/views/account/settings.qtpl:850
+#: ../../cmd/web/views/account/settings.qtpl:860
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Number of items displayed per page."
@@ -18993,7 +19014,7 @@ msgstr "Aantal weergegeven items per pagina."
 msgid "Number Of Members"
 msgstr "Aantal leden"
 
-#: ../../cmd/web/views/account/settings.qtpl:1199
+#: ../../cmd/web/views/account/settings.qtpl:1209
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Oauth Logins"
@@ -19034,7 +19055,7 @@ msgstr "van"
 msgid "of $"
 msgstr "van $"
 
-#: ../../cmd/web/views/account/settings.qtpl:893
+#: ../../cmd/web/views/account/settings.qtpl:903
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1044
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1059
 #, fuzzy
@@ -19061,7 +19082,7 @@ msgstr "OK"
 msgid "Oman"
 msgstr "Oman"
 
-#: ../../cmd/web/views/account/settings.qtpl:896
+#: ../../cmd/web/views/account/settings.qtpl:906
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:460
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1040
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1055
@@ -19220,9 +19241,9 @@ msgid ""
 msgstr ""
 "Toon enkel resultaten wanneer de peiling gesloten is. Moderators en pollmakers kunnen de resultaten altijd bekijken."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:174
-#: ../../cmd/web/views/account/settings.qtpl:519
-#: ../../cmd/web/views/account/settings.qtpl:664
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:176
+#: ../../cmd/web/views/account/settings.qtpl:520
+#: ../../cmd/web/views/account/settings.qtpl:665
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Only group owners & moderators"
@@ -19540,14 +19561,14 @@ msgstr "Andere groepen"
 msgid "Other Info"
 msgstr "Andere info"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:177
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:179
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Other members of your group"
 msgstr "Andere leden van je groep"
 
-#: ../../cmd/web/views/account/settings.qtpl:522
-#: ../../cmd/web/views/account/settings.qtpl:667
+#: ../../cmd/web/views/account/settings.qtpl:523
+#: ../../cmd/web/views/account/settings.qtpl:668
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Other members of your groups"
@@ -19603,8 +19624,8 @@ msgstr "van 5"
 msgid "Out Of Space"
 msgstr "Buiten de ruimte"
 
-#: ../../cmd/web/views/account/settings.qtpl:444
-#: ../../cmd/web/views/account/settings.qtpl:588
+#: ../../cmd/web/views/account/settings.qtpl:445
+#: ../../cmd/web/views/account/settings.qtpl:589
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Overall Profile"
@@ -19929,7 +19950,7 @@ msgid "Password"
 msgstr "Wachtwoord"
 
 #: ../../cmd/web/views/account/register.qtpl:111
-#: ../../cmd/web/views/account/settings.qtpl:245
+#: ../../cmd/web/views/account/settings.qtpl:246
 #: ../../cmd/web/views/static/staticwelcome.qtpl:96
 #, fuzzy
 #. Automatically translated using DeepL
@@ -20060,9 +20081,9 @@ msgstr "Betalingsgegevens"
 msgid "Payment History"
 msgstr "Betalingsgeschiedenis"
 
-#: ../../cmd/web/views/account/settings.qtpl:1363
-#: ../../cmd/web/views/account/settings.qtpl:1438
-#: ../../cmd/web/views/account/settings.qtpl:1506
+#: ../../cmd/web/views/account/settings.qtpl:1373
+#: ../../cmd/web/views/account/settings.qtpl:1448
+#: ../../cmd/web/views/account/settings.qtpl:1516
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:637
 #, fuzzy
 #. Automatically translated using DeepL
@@ -20489,7 +20510,7 @@ msgstr "Pitcairn"
 msgid "Place message footers in a separate MIME part."
 msgstr "Plaats voetteksten van berichten in een apart MIME-onderdeel."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:93
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:94
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:849
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:684
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:1388
@@ -20508,7 +20529,7 @@ msgstr "Gewoon Digest"
 msgid "plain digest"
 msgstr "duidelijke samenvatting"
 
-#: ../../cmd/web/views/account/settings.qtpl:871
+#: ../../cmd/web/views/account/settings.qtpl:881
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Plain Text"
@@ -20520,7 +20541,7 @@ msgstr "Platte tekst"
 msgid "Plain Text Only"
 msgstr "Alleen platte tekst"
 
-#: ../../cmd/web/views/account/settings.qtpl:1503
+#: ../../cmd/web/views/account/settings.qtpl:1513
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:634
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl:333
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl:110
@@ -20709,7 +20730,8 @@ msgstr "Pornografie, inhoud voor volwassenen of naaktheid."
 msgid "Portugal"
 msgstr "Portugal"
 
-#: ../../cmd/web/views/account/settings.qtpl:762
+#: ../../cmd/web/views/account/settings.qtpl:772
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Portuguese"
@@ -20927,7 +20949,7 @@ msgstr "Voorkeuren"
 msgid "Prefs"
 msgstr "Voorkeuren"
 
-#: ../../cmd/web/views/account/settings.qtpl:1533
+#: ../../cmd/web/views/account/settings.qtpl:1543
 #: ../../cmd/web/views/static/staticplancomparison.qtpl:130
 #: ../../cmd/web/views/static/staticpricing.qtpl:172
 #, fuzzy
@@ -20985,9 +21007,9 @@ msgstr ""
 msgid "Prevented by Free Group Limits"
 msgstr "Verhinderd door limieten voor vrije groepen"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:206
-#: ../../cmd/web/views/account/settings.qtpl:538
-#: ../../cmd/web/views/account/settings.qtpl:687
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:208
+#: ../../cmd/web/views/account/settings.qtpl:539
+#: ../../cmd/web/views/account/settings.qtpl:688
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:842
 #: ../../cmd/web/views/group/grouppromote.qtpl:241
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:925
@@ -21086,21 +21108,21 @@ msgstr "Privacybeleid"
 msgid "Private"
 msgstr "Privé"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:70
+#: ../../cmd/web/views/account/groupprofile.qtpl:72
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile"
 msgstr "Profiel"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:124
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:126
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile Photo"
 msgstr "Profielfoto"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:170
-#: ../../cmd/web/views/account/settings.qtpl:515
-#: ../../cmd/web/views/account/settings.qtpl:660
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:172
+#: ../../cmd/web/views/account/settings.qtpl:516
+#: ../../cmd/web/views/account/settings.qtpl:661
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile Privacy"
@@ -21121,7 +21143,7 @@ msgstr "Promoot"
 msgid "Promote Your Group"
 msgstr "Promoot je groep"
 
-#: ../../cmd/web/views/account/settings.qtpl:1055
+#: ../../cmd/web/views/account/settings.qtpl:1065
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Protect your account with an extra level of security."
@@ -21133,9 +21155,9 @@ msgstr "Bescherm je account met een extra beveiligingsniveau."
 msgid "Provider"
 msgstr "Aanbieder"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:181
-#: ../../cmd/web/views/account/settings.qtpl:526
-#: ../../cmd/web/views/account/settings.qtpl:671
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:183
+#: ../../cmd/web/views/account/settings.qtpl:527
+#: ../../cmd/web/views/account/settings.qtpl:672
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Public"
@@ -21375,7 +21397,7 @@ msgstr "Reden voor afwijzing"
 msgid "Reason for removal."
 msgstr "Reden voor verwijdering."
 
-#: ../../cmd/web/views/account/settings.qtpl:922
+#: ../../cmd/web/views/account/settings.qtpl:932
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Receive copies of your own emails sent to groups."
@@ -21492,7 +21514,7 @@ msgstr ""
 msgid "Recent Chats"
 msgstr "Recente chats"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:213
+#: ../../cmd/web/views/account/groupprofile.qtpl:215
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Recent Messages"
@@ -21527,8 +21549,8 @@ msgstr "De vergadering automatisch opnemen op de lokale computer"
 msgid "Records"
 msgstr "Records"
 
-#: ../../cmd/web/views/account/settings.qtpl:1072
-#: ../../cmd/web/views/account/settings.qtpl:1165
+#: ../../cmd/web/views/account/settings.qtpl:1082
+#: ../../cmd/web/views/account/settings.qtpl:1175
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -22131,7 +22153,7 @@ msgstr "Rapporteer dit bericht"
 msgid "Report This Photo"
 msgstr "Rapporteer deze foto"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:241
+#: ../../cmd/web/views/account/groupprofile.qtpl:243
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Report This Profile"
@@ -22229,8 +22251,8 @@ msgstr "Wachtwoord voor vergadering vereist"
 msgid "Resend Pending Membership Notice"
 msgstr "Bericht voor hangend lidmaatschap opnieuw versturen"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:246
-#: ../../cmd/web/views/account/settings.qtpl:723
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:248
+#: ../../cmd/web/views/account/settings.qtpl:724
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Reset Group Profile"
@@ -22648,7 +22670,7 @@ msgstr "Bijlagen opslaan in <b>%s</b> van berichten met hashtag <b>#%s</b>."
 msgid "Saving attachments to <b>%s</b>."
 msgstr "Bijlagen opslaan in <b>%s</b>."
 
-#: ../../cmd/web/views/account/settings.qtpl:1076
+#: ../../cmd/web/views/account/settings.qtpl:1086
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -22659,20 +22681,20 @@ msgid ""
 msgstr ""
 "Als je je herstelcodes op een veilige plek bewaart, voorkom je dat je van je account wordt afgesloten. Als de verificatiecode verloren gaat (bijvoorbeeld als een apparaat wordt teruggezet naar de fabrieksinstellingen) en je je herstelcodes niet meer hebt, moet je contact opnemen met Groups.io Support om je te kunnen aanmelden."
 
-#: ../../cmd/web/views/account/settings.qtpl:1110
+#: ../../cmd/web/views/account/settings.qtpl:1120
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Scan This Barcode With Your App"
 msgstr "Scan deze streepjescode met uw app"
 
-#: ../../cmd/web/views/account/settings.qtpl:1130
+#: ../../cmd/web/views/account/settings.qtpl:1140
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, enter "
-"the code <strong>%s</strong>instead."
+"the code <strong>%s</strong> instead."
 msgstr ""
-"Scan deze afbeelding met je verificatie-app. Als je geen streepjescode kunt gebruiken, voer dan de code <strong>%s</strong>in plaats daarvan."
+"Scan deze afbeelding met je verificatie-app. Als je geen barcode kunt gebruiken, voer dan in plaats daarvan de code <strong>%s</strong> in."
 
 #: ../../tools/genactivities/activities.hjson:557
 #: ../../tools/genactivities/activities.hjson:573
@@ -22799,7 +22821,7 @@ msgid ""
 msgstr ""
 "Selecteer de gegevens die je wilt exporteren. Zodra je je selecties hebt gemaakt en op de knop <strong>Groepsgegevens exporteren</strong> hebt geklikt, worden de gegevens verzameld in een gecomprimeerd zip-archief. Je ontvangt een e-mail met een link naar de gegevens wanneer deze klaar zijn (meestal binnen 10 minuten)."
 
-#: ../../cmd/web/views/account/settings.qtpl:393
+#: ../../cmd/web/views/account/settings.qtpl:394
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Select the groups you wish to export data from:"
@@ -22834,7 +22856,7 @@ msgid ""
 msgstr ""
 "Stuur een reeks agenda-uitnodigingen als je lid wordt van de groep en annuleer gebeurtenismeldingen als je de groep verlaat."
 
-#: ../../cmd/web/views/account/settings.qtpl:1010
+#: ../../cmd/web/views/account/settings.qtpl:1020
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Send A Test Notification"
@@ -23143,13 +23165,13 @@ msgstr "Service synchroniseren"
 msgid "Service to sync with."
 msgstr "Service om mee te synchroniseren."
 
-#: ../../cmd/web/views/account/settings.qtpl:1091
+#: ../../cmd/web/views/account/settings.qtpl:1101
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Sessions"
 msgstr "Sessies"
 
-#: ../../cmd/web/views/account/settings.qtpl:249
+#: ../../cmd/web/views/account/settings.qtpl:250
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Set"
@@ -23236,7 +23258,7 @@ msgstr ""
 msgid "Set Password"
 msgstr "Wachtwoord instellen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1316
+#: ../../cmd/web/views/account/settings.qtpl:1326
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Set Payment Method"
@@ -23284,7 +23306,7 @@ msgstr "Instellen op gewone vertering"
 msgid "Set to special notices only"
 msgstr "Alleen instellen op speciale mededelingen"
 
-#: ../../cmd/web/views/account/settings.qtpl:1059
+#: ../../cmd/web/views/account/settings.qtpl:1069
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Set up two-factor authentication"
@@ -23296,7 +23318,7 @@ msgstr "Tweefactorauthenticatie instellen"
 msgid "Set Up Your Profile"
 msgstr "Uw profiel instellen"
 
-#: ../../cmd/web/views/account/settings.qtpl:124
+#: ../../cmd/web/views/account/settings.qtpl:125
 #: ../../cmd/web/views/base.qtpl:562
 #: ../../cmd/web/views/base.qtpl:687
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:37
@@ -23520,7 +23542,7 @@ msgstr "Slowakije (Slowaakse Republiek)"
 msgid "Slovenia"
 msgstr "Slovenië"
 
-#: ../../cmd/web/views/account/settings.qtpl:267
+#: ../../cmd/web/views/account/settings.qtpl:268
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Social Logins"
@@ -23607,8 +23629,8 @@ msgstr "Spam - Systeem heeft lid verwijderd vanwege spammelding"
 msgid "SPAM Left"
 msgstr "SPAM Links"
 
-#: ../../cmd/web/views/account/settings.qtpl:759
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:239
+#: ../../cmd/web/views/account/settings.qtpl:775
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:255
 #: ../../cmd/web/views/user/enterprise.qtpl:158
 #, fuzzy
 #. Automatically translated using DeepL
@@ -23625,7 +23647,7 @@ msgstr "Spaans"
 msgid "Special"
 msgstr "Speciaal"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:112
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:113
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:864
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:695
 #: ../../cmd/web/views/sub/editsub.qtpl:137
@@ -23688,7 +23710,7 @@ msgstr "Sponsor deze groep"
 msgid "sponsorship help"
 msgstr "hulp bij sponsoring"
 
-#: ../../cmd/web/views/account/settings.qtpl:1420
+#: ../../cmd/web/views/account/settings.qtpl:1430
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Sponsorship History"
@@ -23736,7 +23758,7 @@ msgstr "Sint-Helena"
 msgid "St. Pierre and Miquelon"
 msgstr "St. Pierre en Miquelon"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:267
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:283
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Standard Time (3:04pm)"
@@ -23793,8 +23815,8 @@ msgstr "Startdatum"
 msgid "Start Merge"
 msgstr "Start Merge"
 
-#: ../../cmd/web/views/account/settings.qtpl:827
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:302
+#: ../../cmd/web/views/account/settings.qtpl:837
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:318
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Start the calendar week on Monday instead of Sunday."
@@ -23836,8 +23858,8 @@ msgstr "Begint op"
 msgid "State"
 msgstr "Staat"
 
-#: ../../cmd/web/views/account/settings.qtpl:1369
-#: ../../cmd/web/views/account/settings.qtpl:1509
+#: ../../cmd/web/views/account/settings.qtpl:1379
+#: ../../cmd/web/views/account/settings.qtpl:1519
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:646
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl:121
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:101
@@ -23846,14 +23868,14 @@ msgstr "Staat"
 msgid "Status"
 msgstr "Status"
 
-#: ../../cmd/web/views/account/settings.qtpl:1044
-#: ../../cmd/web/views/account/settings.qtpl:1052
+#: ../../cmd/web/views/account/settings.qtpl:1054
+#: ../../cmd/web/views/account/settings.qtpl:1062
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Status: Off"
 msgstr "Status: Uit"
 
-#: ../../cmd/web/views/account/settings.qtpl:1063
+#: ../../cmd/web/views/account/settings.qtpl:1073
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Status: On"
@@ -24247,8 +24269,8 @@ msgstr ""
 msgid "Subscriptions to this group require approval from the moderators."
 msgstr "Inschrijvingen op deze groep vereisen goedkeuring van de moderators."
 
-#: ../../cmd/web/views/account/settings.qtpl:1406
-#: ../../cmd/web/views/account/settings.qtpl:1548
+#: ../../cmd/web/views/account/settings.qtpl:1416
+#: ../../cmd/web/views/account/settings.qtpl:1558
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:715
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:125
 #, fuzzy
@@ -24750,7 +24772,7 @@ msgid "That email address does not have a %s account."
 msgstr "Dat e-mailadres heeft geen %s account."
 
 #: ../../cmd/web/views/account/register.qtpl:88
-#: ../../cmd/web/views/account/settings.qtpl:351
+#: ../../cmd/web/views/account/settings.qtpl:352
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:199
 #, fuzzy
 #. Automatically translated using DeepL
@@ -24759,7 +24781,7 @@ msgstr "Dat e-mailadres is al geregistreerd."
 
 #: ../../cmd/web/views/account/bouncing.qtpl:92
 #: ../../cmd/web/views/account/needreverification.qtpl:87
-#: ../../cmd/web/views/account/settings.qtpl:182
+#: ../../cmd/web/views/account/settings.qtpl:183
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -24779,7 +24801,7 @@ msgstr ""
 
 #: ../../cmd/web/views/account/bouncing.qtpl:88
 #: ../../cmd/web/views/account/needreverification.qtpl:83
-#: ../../cmd/web/views/account/settings.qtpl:178
+#: ../../cmd/web/views/account/settings.qtpl:179
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "That email address is already your current email address."
@@ -24788,8 +24810,8 @@ msgstr "Dat e-mailadres is al je huidige e-mailadres."
 #: ../../cmd/web/views/account/bouncing.qtpl:84
 #: ../../cmd/web/views/account/needreverification.qtpl:79
 #: ../../cmd/web/views/account/register.qtpl:84
-#: ../../cmd/web/views/account/settings.qtpl:174
-#: ../../cmd/web/views/account/settings.qtpl:347
+#: ../../cmd/web/views/account/settings.qtpl:175
+#: ../../cmd/web/views/account/settings.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:195
 #, fuzzy
 #. Automatically translated using DeepL
@@ -24882,7 +24904,7 @@ msgid "That password is too long. Passwords can be at most 60 characters long."
 msgstr ""
 "Dat wachtwoord is te lang. Wachtwoorden mogen maximaal 60 tekens lang zijn."
 
-#: ../../cmd/web/views/account/settings.qtpl:241
+#: ../../cmd/web/views/account/settings.qtpl:242
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -24891,7 +24913,7 @@ msgstr ""
 "Dat wachtwoord is te lang. Wachtwoorden mogen maximaal 60 tekens lang zijn."
 
 #: ../../cmd/web/views/account/register.qtpl:103
-#: ../../cmd/web/views/account/settings.qtpl:237
+#: ../../cmd/web/views/account/settings.qtpl:238
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -24920,7 +24942,7 @@ msgid ""
 msgstr ""
 "Er is al op die afmeldlink geklikt en de persoon die op de groep is geabonneerd, is verwijderd."
 
-#: ../../cmd/web/views/account/settings.qtpl:496
+#: ../../cmd/web/views/account/settings.qtpl:497
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:429
 #, fuzzy
 #. Automatically translated using DeepL
@@ -25293,7 +25315,7 @@ msgid ""
 msgstr ""
 "Het eerste bericht van elk onderwerp, samen met berichten van onderwerpen die je volgt, gecombineerd in een enkele samenvattingse-mail, wordt naar je verzonden op %s."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:159
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:160
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "The first message of every new thread is also emailed to the members."
@@ -25690,7 +25712,7 @@ msgstr "Het meest geavanceerde mailinglijstsysteem op de markt"
 msgid "The name cannot be empty."
 msgstr "De naam mag niet leeg zijn."
 
-#: ../../cmd/web/views/account/settings.qtpl:510
+#: ../../cmd/web/views/account/settings.qtpl:511
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -25699,7 +25721,7 @@ msgid ""
 msgstr ""
 "De naam die bij je berichten staat. Opmerking: wanneer je een bericht verstuurt, wordt je e-mailadres ook getoond aan groepsleden die berichten via e-mail ontvangen."
 
-#: ../../cmd/web/views/account/settings.qtpl:645
+#: ../../cmd/web/views/account/settings.qtpl:646
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -25715,7 +25737,7 @@ msgstr ""
 msgid "The name listed with your posts."
 msgstr "De naam die bij je berichten staat."
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:155
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:157
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -26681,7 +26703,7 @@ msgstr "Dit onderwerp is gesloten"
 msgid "This topic has been removed because of a DMCA take down request."
 msgstr "Dit onderwerp is verwijderd vanwege een DMCA take down verzoek."
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:204
+#: ../../cmd/web/views/account/groupprofile.qtpl:206
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "This user has never posted to the group."
@@ -26724,8 +26746,8 @@ msgstr "Thu"
 msgid "Time"
 msgstr "Tijd"
 
-#: ../../cmd/web/views/account/settings.qtpl:788
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:263
+#: ../../cmd/web/views/account/settings.qtpl:798
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:279
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Time Display"
@@ -26737,9 +26759,9 @@ msgstr "Tijdweergave"
 msgid "times"
 msgstr "keer"
 
-#: ../../cmd/web/views/account/settings.qtpl:777
+#: ../../cmd/web/views/account/settings.qtpl:787
 #: ../../cmd/web/views/calendar/calendar.qtpl:231
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:252
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:268
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:319
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:167
 #: ../../cmd/web/views/user/enterprise.qtpl:171
@@ -26831,7 +26853,7 @@ msgid "To contact the owners of this group, send an email to:"
 msgstr ""
 "Als je contact wilt opnemen met de eigenaren van deze groep, stuur dan een e-mail naar:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1047
+#: ../../cmd/web/views/account/settings.qtpl:1057
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -27083,8 +27105,8 @@ msgstr "naar:"
 msgid "Today"
 msgstr "Vandaag"
 
-#: ../../cmd/web/views/account/settings.qtpl:447
-#: ../../cmd/web/views/account/settings.qtpl:581
+#: ../../cmd/web/views/account/settings.qtpl:448
+#: ../../cmd/web/views/account/settings.qtpl:582
 #: ../../cmd/web/views/calendar/calendar.qtpl:143
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl:91
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:131
@@ -27368,7 +27390,7 @@ msgstr "Transactie-ID"
 msgid "Transaction ID:"
 msgstr "Transactie ID:"
 
-#: ../../cmd/web/views/account/settings.qtpl:1169
+#: ../../cmd/web/views/account/settings.qtpl:1179
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -27485,7 +27507,7 @@ msgid ""
 msgstr ""
 "Tweefactorauthenticatie is ingeschakeld voor die account. Deze functie is niet beschikbaar."
 
-#: ../../cmd/web/views/account/settings.qtpl:1038
+#: ../../cmd/web/views/account/settings.qtpl:1048
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Two-Factor Authentication"
@@ -27503,7 +27525,7 @@ msgstr "Authenticatie met twee factoren is uitgeschakeld voor je account."
 msgid "Two-factor authentication is now set up for your account."
 msgstr "Authenticatie met twee factoren is nu ingesteld voor je account."
 
-#: ../../cmd/web/views/account/settings.qtpl:1162
+#: ../../cmd/web/views/account/settings.qtpl:1172
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Two-factor Recovery Codes"
@@ -27543,8 +27565,8 @@ msgstr "Oeganda"
 msgid "Ukraine"
 msgstr "Oekraïne"
 
-#: ../../cmd/web/views/account/settings.qtpl:765
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:242
+#: ../../cmd/web/views/account/settings.qtpl:778
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:258
 #: ../../cmd/web/views/user/enterprise.qtpl:161
 #, fuzzy
 #. Automatically translated using DeepL
@@ -27698,7 +27720,7 @@ msgid ""
 msgstr ""
 "In tegenstelling tot realtime (synchrone) chats of instant messaging, hoeven groepsleden via e-mail niet allemaal op hetzelfde moment online te zijn. De asynchrone aard van e-mail heeft verschillende voordelen, vooral voor grotere, verspreide groepen."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:183
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:184
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:603
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1013
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:841
@@ -28030,8 +28052,8 @@ msgstr "Map bijwerken"
 msgid "Update Group"
 msgstr "Update Groep"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:242
-#: ../../cmd/web/views/account/settings.qtpl:719
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:244
+#: ../../cmd/web/views/account/settings.qtpl:720
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Update Group Profile"
@@ -28061,13 +28083,13 @@ msgstr "Bericht bijwerken"
 msgid "Update on Groups.io Reverification Process"
 msgstr "Update over het omkeerproces van Groups.io"
 
-#: ../../cmd/web/views/account/settings.qtpl:570
+#: ../../cmd/web/views/account/settings.qtpl:571
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Update Overall Profile"
 msgstr "Algemeen profiel bijwerken"
 
-#: ../../cmd/web/views/account/settings.qtpl:1330
+#: ../../cmd/web/views/account/settings.qtpl:1340
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:321
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:355
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl:352
@@ -28089,7 +28111,7 @@ msgstr "Foto bijwerken"
 msgid "Update Poll"
 msgstr "Poll bijwerken"
 
-#: ../../cmd/web/views/account/settings.qtpl:932
+#: ../../cmd/web/views/account/settings.qtpl:942
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Update Preferences"
@@ -28101,7 +28123,7 @@ msgstr "Voorkeuren bijwerken"
 msgid "Update Row"
 msgstr "Rij bijwerken"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:339
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:355
 #: ../../cmd/web/views/user/enterprise.qtpl:293
 #, fuzzy
 #. Automatically translated using DeepL
@@ -28149,13 +28171,6 @@ msgstr "Bijgewerkt"
 #. Automatically translated using DeepL
 msgid "updated"
 msgstr "bijgewerkt"
-
-#. TRANSLATORS: The %s is the page title
-#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:154
-#, fuzzy
-#. Automatically translated using DeepL
-msgid "Updated %s page"
-msgstr "Bijgewerkte %s pagina"
 
 #: ../../pkg/notifications/noteviews/chatnotification.qtpl:117
 #, fuzzy
@@ -28222,6 +28237,12 @@ msgstr "bijgewerkte map"
 #. Automatically translated using DeepL
 msgid "updated in the"
 msgstr "bijgewerkt in de"
+
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl:152
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Updated page"
+msgstr "Bijgewerkte pagina"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl:237
 #, fuzzy
@@ -28524,9 +28545,9 @@ msgstr "Uruguay"
 msgid "Usage"
 msgstr "Gebruik"
 
-#: ../../cmd/web/views/account/settings.qtpl:1399
-#: ../../cmd/web/views/account/settings.qtpl:1471
-#: ../../cmd/web/views/account/settings.qtpl:1551
+#: ../../cmd/web/views/account/settings.qtpl:1409
+#: ../../cmd/web/views/account/settings.qtpl:1481
+#: ../../cmd/web/views/account/settings.qtpl:1561
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl:115
 #, fuzzy
 #. Automatically translated using DeepL
@@ -28611,8 +28632,8 @@ msgstr "Gebruik deze foto als cover voor het album."
 msgid "Use this poster of the video as the cover for the album."
 msgstr "Gebruik deze poster van de video als cover voor het album."
 
-#: ../../cmd/web/views/account/settings.qtpl:783
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:258
+#: ../../cmd/web/views/account/settings.qtpl:793
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:274
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Used for displaying times."
@@ -28642,9 +28663,9 @@ msgstr "De gebruikersnaam is niet ingesteld."
 msgid "User Sessions"
 msgstr "Gebruikerssessies"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:142
-#: ../../cmd/web/views/account/settings.qtpl:486
-#: ../../cmd/web/views/account/settings.qtpl:632
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:144
+#: ../../cmd/web/views/account/settings.qtpl:487
+#: ../../cmd/web/views/account/settings.qtpl:633
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:266
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:419
 #, fuzzy
@@ -28691,7 +28712,7 @@ msgstr "%s gebruiken voor opslag van foto's"
 msgid "Uzbekistan"
 msgstr "Oezbekistan"
 
-#: ../../cmd/web/views/account/settings.qtpl:1154
+#: ../../cmd/web/views/account/settings.qtpl:1164
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Validate"
@@ -29051,7 +29072,7 @@ msgstr "ALLES BEKIJKEN"
 msgid "View All %d Messages"
 msgstr "Bekijk alle %d berichten"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:224
+#: ../../cmd/web/views/account/groupprofile.qtpl:226
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "View All Messages"
@@ -29182,7 +29203,7 @@ msgstr "Bekijk deze chat"
 msgid "View this message online"
 msgstr "Bekijk dit bericht online"
 
-#: ../../cmd/web/views/account/settings.qtpl:1080
+#: ../../cmd/web/views/account/settings.qtpl:1090
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "View your recovery codes"
@@ -29707,9 +29728,9 @@ msgstr "Web/app melden"
 msgid "Web/App only"
 msgstr "Alleen web/app"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:226
-#: ../../cmd/web/views/account/settings.qtpl:559
-#: ../../cmd/web/views/account/settings.qtpl:708
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:228
+#: ../../cmd/web/views/account/settings.qtpl:560
+#: ../../cmd/web/views/account/settings.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:215
 #: ../../cmd/web/views/user/enterprise.qtpl:63
 #, fuzzy
@@ -29893,7 +29914,7 @@ msgid "When"
 msgstr "Wanneer"
 
 #. TRANSLATORS: The %s is the organization's domain (usually groups.io unless an enterprise group).
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:214
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:215
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -29921,7 +29942,7 @@ msgid ""
 msgstr ""
 "Als het op teamcommunicatie aankomt, is sneller niet altijd beter - Amir Salihefendić"
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:63
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl:64
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -30019,7 +30040,7 @@ msgid ""
 msgstr ""
 "Wanneer je je eerste subgroep aanmaakt, wordt er automatisch een subdomein voor je aangemaakt. Je bovenliggende groep heet <em>%[1]s</em>. Stel dat je een subgroep <em>sg</em> maakt. Nadat u de subgroep hebt gemaakt, heet uw hoofdgroep nu <em>main@%[2]s</em> en uw subgroep <em>sg@%[2]s. Je kunt main veranderen in elke andere naam die je wilt."
 
-#: ../../cmd/web/views/account/settings.qtpl:1190
+#: ../../cmd/web/views/account/settings.qtpl:1200
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -30067,7 +30088,7 @@ msgstr "Of inloggen via e-mail ook moet worden toegestaan."
 msgid "Whether to be notified of new messages."
 msgstr "Of u op de hoogte wilt worden gebracht van nieuwe berichten."
 
-#: ../../cmd/web/views/account/settings.qtpl:875
+#: ../../cmd/web/views/account/settings.qtpl:885
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Which editor to use for composing messages on the website."
@@ -30113,9 +30134,9 @@ msgstr "Wie kan rijen in de database bewerken?"
 msgid "Who can edit the database options."
 msgstr "Wie kan de databaseopties bewerken?"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:186
-#: ../../cmd/web/views/account/settings.qtpl:531
-#: ../../cmd/web/views/account/settings.qtpl:676
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:188
+#: ../../cmd/web/views/account/settings.qtpl:532
+#: ../../cmd/web/views/account/settings.qtpl:677
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Who can see your profile information."
@@ -31150,7 +31171,7 @@ msgid ""
 msgstr ""
 "Je kunt je niet afmelden omdat je de enige eigenaar van de groep bent. Verwijder de groep of voeg iemand anders toe als eigenaar."
 
-#: ../../cmd/web/views/account/settings.qtpl:949
+#: ../../cmd/web/views/account/settings.qtpl:959
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You currently have no devices enabled to receive notifications."
@@ -31395,19 +31416,19 @@ msgstr "Je hebt geen abonnementen."
 msgid "You have no Trello integrations."
 msgstr "Je hebt geen Trello-integraties."
 
-#: ../../cmd/web/views/account/settings.qtpl:1288
+#: ../../cmd/web/views/account/settings.qtpl:1298
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have not connected your Zoom account to Groups.io."
 msgstr "Je hebt je Zoom-account niet verbonden met Groups.io."
 
-#: ../../cmd/web/views/account/settings.qtpl:1413
+#: ../../cmd/web/views/account/settings.qtpl:1423
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have not made any donations."
 msgstr "Je hebt geen donaties gedaan."
 
-#: ../../cmd/web/views/account/settings.qtpl:1558
+#: ../../cmd/web/views/account/settings.qtpl:1568
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have not made any payments."
@@ -31428,7 +31449,7 @@ msgid ""
 msgstr ""
 "Je hebt geen wachtwoord ingesteld voor je %s account. Het is niet nodig om een wachtwoord in te stellen om deel te nemen aan de groep via e-mail."
 
-#: ../../cmd/web/views/account/settings.qtpl:1478
+#: ../../cmd/web/views/account/settings.qtpl:1488
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have not sponsored any groups."
@@ -31460,7 +31481,7 @@ msgid ""
 msgstr ""
 "Je hebt de limiet bereikt voor het aantal uitnodigingen dat kan worden verstuurd zonder goedkeuring. Zodra je nieuwe uitnodigingen zijn goedgekeurd, worden ze verstuurd. Je ontvangt een melding wanneer dit gebeurt."
 
-#: ../../cmd/web/views/account/settings.qtpl:422
+#: ../../cmd/web/views/account/settings.qtpl:423
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -31469,7 +31490,7 @@ msgid ""
 msgstr ""
 "Je hebt een e-mailadres opgegeven, <strong>%s</strong>dat al een account heeft bij Groups.io."
 
-#: ../../cmd/web/views/account/settings.qtpl:953
+#: ../../cmd/web/views/account/settings.qtpl:963
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have the following notification subscriptions:"
@@ -31515,7 +31536,7 @@ msgid ""
 msgstr ""
 "Je hebt al je twee-factor herstelcodes gebruikt. We raden je sterk aan <a href=\"/account?page=security\">om een nieuwe set te genereren</a>."
 
-#: ../../cmd/web/views/account/settings.qtpl:1185
+#: ../../cmd/web/views/account/settings.qtpl:1195
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have used up all your recovery codes."
@@ -31582,7 +31603,7 @@ msgid "You must enter a name for the event."
 msgstr "Je moet een naam invoeren voor het evenement."
 
 #: ../../cmd/web/views/account/register.qtpl:99
-#: ../../cmd/web/views/account/settings.qtpl:233
+#: ../../cmd/web/views/account/settings.qtpl:234
 #: ../../cmd/web/views/login/login.qtpl:120
 #, fuzzy
 #. Automatically translated using DeepL
@@ -32006,7 +32027,7 @@ msgstr "Uw actieve sessies"
 msgid "Your Activity"
 msgstr "Jouw activiteit"
 
-#: ../../cmd/web/views/account/settings.qtpl:1301
+#: ../../cmd/web/views/account/settings.qtpl:1311
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32142,7 +32163,7 @@ msgstr "Uw e-mailadres of wachtwoord is onjuist."
 msgid "Your Email Addresses"
 msgstr "Uw e-mailadressen"
 
-#: ../../cmd/web/views/account/settings.qtpl:212
+#: ../../cmd/web/views/account/settings.qtpl:213
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32151,7 +32172,7 @@ msgid ""
 msgstr ""
 "Uw e-mail wordt gehost door Exchange, dus we herschrijven de Van-regel voor alle groepsberichten die naar u worden verzonden."
 
-#: ../../cmd/web/views/account/settings.qtpl:209
+#: ../../cmd/web/views/account/settings.qtpl:210
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32254,9 +32275,9 @@ msgstr "Je hashtag-instellingen zijn bijgewerkt."
 msgid "Your Identity"
 msgstr "Uw identiteit"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:220
-#: ../../cmd/web/views/account/settings.qtpl:553
-#: ../../cmd/web/views/account/settings.qtpl:702
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:222
+#: ../../cmd/web/views/account/settings.qtpl:554
+#: ../../cmd/web/views/account/settings.qtpl:703
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Your location."
@@ -32401,7 +32422,7 @@ msgstr "Je wachtwoord is bijgewerkt."
 msgid "Your pending membership in the %s group"
 msgstr "Je huidig lidmaatschap van de %s groep"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:136
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:138
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32503,7 +32524,7 @@ msgstr "Je RSVP is opgeslagen."
 msgid "Your RSVP to the %s event has been changed"
 msgstr "Je RSVP voor het %s evenement is gewijzigd."
 
-#: ../../cmd/web/views/account/settings.qtpl:500
+#: ../../cmd/web/views/account/settings.qtpl:501
 #: ../../cmd/web/views/groupchat/groupchat.qtpl:433
 #, fuzzy
 #. Automatically translated using DeepL
@@ -32570,15 +32591,15 @@ msgstr "Uw abonnementen"
 msgid "Your waitlist position has changed for the %s event"
 msgstr "Je wachtlijstpositie is gewijzigd voor het evenement %s "
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:230
-#: ../../cmd/web/views/account/settings.qtpl:563
-#: ../../cmd/web/views/account/settings.qtpl:712
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:232
+#: ../../cmd/web/views/account/settings.qtpl:564
+#: ../../cmd/web/views/account/settings.qtpl:713
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Your website."
 msgstr "Your website."
 
-#: ../../cmd/web/views/account/settings.qtpl:1279
+#: ../../cmd/web/views/account/settings.qtpl:1289
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32642,7 +32663,7 @@ msgstr "Zoom Agenda Integratie"
 msgid "Zoom CB"
 msgstr "Zoom CB"
 
-#: ../../cmd/web/views/account/settings.qtpl:1274
+#: ../../cmd/web/views/account/settings.qtpl:1284
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32656,7 +32677,7 @@ msgid ""
 msgstr ""
 "Zoom integratie maakt het mogelijk om eenvoudig nieuwe Zoom-vergaderingen aan te maken bij het aanmaken van nieuwe Groepen.io agenda-evenementen. Wanneer je een nieuw agenda-evenement aanmaakt, druk je op de 'Maak dit een Zoom-vergadering' knop. Er wordt dan een Zoom-vergadering aangemaakt en de Locatie en Omschrijving velden van het evenement worden gevuld met informatie over hoe toegang te krijgen tot de vergadering. Zodra een Zoom-vergadering is aangemaakt, wordt het gelinkt aan het Groepen.io agenda-evenement, waardoor het gemakkelijk is om de Zoom-vergadering te verwijderen en eventueel opnieuw aan te maken als het evenement verandert."
 
-#: ../../cmd/web/views/account/settings.qtpl:1265
+#: ../../cmd/web/views/account/settings.qtpl:1275
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Zoom Login"

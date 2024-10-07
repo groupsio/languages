@@ -3120,7 +3120,7 @@ msgstr "关于"
 msgid "About Groups.io"
 msgstr "关于 Groups.io"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:188
+#: ../../cmd/web/views/account/groupprofile.qtpl:190
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "About Me"
@@ -9154,7 +9154,7 @@ msgid ""
 msgstr ""
 "直接添加人员到群组。只能添加明确允许您将其添加到群组的人。滥用此功能可能会被禁言。"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:97
+#: ../../cmd/web/views/account/groupprofile.qtpl:99
 #: ../../cmd/web/views/group/groupdirectory.qtpl:64
 #: ../../cmd/web/views/group/groupdirectory.qtpl:81
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:705
@@ -9280,8 +9280,8 @@ msgstr "不喜欢一条信息"
 msgid "disliked a photo"
 msgstr "不喜欢一张照片"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:151
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:161
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:153
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:163
 #: ../../cmd/web/views/account/settings.qtpl:507
 #: ../../cmd/web/views/account/settings.qtpl:642
 #: ../../cmd/web/views/account/settings.qtpl:652
@@ -9774,7 +9774,7 @@ msgstr "东帝汶"
 msgid "Ecuador"
 msgstr "厄瓜多尔"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:210
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:212
 #: ../../cmd/web/views/account/settings.qtpl:543
 #: ../../cmd/web/views/account/settings.qtpl:692
 #: ../../cmd/web/views/calendar/calendar.qtpl:300
@@ -9883,8 +9883,8 @@ msgstr "编辑 Github 集成"
 msgid "Edit Google Drive Integration"
 msgstr "编辑 Google Drive 集成"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:69
-#: ../../cmd/web/views/account/groupprofile.qtpl:236
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:71
+#: ../../cmd/web/views/account/groupprofile.qtpl:238
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Edit Group Profile"
@@ -12217,7 +12217,7 @@ msgstr "团体付款历史"
 msgid "Group Policies"
 msgstr "集团政策"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:43
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:45
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl:525
 #, fuzzy
@@ -14462,7 +14462,7 @@ msgstr "加入小组"
 msgid "Join This Group"
 msgstr "加入该小组"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:114
+#: ../../cmd/web/views/account/groupprofile.qtpl:116
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:283
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:586
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl:125
@@ -15007,7 +15007,7 @@ msgstr "立陶宛"
 msgid "LLM"
 msgstr "法学硕士"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:216
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:218
 #: ../../cmd/web/views/account/settings.qtpl:550
 #: ../../cmd/web/views/account/settings.qtpl:699
 #: ../../cmd/web/views/account/usersessions.qtpl:81
@@ -16319,8 +16319,8 @@ msgstr "并入"
 msgid "mergeaccounts+"
 msgstr "合并账户+"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:138
-#: ../../cmd/web/views/account/groupprofile.qtpl:142
+#: ../../cmd/web/views/account/groupprofile.qtpl:140
+#: ../../cmd/web/views/account/groupprofile.qtpl:144
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl:36
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl:192
 #: ../../cmd/web/views/user/original.qtpl:38
@@ -18565,8 +18565,8 @@ msgstr "未列入 Groups.io 目录。"
 msgid "not restrict attachment size"
 msgstr "不限制附件大小"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:145
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:164
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:147
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:166
 #: ../../cmd/web/views/account/settings.qtpl:636
 #: ../../cmd/web/views/account/settings.qtpl:655
 #: ../../cmd/web/views/account/settings.qtpl:745
@@ -19148,7 +19148,7 @@ msgid ""
 msgstr ""
 "仅在投票结束时显示结果。版主和投票创建者可以随时查看结果。"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:174
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:176
 #: ../../cmd/web/views/account/settings.qtpl:520
 #: ../../cmd/web/views/account/settings.qtpl:665
 #, fuzzy
@@ -19466,7 +19466,7 @@ msgstr "其他团体"
 msgid "Other Info"
 msgstr "其他信息"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:177
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:179
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Other members of your group"
@@ -20898,7 +20898,7 @@ msgstr "防止来自特定域的人订阅或发送信息。"
 msgid "Prevented by Free Group Limits"
 msgstr "自由组限制"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:206
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:208
 #: ../../cmd/web/views/account/settings.qtpl:539
 #: ../../cmd/web/views/account/settings.qtpl:688
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:842
@@ -20999,19 +20999,19 @@ msgstr "隐私政策"
 msgid "Private"
 msgstr "私人"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:70
+#: ../../cmd/web/views/account/groupprofile.qtpl:72
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile"
 msgstr "简介"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:124
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:126
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Profile Photo"
 msgstr "个人照片"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:170
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:172
 #: ../../cmd/web/views/account/settings.qtpl:516
 #: ../../cmd/web/views/account/settings.qtpl:661
 #, fuzzy
@@ -21046,7 +21046,7 @@ msgstr "为您的账户提供额外的安全保护。"
 msgid "Provider"
 msgstr "提供商"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:181
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:183
 #: ../../cmd/web/views/account/settings.qtpl:527
 #: ../../cmd/web/views/account/settings.qtpl:672
 #, fuzzy
@@ -21402,7 +21402,7 @@ msgstr ""
 msgid "Recent Chats"
 msgstr "最近的聊天"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:213
+#: ../../cmd/web/views/account/groupprofile.qtpl:215
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Recent Messages"
@@ -22040,7 +22040,7 @@ msgstr "报告此信息"
 msgid "Report This Photo"
 msgstr "报告此照片"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:241
+#: ../../cmd/web/views/account/groupprofile.qtpl:243
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Report This Profile"
@@ -22138,7 +22138,7 @@ msgstr "要求提供会议密码"
 msgid "Resend Pending Membership Notice"
 msgstr "重新发送待发会员通知"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:246
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:248
 #: ../../cmd/web/views/account/settings.qtpl:724
 #, fuzzy
 #. Automatically translated using DeepL
@@ -22580,9 +22580,9 @@ msgstr "使用应用程序扫描条形码"
 #. Automatically translated using DeepL
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, enter "
-"the code <strong>%s</strong>instead."
+"the code <strong>%s</strong> instead."
 msgstr ""
-"使用身份验证应用程序扫描此图像。如果无法使用条形码，请输入代码 <strong>%s</strong>来代替。"
+"使用身份验证应用程序扫描此图像。如果无法使用条形码，请输入代码<strong>%s</strong>。"
 
 #: ../../tools/genactivities/activities.hjson:557
 #: ../../tools/genactivities/activities.hjson:573
@@ -25596,7 +25596,7 @@ msgstr ""
 msgid "The name listed with your posts."
 msgstr "与您的帖子一起列出的名字。"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:155
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:157
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -26542,7 +26542,7 @@ msgstr "此主题已锁定"
 msgid "This topic has been removed because of a DMCA take down request."
 msgstr "该主题已被删除，因为收到了 DMCA 的删除请求。"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:204
+#: ../../cmd/web/views/account/groupprofile.qtpl:206
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "This user has never posted to the group."
@@ -27883,7 +27883,7 @@ msgstr "更新文件夹"
 msgid "Update Group"
 msgstr "更新小组"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:242
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:244
 #: ../../cmd/web/views/account/settings.qtpl:720
 #, fuzzy
 #. Automatically translated using DeepL
@@ -28490,7 +28490,7 @@ msgstr "未设置用户名。"
 msgid "User Sessions"
 msgstr "用户会话"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:142
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:144
 #: ../../cmd/web/views/account/settings.qtpl:487
 #: ../../cmd/web/views/account/settings.qtpl:633
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:266
@@ -28899,7 +28899,7 @@ msgstr "查看全部"
 msgid "View All %d Messages"
 msgstr "查看所有%d 信息"
 
-#: ../../cmd/web/views/account/groupprofile.qtpl:224
+#: ../../cmd/web/views/account/groupprofile.qtpl:226
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "View All Messages"
@@ -29551,7 +29551,7 @@ msgstr "网络/应用程序通知"
 msgid "Web/App only"
 msgstr "仅限网络/应用程序"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:226
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:228
 #: ../../cmd/web/views/account/settings.qtpl:560
 #: ../../cmd/web/views/account/settings.qtpl:709
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl:215
@@ -29954,7 +29954,7 @@ msgstr "谁可以编辑数据库中的记录"
 msgid "Who can edit the database options."
 msgstr "谁可以编辑数据库选项。"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:186
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:188
 #: ../../cmd/web/views/account/settings.qtpl:532
 #: ../../cmd/web/views/account/settings.qtpl:677
 #, fuzzy
@@ -32081,7 +32081,7 @@ msgstr "您的标签设置已更新。"
 msgid "Your Identity"
 msgstr "您的身份"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:220
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:222
 #: ../../cmd/web/views/account/settings.qtpl:554
 #: ../../cmd/web/views/account/settings.qtpl:703
 #, fuzzy
@@ -32225,7 +32225,7 @@ msgstr "您的密码已更新。"
 msgid "Your pending membership in the %s group"
 msgstr "您将成为%s 小组的成员"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:136
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:138
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -32394,7 +32394,7 @@ msgstr "您的订阅"
 msgid "Your waitlist position has changed for the %s event"
 msgstr "您在%s 活动中的候补位置已发生变化"
 
-#: ../../cmd/web/views/account/groupeditprofile.qtpl:230
+#: ../../cmd/web/views/account/groupeditprofile.qtpl:232
 #: ../../cmd/web/views/account/settings.qtpl:564
 #: ../../cmd/web/views/account/settings.qtpl:713
 #, fuzzy
