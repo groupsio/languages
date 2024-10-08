@@ -1552,7 +1552,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this file</a> is "
 "objectionable."
 msgstr ""
-"%[1]s 希望通知您，&lt;a href=\" \"&gt;此文件 是令人反感的。%[2]s</a> "
+"%[1]s 希望通知您，<a href=\" \">此文件 是令人反感的。%[2]s</a> "
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:88
 #, fuzzy
@@ -1561,7 +1561,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this message</a> is "
 "objectionable."
 msgstr ""
-"%[1]s 希望通知您，&lt;a href=\" \"&gt;这条信息 是令人反感的。%[2]s</a> "
+"%[1]s 希望通知您，<a href=\" \">这条信息 是令人反感的。%[2]s</a> "
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:104
 #, fuzzy
@@ -1570,7 +1570,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this photo</a> is "
 "objectionable."
 msgstr ""
-"%[1]s 希望通知您，&lt;a href=" \"&gt;这张照片 是令人反感的。%[2]s</a> "
+"%[1]s 希望通知您，<a href=" \">这张照片 是令人反感的。%[2]s</a> "
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:120
 #, fuzzy
@@ -1579,7 +1579,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this profile</a> is "
 "objectionable."
 msgstr ""
-"%[1]s 希望通知您，&lt;a href=\" \"&gt;此个人资料 是令人反感的。%[2]s</a> "
+"%[1]s 希望通知您，<a href=\" \">此个人资料 是令人反感的。%[2]s</a> "
 
 #: ../../tools/genactivities/activities.hjson:2670
 #, fuzzy
@@ -2280,7 +2280,7 @@ msgstr "50 个项目"
 msgid ""
 "<a href=\"%[1]s\">Join</a> %[2]s to automatically receive all group messages."
 msgstr ""
-"&lt;a href=\"%[1]s\"&gt;加入</a> %[2]s ，即可自动接收所有群组信息。"
+"<a href=\"%[1]s\">加入</a> %[2]s ，即可自动接收所有群组信息。"
 
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl:264
 #, fuzzy
@@ -2289,7 +2289,7 @@ msgid ""
 "<a href=\"%s/wiki/Home/edit\">Create a page</a> with the title of <em>Home</em> "
 "to replace this page."
 msgstr ""
-"&lt;a href=\"%s/wiki/Home/edit\"&gt;创建一个标题为<em>Home</em>的页面</a> 来替代此页面。"
+"<a href=\"%s/wiki/Home/edit\">创建一个标题为<em>Home</em>的页面</a> 来替代此页面。"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl:121
 #, fuzzy
@@ -2299,7 +2299,7 @@ msgid ""
 "<strong>directly add members</strong>, <strong>increased storage</strong>, and "
 "<strong>RSVP tracking for events</strong>."
 msgstr ""
-"&lt;a href=\"%s\"&gt;升级您的群组</a> 并获得以下强大功能：<strong>直接添加成员</strong>、<strong>增加存储空间</strong>和<strong>活动 RSVP 跟踪</strong>。"
+"<a href=\"%s\">升级您的群组</a> 并获得以下强大功能：<strong>直接添加成员</strong>、<strong>增加存储空间</strong>和<strong>活动 RSVP 跟踪</strong>。"
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl:167
 #, fuzzy
@@ -2322,7 +2322,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "<a href=\"/search?p=SubsCount"
-msgstr "&lt;a href=\"/search?p=SubsCount"
+msgstr "<a href=\"/search?p=SubsCount"
 
 #: ../../cmd/web/views/user/homeloggedout.qtpl:135
 #, fuzzy
@@ -2491,7 +2491,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>您好 [姓名]、 <p>%[1]s 团队已将您添加到 &lt;a href=\"%[2]s\"&gt;%[3]s</a> 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用[此链接]登录。以后您也可以使用登录页面上的 "email me a link to login\" 按钮来登录。 <p>这个群组的电子邮件地址是：%[4]s 。%[5]s <p>但最重要的是，请将此电子邮件地址添加到电子邮件客户端联系人的安全发件人列表中。如果您发现来自该群组的电子邮件进入了垃圾邮件、促销或社交文件夹，请将这些邮件移到您的主收件箱，这样您就可以训练您的电子邮件客户端将这些邮件直接放入您的收件箱。 <div id=\"custom_message\"></div> <p>如果这是一个错误，请单击以下链接，您将立即被移除： <p style=\"text-decoration: underline\">取消订阅 <p>%[1]s 团队"
+"<p>您好 [姓名]、 <p>%[1]s 团队已将您添加到 <a href=\"%[2]s\">%[3]s</a> 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用[此链接]登录。以后您也可以使用登录页面上的 "email me a link to login\" 按钮来登录。 <p>这个群组的电子邮件地址是：%[4]s 。%[5]s <p>但最重要的是，请将此电子邮件地址添加到电子邮件客户端联系人的安全发件人列表中。如果您发现来自该群组的电子邮件进入了垃圾邮件、促销或社交文件夹，请将这些邮件移到您的主收件箱，这样您就可以训练您的电子邮件客户端将这些邮件直接放入您的收件箱。 <div id=\"custom_message\"></div> <p>如果这是一个错误，请单击以下链接，您将立即被移除： <p style=\"text-decoration: underline\">取消订阅 <p>%[1]s 团队"
 
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
 #. 									The message is sent in HTML format, so you can use HTML tags to format the message.
@@ -2606,7 +2606,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "[%[1]s] Card \"%[2]s\" was renamed to \"<a href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Card \"%[2]s\" 被更名为 \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"。"
+"[%[1]s] Card \"%[2]s\" 被更名为 \"<a href=\"%[3]s\">%[4]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:166
 #, fuzzy
@@ -2614,13 +2614,13 @@ msgstr ""
 msgid ""
 "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was moved to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] Card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"被移到 list \"%[4]s\"。"
+"[%[1]s] Card\"<a href=\"%[2]s\">%[3]s</a> \"被移到 list \"%[4]s\"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:171
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was reordered."
-msgstr "[%[1]s] Card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"被重新排序。"
+msgstr "[%[1]s] Card\"<a href=\"%[2]s\">%[3]s</a> \"被重新排序。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:185
 #, fuzzy
@@ -2628,7 +2628,7 @@ msgstr "[%[1]s] Card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"被重新排序。"
 msgid ""
 "[%[1]s] Comment deleted from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] Comment deleted from card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \" by%[4]s."
+"[%[1]s] Comment deleted from card\"<a href=\"%[2]s\">%[3]s</a> \" by%[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:146
 #, fuzzy
@@ -2660,7 +2660,7 @@ msgstr "[%[1]s] List \"%[2]s\" 更名为 \"%[3]s\""
 msgid ""
 "[%[1]s] New attachment added to card \"<a href=\"%[2]s\">%[3]s</a>\":<br>%[4]s."
 msgstr ""
-"[%[1]s] New attachment added to card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"：<br>%[4]s."
+"[%[1]s] New attachment added to card\"<a href=\"%[2]s\">%[3]s</a> \"：<br>%[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:159
 #, fuzzy
@@ -2668,7 +2668,7 @@ msgstr ""
 msgid ""
 "[%[1]s] New card \"<a href=\"%[2]s\">%[3]s</a>\" was added to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] 新卡"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"被添加到列表 "%[4]s\"中。"
+"[%[1]s] 新卡"<a href=\"%[2]s\">%[3]s</a> \"被添加到列表 "%[4]s\"中。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:274
 #, fuzzy
@@ -2677,14 +2677,14 @@ msgid ""
 "[%[1]s] New checklist item \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 在卡片"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"中添加了新的清单项目"%[2]s\"。"
+"[%[1]s] 在卡片"<a href=\"%[3]s\">%[4]s</a> \"中添加了新的清单项目"%[2]s\"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:195
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] New comment on card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] New comment on card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \" by%[4]s."
+"[%[1]s] New comment on card\"<a href=\"%[2]s\">%[3]s</a> \" by%[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:231
 #, fuzzy
@@ -2693,7 +2693,7 @@ msgid ""
 "[%[1]s] The %[2]s label \"%[3]s\" was added to the card \"<a "
 "href=\"%[4]s\">%[5]s</a>\"."
 msgstr ""
-"[%[1]s]%[2]s label \"%[3]s\" 被添加到卡片 \"&lt;a href=\"%[4]s\"&gt;%[5]s</a> \"。"
+"[%[1]s]%[2]s label \"%[3]s\" 被添加到卡片 \"<a href=\"%[4]s\">%[5]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:221
 #, fuzzy
@@ -2702,7 +2702,7 @@ msgid ""
 "[%[1]s] The %[2]s label \"%[3]s\" was removed from the card \"<a "
 "href=\"%[4]s\">%[5]s</a>\"."
 msgstr ""
-"[%[1]s] The%[2]s label \"%[3]s\" was removed from the card \"&lt;a href=\"%[4]s\"&gt;%[5]s</a> \"。"
+"[%[1]s] The%[2]s label \"%[3]s\" was removed from the card \"<a href=\"%[4]s\">%[5]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:234
 #, fuzzy
@@ -2710,7 +2710,7 @@ msgstr ""
 msgid ""
 "[%[1]s] The %[2]s label was added to the card \"<a href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s]%[2]s 标签被添加到卡片上："&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"。"
+"[%[1]s]%[2]s 标签被添加到卡片上："<a href=\"%[3]s\">%[4]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:224
 #, fuzzy
@@ -2719,13 +2719,13 @@ msgid ""
 "[%[1]s] The %[2]s label was removed from the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] The%[2]s label was removed from the card\"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"。"
+"[%[1]s] The%[2]s label was removed from the card\"<a href=\"%[3]s\">%[4]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:256
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] The card \"<a href=\"%[2]s\">%[3]s</a>\" was archived."
-msgstr "[%[1]s] The card\"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"已存档。"
+msgstr "[%[1]s] The card\"<a href=\"%[2]s\">%[3]s</a> \"已存档。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:267
 #, fuzzy
@@ -2734,7 +2734,7 @@ msgid ""
 "[%[1]s] The checklist \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 在卡片"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"中添加了核对表 "%[2]s\"。"
+"[%[1]s] 在卡片"<a href=\"%[3]s\">%[4]s</a> \"中添加了核对表 "%[2]s\"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:262
 #, fuzzy
@@ -2743,7 +2743,7 @@ msgid ""
 "[%[1]s] The checklist \"%[2]s\" was removed from the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 核对表 "%[2]s"已从卡片"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \" 中删除。"
+"[%[1]s] 核对表 "%[2]s"已从卡片"<a href=\"%[3]s\">%[4]s</a> \" 中删除。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:281
 #, fuzzy
@@ -2752,7 +2752,7 @@ msgid ""
 "[%[1]s] The checklist item \"%[2]s\" on card \"<a href=\"%[3]s\">%[4]s</a>\" was "
 "marked completed."
 msgstr ""
-"[%[1]s] 卡片"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"上的核对表项目 "%[2]s\"被标记为已完成。"
+"[%[1]s] 卡片"<a href=\"%[3]s\">%[4]s</a> \"上的核对表项目 "%[2]s\"被标记为已完成。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:286
 #, fuzzy
@@ -2761,7 +2761,7 @@ msgid ""
 "[%[1]s] The checklist item \"%[2]s\" on card \"<a href=\"%[3]s\">%[4]s</a>\" was "
 "marked incomplete."
 msgstr ""
-"[%[1]s] 卡片"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \" 上的核对表项目"%[2]s\" 被标记为不完整。"
+"[%[1]s] 卡片"<a href=\"%[3]s\">%[4]s</a> \" 上的核对表项目"%[2]s\" 被标记为不完整。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:208
 #, fuzzy
@@ -2770,7 +2770,7 @@ msgid ""
 "[%[1]s] The description of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed "
 "to:<br>%[4]s"
 msgstr ""
-"[%[1]s] 卡片"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"的描述改为：<br>%[4]s"
+"[%[1]s] 卡片"<a href=\"%[2]s\">%[3]s</a> \"的描述改为：<br>%[4]s"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:213
 #, fuzzy
@@ -2779,7 +2779,7 @@ msgid ""
 "[%[1]s] The due date of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed to "
 "%[4]s"
 msgstr ""
-"[%[1]s] "&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"卡的到期日被改为%[4]s"
+"[%[1]s] "<a href=\"%[2]s\">%[3]s</a> \"卡的到期日被改为%[4]s"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:154
 #, fuzzy
@@ -2794,7 +2794,7 @@ msgid ""
 "[%[1]s] The member \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 成员 "%[2]s"被添加到卡片"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \" 中。"
+"[%[1]s] 成员 "%[2]s"被添加到卡片"<a href=\"%[3]s\">%[4]s</a> \" 中。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:244
 #, fuzzy
@@ -2803,7 +2803,7 @@ msgid ""
 "[%[1]s] The member \"%[2]s\" was removed from the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] The member\"%[2]s\" was removed from the card \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"。"
+"[%[1]s] The member\"%[2]s\" was removed from the card \"<a href=\"%[3]s\">%[4]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:190
 #, fuzzy
@@ -2811,7 +2811,7 @@ msgstr ""
 msgid ""
 "[%[1]s] Updated comment from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] 由%[4]s 更新了来自卡片"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"的评论。"
+"[%[1]s] 由%[4]s 更新了来自卡片"<a href=\"%[2]s\">%[3]s</a> \"的评论。"
 
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:376
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:391
@@ -3393,8 +3393,8 @@ msgstr "添加 Google Drive 集成"
 msgid "Add Group Alias"
 msgstr "添加组别名"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:711
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:732
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:730
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:751
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1144
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1165
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:229
@@ -3486,7 +3486,7 @@ msgstr "添加侧边栏"
 msgid "Add Subgroup Category"
 msgstr "添加分组类别"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:259
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:265
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:125
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:81
 #: ../../cmd/web/views/post/grouppost.qtpl:181
@@ -3910,7 +3910,7 @@ msgid "All messages are required to have at least one hashtag."
 msgstr "所有信息都必须至少有一个标签。"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:296
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:428
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:434
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:570
 #, fuzzy
 #. Automatically translated using DeepL
@@ -4448,7 +4448,7 @@ msgid ""
 "App notifications are not allowed on this device. To enable notifications, go "
 "into Settings -> Notifications and look for the app."
 msgstr ""
-"此设备不允许使用应用程序通知。要启用通知，请进入设置 -&gt; 通知，然后查找应用程序。"
+"此设备不允许使用应用程序通知。要启用通知，请进入设置 -> 通知，然后查找应用程序。"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:281
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:577
@@ -4486,10 +4486,10 @@ msgstr "需要批准。新会员在加入群组之前需要获得批准。"
 msgid "Approvals Needed"
 msgstr "所需批准"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:313
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:318
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:319
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:324
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:329
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:330
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:432
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:443
@@ -4501,14 +4501,14 @@ msgstr "所需批准"
 msgid "Approve"
 msgstr "批准"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:658
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:677
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:744
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Approve & Add Sender"
 msgstr "批准和添加发件人"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:572
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:591
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:699
 #, fuzzy
 #. Automatically translated using DeepL
@@ -4529,8 +4529,8 @@ msgstr "批准和不批准发件人"
 msgid "Approve And Unmoderate"
 msgstr "批准和不批准"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:568
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:654
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:587
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:673
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:695
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:740
 #, fuzzy
@@ -4658,7 +4658,7 @@ msgid ""
 msgstr ""
 "您确定要离开%s 社区吗？离开主群后，您也将退出所有其他%s 群组。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:604
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:623
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:645
 #, fuzzy
 #. Automatically translated using DeepL
@@ -4797,7 +4797,7 @@ msgid ""
 msgstr ""
 "您确定要删除此邮件而不将其发送到群组，也不通知发件人吗？"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:464
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:470
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -5575,8 +5575,8 @@ msgstr "禁止电子邮件"
 msgid "Ban Members (also allows access to the member list)"
 msgstr "禁止成员（也允许访问成员名单）"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:133
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:184
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:139
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:190
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:281
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:333
 #, fuzzy
@@ -5710,7 +5710,7 @@ msgstr ""
 msgid "BCC Me"
 msgstr "BCC Me"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:516
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:522
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:869
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:327
 #: ../../cmd/web/views/post/groupposttosub.qtpl:241
@@ -5719,7 +5719,7 @@ msgstr "BCC Me"
 msgid "Bcc: All Moderators"
 msgstr "密送：所有版主"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:511
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:517
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:864
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:322
 #: ../../cmd/web/views/post/groupposttosub.qtpl:236
@@ -5789,7 +5789,7 @@ msgid ""
 "Before deleting your group, you may wish to <a href=\"%s/exportgroup\">export "
 "the group</a>."
 msgstr ""
-"在删除分组之前，您可能希望 &lt;a href=\"%s/exportgroup\"&gt; 导出分组</a> 。"
+"在删除分组之前，您可能希望 <a href=\"%s/exportgroup\"> 导出分组</a> 。"
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:100
 #, fuzzy
@@ -6524,13 +6524,13 @@ msgstr "加拿大"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:869
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:178
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:207
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:339
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:469
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:523
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:564
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:609
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:650
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:728
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:475
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:542
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:583
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:628
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:669
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:747
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1197
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1231
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1275
@@ -7066,7 +7066,7 @@ msgstr "聊天"
 msgid "Chats must be tagged with at least one hashtag."
 msgstr "聊天必须标记至少一个标签。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:287
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:293
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:153
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7250,7 +7250,7 @@ msgstr "索赔分项"
 msgid "Claimed by"
 msgstr "索赔人"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:389
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:525
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7331,13 +7331,13 @@ msgstr "由 SSO 提供商提供的客户端秘密。"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:770
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:829
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:190
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:447
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:489
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:543
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:588
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:629
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:675
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:453
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:495
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:562
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:607
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:648
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:694
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:726
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1214
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1255
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1299
@@ -7910,7 +7910,7 @@ msgstr "库克群岛"
 msgid "Cookie Policy"
 msgstr "Cookie 政策"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:111
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:117
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:259
 #, fuzzy
 #. Automatically translated using DeepL
@@ -8454,7 +8454,7 @@ msgstr "数据库已禁用"
 #: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:410
 #: ../../cmd/web/views/groupadmin/groupownermsgs.qtpl:104
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:546
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:105
@@ -8606,7 +8606,7 @@ msgid "Deferred"
 msgstr "推迟"
 
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:59
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:350
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:356
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:486
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:237
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:114
@@ -9910,14 +9910,19 @@ msgstr "编辑信息"
 msgid "Edit Notice"
 msgstr "编辑通知"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:368
-#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:374
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</>"
-msgstr "编辑现有信息<a href='%[1]s'>#%[2]d &lt;/&gt;"
+msgstr "编辑现有信息<a href='%[1]s'>#%[2]d </>"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:366
+#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a>"
+msgstr "编辑现有信息<a href='%[1]s'>#%[2]d</a>"
+
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:372
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:502
 #, fuzzy
 #. Automatically translated using DeepL
@@ -12110,7 +12115,7 @@ msgid "Group Message"
 msgstr "群组信息"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:238
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:89
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:95
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:227
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:158
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:196
@@ -13225,7 +13230,7 @@ msgid ""
 "the settings</a> for your group. And you can <a href=\"%[3]s\">add "
 "integrations</a>."
 msgstr ""
-"如果这是您的第一个%[1]s 群组，请浏览左侧的边栏，其中列出了您可以在群组中做的所有事情。你可以 &lt;a href=\"%[2]s\"&gt; 为你的群组自定义设置</a> 。你还可以 &lt;a href=\"%[3]s\"&gt; 添加集成</a> 。"
+"如果这是您的第一个%[1]s 群组，请浏览左侧的边栏，其中列出了您可以在群组中做的所有事情。你可以 <a href=\"%[2]s\"> 为你的群组自定义设置</a> 。你还可以 <a href=\"%[3]s\"> 添加集成</a> 。"
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:107
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl:106
@@ -13254,7 +13259,7 @@ msgid ""
 "If you are already a member of %[1]s, <a href=\"%[2]s\">Log In</a> to access the "
 "group."
 msgstr ""
-"如果您已经是%[1]s 的成员，&lt;a href=\"%[2]s\"&gt;登录</a> 访问该组。"
+"如果您已经是%[1]s 的成员，<a href=\"%[2]s\">登录</a> 访问该组。"
 
 #: ../../cmd/web/views/group/creategroup.qtpl:183
 #, fuzzy
@@ -13312,7 +13317,7 @@ msgid ""
 "If you can no longer attend the event, please <a href=\"%s\">update your "
 "RSVP</a>."
 msgstr ""
-"如果您不能再参加活动，请 &lt;a href=\"%s\"&gt;更新您的 RSVP</a> 。"
+"如果您不能再参加活动，请 <a href=\"%s\">更新您的 RSVP</a> 。"
 
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl:52
 #, fuzzy
@@ -13482,7 +13487,7 @@ msgid ""
 "If you would like to increase the amount of storage space available for your "
 "group, please visit our plans page <a href=\"%s\">here</a>."
 msgstr ""
-"如果您想为您的团队增加存储空间，请访问我们的计划页面 &lt;a href=\"%s\"&gt;here</a> 。"
+"如果您想为您的团队增加存储空间，请访问我们的计划页面 <a href=\"%s\">here</a> 。"
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:168
 #, fuzzy
@@ -13695,7 +13700,7 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to either Other Members of Your Group, "
 "or to Public."
 msgstr ""
-"要查看成员通讯录，您必须将您的 &lt;a href=\"%s\"&gt;个人档案隐私设置</a> 更改为您所在群组的其他成员或公开。"
+"要查看成员通讯录，您必须将您的 <a href=\"%s\">个人档案隐私设置</a> 更改为您所在群组的其他成员或公开。"
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl:89
 #, fuzzy
@@ -13705,7 +13710,7 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to either Other Members of Your "
 "Subgroup, or to Public."
 msgstr ""
-"要查看会员目录，您必须将您的 &lt;a href=\"%s\"&gt;个人档案隐私设置</a> 更改为您所在分组的其他成员或公开。"
+"要查看会员目录，您必须将您的 <a href=\"%s\">个人档案隐私设置</a> 更改为您所在分组的其他成员或公开。"
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl:98
 #, fuzzy
@@ -13714,7 +13719,7 @@ msgid ""
 "In order to view the member directory, you must change your <a "
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Group."
 msgstr ""
-"要查看成员通讯录，您必须将您的 &lt;a href=\"%s\"&gt;个人档案隐私设置</a> 更改为您所在小组的其他成员。"
+"要查看成员通讯录，您必须将您的 <a href=\"%s\">个人档案隐私设置</a> 更改为您所在小组的其他成员。"
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl:91
 #, fuzzy
@@ -13723,7 +13728,7 @@ msgid ""
 "In order to view the member directory, you must change your <a "
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Subgroup."
 msgstr ""
-"要查看会员目录，您必须将您的 &lt;a href=\"%s\"&gt;个人档案隐私设置</a> 更改为您所在分组的其他成员。"
+"要查看会员目录，您必须将您的 <a href=\"%s\">个人档案隐私设置</a> 更改为您所在分组的其他成员。"
 
 #: ../../cmd/web/views/sub/editsub.qtpl:229
 #: ../../cmd/web/views/sub/groupinvite.qtpl:195
@@ -13887,8 +13892,8 @@ msgstr "插入图片"
 msgid "Insert Link To Wiki Page"
 msgstr "插入维基页面链接"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:150
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:166
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:156
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:172
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:300
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:315
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:132
@@ -14897,7 +14902,7 @@ msgstr "登录链接%s"
 msgid "Link to Microsoft OneDrive"
 msgstr "链接到 Microsoft OneDrive"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:679
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:698
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Links Cleaned"
@@ -15777,7 +15782,7 @@ msgid "Member Notifications"
 msgstr "会员通知"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:281
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:119
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:267
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl:544
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:854
@@ -16711,7 +16716,7 @@ msgid ""
 "change your delivery and other subscription options, visit your <a "
 "href=\"%[2]s\"</a>Subscription page</a>."
 msgstr ""
-"在该群组中发布的消息将发送到您的 <code>%[1]s</code>.要更改您的发送和其他订阅选项，请访问您的 &lt;a href=\"%[2]s\"</a>订阅页面</a> 。"
+"在该群组中发布的消息将发送到您的 <code>%[1]s</code>.要更改您的发送和其他订阅选项，请访问您的 <a href=\"%[2]s\"</a>订阅页面</a> 。"
 
 #: ../../cmd/web/views/group/creategroup.qtpl:344
 #, fuzzy
@@ -17193,7 +17198,7 @@ msgstr "最近"
 msgid "Most Recent Login"
 msgstr "最近登录"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:407
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:413
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:549
 #, fuzzy
 #. Automatically translated using DeepL
@@ -17976,8 +17981,8 @@ msgid "Next"
 msgstr "下一页"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:115
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:229
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:239
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:235
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:245
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:378
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:388
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:98
@@ -18301,8 +18306,8 @@ msgstr "未使用标签。"
 msgid "No wiki pages match that search."
 msgstr "没有符合搜索条件的维基页面。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:154
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:170
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:160
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:176
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:304
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:319
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:146
@@ -18759,8 +18764,8 @@ msgstr "通知类型"
 msgid "Notices"
 msgstr "通知"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:152
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:168
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:158
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:174
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:302
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:317
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:127
@@ -18936,7 +18941,7 @@ msgstr "Oauth 登录"
 msgid "Oct"
 msgstr "十月"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:199
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:205
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:111
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:117
@@ -18972,7 +18977,7 @@ msgid "Off"
 msgstr "关闭"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:274
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:688
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:375
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:236
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:377
@@ -20088,8 +20093,8 @@ msgstr "待补成员"
 msgid "pending members"
 msgstr "待补成员"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:40
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:66
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:46
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:72
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:180
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:75
 #, fuzzy
@@ -20928,8 +20933,8 @@ msgid "Preview Body"
 msgstr "预览机身"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:108
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:208
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:218
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:214
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:224
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:357
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:367
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:91
@@ -21272,7 +21277,7 @@ msgstr "实时聊天"
 msgid "Reason"
 msgstr "原因"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:493
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:499
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:847
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:313
 #, fuzzy
@@ -21481,7 +21486,7 @@ msgstr "使用 Facebook 注册"
 msgid "Register using Google"
 msgstr "使用 Google 注册"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:351
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:482
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:893
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:233
@@ -21490,7 +21495,7 @@ msgstr "使用 Google 注册"
 msgid "Reject"
 msgstr "拒绝"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:527
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:546
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Reject Message"
@@ -21502,6 +21507,7 @@ msgstr "拒收信息"
 msgid "Reject Messages"
 msgstr "拒收信息"
 
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:529
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:876
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:334
 #, fuzzy
@@ -21912,7 +21918,7 @@ msgstr "仅回复发件人"
 msgid "Reply To"
 msgstr "答复"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:384
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:390
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:520
 #, fuzzy
 #. Automatically translated using DeepL
@@ -22445,7 +22451,7 @@ msgstr "星期六"
 msgid "Saudi Arabia"
 msgstr "沙特阿拉伯"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:341
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1142
 #: ../../cmd/web/views/sub/editsub.qtpl:738
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:317
@@ -22835,7 +22841,7 @@ msgstr "加入时发送邀请"
 msgid "Send Log In Link"
 msgstr "发送登录链接"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:131
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1148
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:273
 #, fuzzy
@@ -24533,7 +24539,7 @@ msgid ""
 "this group you must either <a href=\"%[2]s\">Log In</a> or tell us your email "
 "address below."
 msgstr ""
-"感谢您有兴趣加入%[1]s 。要成为该群组的成员，您必须&lt;a href=\"%[2]s\"&gt;登录</a> 或在下面告诉我们您的电子邮件地址。"
+"感谢您有兴趣加入%[1]s 。要成为该群组的成员，您必须<a href=\"%[2]s\">登录</a> 或在下面告诉我们您的电子邮件地址。"
 
 #: ../../cmd/web/views/sub/joingroup.qtpl:113
 #, fuzzy
@@ -24543,7 +24549,7 @@ msgid ""
 "membership in this group you must either <a href=\"%[2]s\">Log In</a> or tell us "
 "your email address below."
 msgstr ""
-"感谢您有兴趣加入%[1]s 。要提交加入本组的申请，您必须 &lt;a href=\"%[2]s\"&gt; 登录</a> 或在下面告诉我们您的电子邮件地址。"
+"感谢您有兴趣加入%[1]s 。要提交加入本组的申请，您必须 <a href=\"%[2]s\"> 登录</a> 或在下面告诉我们您的电子邮件地址。"
 
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl:69
 #, fuzzy
@@ -24673,7 +24679,7 @@ msgstr ""
 msgid ""
 "That email address is already registered. To use it, <a href=\"%s\">Log In</a>."
 msgstr ""
-"该电子邮件地址已经注册。要使用它，&lt;a href=\"%s\"&gt;登录</a> 。"
+"该电子邮件地址已经注册。要使用它，<a href=\"%s\">登录</a> 。"
 
 #: ../../cmd/web/views/account/bouncing.qtpl:88
 #: ../../cmd/web/views/account/needreverification.qtpl:83
@@ -24868,7 +24874,7 @@ msgid ""
 "The address to send an email to the groups is <a "
 "href=\"mailto:%[1]s\">%[1]s</a>."
 msgstr ""
-"向各小组发送电子邮件的地址是 &lt;a href=\"mailto:%[1]s\"&gt;%[1]s</a> 。"
+"向各小组发送电子邮件的地址是 <a href=\"mailto:%[1]s\">%[1]s</a> 。"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:508
 #, fuzzy
@@ -24988,7 +24994,7 @@ msgstr "今年的账单为%.02f"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "The board \"%[1]s\" was renamed to \"<a href=\"%[2]s\">%[3]s</a>\"."
-msgstr "%[1]s\"更名为"&lt;a href=\"%[2]s\"&gt;%[3]s</a> \"。"
+msgstr "%[1]s\"更名为"<a href=\"%[2]s\">%[3]s</a> \"。"
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl:189
 #, fuzzy
@@ -25672,7 +25678,7 @@ msgstr "照片太大，没有添加。"
 msgid "The poll has been closed."
 msgstr "投票已经结束。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:506
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:512
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:859
 #, fuzzy
 #. Automatically translated using DeepL
@@ -25699,7 +25705,7 @@ msgstr "编辑的理由是"
 msgid "The search produced no results."
 msgstr "搜索没有结果。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:431
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:573
 #, fuzzy
 #. Automatically translated using DeepL
@@ -26163,7 +26169,7 @@ msgid ""
 "by attachments, files, photos, database images and wiki images. You can view the "
 "usage statistics for your group <a href=\"%[3]s\">here</a>."
 msgstr ""
-"这封邮件通知您，您所在的%[1]s 群组使用的可用存储空间（%[2]dGB）已超过 80%% o。存储空间被附件、文件、照片、数据库图像和维基图像占用。您可以在</a> 查看您的群组 &lt;a href=\"%[3]s\"&gt;的使用统计信息。"
+"这封邮件通知您，您所在的%[1]s 群组使用的可用存储空间（%[2]dGB）已超过 80%% o。存储空间被附件、文件、照片、数据库图像和维基图像占用。您可以在</a> 查看您的群组 <a href=\"%[3]s\">的使用统计信息。"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl:294
 #, fuzzy
@@ -26183,7 +26189,7 @@ msgstr "该活动已取消。"
 msgid "This event has been locked."
 msgstr "此活动已锁定。"
 
-#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:817
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:814
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1358
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1376
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1394
@@ -26473,14 +26479,14 @@ msgstr "此信息已被截断。"
 msgid "This message was sent from someone who is not confirmed."
 msgstr "此信息由未经确认的人发送。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:394
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:400
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:530
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "This pending message has been edited."
 msgstr "此待处理信息已被编辑。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:559
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:578
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:686
 #, fuzzy
 #. Automatically translated using DeepL
@@ -26490,7 +26496,7 @@ msgid ""
 msgstr ""
 "此发件人已通过审核。在批准信息时，您也可以取消对他们的审核。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:645
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:664
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:731
 #, fuzzy
 #. Automatically translated using DeepL
@@ -26735,7 +26741,7 @@ msgstr "致会员"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "To merge these accounts, <a href=\"%s\">click here</a>."
-msgstr "要合并这些账户，&lt;a href="%s\"&gt; 单击此处</a> 。"
+msgstr "要合并这些账户，<a href="%s\"> 单击此处</a> 。"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:427
 #, fuzzy
@@ -26814,7 +26820,7 @@ msgid ""
 "To post to the group, send an email to %s or visit the <a href=\"%s\">Post "
 "page</a>."
 msgstr ""
-"要在小组中发帖，请发送电子邮件至%s 或访问 &lt;a href=\"%s\"&gt;发帖页面</a> 。"
+"要在小组中发帖，请发送电子邮件至%s 或访问 <a href=\"%s\">发帖页面</a> 。"
 
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl:80
 #, fuzzy
@@ -27261,7 +27267,7 @@ msgid ""
 "Trial groups do not have access to direct add. To use this function, you need to "
 "<a href=\"%s\">upgrade to a paid group</a>"
 msgstr ""
-"试用群组没有直接添加的权限。要使用此功能，您需要 &lt;a href=\"%s\"&gt;升级到付费群组</a>"
+"试用群组没有直接添加的权限。要使用此功能，您需要 <a href=\"%s\">升级到付费群组</a>"
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:734
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:922
@@ -27436,7 +27442,7 @@ msgstr "全部取消选中"
 msgid "Undo All Changes"
 msgstr "撤销所有更改"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:401
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:533
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:536
 #, fuzzy
@@ -28582,8 +28588,8 @@ msgstr "验证行动"
 msgid "Verify Approval"
 msgstr "验证批准"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:547
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:592
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:566
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:611
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:633
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:674
 #, fuzzy
@@ -28591,7 +28597,7 @@ msgstr "验证批准"
 msgid "Verify Approve"
 msgstr "核实 批准"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:633
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:652
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:719
 #, fuzzy
 #. Automatically translated using DeepL
@@ -28628,7 +28634,7 @@ msgstr "验证关闭"
 #: ../../cmd/web/views/account/deleteaccount.qtpl:160
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:881
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:113
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:451
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:457
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1218
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:764
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:279
@@ -28877,7 +28883,7 @@ msgid ""
 "href=\"https://groups.io/g/beta/search?q=%23changelog&ct=1\">recent changes and "
 "updates</a>."
 msgstr ""
-"View a list of &lt;a rel=\"nofollow\" href=\"https://groups.io/g/beta/search?q=%23changelog&amp;ct=1\"&gt;recent changes and updates</a>."
+"View a list of <a rel=\"nofollow\" href=\"https://groups.io/g/beta/search?q=%23changelog&amp;ct=1\">recent changes and updates</a>."
 
 #: ../../cmd/web/views/user/feed.qtpl:244
 #: ../../cmd/web/views/user/feed.qtpl:296
@@ -29009,7 +29015,7 @@ msgid "View Row"
 msgstr "查看行"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:518
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:303
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:309
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:421
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:105
 #, fuzzy
@@ -29215,11 +29221,11 @@ msgstr ""
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:460
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:502
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:555
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:600
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:641
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:466
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:508
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:574
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:619
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:660
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:600
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:641
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:682
@@ -29419,7 +29425,7 @@ msgid ""
 "link</a> sent to a list of your friends. And you can always point people to your "
 "group home page: <p><strong><a href=\"%[2]s\">%[2]s</a></strong></p>"
 msgstr ""
-"我们可以轻松地将带有邀请链接</a> 的 &lt;a href=\"%[1]s\"&gt; 定制电子邮件发送给您的好友列表。您还可以随时将人们指向您的群组主页： <p><strong>&lt;a href="%[2]s\"&gt;%[2]s</a></strong>"
+"我们可以轻松地将带有邀请链接</a> 的 <a href=\"%[1]s\"> 定制电子邮件发送给您的好友列表。您还可以随时将人们指向您的群组主页： <p><strong><a href="%[2]s\">%[2]s</a></strong>"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:292
 #, fuzzy
@@ -30202,7 +30208,7 @@ msgstr "将出席"
 msgid "Will be appended to the subject line of the emails."
 msgstr "将附加在电子邮件的主题栏中。"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:361
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:367
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:497
 #, fuzzy
 #. Automatically translated using DeepL
@@ -30340,8 +30346,8 @@ msgstr "也门"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:813
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:873
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:203
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:473
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:613
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:479
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:632
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1235
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1279
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1327
@@ -30735,7 +30741,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid ""
 "You are subscribed to the <a href=\"%[1]s\">%[2]s</a> group. Check it out."
-msgstr "您已订阅 &lt;a href=\"%[1]s\"&gt;%[2]s</a> 群。查看一下。"
+msgstr "您已订阅 <a href=\"%[1]s\">%[2]s</a> 群。查看一下。"
 
 #: ../../cmd/web/views/group/grouphome.qtpl:526
 #, fuzzy
@@ -30792,7 +30798,7 @@ msgstr "您会自动关注您发起或回复的任何主题。"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You can <a href=\"%s\">update your response</a> at any time."
-msgstr "您可以 &lt;a href=\"%s\"&gt; 随时更新您的回复</a> 。"
+msgstr "您可以 <a href=\"%s\"> 随时更新您的回复</a> 。"
 
 #: ../../cmd/web/views/static/staticpricing.qtpl:303
 #, fuzzy
@@ -30939,7 +30945,7 @@ msgid ""
 "href=\"%[1]s\">%[1]s</a>. If it's your first time logging in or you have "
 "forgotten your password, please use the \"email me a link to login\" button."
 msgstr ""
-"您可以访问您的群组，开始阅读信息并在此发布：&lt;a href=\"%[1]s\"&gt;%[1]s</a> 。如果您是第一次登录或忘记了密码，请使用 "email me a link to login\" 按钮。"
+"您可以访问您的群组，开始阅读信息并在此发布：<a href=\"%[1]s\">%[1]s</a> 。如果您是第一次登录或忘记了密码，请使用 "email me a link to login\" 按钮。"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:555
 #, fuzzy
@@ -31057,7 +31063,7 @@ msgid ""
 "Email Service Provider reported to us that message <a "
 "href=\"%[2]s/message/%[3]d\">%[4]s</a> has been marked as spam."
 msgstr ""
-"您已被<strong>自动</strong>从%[1]s 中删除，因为您的电子邮件服务提供商向我们报告，邮件 &lt;a href=\"%[2]s/message/%[3]d\"&gt;%[4]s</a> 已被标记为垃圾邮件。"
+"您已被<strong>自动</strong>从%[1]s 中删除，因为您的电子邮件服务提供商向我们报告，邮件 <a href=\"%[2]s/message/%[3]d\">%[4]s</a> 已被标记为垃圾邮件。"
 
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl:86
 #, fuzzy
@@ -31068,14 +31074,14 @@ msgid ""
 "time logging in or if you have forgotten your password. You can do this in the "
 "future using the \"email me a link to login\" button on the Login page."
 msgstr ""
-"您已被%[1]s 团队添加到%[2]s 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用 &lt;a href=\"%[3]s\"&gt;此链接</a> 登录。以后您也可以使用登录页面上的 "email me a link to login\" 按钮进行登录。"
+"您已被%[1]s 团队添加到%[2]s 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用 <a href=\"%[3]s\">此链接</a> 登录。以后您也可以使用登录页面上的 "email me a link to login\" 按钮进行登录。"
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:88
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:90
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You have been added by the %[1]s Team to <a href=\"%[2]s\">%[3]s</a>"
-msgstr "%[1]s 团队已将您添加到 &lt;a href=\"%[2]s\"&gt;。%[3]s</a>"
+msgstr "%[1]s 团队已将您添加到 <a href=\"%[2]s\">。%[3]s</a>"
 
 #: ../../pkg/notifications/noteviews/subgroupdirectadd.qtpl:51
 #, fuzzy
@@ -31084,7 +31090,7 @@ msgid ""
 "You have been added by the moderators to their %[1]s group <a "
 "href=\"%[2]s\">%[3]s</a>."
 msgstr ""
-"您已被版主添加到他们的%[1]s 群 &lt;a href=\"%[2]s\"&gt;%[3]s</a> 。"
+"您已被版主添加到他们的%[1]s 群 <a href=\"%[2]s\">%[3]s</a> 。"
 
 #: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:72
 #, fuzzy
@@ -31315,7 +31321,7 @@ msgid ""
 "You have the maximum number of integrations already. For more integrations, you "
 "must <a href=\"%s\">upgrade your group</a>."
 msgstr ""
-"您已经拥有最大数量的集成。如需更多集成，您必须 &lt;a href=\"%s\"&gt; 升级您的群组</a> 。"
+"您已经拥有最大数量的集成。如需更多集成，您必须 <a href=\"%s\"> 升级您的群组</a> 。"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:552
 #, fuzzy
@@ -32374,7 +32380,7 @@ msgid ""
 "Your subscription to the <a href=\"%[1]s\">%[2]s</a> group is awaiting moderator "
 "approval."
 msgstr ""
-"您对 &lt;a href="%[1]s\"&gt;%[2]s</a> 群组的订阅正在等待版主批准。"
+"您对 <a href="%[1]s\">%[2]s</a> 群组的订阅正在等待版主批准。"
 
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:78
 #, fuzzy

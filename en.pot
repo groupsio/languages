@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-07 09:43-0700\n"
+"PO-Revision-Date: 2024-10-08 13:49-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -2823,8 +2823,8 @@ msgid "Add Group Alias"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:711
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:732
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:730
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:751
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1144
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1165
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:229
@@ -2903,7 +2903,7 @@ msgid "Add Subgroup Category"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:259
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:265
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:125
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:81
 #: ../../cmd/web/views/post/grouppost.qtpl:181
@@ -3262,7 +3262,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:296
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:428
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:434
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:570
 msgid "All Messages By This Member"
 msgstr ""
@@ -3748,10 +3748,10 @@ msgid "Approvals Needed"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:313
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:318
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:319
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:324
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:329
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:330
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:432
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:443
@@ -3762,13 +3762,13 @@ msgid "Approve"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:658
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:677
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:744
 msgid "Approve & Add Sender"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:572
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:591
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:699
 msgid "Approve & Unmoderate Sender"
 msgstr ""
@@ -3786,8 +3786,8 @@ msgid "Approve And Unmoderate"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:568
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:654
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:587
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:673
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:695
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:740
 msgid "Approve Message"
@@ -3896,7 +3896,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:604
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:623
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:645
 msgid "Are you sure you wish to approve this message?"
 msgstr ""
@@ -4007,7 +4007,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:464
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:470
 msgid "Are you sure you wish to delete this message without sending it to the group?"
 msgstr ""
 
@@ -4647,8 +4647,8 @@ msgid "Ban Members (also allows access to the member list)"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:133
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:184
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:139
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:190
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:281
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:333
 msgid "Ban Sender"
@@ -4761,7 +4761,7 @@ msgid "BCC Me"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:516
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:522
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:869
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:327
 #: ../../cmd/web/views/post/groupposttosub.qtpl:241
@@ -4769,7 +4769,7 @@ msgid "Bcc: All Moderators"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:511
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:517
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:864
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:322
 #: ../../cmd/web/views/post/groupposttosub.qtpl:236
@@ -5458,13 +5458,13 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:869
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:178
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:207
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:339
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:469
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:523
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:564
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:609
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:650
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:728
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:475
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:542
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:583
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:628
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:669
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:747
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1197
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1231
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1275
@@ -5945,7 +5945,7 @@ msgid "Chats must be tagged with at least one hashtag."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:287
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:293
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:153
 msgid "Check attachments to delete"
 msgstr ""
@@ -6105,7 +6105,7 @@ msgid "Claimed by"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:389
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:525
 msgid "Claimed by %[1]s on %[2]s"
 msgstr ""
@@ -6175,13 +6175,13 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:770
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:829
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:190
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:447
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:489
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:543
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:588
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:629
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:675
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:453
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:495
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:562
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:607
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:648
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:694
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:726
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1214
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1255
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1299
@@ -6691,7 +6691,7 @@ msgid "Cookie Policy"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:111
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:117
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:259
 msgid "Copy Email Address"
 msgstr ""
@@ -7158,7 +7158,7 @@ msgstr ""
 #: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:410
 #: ../../cmd/web/views/groupadmin/groupownermsgs.qtpl:104
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:546
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:105
@@ -7294,7 +7294,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:59
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:350
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:356
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:486
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:237
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:114
@@ -8408,13 +8408,17 @@ msgid "Edit Notice"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:368
-#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:374
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</>"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:366
+#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a>"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:372
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:502
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a> by %[3]s"
 msgstr ""
@@ -10292,7 +10296,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:238
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:89
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:95
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:227
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:158
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:196
@@ -11780,8 +11784,8 @@ msgid "Insert Link To Wiki Page"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:150
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:166
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:156
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:172
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:300
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:315
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:132
@@ -12644,7 +12648,7 @@ msgid "Link to Microsoft OneDrive"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:679
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:698
 msgid "Links Cleaned"
 msgstr ""
 
@@ -13395,7 +13399,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:281
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:119
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:267
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl:544
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:854
@@ -14597,7 +14601,7 @@ msgid "Most Recent Login"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:407
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:413
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:549
 msgid "Most Recent Messages"
 msgstr ""
@@ -15270,8 +15274,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl:115
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:229
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:239
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:235
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:245
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:378
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:388
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:98
@@ -15551,8 +15555,8 @@ msgid "No wiki pages match that search."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:154
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:170
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:160
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:176
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:304
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:319
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:146
@@ -15950,8 +15954,8 @@ msgid "Notices"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:152
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:168
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:158
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:174
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:302
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:317
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:127
@@ -16108,7 +16112,7 @@ msgid "Oct"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:199
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:205
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:111
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:117
@@ -16141,7 +16145,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl:274
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:688
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:375
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:236
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:377
@@ -17095,8 +17099,8 @@ msgid "pending members"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:40
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:66
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:46
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:72
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:180
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:75
 msgid "Pending Message"
@@ -17815,8 +17819,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl:108
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:208
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:218
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:214
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:224
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:357
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:367
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:91
@@ -18112,7 +18116,7 @@ msgid "Reason"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:493
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:499
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:847
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:313
 msgid "Reason For Rejection"
@@ -18287,7 +18291,7 @@ msgid "Register using Google"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:351
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:482
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:893
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:233
@@ -18295,7 +18299,7 @@ msgid "Reject"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:527
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:546
 msgid "Reject Message"
 msgstr ""
 
@@ -18305,6 +18309,7 @@ msgid "Reject Messages"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:529
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:876
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:334
 msgid "Reject Notices"
@@ -18650,7 +18655,7 @@ msgid "Reply To"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:384
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:390
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:520
 msgid "Reply to #%d, %s"
 msgstr ""
@@ -19112,7 +19117,7 @@ msgid "Saudi Arabia"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:341
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1142
 #: ../../cmd/web/views/sub/editsub.qtpl:738
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:317
@@ -19447,7 +19452,7 @@ msgid "Send Log In Link"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:131
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1148
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:273
 msgid "Send Message"
@@ -21832,7 +21837,7 @@ msgid "The poll has been closed."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:506
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:512
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:859
 msgid "The post will be returned to the sender along with the following message:"
 msgstr ""
@@ -21854,7 +21859,7 @@ msgid "The search produced no results."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:431
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:573
 msgid "The sender has never sent a message."
 msgstr ""
@@ -22253,7 +22258,7 @@ msgid "This event has been locked."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:817
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:814
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1358
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1376
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1394
@@ -22490,13 +22495,13 @@ msgid "This message was sent from someone who is not confirmed."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:394
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:400
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:530
 msgid "This pending message has been edited."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:559
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:578
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:686
 msgid ""
 "This sender is moderated. When approving the message, you can also unmoderate "
@@ -22504,7 +22509,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:645
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:664
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:731
 msgid ""
 "This sender is not a member of the group. When approving the message, you can "
@@ -23301,7 +23306,7 @@ msgid "Undo All Changes"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:401
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:533
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:536
 msgid "Undo Edit"
@@ -24286,15 +24291,15 @@ msgid "Verify Approval"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:547
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:592
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:566
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:611
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:633
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:674
 msgid "Verify Approve"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:633
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:652
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:719
 msgid "Verify Approve & Add Member"
 msgstr ""
@@ -24326,7 +24331,7 @@ msgstr ""
 #: ../../cmd/web/views/account/deleteaccount.qtpl:160
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:881
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:113
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:451
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:457
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1218
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:764
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:279
@@ -24658,7 +24663,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:518
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:303
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:309
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:421
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:105
 msgid "View Source"
@@ -24834,11 +24839,11 @@ msgstr ""
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:460
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:502
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:555
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:600
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:641
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:466
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:508
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:574
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:619
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:660
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:600
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:641
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:682
@@ -25658,7 +25663,7 @@ msgid "Will be appended to the subject line of the emails."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:361
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:367
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:497
 msgid "Will be sent as a special message."
 msgstr ""
@@ -25775,8 +25780,8 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:813
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:873
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:203
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:473
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:613
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:479
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:632
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1235
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1279
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1327

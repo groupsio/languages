@@ -1559,7 +1559,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this file</a> is "
 "objectionable."
 msgstr ""
-"%[1]s wil u informeren dat &lt;a href="%[2]s\"&gt;dit bestand</a> aanstootgevend is."
+"%[1]s wil u informeren dat <a href="%[2]s\">dit bestand</a> aanstootgevend is."
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:88
 #, fuzzy
@@ -1568,7 +1568,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this message</a> is "
 "objectionable."
 msgstr ""
-"%[1]s wil u informeren dat &lt;a href="%[2]s\"&gt;dit bericht</a> aanstootgevend is."
+"%[1]s wil u informeren dat <a href="%[2]s\">dit bericht</a> aanstootgevend is."
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:104
 #, fuzzy
@@ -1577,7 +1577,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this photo</a> is "
 "objectionable."
 msgstr ""
-"%[1]s wil u informeren dat &lt;a href="%[2]s\"&gt;deze foto</a> aanstootgevend is."
+"%[1]s wil u informeren dat <a href="%[2]s\">deze foto</a> aanstootgevend is."
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:120
 #, fuzzy
@@ -1586,7 +1586,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this profile</a> is "
 "objectionable."
 msgstr ""
-"%[1]s wil u informeren dat &lt;a href="%[2]s\"&gt;dit profiel</a> aanstootgevend is."
+"%[1]s wil u informeren dat <a href="%[2]s\">dit profiel</a> aanstootgevend is."
 
 #: ../../tools/genactivities/activities.hjson:2670
 #, fuzzy
@@ -2288,7 +2288,7 @@ msgstr "50 artikelen"
 msgid ""
 "<a href=\"%[1]s\">Join</a> %[2]s to automatically receive all group messages."
 msgstr ""
-"&lt;a href="%[1]s\"&gt;Aanmelden bij</a> %[2]s om automatisch alle groepsberichten te ontvangen."
+"<a href="%[1]s\">Aanmelden bij</a> %[2]s om automatisch alle groepsberichten te ontvangen."
 
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl:264
 #, fuzzy
@@ -2297,7 +2297,7 @@ msgid ""
 "<a href=\"%s/wiki/Home/edit\">Create a page</a> with the title of <em>Home</em> "
 "to replace this page."
 msgstr ""
-"&lt;a href="%s/wiki/Home/edit\"&gt;Maak een pagina</a> met de titel <em>Home</em> om deze pagina te vervangen."
+"<a href="%s/wiki/Home/edit\">Maak een pagina</a> met de titel <em>Home</em> om deze pagina te vervangen."
 
 #: ../../cmd/web/views/group/grouppromote.qtpl:121
 #, fuzzy
@@ -2307,7 +2307,7 @@ msgid ""
 "<strong>directly add members</strong>, <strong>increased storage</strong>, and "
 "<strong>RSVP tracking for events</strong>."
 msgstr ""
-"&lt;a href="%s\"&gt;Upgrade je groep</a> en krijg toegang tot geweldige functies zoals: <strong>direct leden toevoegen</strong>, <strong>meer opslagruimte</strong> en <strong>RSVP-tracering voor evenementen</strong>."
+"<a href="%s\">Upgrade je groep</a> en krijg toegang tot geweldige functies zoals: <strong>direct leden toevoegen</strong>, <strong>meer opslagruimte</strong> en <strong>RSVP-tracering voor evenementen</strong>."
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl:167
 #, fuzzy
@@ -2330,7 +2330,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "<a href=\"/search?p=SubsCount"
-msgstr "&lt;a href="/zoek?p=SubsCount"
+msgstr "<a href="/zoek?p=SubsCount"
 
 #: ../../cmd/web/views/user/homeloggedout.qtpl:135
 #, fuzzy
@@ -2500,7 +2500,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>Hallo [naam], <p>U bent toegevoegd door het %[1]s team aan &lt;a href="%[2]s\"&gt;%[3]s</a> . U kunt [deze link] de komende 24 uur gebruiken om in te loggen als het de eerste keer is dat u inlogt of als u uw wachtwoord bent vergeten. Je kunt dit in de toekomst ook doen met de knop "E-mail mij een link om in te loggen" op de inlogpagina. <p>Het e-mailadres voor deze groep is: %[4]s. %[5]s <p>Maar het belangrijkste is dat je dit e-mailadres toevoegt aan de lijst met veilige afzenders in de contacten van je e-mailprogramma. Als je merkt dat e-mails van deze groep in spam-, promo- of sociale mappen terechtkomen, verplaats deze e-mails dan naar je primaire inbox zodat je je e-mailprogramma kunt trainen om ze direct in je inbox te plaatsen. <div id=\"custom_message\"></div> <p>Als dit een vergissing was, klik dan op de volgende link en je wordt onmiddellijk verwijderd: <p style=\"text-decoration: underline\">Afmelden <p>Het %[1]s team"
+"<p>Hallo [naam], <p>U bent toegevoegd door het %[1]s team aan <a href="%[2]s\">%[3]s</a> . U kunt [deze link] de komende 24 uur gebruiken om in te loggen als het de eerste keer is dat u inlogt of als u uw wachtwoord bent vergeten. Je kunt dit in de toekomst ook doen met de knop "E-mail mij een link om in te loggen" op de inlogpagina. <p>Het e-mailadres voor deze groep is: %[4]s. %[5]s <p>Maar het belangrijkste is dat je dit e-mailadres toevoegt aan de lijst met veilige afzenders in de contacten van je e-mailprogramma. Als je merkt dat e-mails van deze groep in spam-, promo- of sociale mappen terechtkomen, verplaats deze e-mails dan naar je primaire inbox zodat je je e-mailprogramma kunt trainen om ze direct in je inbox te plaatsen. <div id=\"custom_message\"></div> <p>Als dit een vergissing was, klik dan op de volgende link en je wordt onmiddellijk verwijderd: <p style=\"text-decoration: underline\">Afmelden <p>Het %[1]s team"
 
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
 #. 									The message is sent in HTML format, so you can use HTML tags to format the message.
@@ -2622,14 +2622,14 @@ msgstr "%[3]s[%[1]s] Kaart%[2]s werd hernoemd naar%[4]s</a> ."
 msgid ""
 "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was moved to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] Kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" is verplaatst naar lijst "%[4]s\"."
+"[%[1]s] Kaart "<a href="%[2]s\">%[3]s</a> \" is verplaatst naar lijst "%[4]s\"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:171
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was reordered."
 msgstr ""
-"[%[1]s] Kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" is opnieuw gerangschikt."
+"[%[1]s] Kaart "<a href="%[2]s\">%[3]s</a> \" is opnieuw gerangschikt."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:185
 #, fuzzy
@@ -2637,7 +2637,7 @@ msgstr ""
 msgid ""
 "[%[1]s] Comment deleted from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] Commentaar verwijderd van kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" door %[4]s."
+"[%[1]s] Commentaar verwijderd van kaart "<a href="%[2]s\">%[3]s</a> \" door %[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:146
 #, fuzzy
@@ -2669,7 +2669,7 @@ msgstr "[%[1]s] Lijst%[2]s is hernoemd naar%[3]s."
 msgid ""
 "[%[1]s] New attachment added to card \"<a href=\"%[2]s\">%[3]s</a>\":<br>%[4]s."
 msgstr ""
-"[%[1]s] Nieuwe bijlage toegevoegd aan kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \":<br>%[4]s."
+"[%[1]s] Nieuwe bijlage toegevoegd aan kaart "<a href="%[2]s\">%[3]s</a> \":<br>%[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:159
 #, fuzzy
@@ -2677,7 +2677,7 @@ msgstr ""
 msgid ""
 "[%[1]s] New card \"<a href=\"%[2]s\">%[3]s</a>\" was added to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] Nieuwe kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" is toegevoegd aan de lijst "%[4]s\"."
+"[%[1]s] Nieuwe kaart "<a href="%[2]s\">%[3]s</a> \" is toegevoegd aan de lijst "%[4]s\"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:274
 #, fuzzy
@@ -2693,7 +2693,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "[%[1]s] New comment on card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] Nieuw commentaar op kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" door %[4]s."
+"[%[1]s] Nieuw commentaar op kaart "<a href="%[2]s\">%[3]s</a> \" door %[4]s."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:231
 #, fuzzy
@@ -2719,7 +2719,7 @@ msgstr ""
 msgid ""
 "[%[1]s] The %[2]s label was added to the card \"<a href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Het label %[2]s is toegevoegd aan de kaart "&lt;a href="%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Het label %[2]s is toegevoegd aan de kaart "<a href="%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:224
 #, fuzzy
@@ -2728,13 +2728,13 @@ msgid ""
 "[%[1]s] The %[2]s label was removed from the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Het label %[2]s is van de kaart verwijderd. &lt;a href="%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Het label %[2]s is van de kaart verwijderd. <a href="%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:256
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "[%[1]s] The card \"<a href=\"%[2]s\">%[3]s</a>\" was archived."
-msgstr "[%[1]s] De kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" is gearchiveerd."
+msgstr "[%[1]s] De kaart "<a href="%[2]s\">%[3]s</a> \" is gearchiveerd."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:267
 #, fuzzy
@@ -2779,7 +2779,7 @@ msgid ""
 "[%[1]s] The description of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed "
 "to:<br>%[4]s"
 msgstr ""
-"[%[1]s] De beschrijving van de kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" is veranderd in:<br>%[4]s"
+"[%[1]s] De beschrijving van de kaart "<a href="%[2]s\">%[3]s</a> \" is veranderd in:<br>%[4]s"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:213
 #, fuzzy
@@ -2788,7 +2788,7 @@ msgid ""
 "[%[1]s] The due date of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed to "
 "%[4]s"
 msgstr ""
-"[%[1]s] De vervaldatum van de kaart "&lt;a href="%[2]s\"&gt;%[3]s</a> \" is gewijzigd in %[4]s"
+"[%[1]s] De vervaldatum van de kaart "<a href="%[2]s\">%[3]s</a> \" is gewijzigd in %[4]s"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:154
 #, fuzzy
@@ -2818,7 +2818,7 @@ msgstr "%[3]s[%[1]s] Het lid%[2]s is verwijderd van de kaart%[4]s</a> ."
 msgid ""
 "[%[1]s] Updated comment from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] Commentaar van kaart "&lt;a href="%[2]s" &gt;%[3]s</a> " bijgewerkt door %[4]s."
+"[%[1]s] Commentaar van kaart "<a href="%[2]s" >%[3]s</a> " bijgewerkt door %[4]s."
 
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:376
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl:391
@@ -3402,8 +3402,8 @@ msgstr "Google Drive integratie toevoegen"
 msgid "Add Group Alias"
 msgstr "Groep alias toevoegen"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:711
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:732
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:730
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:751
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1144
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1165
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:229
@@ -3495,7 +3495,7 @@ msgstr "Zijbalk toevoegen"
 msgid "Add Subgroup Category"
 msgstr "Subgroep categorie toevoegen"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:259
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:265
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:125
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:81
 #: ../../cmd/web/views/post/grouppost.qtpl:181
@@ -3920,7 +3920,7 @@ msgid "All messages are required to have at least one hashtag."
 msgstr "Alle berichten moeten minstens één hashtag hebben."
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:296
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:428
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:434
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:570
 #, fuzzy
 #. Automatically translated using DeepL
@@ -4464,7 +4464,7 @@ msgid ""
 "App notifications are not allowed on this device. To enable notifications, go "
 "into Settings -> Notifications and look for the app."
 msgstr ""
-"App-meldingen zijn niet toegestaan op dit apparaat. Ga naar Instellingen -&gt; Meldingen en zoek naar de app om meldingen in te schakelen."
+"App-meldingen zijn niet toegestaan op dit apparaat. Ga naar Instellingen -> Meldingen en zoek naar de app om meldingen in te schakelen."
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:281
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl:577
@@ -4503,10 +4503,10 @@ msgstr ""
 msgid "Approvals Needed"
 msgstr "Goedkeuringen nodig"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:313
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:318
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:319
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:324
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:329
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:330
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:432
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:443
@@ -4518,14 +4518,14 @@ msgstr "Goedkeuringen nodig"
 msgid "Approve"
 msgstr "Goedkeuren"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:658
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:677
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:744
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Approve & Add Sender"
 msgstr "Afzender goedkeuren en toevoegen"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:572
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:591
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:699
 #, fuzzy
 #. Automatically translated using DeepL
@@ -4546,8 +4546,8 @@ msgstr "Afzenders goedkeuren en afkeuren"
 msgid "Approve And Unmoderate"
 msgstr "Goedkeuren en matigen"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:568
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:654
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:587
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:673
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:695
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:740
 #, fuzzy
@@ -4676,7 +4676,7 @@ msgid ""
 msgstr ""
 "Weet je zeker dat je de %s community wilt verlaten? Als je de hoofdgroep verlaat, word je ook verwijderd uit alle andere %s groepen."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:604
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:623
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:645
 #, fuzzy
 #. Automatically translated using DeepL
@@ -4821,7 +4821,7 @@ msgid ""
 msgstr ""
 "Weet je zeker dat je dit bericht wilt verwijderen zonder het naar de groep te sturen en zonder de afzender op de hoogte te stellen?"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:464
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:470
 #, fuzzy
 #. Automatically translated using DeepL
 msgid ""
@@ -5612,8 +5612,8 @@ msgstr "Verbied e-mail"
 msgid "Ban Members (also allows access to the member list)"
 msgstr "Leden verbannen (geeft ook toegang tot de ledenlijst)"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:133
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:184
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:139
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:190
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:281
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:333
 #, fuzzy
@@ -5747,7 +5747,7 @@ msgstr ""
 msgid "BCC Me"
 msgstr "BCC Mij"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:516
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:522
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:869
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:327
 #: ../../cmd/web/views/post/groupposttosub.qtpl:241
@@ -5756,7 +5756,7 @@ msgstr "BCC Mij"
 msgid "Bcc: All Moderators"
 msgstr "Bcc: Alle moderators"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:511
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:517
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:864
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:322
 #: ../../cmd/web/views/post/groupposttosub.qtpl:236
@@ -5826,7 +5826,7 @@ msgid ""
 "Before deleting your group, you may wish to <a href=\"%s/exportgroup\">export "
 "the group</a>."
 msgstr ""
-"Voordat je je groep verwijdert, wil je misschien &lt;a href="%s/exportgroup"&gt;de groep exporteren</a>."
+"Voordat je je groep verwijdert, wil je misschien <a href="%s/exportgroup">de groep exporteren</a>."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:100
 #, fuzzy
@@ -6562,13 +6562,13 @@ msgstr "Canada"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:869
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:178
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:207
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:339
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:469
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:523
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:564
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:609
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:650
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:728
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:475
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:542
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:583
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:628
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:669
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:747
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1197
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1231
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1275
@@ -7104,7 +7104,7 @@ msgstr "Praatjes"
 msgid "Chats must be tagged with at least one hashtag."
 msgstr "Chats moeten worden getagd met ten minste één hashtag."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:287
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:293
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:153
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7288,7 +7288,7 @@ msgstr "Claim Sub"
 msgid "Claimed by"
 msgstr "Geclaimd door"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:389
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:525
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7369,13 +7369,13 @@ msgstr "Clientgeheim geleverd door uw SSO-provider."
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:770
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:829
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:190
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:447
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:489
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:543
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:588
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:629
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:675
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:453
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:495
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:562
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:607
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:648
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:694
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:726
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1214
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1255
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1299
@@ -7948,7 +7948,7 @@ msgstr "Cook Eilanden"
 msgid "Cookie Policy"
 msgstr "Cookiebeleid"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:111
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:117
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:259
 #, fuzzy
 #. Automatically translated using DeepL
@@ -8492,7 +8492,7 @@ msgstr "Databases zijn uitgeschakeld"
 #: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:410
 #: ../../cmd/web/views/groupadmin/groupownermsgs.qtpl:104
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:546
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:105
@@ -8644,7 +8644,7 @@ msgid "Deferred"
 msgstr "Uitgesteld"
 
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:59
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:350
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:356
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:486
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:237
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:114
@@ -9951,14 +9951,19 @@ msgstr "Bericht bewerken"
 msgid "Edit Notice"
 msgstr "Bewerk bericht"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:368
-#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:374
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</>"
-msgstr "Bestaand bericht bewerken <a href='%[1]s'>#%[2]d &lt;/&gt;"
+msgstr "Bestaand bericht bewerken <a href='%[1]s'>#%[2]d </>"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:366
+#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a>"
+msgstr "Bestaand bericht bewerken <a href='%[1]s'>#%[2]d</a>"
+
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:372
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:502
 #, fuzzy
 #. Automatically translated using DeepL
@@ -12154,7 +12159,7 @@ msgid "Group Message"
 msgstr "Groepsbericht"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:238
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:89
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:95
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:227
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:158
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:196
@@ -13287,7 +13292,7 @@ msgid ""
 "the settings</a> for your group. And you can <a href=\"%[3]s\">add "
 "integrations</a>."
 msgstr ""
-"Als dit je eerste %[1]s groep is, bekijk dan de zijbalk aan de linkerkant, die een overzicht geeft van alle dingen die je met je groep kunt doen.%[2]s Je kunt de instellingen</a> voor je groep aanpassen. En je kunt &lt;a href="%[3]s\"&gt;integraties toevoegen</a>."
+"Als dit je eerste %[1]s groep is, bekijk dan de zijbalk aan de linkerkant, die een overzicht geeft van alle dingen die je met je groep kunt doen.%[2]s Je kunt de instellingen</a> voor je groep aanpassen. En je kunt <a href="%[3]s\">integraties toevoegen</a>."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:107
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl:106
@@ -13316,7 +13321,7 @@ msgid ""
 "If you are already a member of %[1]s, <a href=\"%[2]s\">Log In</a> to access the "
 "group."
 msgstr ""
-"Als je al lid bent van %[1]s, &lt;a href="%[2]s\"&gt;Log in</a> om naar de groep te gaan."
+"Als je al lid bent van %[1]s, <a href="%[2]s\">Log in</a> om naar de groep te gaan."
 
 #: ../../cmd/web/views/group/creategroup.qtpl:183
 #, fuzzy
@@ -13375,7 +13380,7 @@ msgid ""
 "If you can no longer attend the event, please <a href=\"%s\">update your "
 "RSVP</a>."
 msgstr ""
-"Als je niet meer bij het evenement aanwezig kunt zijn, vul dan &lt;a href="%s\"&gt;uw RSVP bij</a>."
+"Als je niet meer bij het evenement aanwezig kunt zijn, vul dan <a href="%s\">uw RSVP bij</a>."
 
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl:52
 #, fuzzy
@@ -13546,7 +13551,7 @@ msgid ""
 "If you would like to increase the amount of storage space available for your "
 "group, please visit our plans page <a href=\"%s\">here</a>."
 msgstr ""
-"Als je de beschikbare opslagruimte voor je groep wilt vergroten, ga dan naar onze plannenpagina &lt;a href="%s\"&gt;hier</a>."
+"Als je de beschikbare opslagruimte voor je groep wilt vergroten, ga dan naar onze plannenpagina <a href="%s\">hier</a>."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:168
 #, fuzzy
@@ -13764,7 +13769,7 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to either Other Members of Your Group, "
 "or to Public."
 msgstr ""
-"Om de ledenlijst te kunnen zien, moet je je &lt;a href="%s\"&gt;privacyinstelling van je profiel</a> wijzigen in Andere leden van je groep of in Openbaar."
+"Om de ledenlijst te kunnen zien, moet je je <a href="%s\">privacyinstelling van je profiel</a> wijzigen in Andere leden van je groep of in Openbaar."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl:89
 #, fuzzy
@@ -13774,7 +13779,7 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to either Other Members of Your "
 "Subgroup, or to Public."
 msgstr ""
-"Om de ledenlijst te kunnen zien, moet u uw &lt;a href="%s\"&gt;privacyinstelling van uw profiel</a> wijzigen in Andere leden van uw subgroep of in Openbaar."
+"Om de ledenlijst te kunnen zien, moet u uw <a href="%s\">privacyinstelling van uw profiel</a> wijzigen in Andere leden van uw subgroep of in Openbaar."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl:98
 #, fuzzy
@@ -13783,7 +13788,7 @@ msgid ""
 "In order to view the member directory, you must change your <a "
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Group."
 msgstr ""
-"Om de ledenlijst te kunnen zien, moet je je &lt;a href="%s\"&gt;privacyinstelling van je profiel</a> wijzigen in Andere leden van je groep."
+"Om de ledenlijst te kunnen zien, moet je je <a href="%s\">privacyinstelling van je profiel</a> wijzigen in Andere leden van je groep."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl:91
 #, fuzzy
@@ -13792,7 +13797,7 @@ msgid ""
 "In order to view the member directory, you must change your <a "
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Subgroup."
 msgstr ""
-"Om de ledenlijst te kunnen zien, moet je je &lt;a href="%s\"&gt;privacyinstelling van je profiel</a> wijzigen in Andere leden van je subgroep."
+"Om de ledenlijst te kunnen zien, moet je je <a href="%s\">privacyinstelling van je profiel</a> wijzigen in Andere leden van je subgroep."
 
 #: ../../cmd/web/views/sub/editsub.qtpl:229
 #: ../../cmd/web/views/sub/groupinvite.qtpl:195
@@ -13956,8 +13961,8 @@ msgstr "Afbeeldingen invoegen"
 msgid "Insert Link To Wiki Page"
 msgstr "Link naar wikipagina invoegen"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:150
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:166
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:156
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:172
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:300
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:315
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:132
@@ -14969,7 +14974,7 @@ msgstr "Link om in te loggen %s"
 msgid "Link to Microsoft OneDrive"
 msgstr "Koppeling naar Microsoft OneDrive"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:679
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:698
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Links Cleaned"
@@ -15852,7 +15857,7 @@ msgid "Member Notifications"
 msgstr "Kennisgevingen voor leden"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:281
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:119
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:267
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl:544
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:854
@@ -16798,7 +16803,7 @@ msgid ""
 "change your delivery and other subscription options, visit your <a "
 "href=\"%[2]s\"</a>Subscription page</a>."
 msgstr ""
-"Berichten die in deze groep worden geplaatst, worden naar u verzonden op <code>%[1]s</code>. Als u uw bezorging en andere abonnementsopties wilt wijzigen, ga dan naar uw &lt;a href="%[2]s\"</a>Abonnementspagina</a>."
+"Berichten die in deze groep worden geplaatst, worden naar u verzonden op <code>%[1]s</code>. Als u uw bezorging en andere abonnementsopties wilt wijzigen, ga dan naar uw <a href="%[2]s\"</a>Abonnementspagina</a>."
 
 #: ../../cmd/web/views/group/creategroup.qtpl:344
 #, fuzzy
@@ -17282,7 +17287,7 @@ msgstr "Meest recent"
 msgid "Most Recent Login"
 msgstr "Meest recente aanmelding"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:407
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:413
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:549
 #, fuzzy
 #. Automatically translated using DeepL
@@ -18066,8 +18071,8 @@ msgid "Next"
 msgstr "Volgende"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:115
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:229
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:239
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:235
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:245
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:378
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:388
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:98
@@ -18391,8 +18396,8 @@ msgstr "Geen hashtags gebruikt."
 msgid "No wiki pages match that search."
 msgstr "Er zijn geen wikipagina's die aan die zoekopdracht voldoen."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:154
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:170
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:160
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:176
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:304
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:319
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:146
@@ -18851,8 +18856,8 @@ msgstr "Type kennisgeving"
 msgid "Notices"
 msgstr "Mededelingen"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:152
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:168
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:158
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:174
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:302
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:317
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:127
@@ -19028,7 +19033,7 @@ msgstr "Oauth-logins"
 msgid "Oct"
 msgstr "Okt"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:199
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:205
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:111
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:117
@@ -19064,7 +19069,7 @@ msgid "Off"
 msgstr "Uit"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:274
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:688
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:375
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:236
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:377
@@ -20189,8 +20194,8 @@ msgstr "In afwachting van leden"
 msgid "pending members"
 msgstr "in afwachting van leden"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:40
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:66
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:46
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:72
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:180
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:75
 #, fuzzy
@@ -21037,8 +21042,8 @@ msgid "Preview Body"
 msgstr "Voorbeeld Lichaam"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:108
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:208
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:218
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:214
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:224
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:357
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:367
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:91
@@ -21383,7 +21388,7 @@ msgstr "Real-time chat"
 msgid "Reason"
 msgstr "Reden"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:493
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:499
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:847
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:313
 #, fuzzy
@@ -21593,7 +21598,7 @@ msgstr "Registreren via Facebook"
 msgid "Register using Google"
 msgstr "Registreren met Google"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:351
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:482
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:893
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:233
@@ -21602,7 +21607,7 @@ msgstr "Registreren met Google"
 msgid "Reject"
 msgstr "Weiger"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:527
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:546
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "Reject Message"
@@ -21614,6 +21619,7 @@ msgstr "Bericht afwijzen"
 msgid "Reject Messages"
 msgstr "Berichten weigeren"
 
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:529
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:876
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:334
 #, fuzzy
@@ -22025,7 +22031,7 @@ msgstr "Alleen afzender beantwoorden"
 msgid "Reply To"
 msgstr "Antwoord op"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:384
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:390
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:520
 #, fuzzy
 #. Automatically translated using DeepL
@@ -22558,7 +22564,7 @@ msgstr "Zat"
 msgid "Saudi Arabia"
 msgstr "Saoedi-Arabië"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:341
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1142
 #: ../../cmd/web/views/sub/editsub.qtpl:738
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:317
@@ -22947,7 +22953,7 @@ msgstr "Uitnodigingen verzenden bij lid worden"
 msgid "Send Log In Link"
 msgstr "Verzend aanmeldlink"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:131
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1148
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:273
 #, fuzzy
@@ -24656,7 +24662,7 @@ msgid ""
 "this group you must either <a href=\"%[2]s\">Log In</a> or tell us your email "
 "address below."
 msgstr ""
-"Bedankt voor je interesse om lid te worden van %[1]s. Om uw lidmaatschap van deze groep te voltooien moet u &lt;a href="%[2]s\"&gt;Log in</a> of vertel ons uw e-mailadres hieronder."
+"Bedankt voor je interesse om lid te worden van %[1]s. Om uw lidmaatschap van deze groep te voltooien moet u <a href="%[2]s\">Log in</a> of vertel ons uw e-mailadres hieronder."
 
 #: ../../cmd/web/views/sub/joingroup.qtpl:113
 #, fuzzy
@@ -24666,7 +24672,7 @@ msgid ""
 "membership in this group you must either <a href=\"%[2]s\">Log In</a> or tell us "
 "your email address below."
 msgstr ""
-"Bedankt voor je interesse om lid te worden van %[1]s. Om lid te worden van deze groep moet je &lt;a href="%[2]s\"&gt;Log in</a> of je e-mailadres hieronder invullen."
+"Bedankt voor je interesse om lid te worden van %[1]s. Om lid te worden van deze groep moet je <a href="%[2]s\">Log in</a> of je e-mailadres hieronder invullen."
 
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl:69
 #, fuzzy
@@ -24797,7 +24803,7 @@ msgstr ""
 msgid ""
 "That email address is already registered. To use it, <a href=\"%s\">Log In</a>."
 msgstr ""
-"Dat e-mailadres is al geregistreerd. Om het te gebruiken, &lt;a href="%s\"&gt;Log in</a>."
+"Dat e-mailadres is al geregistreerd. Om het te gebruiken, <a href="%s\">Log in</a>."
 
 #: ../../cmd/web/views/account/bouncing.qtpl:88
 #: ../../cmd/web/views/account/needreverification.qtpl:83
@@ -24996,7 +25002,7 @@ msgid ""
 "The address to send an email to the groups is <a "
 "href=\"mailto:%[1]s\">%[1]s</a>."
 msgstr ""
-"Het adres om een e-mail naar de groepen te sturen is &lt;a href="mailto:%[1]s\"&gt;%[1]s</a> ."
+"Het adres om een e-mail naar de groepen te sturen is <a href="mailto:%[1]s\">%[1]s</a> ."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:508
 #, fuzzy
@@ -25814,7 +25820,7 @@ msgstr "De foto was te groot en werd niet toegevoegd."
 msgid "The poll has been closed."
 msgstr "De poll is gesloten."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:506
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:512
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:859
 #, fuzzy
 #. Automatically translated using DeepL
@@ -25841,7 +25847,7 @@ msgstr "De reden voor de bewerking was:"
 msgid "The search produced no results."
 msgstr "De zoekopdracht leverde geen resultaten op."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:431
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:573
 #, fuzzy
 #. Automatically translated using DeepL
@@ -26331,7 +26337,7 @@ msgstr "Dit evenement is geannuleerd."
 msgid "This event has been locked."
 msgstr "Dit evenement is vergrendeld."
 
-#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:817
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:814
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1358
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1376
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1394
@@ -26631,14 +26637,14 @@ msgstr "Dit bericht is ingekort."
 msgid "This message was sent from someone who is not confirmed."
 msgstr "Dit bericht is verzonden door iemand die niet bevestigd is."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:394
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:400
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:530
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "This pending message has been edited."
 msgstr "Dit hangende bericht is bewerkt."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:559
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:578
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:686
 #, fuzzy
 #. Automatically translated using DeepL
@@ -26648,7 +26654,7 @@ msgid ""
 msgstr ""
 "Deze afzender wordt gemodereerd. Als je het bericht goedkeurt, kun je de moderatie ook ongedaan maken."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:645
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:664
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:731
 #, fuzzy
 #. Automatically translated using DeepL
@@ -26901,7 +26907,7 @@ msgstr "Naar lid"
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "To merge these accounts, <a href=\"%s\">click here</a>."
-msgstr "Om deze accounts samen te voegen, &lt;a href="%s\"&gt;klik hier</a>."
+msgstr "Om deze accounts samen te voegen, <a href="%s\">klik hier</a>."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:427
 #, fuzzy
@@ -26980,7 +26986,7 @@ msgid ""
 "To post to the group, send an email to %s or visit the <a href=\"%s\">Post "
 "page</a>."
 msgstr ""
-"Als je een bericht wilt plaatsen in de groep, stuur dan een e-mail naar %s of bezoek de &lt;a href="%s\"&gt;Postpagina</a>."
+"Als je een bericht wilt plaatsen in de groep, stuur dan een e-mail naar %s of bezoek de <a href="%s\">Postpagina</a>."
 
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl:80
 #, fuzzy
@@ -27431,7 +27437,7 @@ msgid ""
 "Trial groups do not have access to direct add. To use this function, you need to "
 "<a href=\"%s\">upgrade to a paid group</a>"
 msgstr ""
-"Proefgroepen hebben geen toegang tot direct toevoegen. Om deze functie te gebruiken moet je &lt;a href="%s\"&gt;upgraden naar een betaalde groep</a>"
+"Proefgroepen hebben geen toegang tot direct toevoegen. Om deze functie te gebruiken moet je <a href="%s\">upgraden naar een betaalde groep</a>"
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:734
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:922
@@ -27607,7 +27613,7 @@ msgstr "Alles uitvinken"
 msgid "Undo All Changes"
 msgstr "Alle wijzigingen ongedaan maken"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:401
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:533
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:536
 #, fuzzy
@@ -28755,8 +28761,8 @@ msgstr "Actie verifiëren"
 msgid "Verify Approval"
 msgstr "Goedkeuring verifiëren"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:547
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:592
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:566
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:611
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:633
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:674
 #, fuzzy
@@ -28764,7 +28770,7 @@ msgstr "Goedkeuring verifiëren"
 msgid "Verify Approve"
 msgstr "Controleren Goedkeuren"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:633
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:652
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:719
 #, fuzzy
 #. Automatically translated using DeepL
@@ -28801,7 +28807,7 @@ msgstr "Controleer sluiting"
 #: ../../cmd/web/views/account/deleteaccount.qtpl:160
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:881
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:113
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:451
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:457
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1218
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:764
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:279
@@ -29050,7 +29056,7 @@ msgid ""
 "href=\"https://groups.io/g/beta/search?q=%23changelog&ct=1\">recent changes and "
 "updates</a>."
 msgstr ""
-"Bekijk een lijst met &lt;a rel="nofollow" href="https://groups.io/g/beta/search?q=%23changelog&amp;ct=1"&gt;recente wijzigingen en updates</a>."
+"Bekijk een lijst met <a rel="nofollow" href="https://groups.io/g/beta/search?q=%23changelog&amp;ct=1">recente wijzigingen en updates</a>."
 
 #: ../../cmd/web/views/user/feed.qtpl:244
 #: ../../cmd/web/views/user/feed.qtpl:296
@@ -29182,7 +29188,7 @@ msgid "View Row"
 msgstr "Bekijk rij"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:518
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:303
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:309
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:421
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:105
 #, fuzzy
@@ -29388,11 +29394,11 @@ msgstr ""
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:460
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:502
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:555
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:600
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:641
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:466
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:508
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:574
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:619
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:660
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:600
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:641
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:682
@@ -29594,7 +29600,7 @@ msgid ""
 "link</a> sent to a list of your friends. And you can always point people to your "
 "group home page: <p><strong><a href=\"%[2]s\">%[2]s</a></strong></p>"
 msgstr ""
-"We maken het makkelijk om een &lt;a href="%[1]s\"&gt;aangepaste e-mail met een uitnodigingslink</a> te sturen naar een lijst van je vrienden. En je kunt mensen altijd verwijzen naar de startpagina van je groep: <p><strong>&lt;a href="%[2]s\"&gt;%[2]s</a></strong>"
+"We maken het makkelijk om een <a href="%[1]s\">aangepaste e-mail met een uitnodigingslink</a> te sturen naar een lijst van je vrienden. En je kunt mensen altijd verwijzen naar de startpagina van je groep: <p><strong><a href="%[2]s\">%[2]s</a></strong>"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl:292
 #, fuzzy
@@ -30382,7 +30388,7 @@ msgstr "zal bijwonen"
 msgid "Will be appended to the subject line of the emails."
 msgstr "Wordt toegevoegd aan de onderwerpregel van de e-mails."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:361
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:367
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:497
 #, fuzzy
 #. Automatically translated using DeepL
@@ -30522,8 +30528,8 @@ msgstr "Jemen"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:813
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:873
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:203
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:473
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:613
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:479
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:632
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1235
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1279
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1327
@@ -30920,7 +30926,7 @@ msgstr ""
 msgid ""
 "You are subscribed to the <a href=\"%[1]s\">%[2]s</a> group. Check it out."
 msgstr ""
-"Je bent geabonneerd op de &lt;a href="%[1]s\"&gt;%[2]s</a> groep. Bekijk het."
+"Je bent geabonneerd op de <a href="%[1]s\">%[2]s</a> groep. Bekijk het."
 
 #: ../../cmd/web/views/group/grouphome.qtpl:526
 #, fuzzy
@@ -30978,7 +30984,7 @@ msgstr ""
 #, fuzzy
 #. Automatically translated using DeepL
 msgid "You can <a href=\"%s\">update your response</a> at any time."
-msgstr "Je kunt &lt;a href="%s\"&gt;je reactie</a> op elk moment bijwerken."
+msgstr "Je kunt <a href="%s\">je reactie</a> op elk moment bijwerken."
 
 #: ../../cmd/web/views/static/staticpricing.qtpl:303
 #, fuzzy
@@ -31125,7 +31131,7 @@ msgid ""
 "href=\"%[1]s\">%[1]s</a>. If it's your first time logging in or you have "
 "forgotten your password, please use the \"email me a link to login\" button."
 msgstr ""
-"Je kunt je groep bezoeken, berichten lezen en ze hier posten: &lt;a href="%[1]s\"&gt;%[1]s</a> . Als het de eerste keer is dat je inlogt of je bent je wachtwoord vergeten, gebruik dan de knop "E-mail me een link om in te loggen"."
+"Je kunt je groep bezoeken, berichten lezen en ze hier posten: <a href="%[1]s\">%[1]s</a> . Als het de eerste keer is dat je inlogt of je bent je wachtwoord vergeten, gebruik dan de knop "E-mail me een link om in te loggen"."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:555
 #, fuzzy
@@ -31246,7 +31252,7 @@ msgid ""
 "Email Service Provider reported to us that message <a "
 "href=\"%[2]s/message/%[3]d\">%[4]s</a> has been marked as spam."
 msgstr ""
-"U bent <strong>automatisch</strong> verwijderd van %[1]s omdat uw E-mail Service Provider ons heeft gemeld dat het bericht &lt;a href="%[2]s/message/%[3]d\"&gt;%[4]s</a> is gemarkeerd als spam."
+"U bent <strong>automatisch</strong> verwijderd van %[1]s omdat uw E-mail Service Provider ons heeft gemeld dat het bericht <a href="%[2]s/message/%[3]d\">%[4]s</a> is gemarkeerd als spam."
 
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl:86
 #, fuzzy
@@ -31257,7 +31263,7 @@ msgid ""
 "time logging in or if you have forgotten your password. You can do this in the "
 "future using the \"email me a link to login\" button on the Login page."
 msgstr ""
-"U bent toegevoegd door het %[1]s team aan %[2]s. U kunt &lt;a href="%[3]s\"&gt;deze link</a> de komende 24 uur gebruiken om in te loggen als het de eerste keer is dat u inlogt of als u uw wachtwoord bent vergeten. Je kunt dit in de toekomst ook doen met de knop "E-mail mij een link om in te loggen" op de inlogpagina."
+"U bent toegevoegd door het %[1]s team aan %[2]s. U kunt <a href="%[3]s\">deze link</a> de komende 24 uur gebruiken om in te loggen als het de eerste keer is dat u inlogt of als u uw wachtwoord bent vergeten. Je kunt dit in de toekomst ook doen met de knop "E-mail mij een link om in te loggen" op de inlogpagina."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:88
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:90
@@ -31265,7 +31271,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "You have been added by the %[1]s Team to <a href=\"%[2]s\">%[3]s</a>"
 msgstr ""
-"U bent toegevoegd door het %[1]s team aan &lt;a href="%[2]s\"&gt;.%[3]s</a>"
+"U bent toegevoegd door het %[1]s team aan <a href="%[2]s\">.%[3]s</a>"
 
 #: ../../pkg/notifications/noteviews/subgroupdirectadd.qtpl:51
 #, fuzzy
@@ -31274,7 +31280,7 @@ msgid ""
 "You have been added by the moderators to their %[1]s group <a "
 "href=\"%[2]s\">%[3]s</a>."
 msgstr ""
-"Je bent toegevoegd door de beheerders aan hun groep %[1]s &lt;a href="%[2]s\"&gt;%[3]s</a> ."
+"Je bent toegevoegd door de beheerders aan hun groep %[1]s <a href="%[2]s\">%[3]s</a> ."
 
 #: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl:72
 #, fuzzy
@@ -31506,7 +31512,7 @@ msgid ""
 "You have the maximum number of integrations already. For more integrations, you "
 "must <a href=\"%s\">upgrade your group</a>."
 msgstr ""
-"Je hebt al het maximale aantal integraties. Voor meer integraties moet je &lt;a href="%s\"&gt;upgrade je groep</a>."
+"Je hebt al het maximale aantal integraties. Voor meer integraties moet je <a href="%s\">upgrade je groep</a>."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:552
 #, fuzzy
@@ -32571,7 +32577,7 @@ msgid ""
 "Your subscription to the <a href=\"%[1]s\">%[2]s</a> group is awaiting moderator "
 "approval."
 msgstr ""
-"Uw inschrijving voor de &lt;a href="%[1]s\"&gt;%[2]s</a> groep wacht op goedkeuring van de moderator."
+"Uw inschrijving voor de <a href="%[1]s\">%[2]s</a> groep wacht op goedkeuring van de moderator."
 
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl:78
 #, fuzzy

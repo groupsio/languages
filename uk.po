@@ -1606,7 +1606,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this file</a> is "
 "objectionable."
 msgstr ""
-"%[1]s хоче повідомити вам, що &lt;a href=\"%[2]s\"&gt;цей файл</a> є небажаним&lt;/a&gt;."
+"%[1]s хоче повідомити вам, що <a href=\"%[2]s\">цей файл</a> є небажаним</a>."
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:88
 #, fuzzy
@@ -1615,7 +1615,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this message</a> is "
 "objectionable."
 msgstr ""
-"%[1]s хоче повідомити вам, що &lt;a href=\"%[2]s\"&gt;це повідомлення</a> &lt;/a&gt; є неприйнятним."
+"%[1]s хоче повідомити вам, що <a href=\"%[2]s\">це повідомлення</a> </a> є неприйнятним."
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:104
 #, fuzzy
@@ -1624,7 +1624,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this photo</a> is "
 "objectionable."
 msgstr ""
-"%[1]s хоче повідомити вам, що &lt;a href=\"%[2]s\"&gt;ця фотографія</a> &lt;/a&gt; є неприйнятною."
+"%[1]s хоче повідомити вам, що <a href=\"%[2]s\">ця фотографія</a> </a> є неприйнятною."
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl:120
 #, fuzzy
@@ -1633,7 +1633,7 @@ msgid ""
 "%[1]s wishes to inform you that <a href=\"%[2]s\">this profile</a> is "
 "objectionable."
 msgstr ""
-"%[1]s хоче повідомити вам, що &lt;a href=\"%[2]s\"&gt;цей профіль</a> &lt;/a&gt; є небажаним."
+"%[1]s хоче повідомити вам, що <a href=\"%[2]s\">цей профіль</a> </a> є небажаним."
 
 #: ../../tools/genactivities/activities.hjson:2670
 #, fuzzy
@@ -2664,7 +2664,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>Привіт [Ім'я], <p>Вас було додано командою %[1]s до &lt;a href=\"%[2]s\"&gt;%[3]s</a> . Ви можете використовувати [це посилання] протягом наступних 24 годин для входу в систему, якщо ви входите вперше або якщо ви забули свій пароль. Ви можете зробити це в майбутньому, використовуючи кнопку \"надішліть мені посилання для входу\" на сторінці "Вхід". <p>Електронна пошта для цієї групи: %[4]s. %[5]s <p>Але найголовніше, будь ласка, додайте цю адресу до списку безпечних відправників у контактах вашого поштового клієнта. Якщо ви виявите, що листи з цієї групи потрапляють у спам, промо- або соціальні папки, перемістіть їх до основної скриньки "Вхідні", щоб ви могли навчити свій поштовий клієнт надсилати їх безпосередньо до вашої скриньки. <div id=\"custom_message\"></div> <p>Якщо це була помилка, перейдіть за наступним посиланням, і вона буде негайно видалена: <p style=\"text-decoration: underline\">Скасувати підписку <p>Команда %[1]s "
+"<p>Привіт [Ім'я], <p>Вас було додано командою %[1]s до <a href=\"%[2]s\">%[3]s</a> . Ви можете використовувати [це посилання] протягом наступних 24 годин для входу в систему, якщо ви входите вперше або якщо ви забули свій пароль. Ви можете зробити це в майбутньому, використовуючи кнопку \"надішліть мені посилання для входу\" на сторінці "Вхід". <p>Електронна пошта для цієї групи: %[4]s. %[5]s <p>Але найголовніше, будь ласка, додайте цю адресу до списку безпечних відправників у контактах вашого поштового клієнта. Якщо ви виявите, що листи з цієї групи потрапляють у спам, промо- або соціальні папки, перемістіть їх до основної скриньки "Вхідні", щоб ви могли навчити свій поштовий клієнт надсилати їх безпосередньо до вашої скриньки. <div id=\"custom_message\"></div> <p>Якщо це була помилка, перейдіть за наступним посиланням, і вона буде негайно видалена: <p style=\"text-decoration: underline\">Скасувати підписку <p>Команда %[1]s "
 
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
 #. 									The message is sent in HTML format, so you can use HTML tags to format the message.
@@ -2798,7 +2798,7 @@ msgstr ""
 #. Automatically translated using DeepL
 msgid "[%[1]s] Card \"%[2]s\" was renamed to \"<a href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Картку \"%[2]s\" перейменовано на \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Картку \"%[2]s\" перейменовано на \"<a href=\"%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:166
 #, fuzzy
@@ -2867,7 +2867,7 @@ msgid ""
 "[%[1]s] New checklist item \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Новий пункт контрольного списку \"%[2]s\" додано до картки \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Новий пункт контрольного списку \"%[2]s\" додано до картки \"<a href=\"%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:195
 #, fuzzy
@@ -2882,7 +2882,7 @@ msgid ""
 "[%[1]s] The %[2]s label \"%[3]s\" was added to the card \"<a "
 "href=\"%[4]s\">%[5]s</a>\"."
 msgstr ""
-"[%[1]s] Мітку %[2]s \"%[3]s\" додано до картки \"&lt;a href=\"%[4]s\"&gt;%[5]s</a> \"."
+"[%[1]s] Мітку %[2]s \"%[3]s\" додано до картки \"<a href=\"%[4]s\">%[5]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:221
 #, fuzzy
@@ -2891,7 +2891,7 @@ msgid ""
 "[%[1]s] The %[2]s label \"%[3]s\" was removed from the card \"<a "
 "href=\"%[4]s\">%[5]s</a>\"."
 msgstr ""
-"[%[1]s] Мітку %[2]s \"%[3]s\" було видалено з картки \"&lt;a href=\"%[4]s\"&gt;%[5]s</a> \"."
+"[%[1]s] Мітку %[2]s \"%[3]s\" було видалено з картки \"<a href=\"%[4]s\">%[5]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:234
 #, fuzzy
@@ -2900,7 +2900,7 @@ msgid ""
 "[%[1]s] The %[2]s label was added to the card \"<a href=\"%[3]s\">%[4]s</"
 "a>\"."
 msgstr ""
-"[%[1]s] Мітку %[2]s додано до картки \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Мітку %[2]s додано до картки \"<a href=\"%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:224
 #, fuzzy
@@ -2950,7 +2950,7 @@ msgid ""
 "[%[1]s] The checklist item \"%[2]s\" on card \"<a href=\"%[3]s\">%[4]s</a>\" "
 "was marked incomplete."
 msgstr ""
-"[%[1]s] Пункт контрольного списку \"%[2]s\" на картці \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \" було позначено як неповний."
+"[%[1]s] Пункт контрольного списку \"%[2]s\" на картці \"<a href=\"%[3]s\">%[4]s</a> \" було позначено як неповний."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:208
 #, fuzzy
@@ -2982,7 +2982,7 @@ msgid ""
 "[%[1]s] The member \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Учасника \"%[2]s\" було додано до картки \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Учасника \"%[2]s\" було додано до картки \"<a href=\"%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:244
 #, fuzzy
@@ -2991,7 +2991,7 @@ msgid ""
 "[%[1]s] The member \"%[2]s\" was removed from the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] Учасника \"%[2]s\" було видалено з картки \"&lt;a href=\"%[3]s\"&gt;%[4]s</a> \"."
+"[%[1]s] Учасника \"%[2]s\" було видалено з картки \"<a href=\"%[3]s\">%[4]s</a> \"."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl:190
 #, fuzzy
@@ -3552,8 +3552,8 @@ msgstr "Додати інтеграцію з Google Диском"
 msgid "Add Group Alias"
 msgstr "Додати псевдонім групи"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:711
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:732
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:730
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:751
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1144
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:1165
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:229
@@ -3627,7 +3627,7 @@ msgstr "Add Sidebar"
 msgid "Add Subgroup Category"
 msgstr "Додати підгрупу Категорія"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:259
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:265
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl:125
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl:81
 #: ../../cmd/web/views/post/grouppost.qtpl:181
@@ -3987,7 +3987,7 @@ msgstr ""
 "Усі повідомлення повинні мати принаймні один хештег."
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:296
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:428
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:434
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:570
 #, fuzzy
 msgid "All Messages By This Member"
@@ -4513,10 +4513,10 @@ msgstr ""
 msgid "Approvals Needed"
 msgstr "Необхідні дозволи"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:313
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:318
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:319
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:324
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:329
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:330
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:432
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:443
@@ -4526,13 +4526,13 @@ msgstr "Необхідні дозволи"
 msgid "Approve"
 msgstr "Затвердити"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:658
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:677
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:744
 #, fuzzy
 msgid "Approve & Add Sender"
 msgstr "Схвалити та додати відправника"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:572
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:591
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:699
 #, fuzzy
 msgid "Approve & Unmoderate Sender"
@@ -4552,8 +4552,8 @@ msgstr ""
 msgid "Approve And Unmoderate"
 msgstr "Схвалювати та немодернізувати"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:568
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:654
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:587
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:673
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:695
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:740
 #, fuzzy
@@ -4672,7 +4672,7 @@ msgstr ""
 "Ви впевнені, що хочете вийти зі спільноти %s? Вийшовши з Основної групи, ви "
 "також вийдете з усіх інших груп %s."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:604
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:623
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:645
 #, fuzzy
 msgid "Are you sure you wish to approve this message?"
@@ -4817,7 +4817,7 @@ msgstr ""
 "Ви впевнені, що хочете видалити це повідомлення, не надсилаючи його до групи "
 "і не повідомляючи відправника?"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:464
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:470
 #, fuzzy
 msgid ""
 "Are you sure you wish to delete this message without sending it to the group?"
@@ -5538,8 +5538,8 @@ msgid "Ban Members (also allows access to the member list)"
 msgstr ""
 "Заборонити користувачів (також дозволяє доступ до списку користувачів)"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:133
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:184
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:139
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:190
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:281
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:333
 #, fuzzy
@@ -5671,7 +5671,7 @@ msgstr ""
 msgid "BCC Me"
 msgstr "BCC Мені"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:516
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:522
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:869
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:327
 #: ../../cmd/web/views/post/groupposttosub.qtpl:241
@@ -5679,7 +5679,7 @@ msgstr "BCC Мені"
 msgid "Bcc: All Moderators"
 msgstr "Bcc: Всім модераторам"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:511
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:517
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:864
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:322
 #: ../../cmd/web/views/post/groupposttosub.qtpl:236
@@ -6438,13 +6438,13 @@ msgstr "Канада"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:869
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:178
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:207
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:339
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:469
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:523
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:564
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:609
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:650
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:728
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:475
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:542
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:583
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:628
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:669
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:747
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1197
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1231
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1275
@@ -6935,7 +6935,7 @@ msgid "Chats must be tagged with at least one hashtag."
 msgstr ""
 "Чати повинні бути позначені принаймні одним хештегом."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:287
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:293
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:153
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7092,7 +7092,7 @@ msgstr "Claim Sub"
 msgid "Claimed by"
 msgstr "Заявлено користувачем"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:389
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:525
 #, fuzzy
 #. Automatically translated using DeepL
@@ -7165,13 +7165,13 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:770
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:829
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:190
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:447
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:489
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:543
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:588
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:629
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:675
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:453
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:495
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:562
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:607
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:648
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:694
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:726
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1214
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1255
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1299
@@ -7679,7 +7679,7 @@ msgstr "Острови Кука"
 msgid "Cookie Policy"
 msgstr "Політика щодо файлів cookie"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:111
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:117
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:259
 #, fuzzy
 msgid "Copy Email Address"
@@ -8164,7 +8164,7 @@ msgstr "Бази даних вимкнено"
 #: ../../cmd/web/views/account/settings.qtpl:1510
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl:103
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:631
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:404
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:410
 #: ../../cmd/web/views/groupadmin/groupownermsgs.qtpl:104
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:546
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:105
@@ -8295,7 +8295,7 @@ msgid "Deferred"
 msgstr "Відкладено"
 
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:59
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:350
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:356
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:486
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:237
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl:114
@@ -9452,14 +9452,20 @@ msgstr "Редагувати повідомлення"
 msgid "Edit Notice"
 msgstr "Редагувати оголошення"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:368
-#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:374
 #, fuzzy
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</>"
 msgstr ""
-"Редагування існуючого повідомлення <a href='%[1]s'>#%[2]d&lt;/&gt"
+"Редагування існуючого повідомлення <a href='%[1]s'>#%[2]d</&gt"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:366
+#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:504
+#, fuzzy
+#. Automatically translated using DeepL
+msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a>"
+msgstr ""
+"Редагування існуючого повідомлення <a href='%[1]s'>#%[2]d</a>"
+
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:372
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:502
 #, fuzzy
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a> by %[3]s"
@@ -11381,7 +11387,7 @@ msgid "Group Message"
 msgstr "Повідомлення групи"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:238
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:89
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:95
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:227
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:158
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:196
@@ -12700,7 +12706,7 @@ msgid ""
 "If you would like to increase the amount of storage space available for your "
 "group, please visit our plans page <a href=\"%s\">here</a>."
 msgstr ""
-"Якщо ви бажаєте збільшити кількість доступного для вашої групи простору, будь ласка, відвідайте нашу сторінку з планами &lt;a href=\"%s\"&gt;тут&lt;/a&gt;</a>."
+"Якщо ви бажаєте збільшити кількість доступного для вашої групи простору, будь ласка, відвідайте нашу сторінку з планами <a href=\"%s\">тут</a></a>."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl:168
 #, fuzzy
@@ -13095,8 +13101,8 @@ msgstr "Вставити зображення"
 msgid "Insert Link To Wiki Page"
 msgstr "Вставити посилання на вікі-сторінку"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:150
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:166
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:156
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:172
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:300
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:315
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:132
@@ -13990,7 +13996,7 @@ msgstr "Посилання для входу %s"
 msgid "Link to Microsoft OneDrive"
 msgstr "Посилання на Microsoft OneDrive"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:679
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:698
 #, fuzzy
 msgid "Links Cleaned"
 msgstr "Посилання очищено"
@@ -14767,7 +14773,7 @@ msgid "Member Notifications"
 msgstr "Сповіщення учасників"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:281
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:119
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:267
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl:544
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl:854
@@ -15701,7 +15707,7 @@ msgid ""
 msgstr ""
 "Повідомлення, опубліковані в цій групі, будуть надіслані вам на <code>%[1]s</"
 "code>. Щоб змінити спосіб доставки та інші параметри підписки, відвідайте "
-"вашу &lt;a href=\"%[2]s\"</a>сторінку підписки</a>."
+"вашу <a href=\"%[2]s\"</a>сторінку підписки</a>."
 
 #: ../../cmd/web/views/group/creategroup.qtpl:344
 #, fuzzy
@@ -16128,7 +16134,7 @@ msgstr "Останніх"
 msgid "Most Recent Login"
 msgstr "Останній вхід"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:407
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:413
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:549
 #, fuzzy
 msgid "Most Recent Messages"
@@ -16799,8 +16805,8 @@ msgid "Next"
 msgstr "Далі"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:115
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:229
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:239
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:235
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:245
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:378
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:388
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:98
@@ -17080,8 +17086,8 @@ msgid "No wiki pages match that search."
 msgstr ""
 "Жодна вікі-сторінка не відповідає цьому пошуку."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:154
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:170
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:160
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:176
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:304
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:319
 #: ../../cmd/web/views/user/pendingmsgs.qtpl:146
@@ -17515,8 +17521,8 @@ msgstr "Тип повідомлення"
 msgid "Notices"
 msgstr "Оповіщення"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:152
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:168
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:158
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:174
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:302
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:317
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:127
@@ -17674,7 +17680,7 @@ msgstr "Логіни Oauth"
 msgid "Oct"
 msgstr "Жов"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:199
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:205
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:348
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:111
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl:117
@@ -17705,7 +17711,7 @@ msgid "Off"
 msgstr "Викл"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:274
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:688
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:707
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:375
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:236
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl:377
@@ -18719,8 +18725,8 @@ msgstr "Члени, які очікують на вступ"
 msgid "pending members"
 msgstr "Члени, які очікують на вступ"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:40
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:66
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:46
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:72
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:180
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl:75
 #, fuzzy
@@ -19496,8 +19502,8 @@ msgid "Preview Body"
 msgstr "Попередній перегляд тіла"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl:108
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:208
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:218
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:214
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:224
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:357
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:367
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl:91
@@ -19785,7 +19791,7 @@ msgstr "Чат в реальному часі"
 msgid "Reason"
 msgstr "Причина"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:493
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:499
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:847
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:313
 #, fuzzy
@@ -19993,14 +19999,14 @@ msgstr "Зареєструйтесь за допомогою Facebook"
 msgid "Register using Google"
 msgstr "Зареєструйтеся за допомогою Google"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:345
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:351
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:482
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:893
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:233
 msgid "Reject"
 msgstr "Відхилити"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:527
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:546
 #, fuzzy
 msgid "Reject Message"
 msgstr "Відхилити повідомлення"
@@ -20010,6 +20016,7 @@ msgstr "Відхилити повідомлення"
 msgid "Reject Messages"
 msgstr "Відхилити повідомлення"
 
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:529
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:876
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:334
 #, fuzzy
@@ -20390,7 +20397,7 @@ msgstr "Відповідати тільки відправнику"
 msgid "Reply To"
 msgstr "У відповідь на"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:384
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:390
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:520
 #, fuzzy
 #. Automatically translated using DeepL
@@ -20839,7 +20846,7 @@ msgstr "Сб"
 msgid "Saudi Arabia"
 msgstr "Саудівська Аравія"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:335
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:341
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1142
 #: ../../cmd/web/views/sub/editsub.qtpl:738
 #: ../../cmd/web/views/sub/joinedgroup.qtpl:317
@@ -21191,7 +21198,7 @@ msgstr "Надіслати запрошення приєднатися"
 msgid "Send Log In Link"
 msgstr "Надіслати посилання для входу"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:125
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:131
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1148
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:273
 msgid "Send Message"
@@ -22975,7 +22982,7 @@ msgid ""
 "The address to send an email to the groups is <a href=\"mailto:"
 "%[1]s\">%[1]s</a>."
 msgstr ""
-"Адреса для надсилання електронного листа до груп: &lt;a href=\"mailto:%[1]s\"&gt;%[1]s</a> ."
+"Адреса для надсилання електронного листа до груп: <a href=\"mailto:%[1]s\">%[1]s</a> ."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl:508
 #, fuzzy
@@ -23760,7 +23767,7 @@ msgstr ""
 msgid "The poll has been closed."
 msgstr "Опитування закрито."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:506
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:512
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:859
 #, fuzzy
 msgid ""
@@ -23784,7 +23791,7 @@ msgstr "Причиною редагування є наступне:"
 msgid "The search produced no results."
 msgstr "Пошуки не дали результатів."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:431
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:437
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:573
 #, fuzzy
 msgid "The sender has never sent a message."
@@ -24245,7 +24252,7 @@ msgstr "Цей захід скасовано."
 msgid "This event has been locked."
 msgstr "Цю подію заблоковано."
 
-#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:817
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl:814
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1358
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1376
 #: ../../cmd/web/qtutils/tabletemplates.qtpl:1394
@@ -24527,14 +24534,14 @@ msgid "This message was sent from someone who is not confirmed."
 msgstr ""
 "Це повідомлення було надіслано від особи, яка не підтверджена."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:394
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:400
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:530
 #, fuzzy
 msgid "This pending message has been edited."
 msgstr ""
 "Членство, що знаходиться на розгляді, було відхилено."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:559
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:578
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:686
 #, fuzzy
 msgid ""
@@ -24544,7 +24551,7 @@ msgstr ""
 "Цей відправник модерується. Схвалюючи повідомлення, ви також можете зняти "
 "його з модерації."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:645
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:664
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:731
 #, fuzzy
 msgid ""
@@ -25412,7 +25419,7 @@ msgstr "Зняти всі галочки"
 msgid "Undo All Changes"
 msgstr "Скасувати всі зміни"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:395
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:401
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:533
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:536
 #, fuzzy
@@ -26440,15 +26447,15 @@ msgstr "Підтвердити дію"
 msgid "Verify Approval"
 msgstr "Підтвердити схвалення"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:547
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:592
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:566
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:611
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:633
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:674
 #, fuzzy
 msgid "Verify Approve"
 msgstr "Перевірити Схвалити"
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:633
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:652
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:719
 #, fuzzy
 msgid "Verify Approve & Add Member"
@@ -26481,7 +26488,7 @@ msgstr "Підтвердити закриття"
 #: ../../cmd/web/views/account/deleteaccount.qtpl:160
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:881
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl:113
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:451
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:457
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1218
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:764
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl:279
@@ -26809,7 +26816,7 @@ msgid "View Row"
 msgstr "Рядок перегляду"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl:518
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:303
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:309
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:421
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl:105
 #, fuzzy
@@ -26989,11 +26996,11 @@ msgstr ""
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
 #. TRANSLATORS: %[1]s is the name of the person who claimed the message. %[2]s is the date that the message was claimed.
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:460
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:502
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:555
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:600
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:641
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:466
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:508
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:574
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:619
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:660
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:600
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:641
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:682
@@ -27950,7 +27957,7 @@ msgstr "будуть присутні"
 msgid "Will be appended to the subject line of the emails."
 msgstr "Буде додано до теми листа."
 
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:361
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:367
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl:497
 #, fuzzy
 msgid "Will be sent as a special message."
@@ -28077,8 +28084,8 @@ msgstr "Йемен"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:813
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl:873
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl:203
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:473
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:613
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:479
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl:632
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1235
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1279
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl:1327
@@ -28810,7 +28817,7 @@ msgid ""
 "this in the future using the \"email me a link to login\" button on the "
 "Login page."
 msgstr ""
-"Ви були додані командою %[1]s до %[2]s. Ви можете скористатися &lt;a href=\"%[3]s\"&gt;цим посиланням</a> протягом наступних 24 годин, щоб увійти в систему, якщо ви входите в систему вперше або якщо ви забули свій пароль. Ви можете зробити це в майбутньому, скориставшись кнопкою \"надішліть мені посилання для входу\" на сторінці "Вхід"."
+"Ви були додані командою %[1]s до %[2]s. Ви можете скористатися <a href=\"%[3]s\">цим посиланням</a> протягом наступних 24 годин, щоб увійти в систему, якщо ви входите в систему вперше або якщо ви забули свій пароль. Ви можете зробити це в майбутньому, скориставшись кнопкою \"надішліть мені посилання для входу\" на сторінці "Вхід"."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:88
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl:90
