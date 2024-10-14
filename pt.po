@@ -28,9 +28,9 @@ msgstr "# Doações"
 msgid "# Members"
 msgstr "# Membros"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "#%#[1]d %[2]s"
 msgstr "#%#[1]d %[2]s"
 
@@ -122,141 +122,141 @@ msgstr ""
 "2.200 $/aÃ±o para un mÃ¡ximo de 1.000 miembros; cada miembro adicional, 2,20 "
 "$/aÃ±o"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added %[2]s"
 msgstr "%[1]s acrescentou %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added %[2]s with message \"%[3]s\""
 msgstr "%[1]s adicionou %[2]s com a mensagem \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added alias %[2]s"
 msgstr "%[1]s adicionou o pseudónimo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added banned domain %[2]s"
 msgstr "%[1]s adicionou o domínio proibido %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added Email integration %[2]s"
 msgstr "%[1]s adicionou a integração do correio eletrónico %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added event %[2]s"
 msgstr "%[1]s adicionou o evento %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added Facebook Page %[2]s"
 msgstr "%[1]s adicionou a página do Facebook %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added feed %[2]s"
 msgstr "%[1]s adicionou o feed %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added file (%[2]s) %[3]s"
 msgstr "%[1]s ficheiro adicionado (%[2]s) %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added folder %[2]s"
 msgstr "%[1]s adicionou a pasta %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added Github repository %[2]s"
 msgstr "%[1]s adicionou o repositório Github %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added group alias %[2]s"
 msgstr "%[1]s adicionou o nome de grupo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added hashtag %[2]s"
 msgstr "%[1]s adicionou a hashtag %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added image \"%[2]s\" to the wiki images area"
 msgstr "%[1]s adicionou a imagem \"%[2]s\" à área de imagens do wiki"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added instagram user %[2]s"
 msgstr "%[1]s adicionou o utilizador de instagram %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added member notice %[2]s"
 msgstr "%[1]s adicionou aviso de membro %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added photo %[2]s"
 msgstr "%[1]s adicionou a fotografia %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added photo album %[2]s"
 msgstr "%[1]s adicionou o álbum de fotografias %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added repeating event %[2]s"
 msgstr "%[1]s adicionou um evento de repetição %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added row id %#[2]d of table %[3]s"
 msgstr "%[1]s adicionou a linha id %#[2]d da tabela %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added table %[2]s"
 msgstr "%[1]s adicionou a tabela %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added Trello board %[2]s"
 msgstr "%[1]s adicionou o quadro Trello %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s added wiki page %[2]s"
 msgstr "%[1]s adicionou a página wiki %[2]s"
 
@@ -270,139 +270,139 @@ msgstr ""
 "estÃ¡ restringido, tendão que aprobar su suscripción antes de que puedan "
 "unirse."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s"
 msgstr "%[1]s aprovado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s's membership"
 msgstr "%[1]s aprovou a adesão de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s's message"
 msgstr "%[1]s aprovou a mensagem de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved %[2]s's special notice"
 msgstr "%[1]s aprovou o aviso especial de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved an edit of %[2]s"
 msgstr "%[1]s aprovou uma edição de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved an edit of %[2]s's message"
 msgstr "%[1]s aprovou uma edição da mensagem de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s approved an edit of %[2]s's special notice"
 msgstr "%[1]s aprovou uma edição do anúncio especial de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to add the file \"%[2]s\" that had the %[3]s virus"
 msgstr "%[1]s tentou adicionar o ficheiro \"%[2]s\" que tinha o vírus %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" but it had the %[3]s virus"
 msgstr "%[1]s tentou enviar a mensagem \"%[2]s\" mas tinha o vírus %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" that was too large"
 msgstr "%[1]s tentou enviar a mensagem \"%[2]s\" que era demasiado grande"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" with a new tag"
 msgstr "%[1]s tentou enviar a mensagem \"%[2]s\" com uma nova etiqueta"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s attempted to send message \"%[2]s\" with a tag that only moderators can "
 "use"
 msgstr ""
 "%[1]s tentativa de enviar a mensagem \"%[2]s\" com uma etiqueta que só os moderadores podem utilizar"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" with attachments"
 msgstr "%[1]s tentou enviar a mensagem \"%[2]s\" com anexos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" without any tags"
 msgstr "%[1]s tentou enviar a mensagem \"%[2]s\" sem quaisquer etiquetas"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send message \"%[2]s\" without posting permissions"
 msgstr ""
 "%[1]s tentou enviar a mensagem \"%[2]s\" sem permissões de publicação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send spam message %[2]s to owners"
 msgstr "%[1]s tentou enviar uma mensagem de spam %[2]s aos proprietários"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s attempted to send spam message \"%[2]s\" to owners"
 msgstr "%[1]s tentou enviar a mensagem de spam \"%[2]s\" aos proprietários"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s banned %[2]s"
 msgstr "%[1]s banido %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s banned %[2]s because %[3]s"
 msgstr "%[1]s proibiu %[2]s porque %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s canceled event %[2]s"
 msgstr "%[1]s cancelou o evento %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's color"
 msgstr "%[1]s mudou a cor de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s'"
 msgstr ""
 "%[1]s alterou o nome de apresentação de %[2]s de \"%[3]s\" para \"%[4]s"
@@ -420,9 +420,9 @@ msgid "%[1]s changed %[2]s's display name to '%[3]s' in group %[4]s"
 msgstr ""
 "%[1]s alterou o nome de exibição de %[2]s para '%[3]s' no grupo %[4]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's email address from %[3]s"
 msgstr ""
 "%[1]s alterou o endereço de correio eletrónico de %[2]s em relação a %[3]s"
@@ -449,125 +449,125 @@ msgid "%[1]s changed %[2]s's email address from %[3]s to %[4]s in group %[5]s"
 msgstr ""
 "%[1]s alterou o endereço de e-mail de %[2]s de %[3]s para %[4]s no grupo %[5]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's extra member field \"%[3]s\""
 msgstr "%[1]s modificou o campo de membro extra de %[2]s \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's message delivery"
 msgstr "%[1]s alterou a entrega de mensagens de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's message delivery to"
 msgstr "O %[1]s alterou a entrega de mensagens do %[2]s para"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's moderator permissions"
 msgstr "%[1]s alterou as permissões de moderador de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's notification settings"
 msgstr "%[1]s alterou as definições de notificação de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's posting status"
 msgstr "%[1]s alterou o estado de lançamento de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's posting status to"
 msgstr "%[1]s alterou o estado de destacamento de %[2]s para"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's RSVP for event %[3]s to"
 msgstr "%[1]s alterou o RSVP de %[2]s para o evento %[3]s para"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed %[2]s's signature settings"
 msgstr "%[1]s alterou as definições de assinatura de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed email address from %[2]s to %[3]s"
 msgstr "%[1]s mudou o endereço de correio eletrónico de %[2]s para %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed group plan to %[2]s"
 msgstr "%[1]s mudou o plano de grupo para %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s"
 msgstr "%[1]s alterou a \"resposta a\" do tópico %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply only to sender'"
 msgstr ""
 "%[1]s alterou o \"responder a\" do tópico %[2]s para \"responder apenas ao remetente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s changed the 'reply to' for topic %[2]s to 'reply to group & sender'"
 msgstr ""
 "%[1]s mudou a opção "responder a" do tópico %[2]s para "responder ao grupo e ao remetente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply to group'"
 msgstr ""
 "%[1]s alterou o \"responder a\" do tópico %[2]s para \"responder ao grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply to moderators'"
 msgstr ""
 "%[1]s alterou o \"responder a\" do tópico %[2]s para \"responder aos moderadores"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed the 'reply to' for topic %[2]s to 'reply to sender'"
 msgstr ""
 "%[1]s alterou o \"responder a\" do tópico %[2]s para \"responder ao remetente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s changed the 'reply to' for topic %[2]s to 'reply to topic followers only'"
 msgstr ""
 "%[1]s alterou a opção "responder a" do tópico %[2]s para "responder apenas aos seguidores do tópico"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed their display name from '%[2]s' to '%[3]s'"
 msgstr "%[1]s alterou o seu nome de apresentação de \"%[2]s\" para \"%[3]s"
 
@@ -604,51 +604,51 @@ msgid "%[1]s changed their email address from %[2]s to %[3]s in group %[4]s"
 msgstr ""
 "%[1]s alterou seu endereço de e-mail de %[2]s para %[3]s no grupo %[4]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed their username from @%[2]s to @%[3]s"
 msgstr "%[1]s alterou o seu nome de utilizador de @%[2]s para @%[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed their username to @%[2]s"
 msgstr "%[1]s alterou o seu nome de utilizador para @%[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s changed topic subject from \"%[2]s\" to %[3]s"
 msgstr "%[1]s mudou o assunto do tópico de \"%[2]s\" para %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s claimed pending member %[2]s"
 msgstr "%[1]s reivindicou o membro pendente %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s claimed pending message \"%[2]s\""
 msgstr "%[1]s reclamou a mensagem pendente \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s closed donation request %[2]s"
 msgstr "%[1]s pedido de donativo fechado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s created new donation request %[2]s"
 msgstr "%[1]s criou um novo pedido de donativo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s created subgroup %[2]s"
 msgstr "%[1]s criou o subgrupo %[2]s"
 
@@ -657,156 +657,156 @@ msgstr "%[1]s criou o subgrupo %[2]s"
 msgid "%[1]s created the subgroup %[2]s"
 msgstr "%[1]s criou o subgrupo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted"
 msgid_plural "%[1]s and %#[2]d others deleted"
 msgstr[0] "%[1]s eliminado"
 msgstr[1] "%[1]s e %#[2]d outros eliminados"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted %[2]s's pending message"
 msgstr "%[1]s apagou a mensagem pendente de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted %[2]s's pending special notice"
 msgstr "%[1]s eliminou o aviso especial pendente de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted all following events from %[2]s"
 msgstr "%[1]s eliminou todos os seguintes eventos de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted an edit of message #%#[2]d %[3]s"
 msgstr "%[1]s suprimiu uma edição da mensagem %#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted attachment in message #%#[2]d %[3]s"
 msgstr "%[1]s apagou o anexo na mensagem #%#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted chat message \"%[2]s\""
 msgstr "%[1]s apagou a mensagem de chat \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted event \"%[2]s\""
 msgstr "%[1]s eliminou o evento \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted file \"%[2]s\""
 msgstr "%[1]s apagou o ficheiro \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted folder \"%[2]s\""
 msgstr "%[1]s eliminou a pasta \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted image \"%[2]s\" from the wiki images area"
 msgstr "%[1]s eliminou a imagem \"%[2]s\" da área de imagens da wiki"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted member notice %[2]s"
 msgstr "%[1]s aviso de membro eliminado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted message #%#[2]d \"%[3]s\""
 msgstr "%[1]s mensagem eliminada #%#[2]d \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted message \"%[2]s\""
 msgstr "%[1]s apagou a mensagem \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted photo %[2]s"
 msgstr "%[1]s foto eliminada %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted photo album %[2]s"
 msgstr "%[1]s álbum de fotografias eliminado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted repeating event \"%[2]s\""
 msgstr "%[1]s eliminou o evento de repetição \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted revision dated %[2]s from wiki page %[3]s"
 msgstr "%[1]s eliminou a revisão datada de %[2]s da página wiki %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted row id %#[2]d of table %[3]s"
 msgstr "%[1]s eliminou a linha id %#[2]d da tabela %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted subgroup %[2]s"
 msgstr "%[1]s suprimiu o subgrupo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted table %[2]s"
 msgstr "%[1]s eliminou a tabela %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/subgroupnotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted the subgroup %[2]s"
 msgstr "%[1]s eliminou o subgrupo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted their account with the reason \"%[2]s\""
 msgstr "%[1]s eliminou a sua conta pelo motivo \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted topic \"%[2]s\""
 msgstr "%[1]s eliminou o tópico \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s deleted wiki page %[2]s"
 msgstr "%[1]s eliminou a página wiki %[2]s"
 
@@ -815,168 +815,168 @@ msgstr "%[1]s eliminou a página wiki %[2]s"
 msgid "%[1]s donated $%.02[2]f to the donation %[3]s in your group %[4]s."
 msgstr "%[1]s doou $%.02[2]f para a doação %[3]s em seu grupo %[4]s."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s donated $%[2]s to %[3]s"
 msgstr "%[1]s doou $%[2]s a %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited %[2]s's moderator notes"
 msgstr "%[1]s editou as notas do moderador de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited Email integration %[2]s"
 msgstr "%[1]s editou a integração do correio eletrónico %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited extra member field \"%[2]s\""
 msgstr "%[1]s editou o campo adicional do membro \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited Facebook Page %[2]s"
 msgstr "%[1]s editou a página do Facebook %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited feed %[2]s"
 msgstr "%[1]s feed editado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited Github repository %[2]s"
 msgstr "%[1]s editou o repositório Github %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited hashtag %[2]s"
 msgstr "%[1]s editou a hashtag %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited instagram user %[2]s"
 msgstr "%[1]s editou o utilizador do instagram %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited member notice %[2]s"
 msgstr "%[1]s editou o anúncio de membro %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited message #%#[2]d %[3]s"
 msgstr "%[1]s editou a mensagem #%#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited message #%#[2]d %[3]s without sending to the group"
 msgstr "%[1]s editou a mensagem #%#[2]d %[3]s sem a enviar para o grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited photo %[2]s"
 msgstr "%[1]s foto editada %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited photo album %[2]s"
 msgstr "%[1]s álbum de fotografias editado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s edited Trello board %[2]s"
 msgstr "%[1]s editou o quadro Trello %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s has been moved from the waitlist and is attending event %[2]s"
 msgstr ""
 "%[1]s foi retirado da lista de espera e está a participar no evento %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s locked event %[2]s"
 msgstr "%[1]s evento bloqueado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s locked topic %[2]s"
 msgstr "%[1]s tópico bloqueado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s made topic %[2]s sticky"
 msgstr "%[1]s tornou o tópico %[2]s autocolante"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s merged topic \"%[2]s\" into %[3]s"
 msgstr "%[1]s fundiu o tópico \"%[2]s\" em %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moderated topic %[2]s"
 msgstr "%[1]s tópico moderado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moved"
 msgid_plural "%[1]s and %#[2]d others moved"
 msgstr[0] "%[1]s mudou"
 msgstr[1] "%[1]s e %#[2]d outros deslocados"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moved file (%[2]s) %[3]s"
 msgstr "%[1]s moveu o ficheiro (%[2]s) %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moved file (%[2]s) %[3]s to \"%[4]s\""
 msgstr "%[1]s moveu o ficheiro (%[2]s) %[3]s para \"%[4]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moved folder %[2]s"
 msgstr "%[1]s moveu a pasta %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moved folder %[2]s to \"%[3]s\""
 msgstr "%[1]s moveu a pasta %[2]s para \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s moved photo %[2]s to album %[3]s"
 msgstr "%[1]s moveu a fotografia %[2]s para o álbum %[3]s"
 
@@ -993,15 +993,15 @@ msgstr ""
 "de una organización de %[1]s. La sincronización automÃ¡tica se produce cada "
 "hora."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s paid group invoice %#[2]d"
 msgstr "%[1]s pagou a fatura do grupo %#[2]d"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s paid overdue group invoice %#[2]d"
 msgstr "%[1]s pagou uma fatura de grupo em atraso %#[2]d"
 
@@ -1010,401 +1010,401 @@ msgstr "%[1]s pagou uma fatura de grupo em atraso %#[2]d"
 msgid "%[1]s posted the message '%[2]s' that needs to be approved."
 msgstr "%[1]s postou a mensagem '%[2]s' que precisa ser aprovada."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s re-sent confirmation email to %[2]s"
 msgstr ""
 "%[1]s reenviou a mensagem de correio eletrónico de confirmação a %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s re-sent pending member notice to %[2]s"
 msgstr "%[1]s reenviou a notificação de membro pendente a %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's membership"
 msgstr "%[1]s rejeitou a adesão de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's pending message \"%[3]s\""
 msgstr "%[1]s rejeitou a mensagem pendente de %[2]s \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
 msgstr ""
 "%[1]s rejeitou a mensagem pendente de %[2]s \"%[3]s\" pelo motivo %[4]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\""
 msgstr "%[1]s rejeitou o aviso especial pendente de %[2]s \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
 msgstr ""
 "%[1]s rejeitado %[2]s's aviso especial pendente \"%[3]s\" com motivo %[4]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending %[2]s \"%[3]s\""
 msgstr "%[1]s rejeitado pendente %[2]s \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason %[4]s"
 msgstr "%[1]s rejeitado pendente %[2]s \"%[3]s\" pelo motivo %[4]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending integration message \"%[2]s\""
 msgstr "%[1]s rejeitou a mensagem de integração pendente \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
 msgstr ""
 "%[1]s rejeitou a mensagem de integração pendente \"%[2]s\" pelo motivo %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending integration special notice \"%[2]s\""
 msgstr "%[1]s rejeitado na pendência da integração aviso especial \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
 msgstr ""
 "%[1]s rejeitado na pendência de integração aviso especial \"%[2]s\" com motivo %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending notification \"%[2]s\""
 msgstr "%[1]s rejeitou a notificação pendente \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
 msgstr "%[1]s rejeitou a notificação pendente \"%[2]s\" pelo motivo %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed %[2]s"
 msgstr "%[1]s removido %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed %[2]s because %[3]s"
 msgstr "%[1]s removeu %[2]s porque %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed alias %[2]s"
 msgstr "%[1]s removido o pseudónimo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed banned domain %[2]s"
 msgstr "%[1]s removeu o domínio proibido %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed Email integration %[2]s"
 msgstr "%[1]s removeu a integração do correio eletrónico %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed Facebook Page %[2]s"
 msgstr "%[1]s removeu a página do Facebook %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed feed %[2]s"
 msgstr "%[1]s alimentação removida %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed Github repository %[2]s"
 msgstr "%[1]s removeu o repositório Github %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed group alias %[2]s"
 msgstr "%[1]s removeu o nome de grupo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed hashtag %[2]s"
 msgstr "%[1]s removeu a hashtag %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed instagram user %[2]s"
 msgstr "%[1]s removeu o utilizador do instagram %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed invitation to %[2]s"
 msgstr "%[1]s retirou o convite a %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s removed Trello board %[2]s"
 msgstr "%[1]s removeu o quadro Trello %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reopened donation request %[2]s"
 msgstr "%[1]s reabriu o pedido de donativo %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported file (%[2]s) %[3]s to Groups.io support"
 msgstr "%[1]s reportou o ficheiro (%[2]s) %[3]s ao suporte Groups.io"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported file (%[2]s) %[3]s to the group moderators"
 msgstr "%[1]s denunciou o ficheiro (%[2]s) %[3]s aos moderadores do grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported message #%#[2]d %[3]s to Groups.io support"
 msgstr "%[1]s reportou a mensagem #%#[2]d %[3]s ao suporte do Groups.io"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported message #%#[2]d %[3]s to the group moderators"
 msgstr "%[1]s comunicou a mensagem %#[2]d %[3]s aos moderadores do grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported message %[2]s as spam and was removed"
 msgstr "%[1]s denunciou a mensagem %[2]s como spam e foi removida"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported photo %[2]s to Groups.io support"
 msgstr "%[1]s denunciou a foto %[2]s ao suporte do Groups.io"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s reported photo %[2]s to the group moderators"
 msgstr "%[1]s denunciou a fotografia %[2]s aos moderadores do grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s rotated photo %[2]s"
 msgstr "%[1]s fotografia rodada %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s RSVPed 'not sure' to event %[2]s"
 msgstr "%[1]s respondeu \"não tenho a certeza\" ao evento %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s RSVPed no to event %[2]s"
 msgstr "%[1]s Não respondeu ao evento %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s RSVPed yes to event %[2]s"
 msgstr "%[1]s Respondeu sim ao evento %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent a bounce probe to %[2]s"
 msgstr "%[1]s enviou uma sonda de ressalto para %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent member notice %[2]s to %[3]s"
 msgstr "%[1]s enviou o aviso de membro %[2]s para %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent member notice %[2]s to %[3]s as owner"
 msgstr ""
 "%[1]s enviou a notificação de sócio %[2]s para %[3]s como proprietário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent message #%#[2]d %[3]s"
 msgstr "%[1]s enviou a mensagem #%#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent message %[2]s to owners"
 msgstr "%[1]s enviou a mensagem %[2]s aos proprietários"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'maybe' to event %[3]s"
 msgstr ""
 "%[1]s enviou a mensagem '%[2]s' a todas as pessoas que responderam "talvez" ao evento %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'no' to event %[3]s"
 msgstr ""
 "%[1]s enviou a mensagem '%[2]s' a todas as pessoas que responderam "não" ao evento %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'yes' to event %[3]s"
 msgstr ""
 "%[1]s enviou a mensagem '%[2]s' a todas as pessoas que responderam "sim" ao evento %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message '%[2]s' to people that responded 'maybe' to event %[3]s"
 msgstr ""
 "%[1]s enviou a mensagem '%[2]s' às pessoas que responderam "talvez" ao evento %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent message '%[2]s' to people that responded 'no' to event %[3]s"
 msgstr ""
 "%[1]s enviou a mensagem \"%[2]s\" às pessoas que responderam \"não\" ao evento %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message '%[2]s' to people that responded 'yes' to event %[3]s"
 msgstr ""
 "%[1]s enviou a mensagem '%[2]s' às pessoas que responderam "sim" ao evento %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent message \"%[2]s\" requiring approval"
 msgstr "%[1]s enviou a mensagem \"%[2]s\" que requer aprovação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message \"%[2]s\" requiring approval because it had the %[3]s virus"
 msgstr ""
 "%[1]s enviou a mensagem \"%[2]s\" que requer aprovação porque continha o vírus %[3]s "
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message \"%[2]s\" to %[3]s as owner. The message was \"%[4]s\""
 msgstr ""
 "%[1]s enviou a mensagem \"%[2]s\" para %[3]s como proprietário. A mensagem foi \"%[4]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent message \"%[2]s\" to %[3]s. The message was \"%[4]s\""
 msgstr "%[1]s enviou a mensagem \"%[2]s\" para %[3]s. A mensagem era \"%[4]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent message \"%[2]s\" to owners"
 msgstr "%[1]s enviou a mensagem \"%[2]s\" aos proprietários"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%[1]s sent message \"%[2]s\" with a calendar event, but they do not have "
 "permission to add events to the calendar"
 msgstr ""
 "%[1]s enviou a mensagem \"%[2]s\" com um evento do calendário, mas não tem permissão para adicionar eventos ao calendário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent special notice #%#[2]d %[3]s"
 msgstr "%[1]s enviou um aviso especial %#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sent special notice \"%[2]s\" requiring approval"
 msgstr "%[1]s enviou um aviso especial \"%[2]s\" que exige aprovação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s split topic %[2]s"
 msgstr "%[1]s tópico dividido %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s split topic %[2]s into %[3]s"
 msgstr "%[1]s dividir o tópico %[2]s em %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s sponsored the group to the amount of $%[2]s"
 msgstr "%[1]s patrocinou o grupo no montante de %[2]s"
 
@@ -1413,115 +1413,115 @@ msgstr "%[1]s patrocinou o grupo no montante de %[2]s"
 msgid "%[1]s sponsored your group %[2]s to the amount of $%.02[3]f."
 msgstr "%[1]s patrocinou seu grupo %[2]s no valor de $%.02[3]f."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s tried to donate $%[2]s to %[3]s"
 msgstr "%[1]s tentou doar $%[2]s a %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s tried to sponsor the group to the amount of $%[2]s"
 msgstr "%[1]s tentou patrocinar o grupo com o montante de %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s unbanned %[2]s"
 msgstr "%[1]s não banido %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s unbanned %[2]s because %[3]s"
 msgstr "%[1]s não proibiu %[2]s porque %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s unlocked event %[2]s"
 msgstr "%[1]s evento desbloqueado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s unlocked topic %[2]s"
 msgstr "%[1]s desbloqueou o tópico %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s unmoderated topic %[2]s"
 msgstr "%[1]s tópico não moderado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s unstuck topic %[2]s"
 msgstr "%[1]s tópico desbloqueado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated"
 msgid_plural "%[1]s and %#[2]d others updated"
 msgstr[0] "%[1]s atualizado"
 msgstr[1] "%[1]s e %#[2]d outros actualizados"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated donation request %[2]s"
 msgstr "%[1]s pedido de donativo atualizado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated event %[2]s"
 msgstr "%[1]s evento atualizado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated file (%[2]s) %[3]s"
 msgstr "%[1]s ficheiro atualizado (%[2]s) %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated folder %[2]s"
 msgstr "%[1]s pasta actualizada %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated repeating event %[2]s"
 msgstr "%[1]s evento de repetição atualizado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated row id %#[2]d of table %[3]s"
 msgstr "%[1]s actualizou a linha id %#[2]d da tabela %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated table %[2]s"
 msgstr "%[1]s actualizou a tabela %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s updated wiki page %[2]s"
 msgstr "%[1]s actualizou a página wiki %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s uploaded"
 msgid_plural "%[1]s and %#[2]d others uploaded"
 msgstr[0] "%[1]s carregado"
@@ -1561,9 +1561,9 @@ msgid ""
 msgstr ""
 "%[1]s desea informarle de que <a href=\"%[2]s\">este perfil</a> es censurable."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%[1]s's pending message \"%[2]s\" expired and was deleted"
 msgstr "A mensagem pendente de %[1]s \"%[2]s\" expirou e foi eliminada"
 
@@ -1610,9 +1610,9 @@ msgid_plural "%d groups allowed"
 msgstr[0] "%d grupo permitido"
 msgstr[1] "%d grupos permitidos"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%d invite will be sent out."
 msgid_plural "%d invitations will be sent out."
 msgstr[0] "Será enviado um convite %d."
@@ -1718,147 +1718,147 @@ msgid_plural "%d Trello integrations"
 msgstr[0] "%d Integración de Trello"
 msgstr[1] "%d Integraciones de Trello"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s accepted invitation"
 msgstr "%s aceitou o convite"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s applied for membership"
 msgstr "%s candidatou-se a membro"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s applied to join your group."
 msgstr "%s pediu para se juntar ao vosso grupo."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s approved an edit of integration message"
 msgstr "%s aprovou uma edição da mensagem de integração"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s approved an edit of integration special notice"
 msgstr "%s aprovou uma edição do anúncio especial de integração"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s approved an edit of notification"
 msgstr "%s aprovou uma edição da notificação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s approved integration message"
 msgstr "%s mensagem de integração aprovada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s approved integration special notice"
 msgstr "%s aviso especial de integração aprovado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s approved notification"
 msgstr "%s notificação aprovada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s became the group payer"
 msgstr "%s tornou-se o pagador do grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s changed group plan"
 msgstr "%s mudou o plano de grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s changed group settings"
 msgstr "%s alterou as definições do grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s changed their message delivery"
 msgstr "%s alterou a entrega da mensagem"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s changed their message delivery to"
 msgstr "%s alterou o envio de mensagens para"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s changed their notification settings"
 msgstr "%s alterou as suas definições de notificação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s changed their signature settings"
 msgstr "%s alterou as suas definições de assinatura"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s confirmed their account"
 msgstr "%s confirmou a sua conta"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s connected a Stripe account"
 msgstr "%s ligou uma conta Stripe"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s created the group"
 msgstr "%s criou o grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s deleted pending integration message"
 msgstr "%s eliminado a aguardar mensagem de integração"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s deleted pending integration special notice"
 msgstr "%s suprimido na pendência do aviso especial de integração"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s deleted pending notification"
 msgstr "%s suprimido pendente de notificação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s deleted their account"
 msgstr "%s eliminou a sua conta"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s disconnected a Stripe account"
 msgstr "%s desligou uma conta Stripe"
 
@@ -1867,9 +1867,9 @@ msgstr "%s desligou uma conta Stripe"
 msgid "%s donated $%.02f to %s"
 msgstr "%s doou $%.02f para %s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s edited member notice"
 msgstr "%s anúncio de membro editado"
 
@@ -1878,9 +1878,9 @@ msgstr "%s anúncio de membro editado"
 msgid "%s Enterprise Settings"
 msgstr "%s Configurações corporativas"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s exported the group"
 msgstr "%s exportou o grupo"
 
@@ -1898,9 +1898,9 @@ msgstr ""
 "ayudan a controlar quÃ© mensajes y hashtags aparecen en el resumen de un "
 "grupo o en los correos individuales que recibes en tu bandeja de entrada."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s has been set to bounced"
 msgstr "%s foi definido como devolvido"
 
@@ -1919,15 +1919,15 @@ msgstr "%s saiu"
 msgid "%s has rejoined"
 msgstr "%s voltou a ingressar"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s left"
 msgstr "%s esquerda"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s left with reason \"%s\""
 msgstr "%s saiu pelo motivo \"%s\""
 
@@ -1936,33 +1936,33 @@ msgstr "%s saiu pelo motivo \"%s\""
 msgid "%s login request: Confirmation Needed"
 msgstr "%s solicitação de login: Confirmação necessária"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s reported a digest message as spam and was removed"
 msgstr "%s denunciou uma mensagem de resumo como spam e foi removida"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s reported a message as spam and was removed"
 msgstr "%s denunciou uma mensagem como spam e foi removida"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s reported a summary message as spam and was removed"
 msgstr "%s denunciou uma mensagem de resumo como spam e foi removida"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s resumed membership"
 msgstr "%s retomou a filiação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s set their display name"
 msgstr "%s definir o seu nome de apresentação"
 
@@ -1971,9 +1971,9 @@ msgstr "%s definir o seu nome de apresentação"
 msgid "%s sponsored your group for $%.02f"
 msgstr "%s patrocinou seu grupo por $%.02f"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s subscribed"
 msgstr "%s subscrito"
 
@@ -1983,15 +1983,15 @@ msgid "%s subscription change request: Confirmation Needed"
 msgstr ""
 "Solicitação de alteração de assinatura %s: Confirmação necessária"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s was banned from Groups.io"
 msgstr "%s foi banido do Groups.io"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "%s was prevented from joining because the group is on the basic plan and already "
 "has 100 members"
@@ -2003,9 +2003,9 @@ msgstr ""
 msgid "%s was removed from %s"
 msgstr "%s foi removido de %s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "%s's pending subscription expired and was deleted"
 msgstr "A subscrição pendente de %s expirou e foi eliminada"
 
@@ -2058,9 +2058,9 @@ msgid_plural "+%d guests"
 msgstr[0] "+%d invitado"
 msgstr[1] "+%d invitados"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/groupmemberbuttons.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "+owner Messages"
 msgstr "+Mensagens do proprietário"
 
@@ -2456,6 +2456,7 @@ msgstr ""
 "de correo electrónico para saber cómo deciden enviar los informes de "
 "respuesta a los servicios de listas (como los grupos %[1]s).</p>"
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
 #. 				The message is sent in HTML format, so you can use HTML tags to format the message.
 #. 				The following variables are available:
@@ -2467,7 +2468,6 @@ msgstr ""
 #. 				
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "<p>Hello [Name],</p> <p>You have been added by the %[1]s Team to <a "
 "href=\"%[2]s\">%[3]s</a>. You can use [this link] for the next 24 hours to log "
@@ -2484,6 +2484,7 @@ msgid ""
 msgstr ""
 "<p>Olá [Nome], <p>Foi adicionado pela equipa %[1]s a <a href=\"%[2]s\">%[3]s</a> . Pode utilizar [esta ligação] durante as próximas 24 horas para iniciar sessão se for a primeira vez que inicia sessão ou se se tiver esquecido da sua palavra-passe. Pode fazê-lo no futuro utilizando o botão \"enviar-me um link para iniciar sessão\" na página de início de sessão. <p>O correio eletrónico para este grupo é: %[4]s. %[5]s <p>Mas o mais importante é que adicione este endereço de correio eletrónico à sua lista de remetentes seguros nos contactos do seu cliente de correio eletrónico. Se encontrar mensagens de correio eletrónico deste grupo nas pastas de spam, promoções ou social, mova-as para a sua caixa de entrada principal para que possa treinar o seu cliente de correio eletrónico a colocá-las diretamente na sua caixa de entrada. <div id=\"custom_message\"></div> <p>Se isto foi um erro, clique na seguinte ligação e será imediatamente removido: <p style=\"text-decoration: underline\">Cancelar a subscrição <p>A equipa %[1]s "
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
 #. 									The message is sent in HTML format, so you can use HTML tags to format the message.
 #. 									The following variables are available:
@@ -2507,7 +2508,6 @@ msgstr ""
 #.
 #.
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "<p>Hello [Name],</p> <p>You have been invited by %[1]s to join the %[2]s "
 "group <i>%[3]s</i>.</p> <div id=\"custom_message\"></div> <p>If you have "
@@ -2612,24 +2612,24 @@ msgstr ""
 "dispositivos, inicia sesión en cada uno de ellos, activa las notificaciones y "
 "asegÃºrate de estar conectado."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "[%[1]s] Card \"%[2]s\" was renamed to \"<a href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
 "[%[1]s] O cartão \"%[2]s\" foi renomeado para \"<a href=\"%[3]s\">%[4]s</a>\"."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was moved to list \"%[4]s\"."
 msgstr ""
 "[%[1]s] O cartão \"<a href=\"%[2]s\">%[3]s</a> \" foi movido para a lista \"%[4]s\"."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "[%[1]s] Card \"<a href=\"%[2]s\">%[3]s</a>\" was reordered."
 msgstr "[%[1]s] O cartão \"<a href=\"%[2]s\">%[3]s</a>\" foi reordenado."
 
@@ -2661,18 +2661,18 @@ msgstr "[%[1]s] Se ha movido la lista \"%[2]s\"."
 msgid "[%[1]s] List \"%[2]s\" was renamed to \"%[3]s\""
 msgstr "%[1]s aÃ±adió %[2]s con el mensaje \"%[3]s\""
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "[%[1]s] New attachment added to card \"<a href=\"%[2]s\">%[3]s</a>\":"
 "<br>%[4]s."
 msgstr ""
 "[%[1]s] Novo anexo adicionado ao cartão \"<a href=\"%[2]s\">%[3]s</a> \":<br>%[4]s."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "[%[1]s] New card \"<a href=\"%[2]s\">%[3]s</a>\" was added to list \"%[4]s\"."
 msgstr ""
@@ -2687,9 +2687,9 @@ msgstr ""
 "[%[1]s] Se ha aÃ±adido el nuevo elemento de la lista de control \"%[2]s\" a "
 "la tarjeta<a href=\"%[3]s\">\"%[4]s</a>\"."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "[%[1]s] New comment on card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
 "[%[1]s] Novo comentário no cartão \"<a href=\"%[2]s\">%[3]s</a>\" de %[4]s."
@@ -2728,9 +2728,9 @@ msgstr ""
 "[%[1]s] Se ha eliminado la etiqueta %[2]s de la tarjeta<a "
 "href=\"%[3]s\">\"%[4]s</a>\"."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "[%[1]s] The card \"<a href=\"%[2]s\">%[3]s</a>\" was archived."
 msgstr "[%[1]s] O cartão \"<a href=\"%[2]s\">%[3]s</a>\" foi arquivado."
 
@@ -2770,27 +2770,27 @@ msgstr ""
 "[%[1]s] El elemento de la lista de control \"%[2]s\" de la tarjeta<a "
 "href=\"%[3]s\">\"%[4]s</a>\" se marcó como incompleto."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "[%[1]s] The description of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed "
 "to:<br>%[4]s"
 msgstr ""
 "[%[1]s] A descrição do cartão \"<a href=\"%[2]s\">%[3]s</a> \" foi alterada para:<br>%[4]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "[%[1]s] The due date of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed to "
 "%[4]s"
 msgstr ""
 "[%[1]s] A data de vencimento do cartão \"<a href=\"%[2]s\">%[3]s</a> \" foi alterada para %[4]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "[%[1]s] The member \"%[2]s\" was added to the board."
 msgstr "[%[1]s] O membro \"%[2]s\" foi adicionado ao quadro."
 
@@ -2811,9 +2811,9 @@ msgstr ""
 "[%[1]s] El miembro \"%[2]s\" ha sido eliminado de la tarjeta<a "
 "href=\"%[3]s\">\"%[4]s</a>\"."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "[%[1]s] Updated comment from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
@@ -2855,9 +2855,9 @@ msgstr ""
 "oficina, los jefes de equipo deberian hacer lo que las empresas remotas "
 "llevan aÃ±os haciendo: adoptar la comunicación asÃ­ncrona."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "\"%s\""
 msgstr "\"%s\""
 
@@ -2965,16 +2965,16 @@ msgstr ""
 "Um moderador em outro grupo alterou o nome de exibição de %[1]s para '%[2]s' "
 "no grupo %[3]ss"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "A moderator in another group changed %[1]s's email address from %[2]s"
 msgstr ""
 "Um moderador de outro grupo mudou o endereço eletrónico de %[1]s para %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to %[3]s "
 "and display name from '%[4]s' to '%[5]s' in group %[6]s"
@@ -2989,9 +2989,9 @@ msgstr ""
 "Um moderador em outro grupo alterou o endereço de e-mail de %[1]s de %[2]s "
 "para %[3]s e o nome de exibição para '%[4]s' no grupo %[5]s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to "
 "%[3]s in group %[4]s"
@@ -3140,15 +3140,15 @@ msgstr "Aceitar doações de membros"
 msgid "Accepted"
 msgstr "Aceitado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Account - Confirmed"
 msgstr "Conta - Confirmada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Account - Deleted"
 msgstr "Conta - Eliminada"
 
@@ -3218,9 +3218,9 @@ msgstr "Atividade"
 msgid "Activity History"
 msgstr "Histórico de atividades"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Actual Respondents:"
 msgstr "Respondentes efectivos:"
 
@@ -3447,9 +3447,9 @@ msgstr "Adicionado"
 msgid "added"
 msgstr "adicionado"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Added By"
 msgstr "Adicionado por"
 
@@ -3660,9 +3660,9 @@ msgstr "Os aliases são como um segundo nome para o seu grupo."
 msgid "All"
 msgstr "Todo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "All actions"
 msgstr "Todas as acções"
 
@@ -4052,15 +4052,15 @@ msgstr "Ocorreu um erro desconhecido. Tente novamente."
 msgid "and"
 msgstr "e"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "and sent it to the group"
 msgstr "e enviou-o para o grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "and sent it to the group but it requires moderation because the editor is "
 "moderated"
@@ -4286,10 +4286,10 @@ msgstr "Damasco"
 msgid "Aquamute"
 msgstr "Aquamute"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Arabic"
 msgstr "Árabe"
 
@@ -4812,9 +4812,9 @@ msgstr ""
 "enlace. Al hacer clic en el enlace, iniciarÃ¡ sesión y podrÃ¡ iniciar sesión "
 "en el futuro."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupllm.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Ask"
 msgstr "Perguntar"
 
@@ -4885,9 +4885,9 @@ msgstr "Anexos"
 msgid "Attachments are not permitted in this group."
 msgstr "Anexos não são permitidos neste grupo."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Attachments up to message #%#d were deleted to free up space"
 msgstr "Os anexos até à mensagem #%#d foram eliminados para libertar espaço"
 
@@ -5015,9 +5015,9 @@ msgstr "Autor"
 msgid "Auto Follow Replies"
 msgstr "Respostas de Acompanhamento Automático"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "auto follow replies"
 msgstr "respostas de seguimento automático"
 
@@ -5135,9 +5135,9 @@ msgstr "Voltar"
 msgid "Bad Addresses"
 msgstr "Endereços incorretos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Bad expired thread"
 msgstr "Tópico expirado de má qualidade"
 
@@ -5195,39 +5195,39 @@ msgstr "Bangladesh"
 msgid "Banned"
 msgstr "Banido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned - Domain added to banned list"
 msgstr "Banido - Domínio adicionado à lista de banidos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned - Domain deleted from banned list"
 msgstr "Banido - Domínio eliminado da lista de proibidos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned - Member attempted to subscribe"
 msgstr "Banido - Membro tentou subscrever-se"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned - Moderator banned member"
 msgstr "Banido - O moderador baniu um membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned - Moderator unbanned member"
 msgstr "Banido - O moderador desbaniu um membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned - System banned member"
 msgstr "Banido - Membro banido pelo sistema"
 
@@ -5243,21 +5243,21 @@ msgstr "Domínios banidos"
 msgid "Banned Member"
 msgstr "Membro banido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned member %[1]s attempted to send message \"%[2]s\""
 msgstr "O membro banido %[1]s tentou enviar a mensagem \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned member %s attempted to subscribe"
 msgstr "Membro banido %s tentou inscrever-se"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Banned user %[1]s changed email address from %[2]s to %[3]s"
 msgstr ""
 "O utilizador banido %[1]s alterou o endereço de correio eletrónico de %[2]s para %[3]s"
@@ -5322,9 +5322,9 @@ msgstr ""
 msgid "Be the first to say yes."
 msgstr "Seja o primeiro a dizer sim."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "because"
 msgstr "porque"
 
@@ -5340,9 +5340,9 @@ msgstr ""
 "travÃ©s de la web o por correo electrónico, puede utilizar este correo "
 "electrónico para enviar nuevos temas."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Because you did not reply to our reverification emails, your account "
 "associated with %s has been automatically removed from the following Groups."
@@ -5441,21 +5441,21 @@ msgstr "Butão"
 msgid "Billing"
 msgstr "Faturamento"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Billing - Invoice for group paid"
 msgstr "Faturação - Faturação do grupo pago"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Billing - Invoice payer changed"
 msgstr "Faturação - Pagador da fatura alterado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Billing - Plan type changed"
 msgstr "Faturação - Tipo de plano alterado"
 
@@ -5563,27 +5563,27 @@ msgstr "Salta"
 msgid "Bouncing"
 msgstr "Bouncing"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Bouncing - Bounce probe sent"
 msgstr "Bouncing - Sonda de rejeição enviada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Bouncing - Member unbounced themselves"
 msgstr "Saltar - O próprio deputado não se saltou"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Bouncing - System bounced member"
 msgstr "Rejeição - Membro rejeitado pelo sistema"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Bouncing - System set member to bouncing"
 msgstr "Saltar - Membro do sistema definido para saltar"
 
@@ -5592,9 +5592,9 @@ msgstr "Saltar - Membro do sistema definido para saltar"
 msgid "Bouncing Member"
 msgstr "Membro saltitante"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Bouncing member %[1]s attempted to send message \"%[2]s\""
 msgstr "O membro em suspensão %[1]s tentou enviar a mensagem \"%[2]s\""
 
@@ -5639,10 +5639,10 @@ msgstr "Filiais e Tags"
 msgid "Brazil"
 msgstr "Brasil"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Brazilian Portuguese"
 msgstr "Português do Brasil"
 
@@ -5837,105 +5837,105 @@ msgstr "Calcule seus custos"
 msgid "Calendar"
 msgstr "Calendário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Added event"
 msgstr "Calendário - Evento adicionado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Added repeating event"
 msgstr "Calendário - Adicionado evento de repetição"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Canceled event"
 msgstr "Calendário - Evento cancelado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Deleted event"
 msgstr "Calendário - Evento eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Deleted following repeating event"
 msgstr "Calendário - Eliminado o seguinte evento repetido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Deleted repeating event"
 msgstr "Calendário - Evento repetido eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Locked event"
 msgstr "Calendário - Evento bloqueado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Member moved off waitlist"
 msgstr "Calendário - Membro retirado da lista de espera"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Member RSVP \"no\""
 msgstr "Calendário - Membro RSVP \"no\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Member RSVP \"not sure\""
 msgstr "Calendário - Membro RSVP \"not sure\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Member RSVP \"yes\""
 msgstr "Calendário - Membro RSVP \"yes\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Member RSVP changed"
 msgstr "Calendário - Alteração do RSVP dos membros"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Message to attendees"
 msgstr "Calendário - Mensagem para os participantes"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Modified event"
 msgstr "Calendário - Evento modificado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Modified repeating event"
 msgstr "Calendário - Evento de repetição modificado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - No permission to add event"
 msgstr "Calendário - Sem permissão para adicionar eventos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Calendar - Unlocked event"
 msgstr "Calendário - Evento desbloqueado"
 
@@ -6319,9 +6319,9 @@ msgstr "Cobrado para: %[1]s (**** **** **** %[2]s)"
 msgid "Chat"
 msgstr "Bater papo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Chat - Deleted message"
 msgstr "Chat - Mensagem eliminada"
 
@@ -6484,10 +6484,10 @@ msgstr "Chile"
 msgid "China"
 msgstr "China"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Chinese (Simplified)"
 msgstr "Chinês (simplificado)"
 
@@ -7287,9 +7287,9 @@ msgstr "Diário"
 msgid "Daily Summary"
 msgstr "Resumo Diário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "daily summary"
 msgstr "resumo diário"
 
@@ -7329,39 +7329,39 @@ msgstr "Dados a serem exportados"
 msgid "Database"
 msgstr "Base de dados"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Database - Added database"
 msgstr "Base de dados - Base de dados adicionada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Database - Added row"
 msgstr "Base de dados - Linha adicionada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Database - Deleted database"
 msgstr "Base de dados - Base de dados eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Database - Deleted row"
 msgstr "Base de dados - Linha eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Database - Modified database"
 msgstr "Base de dados - Base de dados modificada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Database - Modified row"
 msgstr "Base de dados - Linha modificada"
 
@@ -8207,39 +8207,39 @@ msgstr "Doe Agora"
 msgid "Donation"
 msgstr "Doação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donation - Failed by member"
 msgstr "Donativo - Falhado pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donation - Made by member"
 msgstr "Donativo - Feito por um membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donation - Request closed"
 msgstr "Doação - Pedido encerrado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donation - Request created"
 msgstr "Donativo - Pedido criado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donation - Request reopened"
 msgstr "Doação - Pedido reaberto"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donation - Request updated"
 msgstr "Doação - Pedido atualizado"
 
@@ -8276,15 +8276,15 @@ msgstr "Solicitação de Doação"
 msgid "Donations"
 msgstr "Doações"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donations - Stripe account connected"
 msgstr "Donativos - Conta Stripe ligada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Donations - Stripe account disconnected"
 msgstr "Donativos - Conta Stripe desligada"
 
@@ -8332,11 +8332,12 @@ msgstr "Rascunhos"
 msgid "drafts"
 msgstr "rascunhos"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
-msgid "Drag and drop files here, or click to choose files"
-msgstr "Arrastar e largar ficheiros aqui, ou clicar para escolher ficheiros"
+msgid "Drag and drop files here, or <u>click to choose files</u>"
+msgstr ""
+"Arrastar e largar ficheiros aqui, ou <u>clicar para escolher ficheiros</u>"
 
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
@@ -8376,10 +8377,10 @@ msgstr "Duração"
 msgid "Dusty Mauve"
 msgstr "Mauve empoeirado"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Dutch"
 msgstr "holandês"
 
@@ -8551,9 +8552,9 @@ msgstr "Editar Aviso"
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</>"
 msgstr "Edição da mensagem existente <a href='%[1]s'>#%[2]d</>"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Edit of existing message <a href='%[1]s'>#%[2]d</a>"
 msgstr "Edição de uma mensagem existente <a href='%[1]s'>#%[2]d</a>"
 
@@ -8644,9 +8645,9 @@ msgstr "Edição"
 msgid "Edited Message Notification"
 msgstr "Notificação de mensagem editada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Edited message without sending to the group"
 msgstr "Mensagem editada sem enviar para o grupo"
 
@@ -8676,9 +8677,9 @@ msgstr "El Salvador"
 msgid "Email"
 msgstr "Email"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Email '%[1]s' respondents (%[2]d)"
 msgstr "Correio eletrónico \"%[1]s\" respondentes (%[2]d)"
 
@@ -8754,9 +8755,9 @@ msgstr "Alias de e-mail"
 msgid "Email Aliases"
 msgstr "Aliases de e-mail"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Email All Respondents"
 msgstr "Enviar por correio eletrónico a todos os inquiridos"
 
@@ -8878,15 +8879,15 @@ msgstr "Preferências de e-mail"
 msgid "Email Subject"
 msgstr "Assunto do e-mail"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Email to %s is bouncing"
 msgstr "O correio eletrónico para %s está a ser rejeitado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Email to %s is no longer bouncing"
 msgstr "O correio eletrónico para %s já não está a ser devolvido"
 
@@ -9416,10 +9417,10 @@ msgid_plural "%#[1]d files deleted"
 msgstr[0] "Fichero %[2]s borrado"
 msgstr[1] "%#[1]d archivos borrados"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #, fuzzy
 #| msgid "Last updated"
-#. Automatically translated using DeepL
 msgid "File %[2]s updated"
 msgid_plural "%#[1]d files updated"
 msgstr[0] "Ficheiro %[2]s atualizado"
@@ -9432,70 +9433,70 @@ msgid_plural "%#[1]d files uploaded"
 msgstr[0] "Archivo %[2]s cargado"
 msgstr[1] "%#[1]d archivos cargados"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Added"
 msgstr "Ficheiro - Adicionado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Attempted add with virus"
 msgstr "Ficheiro - Tentativa de adição com vírus"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Deleted"
 msgstr "Ficheiro - Eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Folder added"
 msgstr "Ficheiro - Pasta adicionada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Folder deleted"
 msgstr "Ficheiro - Pasta eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Folder modified"
 msgstr "Ficheiro - Pasta modificada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Folder moved"
 msgstr "Ficheiro - Pasta movida"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Modified"
 msgstr "Ficheiro - Modificado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Moved"
 msgstr "Ficheiro - Movido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File - Reported"
 msgstr "Ficheiro - Comunicado"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "File Has Header Line"
 msgstr "O ficheiro tem uma linha de cabeçalho"
 
@@ -9581,9 +9582,9 @@ msgstr "Localizar ou criar um grupo"
 msgid "Finland"
 msgstr "Finlândia"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "First Login"
 msgstr "Primeiro registo"
 
@@ -9866,9 +9867,9 @@ msgstr "Resumo completo"
 msgid "Full Featured Digest"
 msgstr "Resumo completo em destaque"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "full featured digest"
 msgstr "resumo completo"
 
@@ -10089,57 +10090,57 @@ msgstr "Grupo"
 msgid "Group & Sender"
 msgstr "Grupo & Remetente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Alias added"
 msgstr "Grupo - Alias adicionado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Alias deleted"
 msgstr "Grupo - Alias eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Created"
 msgstr "Grupo - Criado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Exported"
 msgstr "Grupo - Exportado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Guidelines sent"
 msgstr "Grupo - Orientações enviadas"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Monthly reminder sent"
 msgstr "Grupo - Lembrete mensal enviado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Settings changed"
 msgstr "Grupo - Definições alteradas"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Sponsorship failed"
 msgstr "Grupo - Patrocínio falhado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group - Sponsorship made"
 msgstr "Grupo - Patrocínio efectuado"
 
@@ -10179,6 +10180,7 @@ msgstr "Calendário do Grupo"
 msgid "Group Description"
 msgstr "Descrição do Grupo"
 
+#: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Group Email Address"
@@ -10228,9 +10230,9 @@ msgstr ""
 "a tu grupo de %s. Â¿Tienes una idea para una integración que no ves aquÃ­? <a "
 "href=\"mailto:support@groups.io\">Ponte en contacto</a> con nosotros!"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Group invoice %#d was paid from sponsorship reserves"
 msgstr "A fatura do grupo %#d foi paga com as reservas de patrocínio"
 
@@ -10290,10 +10292,6 @@ msgid "Group Moderator posted the message '%s' that needs to be approved."
 msgstr ""
 "O Moderador de Grupo postou a mensagem '%s' que precisa ser aprovada.El "
 "moderador del grupo publicó el mensaje '%s' que necesita ser aprobado."
-
-#: ../../cmd/web/views/group/creategroup.qtpl
-msgid "Group Name"
-msgstr "Nome do Grupo"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -10716,27 +10714,27 @@ msgstr "Tem nota de moderador"
 msgid "Hashtag"
 msgstr "Hashtag"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Hashtag - Added"
 msgstr "Hashtag - Adicionado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Hashtag - Edited"
 msgstr "Hashtag - Editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Hashtag - Expired"
 msgstr "Hashtag - Expirado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Hashtag - Removed"
 msgstr "Hashtag - Removido"
 
@@ -11510,9 +11508,9 @@ msgstr ""
 "en el siguiente enlace para confirmar su dirección de correo electrónico, "
 "establecer una contraseÃ±a y elegir otras opciones de suscripción:"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "If you wish to merge this account, <strong>%[1]s</strong>, into that account, "
 "click the Merge Accounts button. An email will be sent to <strong>%[2]s</"
@@ -11539,9 +11537,9 @@ msgstr ""
 "Si desea continuar, haga clic en el botón Salir y, a continuación, vuelva a "
 "hacer clic en el enlace Salir."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "If you would like to increase the amount of storage space available for your "
 "group, please visit our plans page <a href=\"%s\">here</a>."
@@ -11883,9 +11881,9 @@ msgstr "Individual"
 msgid "Individual Messages"
 msgstr "Mensagens individuais"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "individual messages"
 msgstr "mensagens individuais"
 
@@ -11911,9 +11909,9 @@ msgstr ""
 msgid "Initial message"
 msgstr "Mensagem inicial"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Initial page"
 msgstr "Página inicial"
 
@@ -11937,143 +11935,143 @@ msgstr "Inserir link para a página Wiki"
 msgid "Integration"
 msgstr "Integração"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Added email integration"
 msgstr "Integração - Adicionada integração de correio eletrónico"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Added Facebook integration"
 msgstr "Integração - Adicionada integração com o Facebook"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Added feed integration"
 msgstr "Integração - Adicionada integração de feeds"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Added Github integration"
 msgstr "Integração - Adicionada integração com o Github"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Added Instagram integration"
 msgstr "Integração - Adicionada integração com o Instagram"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Added Trello integration"
 msgstr "Integração - Adicionada integração com o Trello"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Edited email integration"
 msgstr "Integração - Integração de correio eletrónico editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Edited Facebook integration"
 msgstr "Integração - Integração do Facebook editada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Edited feed integration"
 msgstr "Integração - Integração do feed editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Edited Github integration"
 msgstr "Integração - Integração do Github editada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Edited Instagram integration"
 msgstr "Integração - Integração do Instagram editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Edited Trello integration"
 msgstr "Integração - Integração do Trello editada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Removed email integration"
 msgstr "Integração - Removida a integração de correio eletrónico"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Removed Facebook integration"
 msgstr "Integração - Removida a integração com o Facebook"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Removed feed integration"
 msgstr "Integração - Removida a integração de feeds"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Removed Github integration"
 msgstr "Integração - Removida a integração com o Github"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Removed Instagram integration"
 msgstr "Integração - Removida a integração com o Instagram"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration - Removed Trello integration"
 msgstr "Integração - Removida a integração com o Trello"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent message #%#[2]d %[3]s"
 msgstr "A integração \"%[1]s\" enviou a mensagem #%#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent message \"%[2]s\" requiring approval"
 msgstr ""
 "A integração \"%[1]s\" enviou a mensagem \"%[2]s\" que requer aprovação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent special notice #%#[2]d %[3]s"
 msgstr "A integração \"%[1]s\" enviou um aviso especial #%#[2]d %[3]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration \"%[1]s\" sent special notice \"%[2]s\" requiring approval"
 msgstr ""
 "A integração \"%[1]s\" enviou um aviso especial \"%[2]s\" que exige aprovação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration message \"%s\" was sent requiring approval"
 msgstr "Foi enviada a mensagem de integração \"%s\" que requer aprovação"
 
@@ -12088,9 +12086,9 @@ msgstr ""
 "Los mensajes de integración requieren aprobación antes de ser enviados al "
 "grupo."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Integration special notice \"%s\" was sent requiring approval"
 msgstr ""
 "Foi enviado um aviso especial de integração \"%s\" que requer aprovação"
@@ -12147,21 +12145,21 @@ msgstr "Interface diretamente com o banco de dados Groups.io."
 msgid "Invalid Email Address"
 msgstr "Endereço de e-mail inválido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Invitation - Accepted"
 msgstr "Convite - Aceite"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Invitation - Removed"
 msgstr "Convite - Removido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Invitation - Sent"
 msgstr "Convite - Enviado"
 
@@ -12299,33 +12297,33 @@ msgstr "Questão"
 msgid "Issues"
 msgstr "Questões"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "it contains a virus"
 msgstr "contém um vírus"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "it contains attachments and the group is set to moderated attachments"
 msgstr "contém anexos e o grupo está definido para anexos moderados"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "it has a moderated hashtag"
 msgstr "tem uma hashtag moderada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "it was determined to be spam"
 msgstr "foi determinado que se tratava de spam"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "it was sent by a non-member"
 msgstr "foi enviado por um não membro"
 
@@ -12347,9 +12345,9 @@ msgstr ""
 "Funciona mejor para grupos mais sueltos. Funciona mejor en grupos mais "
 "grandes. Los estudios coinciden:"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "it's a moderated integration message"
 msgstr "é uma mensagem de integração moderada"
 
@@ -12410,10 +12408,10 @@ msgstr "Juntar-se à conversa"
 msgid "Join Group"
 msgstr "Participe do Grupo"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Join This Group"
 msgstr "Junte-se a este grupo"
 
@@ -12805,9 +12803,9 @@ msgstr "Listado ou não listado no diretório de grupos"
 msgid "Lithuania"
 msgstr "Lituânia"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupllm.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "LLM"
 msgstr "LLM"
 
@@ -12953,9 +12951,9 @@ msgstr "Faça login com o Google"
 msgid "Log Out"
 msgstr "Sair"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Logged out"
 msgstr "Registado"
 
@@ -13271,24 +13269,24 @@ msgstr "Melão"
 msgid "Member"
 msgstr "Membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Member %[1]s attempted to send a message to locked topic %[2]s"
 msgstr ""
 "O membro %[1]s tentou enviar uma mensagem para o tópico bloqueado %[2]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Member %[1]s attempted to send message \"%[2]s\" to an announcement group"
 msgstr ""
 "O membro %[1]s tentou enviar a mensagem \"%[2]s\" para um grupo de anúncios"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Member %[1]s attempted to send message \"%[2]s\" to an announcement group with "
 "the wrong password"
@@ -13394,21 +13392,21 @@ msgstr "Visibilidade da lista de membros"
 msgid "Member Notice"
 msgstr "Aviso aos Membros"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Member Notice - Added"
 msgstr "Aviso aos membros - Adicionado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Member Notice - Deleted"
 msgstr "Aviso aos membros - Suprimido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Member Notice - Edited"
 msgstr "Aviso aos membros - Editado"
 
@@ -13692,211 +13690,211 @@ msgstr "Os membros não receberão e-mails."
 msgid "Membership"
 msgstr "Associação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Display name changed by member"
 msgstr "Inscrição - Nome a apresentar alterado pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Display name changed by moderator"
 msgstr "Inscrição - Nome de apresentação alterado pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Email address changed by member"
 msgstr "Inscrição - Endereço de correio eletrónico alterado por um membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Email address changed by moderator"
 msgstr "Inscrição - Endereço de correio eletrónico alterado pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Email alias added by member"
 msgstr "Filiação - Alias de correio eletrónico adicionado pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Email alias deleted by member"
 msgstr "Associação - Alias de correio eletrónico eliminado por um membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Email delivery changed by member"
 msgstr "Inscrição - Entrega de correio eletrónico alterada pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Email delivery changed by moderator"
 msgstr "Adesão - Entrega de correio eletrónico alterada pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Extra data changed by member"
 msgstr "Associação - Dados extra alterados pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Extra data changed by moderator"
 msgstr "Adesão - Dados extra alterados pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Member joined"
 msgstr "Adesão - O membro aderiu"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Member left"
 msgstr "Adesão - Membro à esquerda"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Member Notes edited by moderator"
 msgstr "Filiação - Notas dos membros editadas pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Member removed"
 msgstr "Adesão - Membro removido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Member resumed group membership"
 msgstr "Adesão - O membro retomou a adesão ao grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator approved new member"
 msgstr "Membros - O moderador aprovou um novo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator changed member subscription color"
 msgstr "Adesão - O moderador alterou a cor da subscrição de membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator claimed pending member"
 msgstr "Adesão - O moderador declarou um membro pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator direct-added new member"
 msgstr "Sócios - Moderador de novos sócios diretos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator re-sent confirmation email"
 msgstr ""
 "Adesão - O moderador reenviou a mensagem de correio eletrónico de confirmação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator re-sent invitation"
 msgstr "Adesão - Moderador reenviou convite"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator re-sent pending member notice"
 msgstr "Membros - O moderador reenviou o aviso de membro pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator rejected pending member"
 msgstr "Inscrição - Moderador rejeitou membro pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Moderator's permissions changed by moderator"
 msgstr "Filiação - Permissões do moderador alteradas pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Notifications changed by member"
 msgstr "Inscrição - Notificações alteradas pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Notifications changed by moderator"
 msgstr "Inscrição - Notificações alteradas pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Pending member applied to group"
 msgstr "Adesão - Membro pendente aplicado ao grupo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Pending membership expired"
 msgstr "Inscrição - Inscrição pendente expirada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Posting privileges changed by moderator"
 msgstr "Inscrição - Privilégios de publicação alterados pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Signature changed by member"
 msgstr "Adesão - Assinatura alterada pelo membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Signature changed by moderator"
 msgstr "Inscrição - Assinatura alterada pelo moderador"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Membership - System prevented potential member from joining due to full group"
 msgstr ""
 "Adesão - O sistema impediu a adesão de um potencial membro devido ao facto de o grupo estar cheio"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - System rejected potential member due to banned domain"
 msgstr ""
 "Inscrição - O sistema rejeitou um potencial membro devido a um domínio proibido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Membership - Username changed by member"
 msgstr "Inscrição - Nome de utilizador alterado pelo membro"
 
@@ -13935,69 +13933,69 @@ msgstr "Mensagem"
 msgid "message %[1]s"
 msgstr "mensagem %[1]s"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Attachment deleted for space"
 msgstr "Mensagem - Anexo eliminado por falta de espaço"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Deleted"
 msgstr "Mensagem - Eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Edit deleted"
 msgstr "Mensagem - Editar eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Edited"
 msgstr "Mensagem - Editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Edited to delete attachment"
 msgstr "Mensagem - Editado para eliminar o anexo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Reported"
 msgstr "Mensagem - Comunicada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Sent"
 msgstr "Mensagem - Enviada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - Spam message to +owner"
 msgstr "Mensagem - Mensagem de spam para o +proprietário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - To +owner"
 msgstr "Mensagem - Para o +proprietário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - To +owner rejected from banned domain"
 msgstr "Mensagem - Para +proprietário rejeitado do domínio proibido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message - To member"
 msgstr "Mensagem - Para o membro"
 
@@ -14031,9 +14029,9 @@ msgstr "Rodapé da mensagem"
 msgid "Message Formatting"
 msgstr "Formatação de mensagens"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Message from member required approval because of virus"
 msgstr "A mensagem de um membro necessita de aprovação devido a um vírus"
 
@@ -14071,9 +14069,9 @@ msgstr "Políticas de Mensagens"
 msgid "Message Selection"
 msgstr "Seleção de mensagens"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "message selection: all messages"
 msgstr "seleção de mensagens: todas as mensagens"
 
@@ -14087,15 +14085,15 @@ msgstr "Seleção de mensagens: Respostas de Acompanhamento Automático"
 msgid "Message Selection: Following Only"
 msgstr "Seleção de mensagens: Seguindo somente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "message selection: following only"
 msgstr "seleção de mensagens: só a seguir"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "message selection: following only and first message also"
 msgstr ""
 "seleção de mensagens: apenas as seguintes e também a primeira mensagem"
@@ -14259,9 +14257,9 @@ msgstr ""
 msgid "Messages Needed Before Being Unmoderated"
 msgstr "Mensagens necessárias antes de não serem moderadas"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Messages posted in this group will be sent to you at <code>%[1]s</code>. To "
 "change your delivery and other subscription options, visit your <a "
@@ -14630,9 +14628,9 @@ msgstr "Verde Musgo"
 msgid "Most recent"
 msgstr "Mais Recentes"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Most Recent Login"
 msgstr "Início de sessão mais recente"
 
@@ -15163,9 +15161,9 @@ msgstr "Novo Post"
 msgid "New Subgroup"
 msgstr "Novos subgrupos"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "New Subgroups"
 msgstr "Novos subgrupos"
 
@@ -15293,9 +15291,9 @@ msgstr "Não"
 msgid "No Account Text"
 msgstr "Sem texto da conta"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "No active sessions found."
 msgstr "Não foram encontradas sessões activas."
 
@@ -15377,9 +15375,9 @@ msgstr "Nenhuma doação foi feita."
 msgid "No Email"
 msgstr "Sem e-mail"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "no email"
 msgstr "no email"
 
@@ -15470,54 +15468,54 @@ msgstr "Nenhuma página wiki corresponde a essa pesquisa."
 msgid "Non Member"
 msgstr "Não Sócio"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Non-member %[1]s attempted to send message \"%[2]s\""
 msgstr "O não membro %[1]s tentou enviar a mensagem \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Non-member %[1]s attempted to send message \"%[2]s\" and the message was "
 "rejected because"
 msgstr ""
 "O não membro %[1]s tentou enviar a mensagem \"%[2]s\" e a mensagem foi rejeitada porque"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Non-member %[1]s attempted to send message \"%[2]s\" but it had the %[3]s virus"
 msgstr ""
 "O não membro %[1]s tentou enviar a mensagem \"%[2]s\" mas tinha o vírus %[3]s "
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Non-member %[1]s sent \"%[2]s\" requiring approval"
 msgstr "O não membro %[1]s enviou \"%[2]s\" a pedir aprovação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Non-member %s attempted to send a message from a banned domain to the +owner "
 "address"
 msgstr ""
 "Um não membro %s tentou enviar uma mensagem de um domínio proibido para o endereço do +proprietário"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Non-member %s attempted to send message from a banned domain"
 msgstr ""
 "O não membro %s tentou enviar uma mensagem a partir de um domínio proibido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Non-member %s attempted to subscribe with a banned domain"
 msgstr "O não membro %s tentou inscrever-se num domínio proibido"
 
@@ -15556,9 +15554,9 @@ msgstr "Ilhas Marianas do Norte"
 msgid "Norway"
 msgstr "Noruega"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "not allow any attachments"
 msgstr "não permitir quaisquer anexos"
 
@@ -15576,9 +15574,9 @@ msgstr "Não é permitido postar"
 msgid "Not Attending"
 msgstr "Não Comparecimento"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "not auto follow replies"
 msgstr "não seguir respostas automaticamente"
 
@@ -15598,9 +15596,9 @@ msgstr "Não disponível para grupos gratuitos."
 msgid "Not Confirmed"
 msgstr "Não confirmado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Not confirmed member %[1]s attempted to send message \"%[2]s\""
 msgstr "Membro não confirmado %[1]s tentou enviar a mensagem \"%[2]s\""
 
@@ -15614,9 +15612,9 @@ msgstr "Não habilitado"
 msgid "Not listed in the Groups.io directory."
 msgstr "Não listado no diretório Groups.io."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "not restrict attachment size"
 msgstr "não restringir o tamanho dos anexos"
 
@@ -15642,9 +15640,9 @@ msgstr "Não Cadastrado"
 msgid "Not Sure"
 msgstr "Não tem certeza"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "not sure"
 msgstr "não tenho a certeza"
 
@@ -15814,9 +15812,9 @@ msgstr "Avisos"
 msgid "Notification"
 msgstr "Notificação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Notification \"%s\" was sent requiring approval"
 msgstr "Foi enviada a notificação \"%s\" que requer aprovação"
 
@@ -16100,9 +16098,9 @@ msgstr ""
 msgid "Only group owners & moderators"
 msgstr "Somente proprietários de grupos e moderadores"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Only moderators and poll creators can view results and respondents, regardless "
 "of whether the poll is open or closed."
@@ -16434,9 +16432,9 @@ msgstr ""
 "Substituir: modere todas as mensagens de cada tópico iniciado por essa "
 "pessoaAnular: moderar todos los mensajes de cada tema que inicie esta persona"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "override: moderate all messages of every topic this person starts"
 msgstr ""
 "substituir: moderar todas as mensagens de todos os tópicos iniciados por esta pessoa"
@@ -16448,9 +16446,9 @@ msgid "Override: moderate the first message of every topic this person starts"
 msgstr ""
 "Substituir: modere a primeira mensagem de cada tópico iniciado por essa pessoa"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "override: moderate the first message of every topic this person starts"
 msgstr ""
 "override: modera a primeira mensagem de cada tópico que esta pessoa inicia"
@@ -16461,9 +16459,9 @@ msgstr ""
 msgid "Override: moderated"
 msgstr "Substituição: moderada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "override: moderated"
 msgstr "anular: moderado"
 
@@ -16480,9 +16478,9 @@ msgstr "Substituição: novo membro moderado"
 msgid "Override: not allowed to post"
 msgstr "Substituir: não é permitido postar"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "override: not allowed to post"
 msgstr "anular: não autorizado a publicar"
 
@@ -16492,9 +16490,9 @@ msgstr "anular: não autorizado a publicar"
 msgid "Override: not moderated"
 msgstr "Substituição: não moderada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "override: not moderated"
 msgstr "anular: não moderado"
 
@@ -16791,15 +16789,15 @@ msgstr "pendente"
 msgid "Pending Approval"
 msgstr "Aprovação pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending integration message \"%s\" expired and was deleted"
 msgstr "A mensagem de integração pendente \"%s\" expirou e foi eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending integration special notice \"%s\" expired and was deleted"
 msgstr ""
 "O aviso especial de integração pendente \"%s\" expirou e foi eliminado"
@@ -16809,15 +16807,15 @@ msgstr ""
 msgid "Pending Member"
 msgstr "Membro pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending member %[1]s attempted to send message \"%[2]s\""
 msgstr "O membro pendente %[1]s tentou enviar a mensagem \"%[2]s\""
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending member %s left"
 msgstr "Membro pendente %s left"
 
@@ -16839,39 +16837,39 @@ msgstr "Membros pendentes"
 msgid "Pending Message"
 msgstr "Mensagem pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending Message - Approved"
 msgstr "Mensagem pendente - Aprovada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending Message - Claimed"
 msgstr "Mensagem pendente - Reclamada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending Message - Deleted"
 msgstr "Mensagem pendente - Eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending Message - Expired"
 msgstr "Mensagem pendente - Expirada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending Message - Received"
 msgstr "Mensagem pendente - Recebida"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending Message - Rejected"
 msgstr "Mensagem pendente - Rejeitada"
 
@@ -16892,9 +16890,9 @@ msgstr "Mensagens pendentes"
 msgid "pending messages"
 msgstr "Mensagens pendentes"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Pending notification \"%s\" expired and was deleted"
 msgstr "A notificação pendente \"%s\" expirou e foi eliminada"
 
@@ -16947,57 +16945,57 @@ msgid_plural "Photos"
 msgstr[0] "Foto"
 msgstr[1] "Fotos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Added"
 msgstr "Foto - Adicionada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Added album"
 msgstr "Fotografia - Álbum adicionado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Deleted"
 msgstr "Foto - Eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Deleted album"
 msgstr "Fotografia - Álbum eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Edited"
 msgstr "Foto - Editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Edited album"
 msgstr "Foto - Álbum editado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Moved"
 msgstr "Foto - Movido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Reported"
 msgstr "Foto - Relatado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Photo - Rotated"
 msgstr "Fotografia - Rodada"
 
@@ -17094,9 +17092,9 @@ msgstr "Coloque rodapés de mensagens em uma parte MIME separada."
 msgid "Plain Digest"
 msgstr "Resumo simples"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "plain digest"
 msgstr "resumo simples"
 
@@ -17272,9 +17270,9 @@ msgstr "Portugal"
 msgid "Portuguese"
 msgstr "Português"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Possible Respondents:"
 msgstr "Possíveis inquiridos:"
 
@@ -17336,10 +17334,10 @@ msgstr "publicou uma foto"
 msgid "posted a video"
 msgstr "publicou um vídeo"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 #| msgid "Report Photo"
-#. Automatically translated using DeepL
 msgid "posted to"
 msgstr "publicado em"
 
@@ -18006,105 +18004,105 @@ msgstr "Indeferido"
 msgid "Rejected Message"
 msgstr "Mensagem rejeitada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Banned domain"
 msgstr "Mensagem rejeitada - Domínio proibido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Banned member"
 msgstr "Mensagem rejeitada - Membro banido"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Bouncing member"
 msgstr "Mensagem rejeitada - Membro que salta"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Due to attachment"
 msgstr "Mensagem rejeitada - Devido a anexo"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - From member due to virus"
 msgstr "Mensagem rejeitada - De membro devido a vírus"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Incorrect announcement group password"
 msgstr "Mensagem rejeitada - Palavra-passe do grupo de anúncios incorrecta"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Locked topic"
 msgstr "Mensagem rejeitada - Tópico bloqueado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Member who can't post"
 msgstr "Mensagem rejeitada - Membro que não pode enviar mensagens"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Moderator-only hashtag"
 msgstr "Mensagem rejeitada - hashtag só para moderadores"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - New hashtag"
 msgstr "Mensagem rejeitada - Nova hashtag"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - No hashtag"
 msgstr "Mensagem rejeitada - Sem hashtag"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Non-member"
 msgstr "Mensagem rejeitada - Não membro"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Non-member due to virus"
 msgstr "Mensagem rejeitada - Não membro devido a vírus"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Not-confirmed member"
 msgstr "Mensagem rejeitada - Membro não confirmado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Pending member"
 msgstr "Mensagem rejeitada - Membro pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - To announcement group"
 msgstr "Mensagem rejeitada - Para o grupo de anúncios"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Rejected Message - Too large"
 msgstr "Mensagem rejeitada - Demasiado grande"
 
@@ -18523,21 +18521,21 @@ msgstr "Resposta"
 msgid "Responses"
 msgstr "Respostas"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "restrict attachments to 100kb in size"
 msgstr "restringir os anexos a 100kb de tamanho"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "restrict attachments to 500kb in size"
 msgstr "limitar o tamanho dos anexos a 500kb"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "restrict attachments to 5MB in size"
 msgstr "restringir os anexos a 5MB de tamanho"
 
@@ -18812,18 +18810,18 @@ msgstr ""
 msgid "Scan This Barcode With Your App"
 msgstr "Digitalize este código de barras com seu aplicativo"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Scan this image using your authentication app. If you can't use a barcode, enter "
 "the code <strong>%s</strong> instead."
 msgstr ""
 "Digitalize esta imagem utilizando a sua aplicação de autenticação. Se não for possível utilizar um código de barras, introduza o código <strong>%s</strong>."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "scheduled for %s"
 msgstr "agendado para %s"
 
@@ -18859,10 +18857,10 @@ msgstr "Segurança"
 msgid "See a Complete Plan Comparison"
 msgstr "Veja uma comparação completa de planos"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/calendar/calendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "See more details"
 msgstr "Ver mais detalhes"
 
@@ -18943,9 +18941,9 @@ msgstr "Envie um comunicado para o grupo."
 msgid "Send an email listing upcoming events to the group."
 msgstr "Envie um e-mail listando os próximos eventos para o grupo."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/bouncing.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Send an email to you with a link that will unbounce your account."
 msgstr ""
 "Enviar-lhe-á uma mensagem de correio eletrónico com uma hiperligação que lhe permitirá cancelar a sua conta."
@@ -19507,9 +19505,9 @@ msgstr "Geórgia do Sul e Ilhas Sandwich do Sul"
 msgid "Spain"
 msgstr "Espanha"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Spam - System removed member due to spam report"
 msgstr "Spam - O sistema removeu um membro devido a uma denúncia de spam"
 
@@ -19545,9 +19543,9 @@ msgstr "Especial"
 msgid "Special Notices Only"
 msgstr "Apenas Avisos Especiais"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "special notices only"
 msgstr "avisos especiais apenas"
 
@@ -19791,15 +19789,15 @@ msgstr "O subgrupo %s foi criado"
 msgid "Subgroup %s has been deleted"
 msgstr "O subgrupo %s foi excluído"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Subgroup - Created"
 msgstr "Subgrupo - Criado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Subgroup - Deleted"
 msgstr "Subgrupo - Suprimido"
 
@@ -20309,9 +20307,9 @@ msgstr "Obrigado por Groups.io apoiar."
 msgid "Thank you for using %s!"
 msgstr "Obrigado por usar %s!"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/emailsubscribenotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Thank you for your interest in %[1]s and the group %[2]s. To complete your "
 "subscription, please reply to this email. If you did not request - or do not "
@@ -20418,9 +20416,9 @@ msgstr "Esse álbum não existe."
 msgid "That code is incorrect."
 msgstr "Esse código está incorreto."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "That domain has already been banned."
 msgstr "Esse domínio já foi banido."
 
@@ -20479,10 +20477,17 @@ msgstr ""
 "Esse endereço de e-mail já é o seu endereço de e-mail atual.Esa dirección de "
 "correo electrónico ya es tu dirección de correo electrónico actual."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/group/creategroup.qtpl
+#, fuzzy
+msgid "That email address is not available."
+msgstr "Esse endereço de correio eletrónico não está disponível."
+
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/register.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "That email address is not valid."
 msgstr "Esse endereço de e-mail não é válido."
@@ -20544,15 +20549,6 @@ msgstr "Esse link expirou."
 msgid "That message number does not exist. The message may have been deleted."
 msgstr ""
 "Esse número de mensagem não existe. A mensagem pode ter sido excluída."
-
-#: ../../cmd/web/views/group/creategroup.qtpl
-#, fuzzy
-msgid "That name is not available."
-msgstr "Esse nome não está disponível."
-
-#: ../../cmd/web/views/group/creategroup.qtpl
-msgid "That name is not valid."
-msgstr "Esse nome não é válido."
 
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
@@ -20641,9 +20637,9 @@ msgstr "O moderador %s"
 msgid "The %s Team"
 msgstr "A Equipe %s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/subgroupdirectadd.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "The address to send an email to the groups is <a href=\"mailto:%[1]s\">%[1]s</"
 "a>."
@@ -20826,9 +20822,9 @@ msgstr "O pedido de doação foi atualizado."
 msgid "The draft has been discarded."
 msgstr "O projeto foi descartado."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/joingroup.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "The email address for this group is: %s. Because our system allows for "
 "participants to post via web or email, you can use this email to post new "
@@ -20978,22 +20974,22 @@ msgstr ""
 msgid "The following email addresses had errors:"
 msgstr "Os seguintes endereços de e-mail apresentaram erros:"
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "The following items have been added to the Files area of the %s group."
 msgstr "Os seguintes itens foram adicionados à área Ficheiros do grupo %s."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "The following items have been deleted from the Files area of the %s group."
 msgstr "Os seguintes itens foram eliminados da área Ficheiros do grupo %s."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "The following items have been updated in the Files area of the %s group."
 msgstr "Os seguintes itens foram actualizados na área Ficheiros do grupo %s."
@@ -21019,9 +21015,9 @@ msgstr "As seguintes fotos foram"
 msgid "The following videos have been"
 msgstr "Os seguintes vídeos foram"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "The group guidelines were sent to the group"
 msgstr "As diretrizes do grupo foram enviadas ao grupo"
 
@@ -21040,9 +21036,9 @@ msgstr "O grupo já está inscrito neste feed."
 msgid "The group is an announce group and this member isn't a moderator."
 msgstr "O grupo é um grupo de anúncio e este membro não é um moderador."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the group is moderated"
 msgstr "o grupo é moderado"
 
@@ -21060,9 +21056,9 @@ msgstr ""
 "O grupo está sem espaço. Reenvie sua mensagem sem anexos.El grupo no tiene "
 "espacio. Vuelva a enviar su mensaje sin archivos adjuntos."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "the group is set to moderate the first message in a topic and this message is "
 "starting a new topic"
@@ -21280,9 +21276,9 @@ msgstr ""
 "estado de moderación. Para aceptar futuros mensajes, puedes invitarlos al "
 "grupo:"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "The monthly reminder email \"%s\" was sent to the group"
 msgstr "A mensagem eletrónica mensal de lembrete \"%s\" foi enviada ao grupo"
 
@@ -21501,9 +21497,9 @@ msgstr "O tema não foi seguido."
 msgid "The topic has been unmuted."
 msgstr "O tópico foi dessilenciado."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the topic is moderated"
 msgstr "o tema é moderado"
 
@@ -21517,34 +21513,34 @@ msgstr "O padrão da coluna Atualizado deve ser ocultada."
 msgid "The URL does not appear to be a feed."
 msgstr "A URL não parece ser um feed."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the user is moderated"
 msgstr "o utilizador é moderado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the user is new member moderated"
 msgstr "o utilizador é um novo membro moderado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the user is pending"
 msgstr "o utilizador está pendente"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the user is set to moderate first message and is starting a new topic"
 msgstr ""
 "o utilizador está definido para moderar a primeira mensagem e está a iniciar um novo tópico"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "the user is set to moderate started topics and is starting a new topic"
 msgstr ""
 "o utilizador está definido para moderar tópicos iniciados e está a iniciar um novo tópico"
@@ -21575,9 +21571,9 @@ msgstr "A página wiki %[1]s foi atualizada por %[2]s."
 msgid "The wiki page %s has been deleted by %[2]s."
 msgstr "A página wiki %s foi eliminada por %[2]s."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "their domain has expired"
 msgstr "o seu domínio expirou"
 
@@ -21743,10 +21739,10 @@ msgstr "Há uma pessoa à sua frente na lista de espera."
 msgid "There was an error retrieving your login from Facebook."
 msgstr "Ocorreu um erro ao recuperar seu login do Facebook."
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: %[1]s refers to the date the invoice is due, %[2]f refers to the amount of the invoice.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "There's a due invoice, from %[1]s, in the amount of $%.02[2]. If this invoice "
 "is not paid, the group will be downgraded to the free plan."
@@ -22401,9 +22397,9 @@ msgstr "Para as pessoas que RSVPed não têm certeza"
 msgid "To People Who RSVPed Yes"
 msgstr "Para as pessoas que RSVPed sim"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "To Poll Respondents"
 msgstr "Para os inquiridos"
 
@@ -22578,81 +22574,81 @@ msgstr "Principais hashtags"
 msgid "Top Level"
 msgstr "Nível Superior"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Deleted"
 msgstr "Tópico - Eliminado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Locked"
 msgstr "Tópico - Bloqueado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Made sticky"
 msgstr "Tópico - Tornado autocolante"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Merged topics"
 msgstr "Tópico - Tópicos fundidos"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Moderated"
 msgstr "Tópico - Moderado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Reply-to changed"
 msgstr "Tópico - Resposta a alterada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Split"
 msgstr "Tópico - Separação"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Subject changed"
 msgstr "Tópico - Assunto alterado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Unlocked"
 msgstr "Tópico - Desbloqueado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Unmoderated"
 msgstr "Tópico - Não moderado"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic - Unstuck"
 msgstr "Tópico - Unstuck"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic \"%[1]s\" was deleted because the hashtag %[2]s expired"
 msgstr "O tópico \"%[1]s\" foi eliminado porque a hashtag %[2]s expirou"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Topic \"%s\" was deleted because a hashtag expired"
 msgstr "O tópico \"%s\" foi eliminado porque uma hashtag expirou"
 
@@ -23144,10 +23140,10 @@ msgstr "Sem estilo"
 msgid "Unsubscribe"
 msgstr "Cancelar inscrição"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Unsubscribe from"
 msgstr "Cancelar a subscrição de"
 
@@ -23402,9 +23398,9 @@ msgstr "arquivo atualizado"
 msgid "updated in the"
 msgstr "arquivo atualizado"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Updated page"
 msgstr "Página actualizada"
 
@@ -23670,9 +23666,9 @@ msgstr ""
 msgid "Use by Mods Only"
 msgstr "Uso apenas por mods"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "use group moderating settings"
 msgstr "utilizar definições de moderação de grupo"
 
@@ -23731,9 +23727,9 @@ msgstr "Usado para exibir horários."
 msgid "Used on the website to reference the enterprise."
 msgstr "Usado no site para fazer referência ao empreendimento."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "User Agent"
 msgstr "Agente do utilizador"
 
@@ -23742,9 +23738,9 @@ msgstr "Agente do utilizador"
 msgid "User name is not set."
 msgstr "O nome de usuário não está definido."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "User Sessions"
 msgstr "Sessões de utilizadores"
 
@@ -23759,10 +23755,10 @@ msgstr "Nome de usuário"
 msgid "Using"
 msgstr "Usando"
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: The %[1]s refers to the total number of bytes, the %[2]d refers to the total number of GB
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Using %[1]s total storage out of %[2]d GB"
 msgstr "Utilizando %[1]s armazenamento total de %[2]d GB"
 
@@ -25083,39 +25079,39 @@ msgstr "Largura da coluna, para exibição (0 significa padrão)."
 msgid "Wiki"
 msgstr "Wiki"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Wiki - Image added"
 msgstr "Wiki - Imagem adicionada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Wiki - Image deleted"
 msgstr "Wiki - Imagem eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Wiki - Page created"
 msgstr "Wiki - Página criada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Wiki - Page deleted"
 msgstr "Wiki - Página eliminada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Wiki - Page edited"
 msgstr "Wiki - Página editada"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Wiki - Revision deleted"
 msgstr "Wiki - Revisão eliminada"
 
@@ -25187,9 +25183,9 @@ msgstr "Wikis fornecem um local para armazenar informações sobre seu grupo."
 msgid "Will Attend"
 msgstr "Vai Participar"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "will attend"
 msgstr "estará presente"
 
@@ -25212,15 +25208,15 @@ msgstr "Será enviada como uma mensagem especial."
 msgid "Will Not Attend"
 msgstr "Não comparecerá"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "will not attend"
 msgstr "não comparecerá"
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "with a new tag which was removed"
 msgstr "com uma nova etiqueta que foi removida"
 
@@ -25235,9 +25231,9 @@ msgstr ""
 "continuar con sus suscripciones. En consecuencia, su correo electrónico se "
 "eliminarÃ¡ de los grupos de los que es miembro."
 
+#. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "without sending to the group"
 msgstr "sem enviar para o grupo"
 
@@ -25673,9 +25669,9 @@ msgstr "Você é o único proprietário dos seguintes grupos:"
 msgid "You are viewing a preview of <strong>%s</strong>."
 msgstr "Você está visualizando uma visualização de <strong>%s</strong>."
 
+#. Automatically translated using DeepL
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "You are waitlisted for the %s event"
 msgstr "Está em lista de espera para o evento %s"
 
@@ -25980,9 +25976,9 @@ msgstr ""
 "proveedor de servicios de correo electrónico nos ha informado de que el "
 "mensaje <a href=\"%[2]s/message/%[3]d\">%[4]s</a> ha sido marcado como spam."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "You have been added by the %[1]s Team to %[2]s. You can use <a "
 "href=\"%[3]s\">this link</a> for the next 24 hours to log in if it's your "
@@ -26690,9 +26686,9 @@ msgstr ""
 msgid "Your accounts have been merged."
 msgstr "Suas contas foram mescladas."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Your Active Sessions"
 msgstr "As suas sessões activas"
 
@@ -26777,19 +26773,19 @@ msgstr ""
 "Se efectuarÃ¡ el cargo en su tarjeta de crÃ©dito registrada, <strong><i "
 "class=\"fa fa-credit-card\"></i> %[1]s XXXX XXXX XXXX %[2]s</strong>."
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: %[1]s is the credit card brand, %[2]s is the last four digits of the user's credit card.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid ""
 "Your credit card on file, <strong><i class=\"fa fa-credit-card\"></i>%[1]s "
 "XXXX XXXX XXXX %[2]s</strong>, will be charged."
 msgstr ""
 "O seu cartão de crédito registado em <strong><i class=\"fa fa-credit-card\"></i>%[1]s XXXX XXXX XXXX %[2]s</strong>, será debitado."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Your current session"
 msgstr "A sua sessão atual"
 
@@ -26865,9 +26861,9 @@ msgstr "Seu grupo é composto"
 msgid "Your group is hosted on your own domain."
 msgstr "Seu grupo está hospedado em seu próprio domínio."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Your group is using over 80% of its available storage"
 msgstr ""
 "O seu grupo está a utilizar mais de 80% of do seu armazenamento disponível"
@@ -27029,10 +27025,10 @@ msgstr "Seu login expirou. Faça login novamente."
 msgid "Your password has been updated."
 msgstr "Sua senha foi atualizada."
 
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
 #, fuzzy
 #| msgid "You are not a member of this group."
-#. Automatically translated using DeepL
 msgid "Your pending membership in the %s group"
 msgstr "A sua participação pendente no grupo %s"
 
@@ -27183,9 +27179,9 @@ msgstr "Sua mensagem não foi aprovada"
 msgid "Your Subscriptions"
 msgstr "Suas Assinaturas"
 
+#. Automatically translated using DeepL
 #: ../../pkg/rsvputils/waitlistupdate.qtpl
 #, fuzzy
-#. Automatically translated using DeepL
 msgid "Your waitlist position has changed for the %s event"
 msgstr "A sua posição na lista de espera foi alterada para o evento %s"
 

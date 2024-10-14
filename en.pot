@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-09 15:34-0700\n"
+"PO-Revision-Date: 2024-10-14 12:04-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -7570,7 +7570,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
-msgid "Drag and drop files here, or click to choose files"
+msgid "Drag and drop files here, or <u>click to choose files</u>"
 msgstr ""
 
 #, go-format
@@ -9425,6 +9425,7 @@ msgid "Group Description"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Group Email Address"
 msgstr ""
@@ -9528,11 +9529,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 msgid "Group Moderator posted the message '%s' that needs to be approved."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/group/creategroup.qtpl
-msgid "Group Name"
 msgstr ""
 
 #, go-format
@@ -19403,10 +19399,16 @@ msgid "That email address is already your current email address."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/group/creategroup.qtpl
+msgid "That email address is not available."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/register.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "That email address is not valid."
 msgstr ""
@@ -19464,16 +19466,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 msgid "That message number does not exist. The message may have been deleted."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/group/creategroup.qtpl
-msgid "That name is not available."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/group/creategroup.qtpl
-msgid "That name is not valid."
 msgstr ""
 
 #, go-format
