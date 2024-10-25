@@ -4256,6 +4256,7 @@ msgid "Approvals Needed"
 msgstr "Erforderliche Genehmigungen"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
@@ -5211,6 +5212,7 @@ msgid "Bahrain"
 msgstr "Bahrain"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Ban"
 msgstr "Sperren"
 
@@ -6162,6 +6164,12 @@ msgstr "Veranstaltung absagen und RSVPs per E-Mail senden"
 msgid "Cancel Merge"
 msgstr "Zusammenführung abbrechen"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+#, fuzzy
+msgid "Cancel/Remove Invite"
+msgstr "Einladungen stornieren/entfernen"
+
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "Cancelled"
 msgstr "Abgebrochen"
@@ -6272,11 +6280,29 @@ msgstr "Tschad"
 msgid "Change"
 msgstr "Ändern"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Change Color"
+msgstr "Farbe ändern"
+
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Change Email"
 msgstr "E-Mail ändern"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Change Email Delivery"
+msgstr "E-Mail-Zustellung ändern"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Change Moderation"
+msgstr "Moderation ändern"
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid "Change Plan"
@@ -6394,6 +6420,12 @@ msgstr "Chat - Gelöschte Nachricht"
 #, fuzzy
 msgid "Chat is disabled"
 msgstr "Chat ist deaktiviert"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#, fuzzy
+msgid "Chat Members"
+msgstr "Chat-Mitglieder"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -6572,6 +6604,12 @@ msgstr "Weihnachtsinsel"
 #, fuzzy
 msgid "City"
 msgstr "Stadt"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Claim"
+msgstr "Anspruch"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -7580,6 +7618,7 @@ msgstr "Zurückgestellt"
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
@@ -7702,6 +7741,7 @@ msgstr ""
 "Dieses Album und alle Fotos darin löschen? Dies kann nicht rückgängig "
 "gemacht werden."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #, fuzzy
 msgid "Delete This Edit"
@@ -7970,6 +8010,7 @@ msgstr "Direktnachricht hinzufügen"
 msgid "Direct Add Notice"
 msgstr "Direkt Hinzufügen Hinweis"
 
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 msgid "Direct Message"
 msgstr "Direkte Nachricht"
@@ -8831,10 +8872,40 @@ msgstr "E-Mail-Alias"
 msgid "Email Aliases"
 msgstr "E-Mail-Aliase"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Attending (%d)"
+msgstr "E-Mail an alle Anwesenden (%d)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Not Attendings (%d)"
+msgstr "E-Mail Alle Nichtteilnehmer (%d)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Not Sures (%d)"
+msgstr "E-Mail Alle Nicht-Suren (%d)"
+
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #, fuzzy
 msgid "Email All Respondents"
 msgstr "E-Mail an alle Befragten"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Respondents (%d)"
+msgstr "E-Mail Alle Befragten (%d)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Waitlisted (%d)"
+msgstr "E-Mail an alle auf der Warteliste (%d)"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -9336,8 +9407,11 @@ msgstr "Signaturen ausschließen"
 msgid "Exclude zip field."
 msgstr "Zip-Feld ausschließen."
 
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Expanded"
 msgstr "Erweitert"
 
@@ -9393,6 +9467,12 @@ msgstr "Ausfuhr von %s"
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 msgid "Export Poll"
 msgstr "Export Poll"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Export Responses"
+msgstr "Antworten exportieren"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
@@ -9933,6 +10013,7 @@ msgid "From non-subscriber"
 msgstr "Von Nicht-Abonnenten"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Full Digest"
@@ -11977,9 +12058,11 @@ msgstr "Individuell"
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Individual Messages"
 msgstr "Einzelne Botschaften"
@@ -12686,6 +12769,12 @@ msgstr "über ein Foto gelacht hat"
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Learn More"
 msgstr "Mehr erfahren"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#, fuzzy
+msgid "Leave Chat"
+msgstr "Chat verlassen"
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
@@ -14239,7 +14328,9 @@ msgstr "Nachrichtenbasierte Gruppe"
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Messages"
@@ -16339,6 +16430,12 @@ msgstr "Nur die gewünschten Botschaften"
 msgid "Only This Event"
 msgstr "Nur dieses Ereignis"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Only to Sender"
+msgstr "Nur an Absender"
+
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #, fuzzy
 msgid "Only you and the moderators can add files to this folder"
@@ -16628,41 +16725,58 @@ msgstr "Override: nicht moderiert"
 msgid "override: not moderated"
 msgstr "Override: nicht moderiert"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply Only To Sender"
+msgid "Override: Reply Only to Sender"
 msgstr "Außerkraftsetzen: Nur dem Absender antworten"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Group"
-msgstr "Außerkraftsetzen: Antwort an Gruppe"
+msgid "Override: Reply to Group"
+msgstr "Überschreiben: Antwort an Gruppe"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Group And Sender"
+msgid "Override: Reply to Group and Sender"
 msgstr "Außerkraftsetzen: Antwort an Gruppe und Absender"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Moderators"
+msgid "Override: Reply to Moderators"
 msgstr "Überschreiben: Antwort an Moderatoren"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Sender"
+msgid "Override: Reply to Sender"
 msgstr "Überschreiben: Antwort an Absender"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Topic Followers Only"
-msgstr "Außerkraftsetzen: Antwort nur an Themenverfolger"
+msgid "Override: Reply to Topic Followers Only"
+msgstr "Außerkraftsetzen: Nur an Themenverfolger antworten"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -17227,6 +17341,7 @@ msgstr "Nachrichtenfußzeilen in einem separaten MIME-Teil unterbringen."
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -17374,8 +17489,11 @@ msgstr "Antworten auf die Umfrage"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Polls"
 msgstr "Umfragen"
@@ -18114,6 +18232,7 @@ msgid "Register using Google"
 msgstr "Über Google registrieren"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 msgid "Reject"
@@ -18279,6 +18398,7 @@ msgid "Reminders"
 msgstr "Erinnerungen"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupchat/groupchatmembers.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
@@ -18467,14 +18587,9 @@ msgstr "Antworten Unmoderiert"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupownermsg.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 msgid "Reply"
 msgstr "Antworten"
-
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply Only to Sender"
-msgstr "Nur dem Absender antworten"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
@@ -18487,41 +18602,18 @@ msgstr "Antwort an"
 msgid "Reply to #%d, %s"
 msgstr "Antwort auf #%d, %s"
 
+#. Automatically translated using DeepL
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #, fuzzy
-#| msgid "Reply to Group"
-msgid "Reply To Group"
-msgstr "Antworten an die Gruppe"
-
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 msgid "Reply to Group"
-msgstr "Antworten an die Gruppe"
-
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply to Group and Sender"
-msgstr "Antwort an Gruppe und Absender"
+msgstr "Antwort an die Gruppe"
 
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 msgid "Reply to Message"
 msgstr "Auf Nachricht antworten"
 
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply to Moderators"
-msgstr "Antwort an die Moderatoren"
-
-#: ../../pkg/emailfooters/htmlfooter.qtpl
-#, fuzzy
-msgid "Reply To Sender"
-msgstr "Antwort an Absender"
-
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../pkg/emailfooters/htmlfooter.qtpl
 #, fuzzy
 msgid "Reply to Sender"
 msgstr "Antwort an Absender"
@@ -18535,12 +18627,6 @@ msgstr "Antwort an Absender von"
 #, fuzzy
 msgid "Reply to sender of #"
 msgstr "Antwort an Absender von #"
-
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply to Topic Followers Only"
-msgstr "Antwort auf Thema Nur für Follower"
 
 #: ../../cmd/web/qtutils/messagereports.qtpl
 msgid "Report"
@@ -18566,6 +18652,7 @@ msgstr "Foto melden"
 msgid "Report Profile"
 msgstr "Bericht Profil"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #, fuzzy
 msgid "Report This Message"
@@ -18605,6 +18692,7 @@ msgstr "Berichte"
 msgid "Repository"
 msgstr "Repository"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #, fuzzy
 msgid "Repost [subject to group limits]"
@@ -18644,6 +18732,7 @@ msgid "Require meeting password"
 msgstr "Meeting-Passwort anfordern"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Resend Pending Membership Notice"
 msgstr "Mitteilung über ausstehende Mitgliedschaften erneut senden"
@@ -18985,6 +19074,7 @@ msgstr "geplant für %s"
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
@@ -19085,6 +19175,12 @@ msgstr ""
 msgid "Send A Test Notification"
 msgstr "Eine Testbenachrichtigung senden"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+#, fuzzy
+msgid "Send Again"
+msgstr "Erneut senden"
+
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #, fuzzy
 msgid "Send an announcement to the group."
@@ -19110,6 +19206,7 @@ msgid "Send As Special Notice"
 msgstr "Nur besondere Hinweise"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Send Bounce Probe"
 msgstr "Bounce-Probe senden"
@@ -19160,6 +19257,7 @@ msgstr "Log-In-Link senden"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 msgid "Send Message"
 msgstr "Nachricht senden"
@@ -19694,10 +19792,12 @@ msgstr "Spezial"
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
 #, fuzzy
@@ -19724,7 +19824,9 @@ msgstr ""
 "Geben Sie an, welche Nachrichten genehmigt werden müssen, bevor sie an die "
 "Gruppe gesendet werden."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
+#, fuzzy
 msgid "Split"
 msgstr "Teilen"
 
@@ -20227,6 +20329,7 @@ msgstr "Sudan"
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
@@ -22864,7 +22967,6 @@ msgid "Topic Followers Only"
 msgstr "Nur Themenverfolger"
 
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
 msgid "Topic Options"
 msgstr "Themenoptionen"
@@ -22888,6 +22990,9 @@ msgstr ""
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
@@ -23097,6 +23202,7 @@ msgid "Ukrainian"
 msgstr "Ukrainisch"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Unban"
 msgstr "Entsperren"
 
@@ -23332,10 +23438,12 @@ msgid "Unstyled"
 msgstr "Ungestylt"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl
@@ -23790,10 +23898,15 @@ msgstr "Adressen hochladen"
 msgid "Upload Attachments"
 msgstr "Anhänge hochladen"
 
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Upload File"
 msgstr "Datei hochladen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+#, fuzzy
+msgid "Upload Files"
+msgstr "Dateien hochladen"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 msgid "Upload Folder"
@@ -23803,6 +23916,7 @@ msgstr "Upload Ordner"
 msgid "Upload Image"
 msgstr "Bild hochladen"
 
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 msgid "Upload Photos"
 msgstr "Fotos hochladen"
@@ -23813,6 +23927,12 @@ msgstr "Fotos hochladen"
 #, fuzzy
 msgid "Upload Privileges"
 msgstr "Upload-Privilegien"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#, fuzzy
+msgid "Upload Videos"
+msgstr "Videos hochladen"
 
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 msgid "Uploaded"
@@ -23882,11 +24002,12 @@ msgstr "Einstellungen zur Gruppenmoderation verwenden"
 msgid "Use Group Moderation Setting"
 msgstr "Einstellung \"Gruppenmoderation\" verwenden"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Use Group Reply To Setting"
-msgstr "Einstellung \"Gruppenantwort an\" verwenden"
+msgid "Use Group Reply to Setting"
+msgstr "Gruppenantwort auf Einstellung verwenden"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy

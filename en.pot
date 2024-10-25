@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-14 12:04-0700\n"
+"PO-Revision-Date: 2024-10-25 16:01-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -3588,6 +3588,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
@@ -4425,6 +4426,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Ban"
 msgstr ""
 
@@ -5314,6 +5316,11 @@ msgid "Cancel Merge"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+msgid "Cancel/Remove Invite"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "Cancelled"
 msgstr ""
@@ -5425,10 +5432,25 @@ msgid "Change"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Change Color"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Change Email"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Change Email Delivery"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Change Moderation"
 msgstr ""
 
 #, go-format
@@ -5534,6 +5556,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Chat is disabled"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Chat Members"
 msgstr ""
 
 #, go-format
@@ -5715,6 +5742,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "City"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Claim"
 msgstr ""
 
 #, go-format
@@ -6748,6 +6780,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
@@ -7151,6 +7184,7 @@ msgid "Direct Add Notice"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 msgid "Direct Message"
 msgstr ""
@@ -7993,8 +8027,33 @@ msgid "Email Aliases"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Email All Attending (%d)"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Email All Not Attendings (%d)"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Email All Not Sures (%d)"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 msgid "Email All Respondents"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Email All Respondents (%d)"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Email All Waitlisted (%d)"
 msgstr ""
 
 #, go-format
@@ -8485,8 +8544,11 @@ msgid "Exclude zip field."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Expanded"
 msgstr ""
 
@@ -8544,6 +8606,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 msgid "Export Poll"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Export Responses"
 msgstr ""
 
 #, go-format
@@ -9090,6 +9157,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "Full Digest"
 msgstr ""
@@ -10894,9 +10962,11 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 msgid "Individual Messages"
 msgstr ""
 
@@ -11596,6 +11666,11 @@ msgstr ""
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Learn More"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Leave Chat"
 msgstr ""
 
 #, go-format
@@ -13074,7 +13149,9 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Messages"
@@ -15132,6 +15209,11 @@ msgid "Only This Event"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Only to Sender"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 msgid "Only you and the moderators can add files to this folder"
 msgstr ""
@@ -15405,39 +15487,50 @@ msgid "override: not moderated"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Override: Reply Only To Sender"
+msgid "Override: Reply Only to Sender"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Override: Reply To Group"
+msgid "Override: Reply to Group"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Override: Reply To Group And Sender"
+msgid "Override: Reply to Group and Sender"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Override: Reply To Moderators"
+msgid "Override: Reply to Moderators"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Override: Reply To Sender"
+msgid "Override: Reply to Sender"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Override: Reply To Topic Followers Only"
+msgid "Override: Reply to Topic Followers Only"
 msgstr ""
 
 #, go-format
@@ -16017,6 +16110,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -16146,8 +16240,11 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Polls"
 msgstr ""
@@ -16870,6 +16967,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 msgid "Reject"
@@ -17024,6 +17122,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupchat/groupchatmembers.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
@@ -17209,13 +17308,8 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupownermsg.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 msgid "Reply"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-msgid "Reply Only to Sender"
 msgstr ""
 
 #, go-format
@@ -17233,19 +17327,7 @@ msgstr ""
 
 #, go-format
 #: ../../pkg/emailfooters/htmlfooter.qtpl
-msgid "Reply To Group"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 msgid "Reply to Group"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-msgid "Reply to Group and Sender"
 msgstr ""
 
 #, go-format
@@ -17254,20 +17336,8 @@ msgid "Reply to Message"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-msgid "Reply to Moderators"
-msgstr ""
-
-#, go-format
-#: ../../pkg/emailfooters/htmlfooter.qtpl
-msgid "Reply To Sender"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../pkg/emailfooters/htmlfooter.qtpl
 msgid "Reply to Sender"
 msgstr ""
 
@@ -17279,12 +17349,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "Reply to sender of #"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-msgid "Reply to Topic Followers Only"
 msgstr ""
 
 #, go-format
@@ -17398,6 +17462,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Resend Pending Membership Notice"
 msgstr ""
 
@@ -17746,6 +17811,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
@@ -17842,6 +17908,11 @@ msgid "Send A Test Notification"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+msgid "Send Again"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 msgid "Send an announcement to the group."
 msgstr ""
@@ -17863,6 +17934,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Send Bounce Probe"
 msgstr ""
 
@@ -17915,6 +17987,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 msgid "Send Message"
 msgstr ""
@@ -18479,10 +18552,12 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
 msgid "Special Notices Only"
@@ -18993,6 +19068,7 @@ msgstr ""
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
@@ -21348,7 +21424,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Topic Options"
 msgstr ""
 
@@ -21369,6 +21444,9 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
@@ -21580,6 +21658,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Unban"
 msgstr ""
 
@@ -21811,10 +21890,12 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/grouphome.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl
@@ -22255,9 +22336,13 @@ msgid "Upload Attachments"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Upload File"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+msgid "Upload Files"
 msgstr ""
 
 #, go-format
@@ -22271,6 +22356,7 @@ msgid "Upload Image"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 msgid "Upload Photos"
 msgstr ""
@@ -22280,6 +22366,11 @@ msgstr ""
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
 msgid "Upload Privileges"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Upload Videos"
 msgstr ""
 
 #, go-format
@@ -22357,7 +22448,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Use Group Reply To Setting"
+msgid "Use Group Reply to Setting"
 msgstr ""
 
 #, go-format

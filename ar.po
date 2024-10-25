@@ -4417,6 +4417,7 @@ msgstr "الموافقات المطلوبة"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
@@ -5488,6 +5489,7 @@ msgstr "البحرين"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Ban"
 msgstr "المنع"
@@ -6539,6 +6541,12 @@ msgid "Cancel Merge"
 msgstr "إلغاء الدمج"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+#, fuzzy
+msgid "Cancel/Remove Invite"
+msgstr "إلغاء/إزالة الدعوة"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 #, fuzzy
 msgid "Cancelled"
@@ -6674,12 +6682,30 @@ msgid "Change"
 msgstr "التغيير"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Change Color"
+msgstr "تغيير اللون"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
 msgid "Change Email"
 msgstr "تغيير البريد الإلكتروني"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Change Email Delivery"
+msgstr "تغيير تسليم البريد الإلكتروني"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Change Moderation"
+msgstr "تغيير الاعتدال"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
@@ -6804,6 +6830,12 @@ msgstr "الدردشة - رسالة محذوفة"
 #, fuzzy
 msgid "Chat is disabled"
 msgstr "تم تعطيل الدردشة"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#, fuzzy
+msgid "Chat Members"
+msgstr "أعضاء الدردشة"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -7016,6 +7048,12 @@ msgstr "جزيرة الكريسماس"
 #, fuzzy
 msgid "City"
 msgstr "المدينة"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Claim"
+msgstr "المطالبة"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -8229,6 +8267,7 @@ msgstr "مؤجل"
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
@@ -8706,6 +8745,7 @@ msgid "Direct Add Notice"
 msgstr "إشعار الإضافة المباشرة"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #, fuzzy
 msgid "Direct Message"
@@ -9723,10 +9763,42 @@ msgid "Email Aliases"
 msgstr "الأسماء المستعارة للبريد الإلكتروني"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Attending (%d)"
+msgstr "البريد الإلكتروني لجميع الحاضرين (%d)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Not Attendings (%d)"
+msgstr ""
+"البريد الإلكتروني لجميع غير الحاضرين (%d)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Not Sures (%d)"
+msgstr "إرسال بريد إلكتروني لكل من لا يثق (%d)"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #, fuzzy
 msgid "Email All Respondents"
 msgstr "البريد الإلكتروني جميع المستجيبين"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Respondents (%d)"
+msgstr "البريد الإلكتروني جميع المستجيبين (%d)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Email All Waitlisted (%d)"
+msgstr ""
+"البريد الإلكتروني لجميع المدرجين على قائمة الانتظار (%d)"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -10326,8 +10398,11 @@ msgid "Exclude zip field."
 msgstr "استبعاد الحقل البريدي."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
 msgid "Expanded"
 msgstr "موسع"
@@ -10397,6 +10472,12 @@ msgstr "تصدير %s"
 #, fuzzy
 msgid "Export Poll"
 msgstr "استبيان التصدير"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#, fuzzy
+msgid "Export Responses"
+msgstr "استجابات التصدير"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
@@ -11040,6 +11121,7 @@ msgstr "من غير المشتركين"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Full Digest"
@@ -13260,9 +13342,11 @@ msgstr "فردي"
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Individual Messages"
 msgstr "الرسائل الفردية"
@@ -14105,6 +14189,12 @@ msgstr "ضحك على صورة"
 #, fuzzy
 msgid "Learn More"
 msgstr "اعرف المزيد"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#, fuzzy
+msgid "Leave Chat"
+msgstr "مغادرة الدردشة"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -15928,7 +16018,9 @@ msgstr "المجموعة القائمة على الرسائل"
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #, fuzzy
@@ -18403,6 +18495,12 @@ msgid "Only This Event"
 msgstr "هذا الحدث فقط"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Only to Sender"
+msgstr "إلى المرسل فقط"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #, fuzzy
 msgid "Only you and the moderators can add files to this folder"
@@ -18739,45 +18837,56 @@ msgid "override: not moderated"
 msgstr "التجاوز: غير خاضع للإشراف"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply Only To Sender"
-msgstr "التجاوز الرد على المرسل فقط"
+msgid "Override: Reply Only to Sender"
+msgstr "التجاوز: الرد على المرسل فقط"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Group"
+msgid "Override: Reply to Group"
 msgstr "التجاوز الرد على المجموعة"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Group And Sender"
-msgstr "التجاوز الرد على المجموعة والمرسل"
+msgid "Override: Reply to Group and Sender"
+msgstr "التجاوز: الرد على المجموعة والمرسل"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Moderators"
+msgid "Override: Reply to Moderators"
 msgstr "التجاوز الرد على الوسطاء"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Sender"
-msgstr "التجاوز: الرد على المرسل"
+msgid "Override: Reply to Sender"
+msgstr "تجاوز: الرد على المرسل"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Override: Reply To Topic Followers Only"
+msgid "Override: Reply to Topic Followers Only"
 msgstr "التجاوز الرد على متابعي المواضيع فقط"
 
 #. Automatically translated using DeepL
@@ -19460,6 +19569,7 @@ msgstr "ضع تذييلات الرسائل في جزء MIME منفصل."
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -19618,8 +19728,11 @@ msgstr "الردود على الاستطلاع"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Polls"
@@ -20499,6 +20612,7 @@ msgstr "التسجيل باستخدام جوجل"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #, fuzzy
@@ -20687,6 +20801,7 @@ msgstr "التذكيرات"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupchat/groupchatmembers.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
@@ -20912,16 +21027,10 @@ msgstr "الردود غير المعتدلة"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupownermsg.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #, fuzzy
 msgid "Reply"
 msgstr "الرد"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply Only to Sender"
-msgstr "الرد على المرسل فقط"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -20941,22 +21050,8 @@ msgstr "Reply to #%d, %s"
 #. Automatically translated using DeepL
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #, fuzzy
-msgid "Reply To Group"
-msgstr "الرد على المجموعة"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
 msgid "Reply to Group"
 msgstr "الرد على المجموعة"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply to Group and Sender"
-msgstr "الرد على المجموعة والمرسل"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -20965,22 +21060,8 @@ msgid "Reply to Message"
 msgstr "الرد على الرسالة"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply to Moderators"
-msgstr "الرد على الوسطاء"
-
-#. Automatically translated using DeepL
-#: ../../pkg/emailfooters/htmlfooter.qtpl
-#, fuzzy
-msgid "Reply To Sender"
-msgstr "الرد على المرسل"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../pkg/emailfooters/htmlfooter.qtpl
 #, fuzzy
 msgid "Reply to Sender"
 msgstr "الرد على المرسل"
@@ -20996,13 +21077,6 @@ msgstr "الرد على مرسل"
 #, fuzzy
 msgid "Reply to sender of #"
 msgstr "الرد على مرسل # المرسل"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
-msgid "Reply to Topic Followers Only"
-msgstr "الرد على متابعي المواضيع فقط"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/messagereports.qtpl
@@ -21137,6 +21211,7 @@ msgstr "طلب كلمة مرور الاجتماع"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Resend Pending Membership Notice"
 msgstr "إعادة إرسال إشعار العضوية المعلقة"
@@ -21549,6 +21624,7 @@ msgstr "مجدولة ل %s"
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
@@ -21664,6 +21740,12 @@ msgid "Send A Test Notification"
 msgstr "إرسال إشعار اختبار"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+#, fuzzy
+msgid "Send Again"
+msgstr "أرسل مرة أخرى"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #, fuzzy
 msgid "Send an announcement to the group."
@@ -21691,6 +21773,7 @@ msgstr "الإرسال كإشعار خاص"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Send Bounce Probe"
 msgstr "إرسال مسبار الإرتداد"
@@ -21752,6 +21835,7 @@ msgstr "إرسال رابط تسجيل الدخول"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
 msgid "Send Message"
@@ -22431,10 +22515,12 @@ msgstr "خاص"
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
 #, fuzzy
@@ -23060,6 +23146,7 @@ msgstr "السودان"
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
@@ -26029,7 +26116,6 @@ msgstr "متابعو المواضيع فقط"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
 msgid "Topic Options"
 msgstr "خيارات الموضوع"
@@ -26055,6 +26141,9 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
@@ -26311,6 +26400,7 @@ msgstr "أوكراني"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Unban"
 msgstr "إلغاء الحظر"
@@ -26584,10 +26674,12 @@ msgstr "غير مصممة"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl
@@ -27115,11 +27207,16 @@ msgid "Upload Attachments"
 msgstr "تحميل المرفقات"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #, fuzzy
 msgid "Upload File"
 msgstr "تحميل ملف"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+#, fuzzy
+msgid "Upload Files"
+msgstr "تحميل الملفات"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
@@ -27134,6 +27231,7 @@ msgid "Upload Image"
 msgstr "تحميل صورة"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 #, fuzzy
 msgid "Upload Photos"
@@ -27146,6 +27244,12 @@ msgstr "تحميل الصور"
 #, fuzzy
 msgid "Upload Privileges"
 msgstr "امتيازات التحميل"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#, fuzzy
+msgid "Upload Videos"
+msgstr "تحميل مقاطع الفيديو"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
@@ -27237,8 +27341,8 @@ msgstr "استخدام إعداد اعتدال المجموعة"
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
-msgid "Use Group Reply To Setting"
-msgstr "استخدام إعداد الرد على المجموعة"
+msgid "Use Group Reply to Setting"
+msgstr "استخدام إعداد الرد الجماعي على الإعداد"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
