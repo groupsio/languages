@@ -3247,10 +3247,9 @@ msgid "active"
 msgstr "actif"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "All Messages"
 msgid "Active Message"
-msgstr "Tous les messages"
+msgstr "Notification active"
 
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
@@ -3410,7 +3409,7 @@ msgstr "Ajouter"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Add Notice"
-msgstr "Ajouter un avis"
+msgstr "Annonce d'ajout de membre"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -4570,7 +4569,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer ce message ?"
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Are you sure you wish to delete this notice? This cannot be undone."
 msgstr ""
-"Êtes-vous sûr de vouloir supprimer cet avis ? Cette opération ne peut être "
+"Êtes-vous sûr de vouloir supprimer cette annonce ? Cette opération ne peut être "
 "annulée."
 
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
@@ -4611,7 +4610,7 @@ msgstr ""
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 msgid "Are you sure you wish to delete your <strong>%s</strong> account?"
 msgstr ""
-"Êtes-vous sûr de vouloir supprimer votre <strong>%s</strong> compte ?"
+"Êtes-vous sûr de vouloir supprimer votre compte <strong>%s</strong> ?"
 
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 msgid ""
@@ -5213,10 +5212,9 @@ msgid "Ban Domains"
 msgstr "Domaines interdits"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
 #| msgid "Change Email"
 msgid "Ban Email"
-msgstr "Changer l'e-mail"
+msgstr "Bannir l'e-mail"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -5290,22 +5288,19 @@ msgstr "Domaines interdits"
 
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "Members"
 msgid "Banned Member"
-msgstr "Membres"
+msgstr "Ban de membre"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Banned member %[1]s attempted to send message \"%[2]s\""
-msgstr "Le membre interdit %[1]s a tenté d'envoyer le message \"%[2]s\""
+msgstr "Le membre banni %[1]s a tenté d'envoyer le message \"%[2]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Banned member %s attempted to subscribe"
-msgstr "Le membre interdit %s a tenté de s'abonner."
+msgstr "Le membre banni %s a tenté de s'abonner."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -5735,14 +5730,13 @@ msgstr "Supprimer la sélection"
 #: ../../cmd/web/views/groupsync/groupfilesyncconfirm.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Bulk Remove"
-msgstr "Supprimer la sélection"
+msgstr "Suppression en masse"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-#, fuzzy
 #| msgid "Bulk Remove"
 msgid "Bulk Remove Members"
-msgstr "Supprimer la sélection"
+msgstr "Supprimer des membres en masse"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -7697,7 +7691,7 @@ msgstr "Supprimer Mon Compte"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Delete Notice"
-msgstr "Supprimer l'avis"
+msgstr "Supprimer la notification"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -8023,9 +8017,8 @@ msgstr "Résumé"
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-#, fuzzy
 msgid "Direct Add"
-msgstr "ajout direct"
+msgstr "Ajout direct de membre"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -8039,10 +8032,9 @@ msgid "Direct Add Message"
 msgstr "Message d'ajout direct"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#, fuzzy
 #| msgid "Add Notice"
 msgid "Direct Add Notice"
-msgstr "Ajouter un avis"
+msgstr "Annonce d'ajout direct"
 
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -8702,7 +8694,7 @@ msgstr "Éditer le message"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Edit Notice"
-msgstr "Modifier l'avis"
+msgstr "Édition d'annonce"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #, fuzzy
@@ -9127,12 +9119,10 @@ msgid "Emails can be of the form:"
 msgstr "Les courriels peuvent être de la forme :"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
-#, fuzzy
 #| msgid "Email Delivery"
 msgid "Emails To Remove"
 msgstr ""
-"Envoi d'e-\n"
-"mail"
+"Membres à retirer"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
@@ -9512,7 +9502,7 @@ msgstr "Exporter les données du groupe"
 
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Export Group"
-msgstr "Exporter un groupe de sites"
+msgstr "Exporter le groupe"
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
@@ -10255,7 +10245,7 @@ msgstr ""
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Goodbye"
-msgstr "Au revoir"
+msgstr "Départ d'un membre"
 
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Google Analytics Code"
@@ -10441,9 +10431,8 @@ msgstr "Adresse électronique du groupe"
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../pkg/notifications/noteviews/emailhelpnotification.qtpl
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
-#, fuzzy
 msgid "Group Guidelines"
-msgstr "Directives pour les groupes"
+msgstr "Consignes du groupe"
 
 #: ../../cmd/web/views/static/staticdisabled.qtpl
 #, fuzzy
@@ -10637,9 +10626,8 @@ msgstr "Autoriser les parrainages"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#, fuzzy
 msgid "Group Sponsorship"
-msgstr "Autoriser les parrainages"
+msgstr "Nouveau parrainage du groupe"
 
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
 #, fuzzy
@@ -10743,9 +10731,8 @@ msgid "Groups.io API Changelog"
 msgstr "Évolution de l'API Groups.io"
 
 #: ../../cmd/web/views/api/api.qtpl
-#, fuzzy
 msgid "Groups.io API Reference"
-msgstr "Préférences avancées"
+msgstr "Documentation d'API Groups.io"
 
 #: ../../cmd/web/views/static/staticcookiepolicy.qtpl
 #, fuzzy
@@ -12456,7 +12443,7 @@ msgstr ""
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Invite"
-msgstr "Inviter"
+msgstr "Envoi d'invitation"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -13163,14 +13150,13 @@ msgid "Locked"
 msgstr "Verrouillé"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "Lock Group"
 msgid "Locked Group"
-msgstr "Groupe de coffre à clés"
+msgstr "Rejet sur groupe verrouillé"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Locked Topic"
-msgstr "Sujet verrouillé"
+msgstr "Rejet sur sujet verrouillé"
 
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #, fuzzy
@@ -14409,10 +14395,9 @@ msgid "Message To Be Sent"
 msgstr "Message à envoyer"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "Message To Be Sent"
 msgid "Message To Member"
-msgstr "Message à envoyer"
+msgstr "Message aux membres"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy
@@ -14885,14 +14870,12 @@ msgid "Monthly Pricing:"
 msgstr "Prix mensuel :"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Monthly Reminder"
-msgstr "Mois et année"
+msgstr "Rappel mensuel"
 
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
-#, fuzzy
 msgid "Monthly reminder"
-msgstr "Mois et année"
+msgstr "Rappel mensuel"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -15749,12 +15732,12 @@ msgid "No emails will be sent to you."
 msgstr "Aucun courriel ne vous sera envoyé."
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
-#, fuzzy
 msgid ""
 "No emails will sent to these people when they are removed unless the "
 "<strong>Send Removed Member Notice</strong> checkbox is checked."
 msgstr ""
-"Aucun courriel ne sera envoyé à ces personnes lorsqu'elles seront supprimées."
+"Aucun courriel ne sera envoyé à ces personnes lorsqu'elles seront supprimées,"
+" à moins de cocher la case <strong>Envoyer la notification de membre retiré</strong>."
 
 #: ../../cmd/web/views/groupadmin/groupaliases.qtpl
 #, fuzzy
@@ -17295,10 +17278,9 @@ msgstr "L'avis en attente \"%s\" a expiré et a été supprimé."
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl
-#, fuzzy
 #| msgid "Edit Subscription"
 msgid "Pending Subscription"
-msgstr "Modifier l'abonnement"
+msgstr "Demande de souscription"
 
 #: ../../cmd/web/qtutils/color.qtpl
 msgid "Peony"
@@ -18001,7 +17983,7 @@ msgstr "Confidentialité du profil"
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Promote"
-msgstr "Promouvoir"
+msgstr "Promotion"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
@@ -18401,7 +18383,7 @@ msgstr "Rejeter"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 msgid "Reject Message"
-msgstr "Message de refus"
+msgstr "Message de rejet"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #, fuzzy
@@ -18431,7 +18413,7 @@ msgstr "Rejeté"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Rejected Message"
-msgstr "Message de refus"
+msgstr "Rejet de message"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -18536,10 +18518,9 @@ msgid "Rejected Message - Too large"
 msgstr "Message rejeté - Trop grand"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "Edit Subscription"
 msgid "Rejected Subscription"
-msgstr "Modifier l'abonnement"
+msgstr "Rejet de souscription"
 
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 msgid "Relevance"
@@ -18584,7 +18565,7 @@ msgstr "Supprimer les abonnés"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 msgid "Remove Members"
-msgstr "Supprimer les abonnés"
+msgstr "Supprimer les membres"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -18614,10 +18595,9 @@ msgid "Removed for spam"
 msgstr "Dossier des envois"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "Remove Members"
 msgid "Removed Member"
-msgstr "Supprimer les abonnés"
+msgstr "Révocation de membre"
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 msgid "Removed:"
@@ -19451,15 +19431,13 @@ msgid "Send messages to %s"
 msgstr "Envoyer des messages à %s"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Send monthly as special"
-msgstr "Envoi mensuel en tant que spécial"
+msgstr "Annonce spéciale mensuelle"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 #| msgid "Reply To"
 msgid "Send monthly to group"
-msgstr "Répondre à"
+msgstr "Annonce planifiée mensuelle"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy
@@ -19491,10 +19469,9 @@ msgid "Send on join"
 msgstr "Envoyer encore"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
-#, fuzzy
 #| msgid "Remove Members"
 msgid "Send Removed Member Notice"
-msgstr "Supprimer les abonnés"
+msgstr "Envoyer la notification de membre retiré"
 
 #: ../../cmd/web/views/account/needreverification.qtpl
 #, fuzzy
@@ -19503,13 +19480,12 @@ msgid "Send Reverification Email"
 msgstr "Envoyer un courriel de confirmation"
 
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
-#, fuzzy
 msgid ""
 "Send the direct add message and any welcome messages/group guidelines to "
 "people when they are added to the group."
 msgstr ""
 "Envoyez le message d'ajout direct et tous les messages de bienvenue/les "
-"directives du groupe aux personnes ajoutées au groupe."
+"consignes du groupe aux personnes ajoutées au groupe."
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #, fuzzy
@@ -19519,22 +19495,16 @@ msgstr ""
 "spéciaux."
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Send the guidelines email as a special notice."
-msgstr ""
-"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
-"spéciaux."
+msgstr "Envoyer les consignes en tant qu'annonce spéciale."
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Send the guidelines to new users when they join."
-msgstr ""
-"Envoyez les directives aux nouveaux utilisateurs lors de leur adhésion."
+msgstr "Envoyez les consignes aux nouveaux utilisateurs lors de leur adhésion."
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Send the guidelines to the group every month."
-msgstr "Envoyez les directives au groupe chaque mois."
+msgstr "Envoyez les consignes au groupe chaque mois."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupposttosub.qtpl
@@ -19763,9 +19733,8 @@ msgstr "Voir le profil"
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-#, fuzzy
 msgid "Settings"
-msgstr "Réglages de synchronisation"
+msgstr "Paramètres"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -20409,7 +20378,7 @@ msgstr "Catégorie de sous-groupe"
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 msgid "Subject"
-msgstr "Sujet"
+msgstr "Objet"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -20417,9 +20386,8 @@ msgid "Subject Tag"
 msgstr "Étiquette du sujet"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Subject used when sending the guidelines to the group."
-msgstr "Sujet utilisé lors de l'envoi des directives au groupe."
+msgstr "Sujet utilisé lors de l'envoi des consignes au groupe."
 
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticsubprocessors.qtpl
@@ -23871,7 +23839,7 @@ msgstr "Mettre à jour l'événement"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Update Notice"
-msgstr "Avis de mise à jour"
+msgstr "Mettre à jour l'annonce"
 
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
 #, fuzzy
@@ -23900,11 +23868,11 @@ msgstr "Mettre à jour la photo"
 #, fuzzy
 #| msgid "Update Photo"
 msgid "Update Poll"
-msgstr "Mettre à jour la photo"
+msgstr "Mettre à jour le sondage"
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Update Preferences"
-msgstr "Préférences de mise à jour"
+msgstr "Mettre à jour les préférences"
 
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
 msgid "Update Row"
@@ -24078,7 +24046,7 @@ msgstr "Mettre à jour la photo"
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Upgrade"
-msgstr "Mise à jour"
+msgstr "Mise à niveau"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
@@ -24329,9 +24297,8 @@ msgid "Use Signature For Web Posting"
 msgstr "Utiliser la signature pour les publications sur le Web"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#, fuzzy
 msgid "Use this message."
-msgstr "Premier message également"
+msgstr "Utiliser ce message au lieu de la notification par défaut."
 
 #: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl
 #, fuzzy
@@ -24593,12 +24560,12 @@ msgstr "Vérifier le rejet"
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl
 #, fuzzy
 msgid "Verify Removal"
-msgstr "Vérifier l'approbation"
+msgstr "Vérification de suppression"
 
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl
 #, fuzzy
 msgid "Verify Reopen"
-msgstr "Vérifier l'approbation"
+msgstr "Vérification de réouverture"
 
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
@@ -24606,39 +24573,39 @@ msgstr "Vérifier l'approbation"
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #, fuzzy
 msgid "Verify Repost"
-msgstr "Vérifier l'approbation"
+msgstr "Vérification de republication"
 
 #: ../../cmd/web/views/sub/groupresub.qtpl
 #, fuzzy
 #| msgid "Edit Subscription"
 msgid "Verify Resubscription"
-msgstr "Modifier l'abonnement"
+msgstr "Vérification de resubscription"
 
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #, fuzzy
 #| msgid "Edit Subscription"
 msgid "Verify Subscription"
-msgstr "Modifier l'abonnement"
+msgstr "Vérification de subscription"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "Verify Switch To Monthly"
-msgstr "Vérifier le passage au mensuel"
+msgstr "Vérification de la bascule au mode mensuel"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "Verify Switch To Yearly"
-msgstr "Vérifier le passage à l'année"
+msgstr "Vérification de la bascule au mode annuel"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
 msgid "Verify Unban"
-msgstr "Vérifier l'interdiction"
+msgstr "Vérifier le dé-banissement"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
 msgid "Verify Undo"
-msgstr "Vérifier le déverrouillage"
+msgstr "Vérifier l'annulation"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -24649,13 +24616,13 @@ msgstr "Vérifier le déverrouillage"
 #, fuzzy
 #| msgid "Unsubscribe"
 msgid "Verify Unsubscribe"
-msgstr "Se désabonner"
+msgstr "Vérification de désabonnement"
 
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl
 #, fuzzy
 msgid "Verify Update"
-msgstr "Vérifier le déverrouillage"
+msgstr "Vérification de mise à jour"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "via"
