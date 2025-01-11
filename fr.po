@@ -3453,7 +3453,7 @@ msgstr "Catégorie de sous-groupe"
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/post/grouppost.qtpl
 msgid "Add Tags"
-msgstr "Ajouter des Mots Clés"
+msgstr "Ajouter des étiquettes"
 
 #: ../../cmd/web/views/calendar/calendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
@@ -3474,10 +3474,9 @@ msgid "Add to Calendar"
 msgstr "Ajouter au calendrier"
 
 #: ../../cmd/web/views/groupsync/syncslackmembers.qtpl
-#, fuzzy
 #| msgid "Add Tags"
 msgid "Add To Slack"
-msgstr "Ajouter des Mots Clés"
+msgstr "Ajouter à Slack"
 
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
@@ -3789,10 +3788,9 @@ msgstr "Tous les messages doivent comporter au moins un hashtag."
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
-#, fuzzy
 #| msgid "Message To Be Sent"
 msgid "All Messages By This Member"
-msgstr "Message à envoyer"
+msgstr "Tous les messages de ce membre"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -4945,7 +4943,7 @@ msgstr "Pièces jointes : %[1]s - %[2]d%% de %[3]dGB"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "Attempted"
-msgstr "Essais réalisés"
+msgstr "Tentative"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy
@@ -5547,7 +5545,6 @@ msgid "Bolivia"
 msgstr "Bolivie"
 
 #: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
 msgid ""
 "Boost your group communications with our inclusive platform. Your members "
 "get messages directly in their email, so they'll <strong>never miss a "
@@ -5559,9 +5556,9 @@ msgstr ""
 "Boostez les communications de votre groupe grâce à notre plateforme "
 "inclusive. Vos membres reçoivent les messages directement dans leur boîte "
 "aux lettres électronique, de sorte qu'ils <strong>ne manquent jamais une "
-"conversation</strong>. Profitez des fonctions de <strong>partage de photos</"
-"strong>, de <strong>stockage de fichiers</strong>, de <strong>calendrier</"
-"strong>, de <strong>wiki</strong>, de <strong>chat</strong> et de "
+"conversation</strong>. Profitez des fonctions de <strong>partage de photos"
+"</strong>, de <strong>stockage de fichiers</strong>, de <strong>calendrier"
+"</strong>, de <strong>wiki</strong>, de <strong>chat</strong> et de "
 "<strong>base de données</strong>. Convivialité, respect de la vie privée et "
 "absence de publicité."
 
@@ -6490,7 +6487,7 @@ msgstr "Case à cocher"
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "checked"
-msgstr "validé"
+msgstr "coché"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
@@ -7917,7 +7914,7 @@ msgstr "Page Wiki supprimée : %s"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "Delivered"
-msgstr "Délivré"
+msgstr "Distribué"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
@@ -7926,12 +7923,9 @@ msgid "Delivery"
 msgstr "Livraison"
 
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-#, fuzzy
 #| msgid "Email Delivery"
 msgid "Delivery History"
-msgstr ""
-"Envoi d'e-\n"
-"mail"
+msgstr "Historique de distribution"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -8140,7 +8134,7 @@ msgstr "Désactiver l'authentification à deux facteurs"
 #: ../../cmd/web/views/post/grouppost.qtpl
 #: ../../cmd/web/views/post/groupposttosub.qtpl
 msgid "Discard"
-msgstr "Rejeter"
+msgstr "Abandonner"
 
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
 #, fuzzy
@@ -8179,7 +8173,7 @@ msgstr "Modifiez la photo"
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 msgid "Display Name"
-msgstr "Afficher le nom"
+msgstr "Nom affiché"
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
@@ -8755,12 +8749,11 @@ msgstr "Modifier les propriétés de la table"
 
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 msgid "Edit Tag"
-msgstr "Modifier le mot-clé"
+msgstr "Modifier l'étiquette"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
-#, fuzzy
 msgid "Edit this message?"
-msgstr "Premier message également"
+msgstr "Éditer ce message?"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
@@ -8972,12 +8965,9 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmemberdeliveries.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
 #: ../../cmd/web/views/sub/subdeliveries.qtpl
-#, fuzzy
 #| msgid "Email Delivery"
 msgid "Email Delivery History"
-msgstr ""
-"Envoi d'e-\n"
-"mail"
+msgstr "Historique de distribution de courriel"
 
 #: ../../pkg/notifications/noteviews/emailhelpnotification.qtpl
 #, fuzzy
@@ -9502,7 +9492,7 @@ msgstr "Exporter les données du groupe"
 
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Export Group"
-msgstr "Exporter le groupe"
+msgstr "Export du groupe"
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
@@ -10509,7 +10499,7 @@ msgstr "Membres du groupe"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "Group Message"
-msgstr "Appel groupé"
+msgstr "Message de groupe"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
@@ -10995,7 +10985,6 @@ msgid "Hashtags"
 msgstr "Hashtags"
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl
-#, fuzzy
 msgid ""
 "Hashtags let you control and organize your archives. Tags can have an "
 "expiration; topics with those tags will be automatically deleted after the "
@@ -11004,19 +10993,18 @@ msgid ""
 "group. Tags can be restricted to a predefined set. And of course the "
 "archives are searchable by tag."
 msgstr ""
-"Les hashtags vous permettent de contrôler et d'organiser vos archives. Les "
-"tags peuvent avoir une date d'expiration ; les sujets avec ces tags seront "
-"automatiquement supprimés\n"
-"\t\t\t\t\t\tautomatiquement après le délai spécifié. Les étiquettes peuvent "
-"également être définies comme n'envoyant pas d'e-mail, pour les cas où vous "
-"souhaitez inclure des messages dans l'archive mais ne voulez pas qu'ils "
-"soient envoyés au groupe. Les étiquettes peuvent être limitées à un ensemble "
-"prédéfini. Et bien sûr, les archives sont consultables par étiquette."
+"Les étiquettes vous permettent de contrôler et d'organiser vos archives. Les "
+"étiquettes peuvent avoir une date d'expiration ; les sujets avec ces "
+"étiquettes seront automatiquement supprimées après le délai spécifié. "
+"Les étiquettes peuvent également être définies comme n'envoyant pas d'e-mail, "
+"pour les cas où vous souhaitez inclure des messages dans l'archive mais ne "
+"voulez pas qu'ils soient envoyés au groupe. Les étiquettes peuvent être "
+"limitées à un ensemble prédéfini. Et bien sûr, les archives sont consultables "
+"par étiquette."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Hashtags Required"
-msgstr "Hashtags requis"
+msgstr "Étiquettes requises"
 
 #: ../../cmd/web/views/mutefollow/fk.qtpl
 #: ../../cmd/web/views/mutefollow/mk.qtpl
@@ -13119,10 +13107,9 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#, fuzzy
 #| msgid "Lock Group"
 msgid "Lock Topic"
-msgstr "Groupe de coffre à clés"
+msgstr "Verrouiller le sujet"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/post/grouppost.qtpl
@@ -13315,14 +13302,12 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#, fuzzy
 msgid "Make Sticky"
-msgstr "Rendre collant"
+msgstr "Épingler"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-#, fuzzy
 msgid "Make This A Zoom Meeting"
-msgstr "Faites-en une réunion Zoom"
+msgstr "Transformer en réunion Zoom"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -13695,7 +13680,7 @@ msgstr "Notifications aux membres"
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 msgid "Member Page"
-msgstr "Page des membres"
+msgstr "Page du membre"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 msgid "Member Profile"
@@ -14446,46 +14431,38 @@ msgid "Messages are not moderated"
 msgstr "Les messages ne sont pas modérés"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
-#, fuzzy
 msgid "Messages are set to reply to group and sender."
 msgstr ""
 "Les messages sont configurés pour répondre au groupe et à l'expéditeur."
 
 #: ../../cmd/web/views/group/grouphome.qtpl
-#, fuzzy
 msgid "Messages are set to reply to group."
 msgstr "Les messages sont configurés pour répondre au groupe."
 
 #: ../../cmd/web/views/group/grouphome.qtpl
-#, fuzzy
 msgid "Messages are set to reply to moderators."
-msgstr "Les messages ne sont pas modérés"
+msgstr "Les messages sont configurés pour répondre aux modérateurs."
 
 #: ../../cmd/web/views/group/grouphome.qtpl
-#, fuzzy
 msgid "Messages are set to reply to sender."
-msgstr "Les messages ne sont pas modérés"
+msgstr "Les messages sont configurés pour répondre à l'expéditeur."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Messages can be tagged with new hashtags"
 msgstr "Les messages peuvent être étiquetés avec de nouveaux hashtags"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
-#, fuzzy
 msgid "Messages can be viewed by anyone."
-msgstr "Les messages peuvent être étiquetés avec de nouveaux hashtags"
+msgstr "Les messages sont consultables par tout le monde."
 
 #: ../../cmd/web/views/group/creategroup.qtpl
-#, fuzzy
 msgid "Messages can be viewed by group members only."
-msgstr "Qui peut consulter la liste des membres du groupe."
+msgstr "Les messages sont consultables uniquement par les membres du groupe."
 
 #: ../../cmd/web/views/group/creategroup.qtpl
-#, fuzzy
 msgid "Messages do not require approval before being sent to the group."
 msgstr ""
-"Indiquez quels messages doivent être approuvés avant d'être envoyés au "
+"Les messages n'ont pas besoin d'être approuvés avant d'être envoyés au "
 "groupe."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -14666,9 +14643,8 @@ msgstr "Sujets abordés de façon modérée"
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#, fuzzy
 msgid "Moderate Topic"
-msgstr "Sujets abordés de façon modérée"
+msgstr "Modérer le sujet"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -14759,14 +14735,12 @@ msgstr "Activité du modérateur"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
-#, fuzzy
 msgid "Moderator Edited"
-msgstr "Modérateur édité"
+msgstr "Édition par Modérateur"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#, fuzzy
 msgid "Moderator Notice"
-msgstr "Modérateur édité"
+msgstr "Annonce Modérateur"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -14925,9 +14899,8 @@ msgid "Most Recent Messages"
 msgstr "Rejeter les messages"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#, fuzzy
 msgid "Most Recent Successful Deliveries"
-msgstr "Livraison réussie la plus récente"
+msgstr "Dernières distributions réussies"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #, fuzzy
@@ -15390,10 +15363,9 @@ msgid "New Folder"
 msgstr "Nouveau dossier"
 
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
-#, fuzzy
 #| msgid "Hashtags"
 msgid "New Hashtag"
-msgstr "Hashtags"
+msgstr "Nouvelle étiquette"
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 #, fuzzy
@@ -18795,7 +18767,7 @@ msgstr "Message du signalement"
 
 #: ../../cmd/web/qtutils/messagereports.qtpl
 msgid "Report Photo"
-msgstr "Rapport Photo"
+msgstr "Signaler Photo"
 
 #: ../../cmd/web/qtutils/messagereports.qtpl
 #, fuzzy
@@ -18815,27 +18787,24 @@ msgid "Report This Photo"
 msgstr "Signaler cette photo"
 
 #: ../../cmd/web/views/account/groupprofile.qtpl
-#, fuzzy
 #| msgid "View Profile"
 msgid "Report This Profile"
-msgstr "Voir le profil"
+msgstr "Signaler le profil"
 
 #: ../../cmd/web/qtutils/messagereports.qtpl
 #, fuzzy
 msgid "Report to %s Support"
-msgstr "Rapport à %s Support"
+msgstr "Rapport à Support %s"
 
 #: ../../cmd/web/qtutils/messagereports.qtpl
-#, fuzzy
 #| msgid "Group Moderator"
 msgid "Report to Moderators"
-msgstr "Modérateur(trice) du groupe"
+msgstr "Signaler au modérateurs du groupe"
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
-#, fuzzy
 #| msgid "Report"
 msgid "reported"
-msgstr "Rapport"
+msgstr "signalé"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -19361,9 +19330,8 @@ msgid "Send an email to you with a link that will unbounce your account."
 msgstr "Vous envoyer un e-mail avec un lien qui débloquera votre compte."
 
 #: ../../cmd/web/views/post/grouppost.qtpl
-#, fuzzy
 msgid "Send As Special Notice"
-msgstr "Avis spéciaux uniquement"
+msgstr "Envoyer en tant qu'annonce spéciale"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -19552,10 +19520,9 @@ msgstr "Envoyé"
 
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
-#, fuzzy
 #| msgid "Integrations"
 msgid "Sent Invitations"
-msgstr "Intégrations"
+msgstr "Invitations envoyées"
 
 #: ../../cmd/web/views/group/groupmonth.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -23218,9 +23185,8 @@ msgstr "Expiration"
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#, fuzzy
 msgid "Topic Properties"
-msgstr "Modifier les propriétés de la table"
+msgstr "Propriétés du sujet"
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #, fuzzy
@@ -24093,16 +24059,14 @@ msgid "Upload"
 msgstr "Chargé"
 
 #: ../../cmd/web/views/groupadmin/groupcoverphoto.qtpl
-#, fuzzy
 msgid ""
 "Upload a file containing the cover photo. It will be scaled to fit within "
 "900 x 300 pixels."
 msgstr ""
-"Téléchargez un fichier contenant les adresses électroniques à ajouter, une "
-"par ligne"
+"Téléversez un fichier contenant l'image de couverture. Elle sera "
+"redimensionnée pour tenir dans un espace de 900 × 300 pixels."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
-#, fuzzy
 msgid ""
 "Upload a file containing the email addresses of all of the people you wish "
 "to be in your group. Any people currently in your group that are not listed "
@@ -24111,50 +24075,44 @@ msgid ""
 "<strong>Note:</strong>No emails will be sent to people when they are removed."
 msgstr ""
 "Téléchargez un fichier contenant les adresses électroniques de toutes les "
-"personnes que vous souhaitez intégrer à votre groupe. Toute personne faisant "
-"actuellement partie de votre groupe\n"
-"ne figurent pas dans la liste seront supprimées, et toutes les personnes du "
-"fichier qui ne font pas partie de votre groupe seront ajoutées. Un écran de "
-"confirmation s'affiche\n"
-"avant que la synchronisation ne soit effectuée. <strong>Remarque :</"
-"strong>aucun courriel ne sera envoyé aux personnes supprimées."
+"personnes que vous souhaitez intégrer à votre groupe. Tous les membres "
+"actuels ne figurant pas dans la liste seront retirés, et toutes les "
+"personnes du fichier qui ne font pas partie de votre groupe y seront "
+"ajoutées. Un écran de confirmation s'affichera avant que la synchronisation "
+"ne soit effectuée. <strong>Remarque :</strong> Aucun courriel ne sera envoyé "
+"aux personnes lorsqu'elles seront retirées."
 
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
-#, fuzzy
 msgid "Upload a file containing the email addresses to add, one per line"
 msgstr ""
-"Téléchargez un fichier contenant les adresses électroniques à ajouter, une "
+"Téléversez un fichier contenant les adresses électroniques à ajouter, une "
 "par ligne"
 
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
-#, fuzzy
 msgid "Upload a file containing the email addresses to invite, one per line"
 msgstr ""
-"Téléchargez un fichier contenant les adresses électroniques à ajouter, une "
+"Téléversez un fichier contenant les adresses électroniques à inviter, une "
 "par ligne"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
-#, fuzzy
 msgid "Upload a file containing the email addresses to remove, one per line"
 msgstr ""
-"Téléchargez un fichier contenant les adresses électroniques à ajouter, une "
+"Téléversez un fichier contenant les adresses électroniques à retirer, une "
 "par ligne"
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
-#, fuzzy
 msgid "Upload a file containing the email addresses, one per line"
 msgstr ""
-"Téléchargez un fichier contenant les adresses électroniques à ajouter, une "
+"Téléversez un fichier contenant les adresses électroniques, une "
 "par ligne"
 
 #: ../../cmd/web/views/groupadmin/groupcoverphoto.qtpl
-#, fuzzy
 msgid ""
 "Upload a file containing the icon. It will be scaled to fit within 200 x 200 "
 "pixels."
 msgstr ""
-"Téléchargez un fichier contenant les adresses électroniques à ajouter, une "
-"par ligne"
+"Téléverez un fichier contenant l'icône. Elle sera redimensionnée à 200 × 200 "
+"pixels."
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -26727,7 +26685,7 @@ msgstr "﻿Vous n'avez effectué aucun règlement."
 
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl
 msgid "You have not muted any hashtags."
-msgstr "Vous n'avez mis aucun hashtag en sourdine."
+msgstr "Vous n'avez mis aucune étiquette en sourdine."
 
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl
 #, fuzzy
@@ -27476,15 +27434,13 @@ msgid "Your Groups.io Membership Has Been Reverified"
 msgstr "Caractéristiques de votre groupe"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Your hashtag settings have been updated."
-msgstr "Aucun alias de groupe n'a été défini."
+msgstr "Vos paramètres d'étiquettes ont été mis à jour."
 
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
-#, fuzzy
 #| msgid "Identity"
 msgid "Your Identity"
-msgstr "Identité"
+msgstr "Votre identité"
 
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
@@ -27492,7 +27448,6 @@ msgid "Your location."
 msgstr "Votre emplacement."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Your login has expired. Please login again."
 msgstr "Votre connexion a expiré. Veuillez vous reconnecter."
 
@@ -27560,9 +27515,8 @@ msgstr ""
 "Votre message sera envoyé lorsqu'il aura été approuvé par les modérateurs."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Your notification preferences have been updated."
-msgstr "Aucun alias de groupe n'a été défini."
+msgstr "Vos préférences de notification ont été mises à jour."
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
@@ -27594,11 +27548,8 @@ msgstr ""
 "supprimer le trait de soulignement avant de créer des sous-groupes."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Your password has been deleted."
-msgstr ""
-"Les messages comportant cette étiquette seront envoyés en tant qu'avis "
-"spéciaux."
+msgstr "Votre mot de passe a été supprimé."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
@@ -27613,9 +27564,8 @@ msgstr "Votre mot de passe a été mis à jour."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
-#, fuzzy
 msgid "Your pending membership in the %s group"
-msgstr "Votre adhésion en cours au groupe %s."
+msgstr "Votre adhésion en cours au groupe %s"
 
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
 #, fuzzy
@@ -27649,7 +27599,6 @@ msgid "Your poll has been updated."
 msgstr "Votre sondage a été mis à jour."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Your poll will be created when it's approved by the moderators."
 msgstr ""
 "Votre sondage sera créé lorsqu'il aura été approuvé par les modérateurs."
@@ -27660,7 +27609,6 @@ msgid "Your position on the waitlist for the %s event has changed."
 msgstr "Votre position sur la liste d'attente pour l'événement %s a changé."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid ""
 "Your profile is missing a photo. <a href='/account?"
 "page=profile&profilesubid=0'>Add one now</a>."
@@ -27678,14 +27626,12 @@ msgstr ""
 "page=profile&profilesubid=0'>Définissez-le maintenant</a>."
 
 #: ../../cmd/web/qtutils/messagereports.qtpl
-#, fuzzy
 #| msgid "Your message has been sent."
 msgid "Your report has been sent."
-msgstr "Votre message a été envoyé."
+msgstr "Votre signalement a été envoyé."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
-#, fuzzy
 msgid ""
 "Your request has been submitted. Expect an email with a link to download a "
 "zipfile of the data within about 10 minutes."
@@ -27696,12 +27642,12 @@ msgstr ""
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
-#, fuzzy
 msgid ""
 "Your request to join the %s %s group has been submitted to the group "
 "managers. Here is some information that may be helpful."
 msgstr ""
-"Votre demande d'adhésion au groupe %s %s a été soumise aux responsables du groupe. Voici quelques informations qui pourraient vous être utiles."
+"Votre demande d'adhésion au groupe %s %s a été soumise aux responsables du "
+"groupe. Voici quelques informations qui pourraient vous être utiles."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Your RSVP has been saved."
@@ -27798,10 +27744,9 @@ msgid "Zambia"
 msgstr "Zambie"
 
 #: ../../cmd/web/views/static/staticzendesk.qtpl
-#, fuzzy
 #| msgid "Sender"
 msgid "Zendesk"
-msgstr "Expéditeur"
+msgstr "Zendesk"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
