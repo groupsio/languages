@@ -9775,14 +9775,12 @@ msgid "Find"
 msgstr "Trouver"
 
 #: ../../cmd/web/views/base.qtpl
-#, fuzzy
 msgid "Find a Group"
 msgstr "Trouver un groupe"
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl
-#, fuzzy
 msgid "Find Groups"
-msgstr "Trouver un groupe"
+msgstr "Trouver des groupes"
 
 #: ../../cmd/web/views/base.qtpl
 #, fuzzy
@@ -12651,9 +12649,8 @@ msgstr "Rejoindre le groupe"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
-#, fuzzy
 msgid "Join This Group"
-msgstr "Trouver un groupe"
+msgstr "Adhérer à ce groupe"
 
 #: ../../cmd/web/views/account/groupprofile.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -12746,10 +12743,9 @@ msgid "Label added to issue"
 msgstr "Répertoire des membres"
 
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl
-#, fuzzy
 #| msgid "Save Changes?"
 msgid "Label changed"
-msgstr "Enregistrer les modifications ?"
+msgstr "Étiquette modifiée"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 msgid "Label removed"
@@ -12769,13 +12765,11 @@ msgstr "Préférence de langue"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/user/enterprise.qtpl
-#, fuzzy
 #| msgid "You have no subscriptions."
 msgid "Language the website and notifications are in."
-msgstr "Vous n'avez aucunes adhésions."
+msgstr "Langue d'affichage du site web et des notifications."
 
 #: ../../cmd/web/views/account/settings.qtpl
-#, fuzzy
 msgid ""
 "Language the website and notifications are in. Please see our <a href=\"/"
 "static/translations\">Language Support</a> page for information on how you "
@@ -12814,10 +12808,9 @@ msgid "Latvia"
 msgstr "Lettonie"
 
 #: ../../pkg/notifications/noteviews/chatpostnotification.qtpl
-#, fuzzy
 #| msgid "Delete Message"
 msgid "laughed at a message"
-msgstr "Supprimer le message"
+msgstr "a ri devant un message"
 
 #: ../../pkg/notifications/noteviews/chatpostnotification.qtpl
 #, fuzzy
