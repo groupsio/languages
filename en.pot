@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-25 16:01-0700\n"
+"PO-Revision-Date: 2025-01-17 14:13-0800\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -861,7 +861,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
 
 #, go-format
@@ -871,7 +871,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
 
 #, go-format
@@ -881,7 +881,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
 
 #, go-format
@@ -891,7 +891,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending integration message \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
 
 #, go-format
@@ -901,7 +901,9 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
+msgid ""
+"%[1]s rejected pending integration special notice \"%[2]s\" with reason "
+"\"%[3]s\""
 msgstr ""
 
 #, go-format
@@ -911,7 +913,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending notification \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
 
 #, go-format
@@ -2494,6 +2496,7 @@ msgstr ""
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "About"
@@ -5593,6 +5596,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -5910,6 +5914,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Close Drawer"
@@ -8652,6 +8657,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -9938,6 +9944,7 @@ msgstr ""
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Guidelines"
@@ -10142,6 +10149,7 @@ msgstr ""
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
@@ -10152,6 +10160,8 @@ msgstr ""
 #: ../../cmd/web/views/help/helpcenter.qtpl
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 msgid "Help Center"
 msgstr ""
 
@@ -10913,6 +10923,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 msgid "Inactive Member"
+msgstr ""
+
+#, go-format
+#: ../../tools/genactivities/activities.hjson
+msgid "Inactive not confirmed account %s was deleted"
 msgstr ""
 
 #, go-format
@@ -12203,6 +12218,11 @@ msgid "Manage Subgroups"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+msgid "Manual"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 msgid "Map View"
 msgstr ""
@@ -12927,6 +12947,11 @@ msgid "Membership - Username changed by member"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
+msgid "Membership Defaults"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/mergeaccounts.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
@@ -13607,6 +13632,7 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More"
@@ -13615,6 +13641,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More Options"
@@ -16550,6 +16577,7 @@ msgstr ""
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -16566,6 +16594,7 @@ msgid "Privacy"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticprivacy.qtpl
 msgid "Privacy Policy"
@@ -19275,6 +19304,7 @@ msgstr ""
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Terms"
@@ -21553,7 +21583,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/register.qtpl
-msgid "Try Groups.io Free For 30 Days"
+msgid "Try Groups.io Free For 90 Days"
 msgstr ""
 
 #, go-format
@@ -22217,6 +22247,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Updates"
@@ -24096,7 +24127,7 @@ msgstr ""
 #, go-format
 #. TRANSLATORS: The %s refers to the next invoice date.
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-msgid "You are currently in a 30 day free trial of the premium plan. It will end on %s."
+msgid "You are currently in a 90 day free trial of the premium plan. It will end on %s."
 msgstr ""
 
 #, go-format

@@ -1072,9 +1072,9 @@ msgstr "%[1]s відхилено %[2]s's pending message \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"%[1]s відхилено повідомлення %[2]s\"%[3]s\" з причиною %[4]s"
+"%[1]s відхилив очікуване повідомлення %[2]s від %[3]s з причиною \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1085,10 +1085,8 @@ msgstr "%[1]s відхилено %[2]s's pending special notice \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid ""
-"%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
-msgstr ""
-"%[1]s відхилено %[2]s's waiting special notice \"%[3]s\" з обґрунтуванням %[4]s"
+msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason \"%[4]s\""
+msgstr "%[1]s відхилено %[2]s's waiting special notice \"%[3]s\" з обґрунтуванням %[4]s"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1099,9 +1097,9 @@ msgstr "%[1]s відхилено на розгляді %[2]s \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"%[1]s відхилено на очікуванні %[2]s \"%[3]s\" з обґрунтуванням %[4]s"
+"%[1]s відхилено на очікуванні %[2]s \"%[3]s\" з причиною \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1113,9 +1111,9 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending integration message \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
-"%[1]s відхилено повідомлення про очікувану інтеграцію \"%[2]s\" із зазначенням причини %[3]s"
+"%[1]s відхилив очікуване повідомлення про інтеграцію \"%[2]s\" з причиною \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1128,9 +1126,10 @@ msgstr ""
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid ""
-"%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
+"%[1]s rejected pending integration special notice \"%[2]s\" with reason "
+"\"%[3]s\""
 msgstr ""
-"%[1]s відхилено в очікуванні спеціального повідомлення про інтеграцію \"%[2]s\" із зазначенням причини %[3]s"
+"%[1]s відхилив спеціальне повідомлення \"%[2]s\" про очікування інтеграції з причиною \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1142,9 +1141,9 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending notification \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
-"%[1]s відхилено очікуване повідомлення \"%[2]s\" із зазначенням причини %[3]s"
+"%[1]s відхилив очікуване повідомлення \"%[2]s\" з причиною \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -3228,6 +3227,7 @@ msgstr ""
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "About"
@@ -6588,6 +6588,7 @@ msgstr "Група на основі чату"
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -6905,6 +6906,7 @@ msgstr "Закрити чат"
 
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -9734,6 +9736,7 @@ msgstr "Фарерські о-ви"
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -11079,6 +11082,7 @@ msgstr "Гватемала"
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Guidelines"
@@ -11291,6 +11295,7 @@ msgstr "Добрий день,"
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
@@ -11300,6 +11305,8 @@ msgstr "Допомога"
 #: ../../cmd/web/views/help/helpcenter.qtpl
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 msgid "Help Center"
 msgstr "Довідковий центр"
 
@@ -12247,6 +12254,13 @@ msgstr ""
 #, fuzzy
 msgid "Inactive Member"
 msgstr "Неактивний учасник"
+
+#. Automatically translated using DeepL
+#: ../../tools/genactivities/activities.hjson
+#, fuzzy
+msgid "Inactive not confirmed account %s was deleted"
+msgstr ""
+"Неактивний непідтверджений обліковий запис %s було видалено"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
@@ -13567,6 +13581,12 @@ msgstr ""
 msgid "Manage Subgroups"
 msgstr "Керування підгрупами"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#, fuzzy
+msgid "Manual"
+msgstr "Посібник"
+
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 msgid "Map View"
 msgstr "Перегляд мапи"
@@ -14422,6 +14442,12 @@ msgid "Membership - Username changed by member"
 msgstr ""
 "Членство - Ім'я користувача змінено користувачем"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
+#, fuzzy
+msgid "Membership Defaults"
+msgstr "Членство за замовчуванням"
+
 #: ../../cmd/web/views/account/mergeaccounts.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
@@ -15158,6 +15184,7 @@ msgstr "Монтсеррат"
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More"
@@ -15165,6 +15192,7 @@ msgstr "Більше"
 
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More Options"
@@ -18252,6 +18280,7 @@ msgstr "Попередня тема"
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -18266,6 +18295,7 @@ msgstr "Ціна"
 msgid "Privacy"
 msgstr "Конфіденційність"
 
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticprivacy.qtpl
 msgid "Privacy Policy"
@@ -21057,6 +21087,7 @@ msgstr "Телефон"
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Terms"
@@ -23701,11 +23732,12 @@ msgstr ""
 msgid "Trinidad and Tobago"
 msgstr "Тринідад і Тобаго"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
-msgid "Try Groups.io Free For 30 Days"
+msgid "Try Groups.io Free For 90 Days"
 msgstr ""
-"Спробуйте Groups.io безкоштовно протягом 30 днів"
+"Спробуйте Groups.io безкоштовно протягом 90 днів"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
@@ -24378,6 +24410,7 @@ msgstr "Оновлено:"
 
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Updates"
@@ -26438,15 +26471,13 @@ msgstr ""
 "заплатити, щоб продовжити участь у Преміум-групі або перейти до Безкоштовної "
 "групи."
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: The %s refers to the next invoice date.
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
-msgid ""
-"You are currently in a 30 day free trial of the premium plan. It will end on "
-"%s."
+msgid "You are currently in a 90 day free trial of the premium plan. It will end on %s."
 msgstr ""
-"Зараз ви перебуваєте в 30-денній безкоштовній пробній версії преміум-плану. "
-"Вона завершиться %s."
+"Наразі ви перебуваєте в 90-денній безкоштовній пробній версії преміум-плану. Він закінчиться %s."
 
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #, fuzzy

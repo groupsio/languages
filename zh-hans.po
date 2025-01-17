@@ -1050,8 +1050,8 @@ msgstr "%[1]s rejected 's pending message \" \"%[2]s%[3]s"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
-msgstr "%[1]s rejected 's pending message \" \" with reason%[2]s%[3]s %[4]s"
+msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason \"%[4]s\""
+msgstr "%[1]s 拒绝了 %[2]s 的挂起邮件\"%[3]s\"，理由是\"%[4]s\"。"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1062,10 +1062,9 @@ msgstr "%[1]s rejected 's pending special notice \" \"%[2]s%[3]s"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid ""
-"%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"%[1]s rejected 'pending special notice \" \" with reason%[2]s%[3]s %[4]s"
+"%[1]s 拒绝了 %[2]s 的待发特别通知\"%[3]s\"，理由是\"%[4]s\"。"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1076,8 +1075,8 @@ msgstr "%[1]s rejected pending \" \"%[2]s%[3]s"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason %[4]s"
-msgstr "%[1]s refed pending \" \" with reason%[2]s%[3]s %[4]s"
+msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason \"%[4]s\""
+msgstr "%[1]s 已被拒绝，等待 %[2]s \"%[3]s\"，理由是 \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1088,9 +1087,8 @@ msgstr "%[1]s rejected pending integration message \" \"%[2]s"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
-msgstr ""
-"%[1]s 拒绝待处理的整合信息 （ ），并说明理由%[2]s %[3]s"
+msgid "%[1]s rejected pending integration message \"%[2]s\" with reason \"%[3]s\""
+msgstr "%[1]s 已拒绝待处理的集成信息 \"%[2]s\"，理由是 \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1102,9 +1100,10 @@ msgstr "%[1]s rejected pending integration special notice \" \"%[2]s"
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid ""
-"%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
+"%[1]s rejected pending integration special notice \"%[2]s\" with reason "
+"\"%[3]s\""
 msgstr ""
-"%[1]s 拒绝，等待整合 特别通知 （ ） （有理由%[2]s %[3]s"
+"%[1]s已被拒绝，等待整合特别通知\"%[2]s\"，理由是\"%[3]s\"。"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1115,8 +1114,8 @@ msgstr "%[1]s rejected pending notification \" \"%[2]s"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
-msgstr "%[1]s rejected pending notification \" \" with reason%[2]s %[3]s"
+msgid "%[1]s rejected pending notification \"%[2]s\" with reason \"%[3]s\""
+msgstr "%[1]s 拒绝了待发通知\"%[2]s\"，理由是\"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -3025,6 +3024,7 @@ msgstr "检测到病毒，未添加文件。"
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -6718,6 +6718,7 @@ msgstr "聊天式小组"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -7075,6 +7076,7 @@ msgstr "关闭聊天"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -10316,6 +10318,7 @@ msgstr "法罗群岛"
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -11837,6 +11840,7 @@ msgstr "危地马拉"
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -12071,6 +12075,7 @@ msgstr "你好"
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
@@ -12082,6 +12087,8 @@ msgstr "帮助"
 #: ../../cmd/web/views/help/helpcenter.qtpl
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 #, fuzzy
 msgid "Help Center"
 msgstr "帮助中心"
@@ -13014,6 +13021,12 @@ msgstr ""
 #, fuzzy
 msgid "Inactive Member"
 msgstr "非活跃会员"
+
+#. Automatically translated using DeepL
+#: ../../tools/genactivities/activities.hjson
+#, fuzzy
+msgid "Inactive not confirmed account %s was deleted"
+msgstr "删除了未确认的非活动账户 %s"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
@@ -14538,6 +14551,12 @@ msgid "Manage Subgroups"
 msgstr "管理分组"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#, fuzzy
+msgid "Manual"
+msgstr "手册"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 #, fuzzy
 msgid "Map View"
@@ -15407,6 +15426,12 @@ msgid "Membership - Username changed by member"
 msgstr "会员 - 会员更改了用户名"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
+#, fuzzy
+msgid "Membership Defaults"
+msgstr "会员资格默认值"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/mergeaccounts.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
@@ -16211,6 +16236,7 @@ msgstr "蒙特塞拉特"
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -16220,6 +16246,7 @@ msgstr "更多信息"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -19680,6 +19707,7 @@ msgstr "上一主题"
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -19698,6 +19726,7 @@ msgid "Privacy"
 msgstr "隐私权"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticprivacy.qtpl
 #, fuzzy
@@ -22907,6 +22936,7 @@ msgstr "电话"
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -25676,8 +25706,8 @@ msgstr "特立尼达和多巴哥"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
-msgid "Try Groups.io Free For 30 Days"
-msgstr "免费试用 Groups.io 30 天"
+msgid "Try Groups.io Free For 90 Days"
+msgstr "免费试用 Groups.io 90 天"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -26455,6 +26485,7 @@ msgstr "已更新："
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -28686,10 +28717,9 @@ msgstr ""
 #. TRANSLATORS: The %s refers to the next invoice date.
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
-msgid ""
-"You are currently in a 30 day free trial of the premium plan. It will end on %s."
+msgid "You are currently in a 90 day free trial of the premium plan. It will end on %s."
 msgstr ""
-"您目前正处于高级计划的 30 天免费试用期。试用期将于%s 结束。"
+"您目前正处于高级计划的 90 天免费试用期。试用期将于 %s 结束。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupleave.qtpl

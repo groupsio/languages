@@ -1083,9 +1083,9 @@ msgstr "رفض %[1]s رسالة %[2]s المعلقة \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"رفض %[1]s رسالة %[2]s المعلقة \"%[3]s\" والسبب %[4]s"
+"رفض %[1]s رسالة %[2]s المعلقة \"%[3]s\" والسبب \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1096,10 +1096,9 @@ msgstr "%[1]s رفض %[2]s الإشعار الخاص المعلق \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid ""
-"%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"%[1]s مرفوض %[2]s في انتظار إشعار خاص \"%[3]s\" مع ذكر السبب %[4]s"
+"رفض %[1]s الإشعار الخاص %[2]s المعلق \"%[3]s\" مع ذكر السبب \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1110,8 +1109,9 @@ msgstr "%[1]s مرفوض في انتظار %[2]s \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason %[4]s"
-msgstr "%[1]s مرفوض في انتظار %[2]s \"%[3]s\" والسبب %[4]s"
+msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason \"%[4]s\""
+msgstr ""
+"%[1]s مرفوض في انتظار %[2]s \"%[3]s\" مع ذكر السبب \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1122,9 +1122,9 @@ msgstr "%[1]s مرفوض في انتظار رسالة التكامل \"%[2]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending integration message \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
-"%[1]s مرفوض في انتظار رسالة التكامل \"%[2]s\" مع سبب %[3]s"
+"%[1]s مرفوض في انتظار رسالة التكامل \"%[2]s\" مع سبب \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1137,9 +1137,10 @@ msgstr ""
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid ""
-"%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
+"%[1]s rejected pending integration special notice \"%[2]s\" with reason "
+"\"%[3]s\""
 msgstr ""
-"%[1]s مرفوض في انتظار إشعار خاص بالاندماج \"%[2]s\" مع ذكر السبب %[3]s"
+"%[1]s مرفوض في انتظار الإشعار الخاص بالتكامل \"%[2]s\" مع ذكر السبب \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1150,9 +1151,9 @@ msgstr "%[1]s مرفوض في انتظار الإخطار \"%[2]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending notification \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
-"%[1]s مرفوض في انتظار الإخطار \"%[2]s\" والسبب %[3]s"
+"%[1]s تم رفض الإخطار المعلق \"%[2]s\" مع ذكر السبب \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -3089,6 +3090,7 @@ msgstr "تم اكتشاف فيروس ولم تتم إضافة الملف."
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -6872,6 +6874,7 @@ msgstr "المجموعة القائمة على الدردشة"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -7231,6 +7234,7 @@ msgstr "إغلاق الدردشة"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -10523,6 +10527,7 @@ msgstr "جزر فارو"
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -12067,6 +12072,7 @@ msgstr "غواتيمالا"
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -12305,6 +12311,7 @@ msgstr "مرحباً بكم,"
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
@@ -12316,6 +12323,8 @@ msgstr "المساعدة"
 #: ../../cmd/web/views/help/helpcenter.qtpl
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 #, fuzzy
 msgid "Help Center"
 msgstr "مركز المساعدة"
@@ -13285,6 +13294,12 @@ msgstr ""
 #, fuzzy
 msgid "Inactive Member"
 msgstr "عضو غير نشط"
+
+#. Automatically translated using DeepL
+#: ../../tools/genactivities/activities.hjson
+#, fuzzy
+msgid "Inactive not confirmed account %s was deleted"
+msgstr "تم حذف الحساب غير النشط غير المؤكد %s"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
@@ -14826,6 +14841,12 @@ msgid "Manage Subgroups"
 msgstr "إدارة المجموعات الفرعية"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#, fuzzy
+msgid "Manual"
+msgstr "يدوي"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 #, fuzzy
 msgid "Map View"
@@ -15748,6 +15769,12 @@ msgstr ""
 "العضوية - تغيير اسم المستخدم من قبل العضو"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
+#, fuzzy
+msgid "Membership Defaults"
+msgstr "افتراضات العضوية"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/mergeaccounts.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
@@ -16576,6 +16603,7 @@ msgstr "مونتسيرات"
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -16585,6 +16613,7 @@ msgstr "المزيد"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -20109,6 +20138,7 @@ msgstr "الموضوع السابق"
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -20127,6 +20157,7 @@ msgid "Privacy"
 msgstr "الخصوصية"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticprivacy.qtpl
 #, fuzzy
@@ -23390,6 +23421,7 @@ msgstr "الهاتف"
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -26276,8 +26308,8 @@ msgstr "ترينيداد وتوباغو"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
-msgid "Try Groups.io Free For 30 Days"
-msgstr "جرِّب Groups.io مجانًا لمدة 30 يومًا"
+msgid "Try Groups.io Free For 90 Days"
+msgstr "جرِّب Groups.io مجانًا لمدة 90 يومًا"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -27058,6 +27090,7 @@ msgstr "تم التحديث:"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #, fuzzy
@@ -29332,10 +29365,9 @@ msgstr ""
 #. TRANSLATORS: The %s refers to the next invoice date.
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
-msgid ""
-"You are currently in a 30 day free trial of the premium plan. It will end on %s."
+msgid "You are currently in a 90 day free trial of the premium plan. It will end on %s."
 msgstr ""
-"أنت حاليًا في فترة تجريبية مجانية لمدة 30 يومًا من الباقة المميزة. ستنتهي في %s."
+"أنت حاليًا في فترة تجريبية مجانية لمدة 90 يومًا من الباقة المميزة. ستنتهي في %s."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupleave.qtpl

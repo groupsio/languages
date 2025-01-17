@@ -1043,9 +1043,9 @@ msgstr "%[1]s ha rechazado el mensaje pendiente \"%[3]s\" de %[2]s."
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending message \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"%[1]s ha rechazado el mensaje pendiente \"%[3]s\" de %[2]s por el motivo %[4]s."
+"%[1]s ha rechazado el mensaje pendiente \"%[3]s\" de %[2]s por el motivo \"%[4]s\"."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1057,10 +1057,9 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid ""
-"%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason %[4]s"
+msgid "%[1]s rejected %[2]s's pending special notice \"%[3]s\" with reason \"%[4]s\""
 msgstr ""
-"%[1]s ha rechazado el anuncio especial pendiente \"%[3]s\" de %[2]s por el motivo %[4]s."
+"%[1]s ha rechazado el anuncio especial pendiente de %[2]s \"%[3]s\" por el motivo \"%[4]s\"."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1071,8 +1070,8 @@ msgstr "%[1]s rechazado pendiente %[2]s \"%[3]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason %[4]s"
-msgstr "%[1]s rechazado pendiente %[2]s \"%[3]s\" con motivo %[4]s"
+msgid "%[1]s rejected pending %[2]s \"%[3]s\" with reason \"%[4]s\""
+msgstr "%[1]s rechazado pendiente %[2]s \"%[3]s\" con motivo \"%[4]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1083,9 +1082,9 @@ msgstr "%[1]s rechazado pendiente de integración mensaje \"%[2]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending integration message \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending integration message \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
-"%[1]s rechazado mensaje de integración pendiente \"%[2]s\" con el motivo %[3]s."
+"%[1]s rechazado mensaje de integración pendiente \"%[2]s\" con motivo \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1097,9 +1096,10 @@ msgstr "%[1]s rechazado pendiente de integración aviso especial \"%[2]s\""
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid ""
-"%[1]s rejected pending integration special notice \"%[2]s\" with reason %[3]s"
+"%[1]s rejected pending integration special notice \"%[2]s\" with reason "
+"\"%[3]s\""
 msgstr ""
-"%[1]s rechazado pendiente de integración aviso especial \"%[2]s\" con el motivo %[3]s."
+"%[1]s rechazado pendiente de integración aviso especial \"%[2]s\" con motivo \"%[3]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -1110,9 +1110,9 @@ msgstr "%[1]s rechazado pendiente de notificación \"%[2]s\""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "%[1]s rejected pending notification \"%[2]s\" with reason %[3]s"
+msgid "%[1]s rejected pending notification \"%[2]s\" with reason \"%[3]s\""
 msgstr ""
-"%[1]s ha rechazado la notificación pendiente \"%[2]s\" por el motivo %[3]s."
+"%[1]s ha rechazado la notificación pendiente \"%[2]s\" por el motivo \"%[3]s\"."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -3132,6 +3132,7 @@ msgstr "Se ha detectado un virus y no se ha añadido el archivo."
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "About"
@@ -6404,6 +6405,7 @@ msgstr "Grupo por chat"
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -6713,6 +6715,7 @@ msgstr "Cerrar Chat"
 
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Close Drawer"
@@ -9446,6 +9449,7 @@ msgstr "Islas Feroe"
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -10762,6 +10766,7 @@ msgstr "Guatemala"
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Guidelines"
@@ -10971,6 +10976,7 @@ msgstr "Hola,"
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
@@ -10980,6 +10986,8 @@ msgstr "Ayuda"
 #: ../../cmd/web/views/help/helpcenter.qtpl
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 msgid "Help Center"
 msgstr "Centro de ayuda"
 
@@ -11917,6 +11925,12 @@ msgstr ""
 #, fuzzy
 msgid "Inactive Member"
 msgstr "Miembro inactivo"
+
+#. Automatically translated using DeepL
+#: ../../tools/genactivities/activities.hjson
+#, fuzzy
+msgid "Inactive not confirmed account %s was deleted"
+msgstr "Se ha eliminado la cuenta inactiva no confirmada %s."
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
@@ -13186,6 +13200,12 @@ msgstr "Gestionar suscripciones/donaciones de pago"
 msgid "Manage Subgroups"
 msgstr "Gestionar subgrupos"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#, fuzzy
+msgid "Manual"
+msgstr "Manual"
+
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 msgid "Map View"
 msgstr "Vista de Mapa"
@@ -13984,6 +14004,12 @@ msgstr ""
 msgid "Membership - Username changed by member"
 msgstr "Afiliación - Nombre de usuario cambiado por el afiliado"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
+#, fuzzy
+msgid "Membership Defaults"
+msgstr "Afiliación por defecto"
+
 #: ../../cmd/web/views/account/mergeaccounts.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
@@ -14687,6 +14713,7 @@ msgstr "Montserrat"
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More"
@@ -14694,6 +14721,7 @@ msgstr "Más"
 
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More Options"
@@ -17651,6 +17679,7 @@ msgstr "Lección Anterior"
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -17665,6 +17694,7 @@ msgstr "Precios"
 msgid "Privacy"
 msgstr "Privacidad"
 
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticprivacy.qtpl
 msgid "Privacy Policy"
@@ -20331,6 +20361,7 @@ msgstr "Teléfono"
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Terms"
@@ -22875,10 +22906,11 @@ msgstr ""
 msgid "Trinidad and Tobago"
 msgstr "Trinidad y Tobago"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
-msgid "Try Groups.io Free For 30 Days"
-msgstr "Prueba Groups.io gratis durante 30 días"
+msgid "Try Groups.io Free For 90 Days"
+msgstr "Prueba Groups.io gratis durante 90 días"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
@@ -23524,6 +23556,7 @@ msgstr "Actualizado:"
 
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Updates"
@@ -25516,15 +25549,13 @@ msgstr ""
 "opción de pagar para continuar con tu grupo Premium o degradarlo a un grupo "
 "Gratuito."
 
+#. Automatically translated using DeepL
 #. TRANSLATORS: The %s refers to the next invoice date.
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
-msgid ""
-"You are currently in a 30 day free trial of the premium plan. It will end on "
-"%s."
+msgid "You are currently in a 90 day free trial of the premium plan. It will end on %s."
 msgstr ""
-"Actualmente estás en una prueba gratuita de 30 días del plan Premium. "
-"Terminará el %s."
+"Actualmente se encuentra en una prueba gratuita de 90 días del plan Premium. Finalizará el %s."
 
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #, fuzzy
