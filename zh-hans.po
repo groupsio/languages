@@ -5750,21 +5750,6 @@ msgid "Bolivia"
 msgstr "玻利维亚"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Boost your group communications with our inclusive platform, perfect for "
-"intimate teams of 10 or thriving communities of 100,000+. Your members get "
-"messages directly in their email, so they'll <strong>never miss a "
-"conversation</strong>. Enjoy <strong>photo sharing</strong>, <strong>file "
-"storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
-"<strong>chat</strong>, and <strong>database</strong> features. Whether you're "
-"managing a small club or a massive organization, our platform scales "
-"effortlessly. Mobile-friendly, privacy-respecting, and ad-free."
-msgstr ""
-"我们的平台具有包容性，非常适合 10 人的亲密团队或 100,000 人以上的繁荣社区，可促进您的群组交流。您的成员可以直接在电子邮件中收到消息，因此他们不会<strong>错过任何对话</strong>。享受<strong>照片共享</strong>、<strong>文件存储</strong>、<strong>日历</strong>、<strong>维基</strong>、<strong>聊天</strong>和<strong>数据库</strong>功能。无论您管理的是小型俱乐部还是大型组织，我们的平台都能轻松扩展。移动友好、尊重隐私、无广告。"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 #, fuzzy
@@ -6270,6 +6255,12 @@ msgstr "柬埔寨"
 #, fuzzy
 msgid "Cameroon"
 msgstr "喀麦隆"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Can I use my own domain?"
+msgstr "我可以使用自己的域名吗？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
@@ -7421,19 +7412,19 @@ msgstr ""
 "恭喜您，您已经创建了 <strong>%[1]s</strong>%[2]s 子组！以下是一些可能对您有帮助的信息。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Connect with Slack, GitHub, Trello and more. Automate workflows and keep "
+"everyone in sync."
+msgstr ""
+"与 Slack、GitHub、Trello 等连接。自动执行工作流程，让每个人保持同步。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
 #, fuzzy
 msgid "Connect with Stripe"
 msgstr "与 Stripe 连接"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Connect with Zoom, Slack, GitHub, Trello and more. Automate workflows and keep "
-"everyone in sync."
-msgstr ""
-"与 Zoom、Slack、GitHub、Trello 等连接。自动执行工作流程，让每个人保持同步。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -8892,6 +8883,13 @@ msgid "Doc"
 msgstr "文件"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Does Groups.io collect or sell my data? What's your privacy policy?"
+msgstr ""
+"Groups.io 是否收集或出售我的数据？你们的隐私政策是什么？"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
 #, fuzzy
 msgid "Domain"
@@ -9126,12 +9124,6 @@ msgstr "草稿"
 #, fuzzy
 msgid "Drag and drop files here, or <u>click to choose files</u>"
 msgstr "将文件拖放到此处，或<u>点击选择文件</u>"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Drop Google and Facebook Groups and Use This Instead"
-msgstr "放弃 Google 和 Facebook 群组，转而使用此功能"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
@@ -10909,6 +10901,7 @@ msgstr "法国南部领土"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
+#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Frequently Asked Questions"
 msgstr "常见问题"
@@ -11712,6 +11705,23 @@ msgid "Groups.io Cookie Policy"
 msgstr "Groups.io Cookie 政策"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Groups.io is the ultimate <strong>group email service</strong> and "
+"<strong>modern listserv replacement</strong> for teams of any size. From small "
+"clubs of 10 to thriving communities of 100,000+, our <strong>email discussion "
+"list platform</strong> delivers messages directly to members' inboxes so they'll "
+"<strong>never miss a conversation</strong>. Unlike Google Groups or other "
+"alternatives, we offer <strong>photo sharing</strong>, <strong>file "
+"storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
+"<strong>chat</strong>, and <strong>database features</strong> — all ad-free "
+"and privacy-focused. Our mailing list management solution scales effortlessly "
+"whether you're running a hobby group, nonprofit, or large organization."
+msgstr ""
+"Groups.io 是适用于任何规模团队的终极<strong>群组电子邮件服务</strong>和<strong>现代列表服务替代品</strong>。从 10 人的小型俱乐部到超过 100,000 人的繁荣社区，我们的<strong>电子邮件讨论列表平台</strong>都能将信息直接发送到成员的收件箱，因此他们<strong>绝不会错过任何对话</strong>。与谷歌群组或其他替代方案不同，我们提供<strong>照片共享</strong>、<strong>文件存储</strong>、<strong>日历</strong>、<strong>维基</strong>、<strong>聊天</strong>和<strong>数据库功能</strong>，所有功能均无广告且注重隐私。无论您经营的是兴趣小组、非营利组织还是大型机构，我们的邮件列表管理解决方案都能轻松扩展。"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl
 #, fuzzy
@@ -11753,6 +11763,40 @@ msgid "Groups.io Reverification"
 msgstr "Groups.io Reverification"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Groups.io scales effortlessly from small teams to massive communities. Our "
+"platform comfortably supports intimate groups of just 10 members all the way up "
+"to thriving communities with 100,000+ participants. There are no hard limits on "
+"group size with our paid plans. Free groups can have up to 100 members, while "
+"our Premium and Enterprise plans remove these limitations. Our infrastructure is "
+"designed for high-volume email delivery, ensuring reliable message distribution "
+"even for very large communities. Additionally, our moderation tools scale with "
+"your group size, providing the controls needed to manage communities of any size "
+"effectively."
+msgstr ""
+"从小型团队到大型社区，Groups.io 可以毫不费力地进行扩展。我们的平台可轻松支持从仅有 10 名成员的亲密小组到拥有 100,000 多名参与者的繁荣社区。我们的付费计划对群组规模没有硬性限制。免费群组最多可有 100 名成员，而高级和企业计划则没有这些限制。我们的基础架构专为大容量电子邮件发送而设计，即使对于非常庞大的社区，也能确保可靠的信息分发。此外，我们的管理工具可根据群组规模进行扩展，提供有效管理任何规模群组所需的控制。"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Groups.io stands out with our comprehensive suite of integrated collaboration "
+"tools that go far beyond basic email lists. Unlike Google Groups or other "
+"services, we offer a full calendar system for scheduling events, a robust file "
+"storage area, a wiki for documentation, integrated chat rooms, photo galleries, "
+"and even customizable databases. Our moderation tools are significantly more "
+"powerful, allowing fine-grained control over permissions and content. We also "
+"provide unique features like integrated polls, message hashtags for "
+"organization, and the ability to mute specific conversation threads. Perhaps "
+"most importantly, Groups.io delivers all this while remaining completely ad-free "
+"and respecting your privacy—we don't mine your data or show advertisements "
+"like many competitors do."
+msgstr ""
+"Groups.io 凭借全面的集成协作工具套件脱颖而出，其功能远远超出了基本的电子邮件列表。与 Google Groups 或其他服务不同，我们提供用于安排活动的完整日历系统、强大的文件存储区、用于文档的 wiki、集成聊天室、照片库，甚至是可定制的数据库。我们的管理工具更加强大，可以对权限和内容进行精细控制。我们还提供一些独特的功能，如集成投票、用于组织的消息标签以及特定对话线程静音功能。也许最重要的是，Groups.io 在提供所有这些功能的同时，完全无广告并尊重您的隐私--我们不会像许多竞争对手那样挖掘您的数据或显示广告。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid ""
@@ -11777,6 +11821,12 @@ msgid ""
 "groups support the following integrations:"
 msgstr ""
 "Groups.io 可与您和您的团队已经使用的服务协同工作。高级群组支持以下集成："
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Groups.io | Email Discussion Groups & Listserv Alternative"
+msgstr "Groups.io | 电子邮件讨论组和列表服务器替代方案"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -11819,12 +11869,6 @@ msgstr "Groups.io：计划比较"
 #, fuzzy
 msgid "Groups.io: Plans & Pricing"
 msgstr "Groups.io：计划与定价"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Groups.io: Powerful Email Groups & Collaboration Platform"
-msgstr "Groups.io：功能强大的电子邮件群组与协作平台"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticupgradeapp.qtpl
@@ -12218,6 +12262,12 @@ msgstr "香港"
 #, fuzzy
 msgid "Host"
 msgstr "主持人"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "How many members can I have in my Groups.io email list?"
+msgstr "我的 Groups.io 电子邮件列表中可以有多少成员？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -13563,6 +13613,12 @@ msgstr "爱尔兰"
 #, fuzzy
 msgid "Is group chat making you sweat? - Jason Fried"
 msgstr "群聊是否让你汗流浃背？"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Is Groups.io free to use? What are the pricing options?"
+msgstr "Groups.io 是否免费使用？有哪些定价选项？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -17363,6 +17419,23 @@ msgid "No wiki pages match that search."
 msgstr "没有符合搜索条件的维基页面。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"No, Groups.io does not sell your data to advertisers or third parties. Unlike "
+"Google Groups or Facebook Groups, we have a strict privacy-first approach—your "
+"conversations are not mined for advertising data or used to build marketing "
+"profiles. We only collect the information necessary to provide our service, and "
+"we don't track your activities across the web. Our business model is "
+"subscription-based rather than advertising-based, which allows us to prioritize "
+"user privacy. Your email addresses and group content remain private and are not "
+"shared. You can review our <a href=\"/static/privacy\">complete privacy "
+"policy</a> to see exactly what data we collect and how we use it, but the short "
+"answer is: we respect your privacy and don't monetize your personal information."
+msgstr ""
+"不会，Groups.io 不会将您的数据出售给广告商或第三方。与 Google Groups 或 Facebook Groups 不同的是，我们有严格的隐私优先原则--我们不会从您的对话中挖掘广告数据或用于建立营销档案。我们只收集提供服务所需的信息，不会跟踪您在网络上的活动。我们的业务模式以订阅为基础，而不是以广告为基础，这使我们能够优先考虑用户隐私。您的电子邮件地址和群组内容将保持私密，不会被共享。您可以查看我们<a href=\"/static/privacy\">完整的隐私政策</a>，了解我们收集和使用数据的具体方式，但简而言之：我们尊重您的隐私，不会将您的个人信息货币化。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
@@ -20065,8 +20138,8 @@ msgstr "阅读完整案例研究"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "Ready to upgrade your mailing list experience?"
-msgstr "准备好升级您的邮件列表体验了吗？"
+msgid "Ready to upgrade from your current listserv or Google Group?"
+msgstr "准备好升级您当前的列表服务器或 Google 群组了吗？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -23510,6 +23583,12 @@ msgstr ""
 #, fuzzy
 msgid "The Best Email Groups Service"
 msgstr "最佳电子邮件群组服务"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "The Best Google Groups & Facebook Groups Alternative"
+msgstr "最佳 Google 群组和 Facebook 群组替代品"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
@@ -27992,6 +28071,12 @@ msgid "What category this subgroup appears under."
 msgstr "该分组属于哪个类别。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "What features does Groups.io offer that other mailing list services don't?"
+msgstr "Groups.io 具有哪些其他邮件列表服务不具备的功能？"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "What Happens If I Go Over My Storage Limits?"
@@ -28680,6 +28765,34 @@ msgstr "也门"
 #, fuzzy
 msgid "Yes"
 msgstr "是"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Yes, Groups.io offers a free Basic plan that includes essential mailing list "
+"features for communities with up to 100 members. For growing groups, our Premium "
+"plan at $20/month (or $220/year) removes the member limit and adds advanced "
+"features like subgroups, file storage, a photos section, a calendar, polls, "
+"member directories, and more. You can see full details of our pricing <a "
+"href=\"/static/pricing\">here</a>."
+msgstr ""
+"是的，Groups.io 提供免费的基本计划，其中包括针对成员不超过 100 人的社区的基本邮件列表功能。对于不断扩大的群组，我们的高级计划每月 20 美元（或每年 220 美元），取消了成员限制，并增加了子群、文件存储、照片区、日历、投票、成员目录等高级功能。您可以<a href=\"/static/pricing\">在这里</a>查看我们定价的全部详情。"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Yes, our Enterprise plan includes custom domain support. With this feature, your "
+"group's website address will appear under your own domain name, and all email "
+"communications will be sent from your domain rather than groups.io. "
+"Additionally, your organization's logo will be prominently displayed on the "
+"website, replacing the Groups.io branding. This provides a seamless branded "
+"experience for your members and maintains your organization's professional "
+"identity throughout all interactions. The custom domain feature requires minimal "
+"technical setup, and our support team can assist with the configuration process."
+msgstr ""
+"是的，我们的企业计划包括自定义域名支持。有了这项功能，您组织的网站地址将显示在您自己的域名下，所有电子邮件都将从您的域名而不是 groups.io 发送。此外，贵组织的徽标将显示在网站的显著位置，取代 Groups.io 的品牌标识。这将为会员提供无缝的品牌体验，并在所有互动中保持贵组织的专业身份。自定义域名功能只需极少的技术设置，我们的支持团队可协助完成配置过程。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/likes.qtpl

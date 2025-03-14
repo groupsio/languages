@@ -5546,21 +5546,6 @@ msgstr "Tableaux et listes"
 msgid "Bolivia"
 msgstr "Bolivie"
 
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Boost your group communications with our inclusive platform, perfect for "
-"intimate teams of 10 or thriving communities of 100,000+. Your members get "
-"messages directly in their email, so they'll <strong>never miss a "
-"conversation</strong>. Enjoy <strong>photo sharing</strong>, <strong>file "
-"storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
-"<strong>chat</strong>, and <strong>database</strong> features. Whether you're "
-"managing a small club or a massive organization, our platform scales "
-"effortlessly. Mobile-friendly, privacy-respecting, and ad-free."
-msgstr ""
-"Boostez vos communications de groupe avec notre plateforme inclusive, parfaite pour les équipes intimes de 10 personnes ou les communautés prospères de plus de 100 000 personnes. Vos membres reçoivent les messages directement dans leur boîte aux lettres électronique, de sorte qu'ils <strong>ne manquent jamais une conversation</strong>. Profitez des fonctions de <strong>partage de photos</strong>, de <strong>stockage de fichiers</strong>, de <strong>calendrier</strong>, de <strong>wiki</strong>, de <strong>chat</strong> et de <strong>base de données</strong>. Que vous gériez un petit club ou une grande organisation, notre plateforme s'adapte sans effort. Convivialité, respect de la vie privée et absence de publicité."
-
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Bosnia and Herzegowina"
@@ -6036,6 +6021,12 @@ msgstr "Cambodge"
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Cameroon"
 msgstr "Cameroun"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Can I use my own domain?"
+msgstr "Puis-je utiliser mon propre domaine ?"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
@@ -7045,18 +7036,18 @@ msgstr ""
 "Félicitations, vous avez créé le sous-groupe <strong>%[1]s</strong> %[2]s ! "
 "Voici quelques informations qui peuvent vous être utiles."
 
-#: ../../cmd/web/views/groupdonations/groupdonations.qtpl
-msgid "Connect with Stripe"
-msgstr "Se connecter avec Stripe"
-
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid ""
-"Connect with Zoom, Slack, GitHub, Trello and more. Automate workflows and keep "
+"Connect with Slack, GitHub, Trello and more. Automate workflows and keep "
 "everyone in sync."
 msgstr ""
-"Connectez-vous avec Zoom, Slack, GitHub, Trello et bien plus encore. Automatisez les flux de travail et synchronisez tout le monde."
+"Connectez-vous avec Slack, GitHub, Trello et bien plus encore. Automatisez les flux de travail et synchronisez tout le monde."
+
+#: ../../cmd/web/views/groupdonations/groupdonations.qtpl
+msgid "Connect with Stripe"
+msgstr "Se connecter avec Stripe"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -8313,6 +8304,13 @@ msgstr ""
 msgid "Doc"
 msgstr "Document"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Does Groups.io collect or sell my data? What's your privacy policy?"
+msgstr ""
+"Est-ce que Groups.io collecte ou vend mes données ? Quelle est votre politique de confidentialité ?"
+
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Domain"
 msgstr "Domaine"
@@ -8513,11 +8511,6 @@ msgstr "brouillons"
 msgid "Drag and drop files here, or <u>click to choose files</u>"
 msgstr ""
 "Faites glisser et déposez les fichiers ici, ou <u>cliquez pour choisir les fichiers</u>"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Drop Google and Facebook Groups and Use This Instead"
-msgstr "Laissez tomber les groupes Google et Facebook et utilisez plutôt ceci"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
@@ -10068,6 +10061,7 @@ msgid "French Southern Territories"
 msgstr "Terres Australes Françaises"
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
+#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Frequently Asked Questions"
 msgstr "Questions fréquentes"
 
@@ -10767,6 +10761,23 @@ msgstr "Documentation d'API Groups.io"
 msgid "Groups.io Cookie Policy"
 msgstr "Politique de Cookies"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Groups.io is the ultimate <strong>group email service</strong> and "
+"<strong>modern listserv replacement</strong> for teams of any size. From small "
+"clubs of 10 to thriving communities of 100,000+, our <strong>email discussion "
+"list platform</strong> delivers messages directly to members' inboxes so they'll "
+"<strong>never miss a conversation</strong>. Unlike Google Groups or other "
+"alternatives, we offer <strong>photo sharing</strong>, <strong>file "
+"storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
+"<strong>chat</strong>, and <strong>database features</strong> — all ad-free "
+"and privacy-focused. Our mailing list management solution scales effortlessly "
+"whether you're running a hobby group, nonprofit, or large organization."
+msgstr ""
+"Groups.io est le <strong>service de messagerie de groupe</strong> ultime et le <strong>remplacement moderne des listes de discussion</strong> pour les équipes de toute taille. Qu'il s'agisse de petits clubs de 10 personnes ou de communautés prospères de plus de 100 000 personnes, notre <strong>plateforme de listes de discussion par e-mail</strong> envoie les messages directement dans la boîte de réception des membres afin qu'ils <strong>ne manquent jamais une conversation</strong>. Contrairement à Google Groups ou à d'autres alternatives, nous proposons des <strong>fonctions de</strong> <strong>partage de photos</strong>, de <strong>stockage de fichiers</strong>, de <strong>calendrier</strong>, de <strong>wiki</strong>, de <strong>chat</strong> et de <strong>base de données</strong>, le tout sans publicité et dans le respect de la vie privée. Notre solution de gestion de listes de diffusion s'adapte sans effort, qu'il s'agisse d'un groupe de loisirs, d'une association à but non lucratif ou d'une grande organisation."
+
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl
 #, fuzzy
@@ -10818,6 +10829,40 @@ msgstr "Groups.io remplace un tas d'applications, notamment :"
 msgid "Groups.io Reverification"
 msgstr "Notification"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Groups.io scales effortlessly from small teams to massive communities. Our "
+"platform comfortably supports intimate groups of just 10 members all the way up "
+"to thriving communities with 100,000+ participants. There are no hard limits on "
+"group size with our paid plans. Free groups can have up to 100 members, while "
+"our Premium and Enterprise plans remove these limitations. Our infrastructure is "
+"designed for high-volume email delivery, ensuring reliable message distribution "
+"even for very large communities. Additionally, our moderation tools scale with "
+"your group size, providing the controls needed to manage communities of any size "
+"effectively."
+msgstr ""
+"Groups.io évolue sans effort des petites équipes aux communautés massives. Notre plateforme supporte confortablement des groupes intimes de seulement 10 membres jusqu'à des communautés prospères de plus de 100 000 participants. Il n'y a pas de limites strictes sur la taille des groupes avec nos plans payants. Les groupes gratuits peuvent compter jusqu'à 100 membres, tandis que nos plans Premium et Enterprise suppriment ces limitations. Notre infrastructure est conçue pour l'envoi de gros volumes d'e-mails, ce qui garantit une distribution fiable des messages, même pour les très grandes communautés. De plus, nos outils de modération s'adaptent à la taille de votre groupe, fournissant les contrôles nécessaires pour gérer efficacement les communautés de toute taille."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Groups.io stands out with our comprehensive suite of integrated collaboration "
+"tools that go far beyond basic email lists. Unlike Google Groups or other "
+"services, we offer a full calendar system for scheduling events, a robust file "
+"storage area, a wiki for documentation, integrated chat rooms, photo galleries, "
+"and even customizable databases. Our moderation tools are significantly more "
+"powerful, allowing fine-grained control over permissions and content. We also "
+"provide unique features like integrated polls, message hashtags for "
+"organization, and the ability to mute specific conversation threads. Perhaps "
+"most importantly, Groups.io delivers all this while remaining completely ad-free "
+"and respecting your privacy—we don't mine your data or show advertisements "
+"like many competitors do."
+msgstr ""
+"Groups.io se distingue par sa suite complète d'outils de collaboration intégrés qui vont bien au-delà des listes d'emails basiques. Contrairement à Google Groups ou à d'autres services, nous proposons un système de calendrier complet pour planifier des événements, une zone de stockage de fichiers robuste, un wiki pour la documentation, des salons de discussion intégrés, des galeries de photos et même des bases de données personnalisables. Nos outils de modération sont nettement plus puissants et permettent un contrôle précis des autorisations et du contenu. Nous proposons également des fonctionnalités uniques telles que des sondages intégrés, des hashtags pour l'organisation des messages et la possibilité de mettre en sourdine des fils de conversation spécifiques. Peut-être plus important encore, Groups.io offre tout cela tout en restant complètement sans publicité et en respectant votre vie privée - nous n'exploitons pas vos données et n'affichons pas de publicités comme le font de nombreux concurrents."
+
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid ""
@@ -10845,6 +10890,13 @@ msgid ""
 msgstr ""
 "Groups.io fonctionne avec les services que vous et votre équipe utilisez "
 "déjà. Les groupes Premium prennent en charge les intégrations suivantes :"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Groups.io | Email Discussion Groups & Listserv Alternative"
+msgstr ""
+"Groups.io | Alternative aux groupes de discussion par courriel et aux serveurs de listes"
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 #, fuzzy
@@ -10880,13 +10932,6 @@ msgstr "Voir une comparaison complète des plans"
 #, fuzzy
 msgid "Groups.io: Plans & Pricing"
 msgstr "Groups.io : Plans et tarifs"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Groups.io: Powerful Email Groups & Collaboration Platform"
-msgstr ""
-"Groups.io : Une puissante plateforme de collaboration et de groupes de "
-"courriels"
 
 #: ../../cmd/web/views/static/staticupgradeapp.qtpl
 #, fuzzy
@@ -11226,6 +11271,12 @@ msgstr "Hong Kong"
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Host"
 msgstr "Hôte"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "How many members can I have in my Groups.io email list?"
+msgstr "Combien de membres puis-je avoir dans ma liste d'emails Groups.io ?"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -12542,6 +12593,13 @@ msgstr "Irlande"
 #, fuzzy
 msgid "Is group chat making you sweat? - Jason Fried"
 msgstr "Le chat de groupe vous fait-il transpirer ? - Jason Fried"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Is Groups.io free to use? What are the pricing options?"
+msgstr ""
+"L'utilisation de Groups.io est-elle gratuite ? Quelles sont les options tarifaires ?"
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
@@ -15852,6 +15910,23 @@ msgstr "Aucun hashtag utilisé."
 msgid "No wiki pages match that search."
 msgstr "Aucune page wiki ne correspond à cette recherche."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"No, Groups.io does not sell your data to advertisers or third parties. Unlike "
+"Google Groups or Facebook Groups, we have a strict privacy-first approach—your "
+"conversations are not mined for advertising data or used to build marketing "
+"profiles. We only collect the information necessary to provide our service, and "
+"we don't track your activities across the web. Our business model is "
+"subscription-based rather than advertising-based, which allows us to prioritize "
+"user privacy. Your email addresses and group content remain private and are not "
+"shared. You can review our <a href=\"/static/privacy\">complete privacy "
+"policy</a> to see exactly what data we collect and how we use it, but the short "
+"answer is: we respect your privacy and don't monetize your personal information."
+msgstr ""
+"Non, Groups.io ne vend pas vos données à des annonceurs ou à des tiers. Contrairement à Google Groups ou Facebook Groups, nous avons une approche stricte de la protection de la vie privée : vos conversations ne sont pas exploitées pour des données publicitaires ou utilisées pour établir des profils marketing. Nous ne collectons que les informations nécessaires à la fourniture de notre service et nous ne suivons pas vos activités sur le web. Notre modèle économique repose sur l'abonnement plutôt que sur la publicité, ce qui nous permet de donner la priorité à la protection de la vie privée des utilisateurs. Vos adresses électroniques et le contenu de vos groupes restent privés et ne sont pas partagés. Vous pouvez consulter notre <a href=\"/static/privacy\">politique de confidentialité complète</a> pour savoir exactement quelles données nous collectons et comment nous les utilisons, mais la réponse courte est : nous respectons votre vie privée et ne monétisons pas vos informations personnelles."
+
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
@@ -18238,8 +18313,9 @@ msgstr "Lire l'étude de cas complète"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "Ready to upgrade your mailing list experience?"
-msgstr "Prêt à améliorer l'expérience de votre liste de diffusion ?"
+msgid "Ready to upgrade from your current listserv or Google Group?"
+msgstr ""
+"Vous êtes prêt à remplacer votre serveur de liste ou votre groupe Google actuel ?"
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
@@ -21232,6 +21308,12 @@ msgstr ""
 #, fuzzy
 msgid "The Best Email Groups Service"
 msgstr "Le meilleur service de groupes d'e-mails"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "The Best Google Groups & Facebook Groups Alternative"
+msgstr "La meilleure alternative à Google Groups et Facebook Groups"
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
@@ -25354,6 +25436,13 @@ msgstr "Sahara occidental"
 msgid "What category this subgroup appears under."
 msgstr "La catégorie sous laquelle ce sous-groupe apparaît."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "What features does Groups.io offer that other mailing list services don't?"
+msgstr ""
+"Quelles sont les fonctionnalités offertes par Groups.io que les autres services de listes de diffusion n'offrent pas ?"
+
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "What Happens If I Go Over My Storage Limits?"
@@ -25992,6 +26081,34 @@ msgstr "Yemen"
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "Yes"
 msgstr "Oui"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Yes, Groups.io offers a free Basic plan that includes essential mailing list "
+"features for communities with up to 100 members. For growing groups, our Premium "
+"plan at $20/month (or $220/year) removes the member limit and adds advanced "
+"features like subgroups, file storage, a photos section, a calendar, polls, "
+"member directories, and more. You can see full details of our pricing <a "
+"href=\"/static/pricing\">here</a>."
+msgstr ""
+"Oui, Groups.io propose un plan Basic gratuit qui inclut des fonctionnalités de liste de diffusion essentielles pour les communautés comptant jusqu'à 100 membres. Pour les groupes en expansion, notre plan Premium à 20 $/mois (ou 220 $/an) supprime la limite de membres et ajoute des fonctionnalités avancées comme les sous-groupes, le stockage de fichiers, une section photos, un calendrier, des sondages, des annuaires de membres, et plus encore. Vous pouvez consulter tous les détails de nos tarifs <a href=\"/static/pricing\">ici</a>."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Yes, our Enterprise plan includes custom domain support. With this feature, your "
+"group's website address will appear under your own domain name, and all email "
+"communications will be sent from your domain rather than groups.io. "
+"Additionally, your organization's logo will be prominently displayed on the "
+"website, replacing the Groups.io branding. This provides a seamless branded "
+"experience for your members and maintains your organization's professional "
+"identity throughout all interactions. The custom domain feature requires minimal "
+"technical setup, and our support team can assist with the configuration process."
+msgstr ""
+"Oui, notre plan Entreprise inclut la prise en charge de domaines personnalisés. Avec cette fonctionnalité, l'adresse du site web de votre groupe apparaîtra sous votre propre nom de domaine, et toutes les communications par courriel seront envoyées à partir de votre domaine plutôt que de groups.io. En outre, le logo de votre organisation sera affiché en évidence sur le site Web, en remplacement de l'image de marque de Groups.io. Cela permet à vos membres de bénéficier d'une expérience transparente et de conserver l'identité professionnelle de votre organisation dans toutes les interactions. La fonction de domaine personnalisé nécessite une configuration technique minimale, et notre équipe d'assistance peut vous aider dans le processus de configuration."
 
 #: ../../cmd/web/qtutils/likes.qtpl
 #: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
