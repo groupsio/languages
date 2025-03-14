@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2025-01-17 14:13-0800\n"
+"PO-Revision-Date: 2025-03-14 09:29-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -1068,6 +1068,11 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
+msgid "%[1]s sent message '%[2]s' to everyone that is waitlisted for event %[3]s"
+msgstr ""
+
+#, go-format
+#: ../../tools/genactivities/activities.hjson
 msgid "%[1]s sent message '%[2]s' to everyone that responded 'maybe' to event %[3]s"
 msgstr ""
 
@@ -1083,17 +1088,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "%[1]s sent message '%[2]s' to people that responded 'maybe' to event %[3]s"
-msgstr ""
-
-#, go-format
-#: ../../tools/genactivities/activities.hjson
-msgid "%[1]s sent message '%[2]s' to people that responded 'no' to event %[3]s"
-msgstr ""
-
-#, go-format
-#: ../../tools/genactivities/activities.hjson
-msgid "%[1]s sent message '%[2]s' to people that responded 'yes' to event %[3]s"
+msgid "%[1]s sent message '%[2]s' to everyone that responded to event %[3]s"
 msgstr ""
 
 #, go-format
@@ -1853,7 +1848,9 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "<a href=\"/static/features\">Powerful features</a> that make groups more useful."
+msgid ""
+"<a href=\"/static/features\">Powerful features</a> that make collaboration "
+"effortless"
 msgstr ""
 
 #, go-format
@@ -2906,7 +2903,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Additional Features"
 msgstr ""
 
@@ -4107,13 +4103,22 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupmessages/groupask.qtpl
+#: ../../cmd/web/views/groupmessages/groupasksessions.qtpl
 #: ../../cmd/web/views/groupmessages/groupllm.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Ask"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl
 msgid "Ask Amount"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Ask is disabled"
 msgstr ""
 
 #, go-format
@@ -4764,12 +4769,14 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid ""
-"Boost your group communications with our inclusive platform. Your members get "
+"Boost your group communications with our inclusive platform, perfect for "
+"intimate teams of 10 or thriving communities of 100,000+. Your members get "
 "messages directly in their email, so they'll <strong>never miss a "
 "conversation</strong>. Enjoy <strong>photo sharing</strong>, <strong>file "
 "storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
-"<strong>chat</strong>, and <strong>database</strong> features. Mobile-friendly, "
-"privacy-respecting, and ad-free."
+"<strong>chat</strong>, and <strong>database</strong> features. Whether you're "
+"managing a small club or a massive organization, our platform scales "
+"effortlessly. Mobile-friendly, privacy-respecting, and ad-free."
 msgstr ""
 
 #, go-format
@@ -5185,6 +5192,13 @@ msgid "Calendar Sync"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid ""
+"Calendar, chat, polls, database, photos, files, wiki, and unlimited subgroups - "
+"all included with premium plans."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Cambodia"
@@ -5419,6 +5433,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/color.qtpl
 msgid "Cerulean Blue"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "CGIAR Climate Initiative"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "CGIAR Climate Platform, serving 1000+ climate scientists and researchers"
 msgstr ""
 
 #, go-format
@@ -6055,6 +6079,11 @@ msgid "Comparing Versions of %s"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Complete Toolkit"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticcompliance.qtpl
 msgid "Compliance"
@@ -6180,6 +6209,13 @@ msgid "Connect with Stripe"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid ""
+"Connect with Zoom, Slack, GitHub, Trello and more. Automate workflows and keep "
+"everyone in sync."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Connect Your Zoom Account"
 msgstr ""
@@ -6196,6 +6232,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
+#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Contact Us"
 msgstr ""
 
@@ -7164,6 +7201,11 @@ msgid "Digest #"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Digital Agriculture Hub (D4Ag)"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
@@ -7364,11 +7406,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 msgid "Do Merge"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "Do More With Integrations"
 msgstr ""
 
 #, go-format
@@ -7660,14 +7697,6 @@ msgid "Dutch"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid ""
-"Each premium group also has a calendar, chat, polls, a database section, a "
-"photos section, a files section, and a wiki, along with an unlimited number of "
-"subgroups on your own subdomain."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 msgid ""
 "Each Premium group has many additional features, each of which is fully "
@@ -7678,20 +7707,6 @@ msgid ""
 "different column types. There are sections for uploading photos and files. And a "
 "wiki, for storing group knowledge. Finally, each Premium group can have an "
 "unlimited number of subgroups."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid ""
-"Easily integrate Feeds, Slack, Google Drive, Github, Trello, Email and soon even "
-"more services into your premium group."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid ""
-"Easily integrate Zoom, Feeds, Slack, Github, Trello, Email and soon even more "
-"services into your premium group."
 msgstr ""
 
 #, go-format
@@ -8519,6 +8534,11 @@ msgid "Everything in <strong>Premium</strong>, plus:"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Everything You Need to Run Your Community"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Exclude city field."
 msgstr ""
@@ -9157,6 +9177,13 @@ msgid "From"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid ""
+"From global institutions to nonprofit organizations, groups of all sizes rely on "
+"Groups.io for their community communication needs."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "From non-subscriber"
 msgstr ""
@@ -9261,6 +9288,11 @@ msgid "Get Quote Now"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Get started for FREE"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/grouppromote.qtpl
 msgid "Get the word out on social media!"
 msgstr ""
@@ -9296,6 +9328,12 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 msgid "Github push to"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
+msgid "Glossary"
 msgstr ""
 
 #, go-format
@@ -10161,7 +10199,7 @@ msgstr ""
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
 #: ../../cmd/web/views/newhelp/helpcenter.qtpl
-#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
 msgid "Help Center"
 msgstr ""
 
@@ -10233,14 +10271,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Host"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid ""
-"Hosting your groups using Mailman or Lyris? We make it easy for you to move your "
-"group to Groups.io. Take advantage of our advanced features. Don't be stuck with "
-"an ancient listserv."
 msgstr ""
 
 #, go-format
@@ -10952,6 +10982,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
 msgid "Index"
 msgstr ""
 
@@ -11492,6 +11523,17 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/sub/joingroup.qtpl
 msgid "Join Group"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid ""
+"Join over 6,000 groups that have successfully migrated to Groups.io. Our team "
+"will handle every step - from importing your members to preserving your complete "
+"message history. But that's just the beginning. Unlike other services, we offer "
+"a comprehensive suite of collaboration tools: an integrated calendar, real-time "
+"chat, photos and files sections, and a built-in wiki. For Premium groups, "
+"migration comes at no cost."
 msgstr ""
 
 #, go-format
@@ -12219,6 +12261,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 msgid "Manual"
 msgstr ""
 
@@ -12647,6 +12690,16 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Members can view previous queries and ask queries"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Members can view previous queries, moderators can ask queries"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Members can view, moderators can create tables"
 msgstr ""
 
@@ -12668,6 +12721,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Members cannot view photos, moderators can create albums and upload photos"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Members cannot view previous queries, moderators can ask queries"
 msgstr ""
 
 #, go-format
@@ -13843,9 +13901,8 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid ""
-"Mute topics and keywords, ensuring you only see the messages you're interested "
-"in. Take advantage of better email delivery options, including receiving the "
-"first message only in each thread or receiving replies only."
+"Mute topics, filter by keywords, and choose your ideal delivery settings. Never "
+"miss important messages while avoiding the noise."
 msgstr ""
 
 #, go-format
@@ -14364,7 +14421,9 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "No Ads, No Tracking"
+msgid ""
+"No ads, no tracking, and no data mining. Your community's privacy is our top "
+"priority."
 msgstr ""
 
 #, go-format
@@ -15226,7 +15285,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Only The Messages You Want"
 msgstr ""
 
@@ -16469,6 +16527,11 @@ msgid "Powerful Features, Better Security"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Powerful Integrations"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 msgid "Powerful integrations"
 msgstr ""
@@ -16591,6 +16654,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Privacy"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Privacy First"
 msgstr ""
 
 #, go-format
@@ -16802,6 +16870,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Read More At Lifehacker"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Read the full case study"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Ready to upgrade your mailing list experience?"
 msgstr ""
 
 #, go-format
@@ -17843,6 +17921,7 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 msgid "Search"
@@ -17857,6 +17936,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 msgid "Search Results"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+msgid "Search the help center"
 msgstr ""
 
 #, go-format
@@ -18187,6 +18271,11 @@ msgid "Service to sync with."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Serving online communities for over a decade"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Sessions"
 msgstr ""
@@ -18344,6 +18433,11 @@ msgid "Short description of this database."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+msgid "Show All (Including Hidden)"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/base.qtpl
 msgid "Show all keyboard shortcuts"
 msgstr ""
@@ -18356,6 +18450,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Show More"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+msgid "Show Public Only"
 msgstr ""
 
 #, go-format
@@ -18491,6 +18590,11 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Slovenia"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Smart Conversations"
 msgstr ""
 
 #, go-format
@@ -18700,7 +18804,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Start a Groups.io Group"
 msgstr ""
 
@@ -19085,6 +19188,11 @@ msgstr ""
 msgid ""
 "Success alert. Nulla ad proident do cupidatat. Laborum ad voluptate id "
 "adipisicing sint pariatur mollit aliqua nisi."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Success Stories"
 msgstr ""
 
 #, go-format
@@ -19510,6 +19618,7 @@ msgid "That email address is not available."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/register.qtpl
@@ -19664,83 +19773,18 @@ msgid "The album must have a name."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Email Group Service"
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid ""
+"The Ask feature uses Large Language Models (LLMs) from Anthropic and OpenAI to "
+"answer your queries by analyzing emails from your group archive. When you submit "
+"a question, the system retrieves relevant emails from the archive and sends them "
+"to these LLMs to generate accurate answers based on your group's communication "
+"history."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Activism Groups"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Advocacy Groups"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Alumni Groups"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Amateur Radio"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Cat Lovers"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Creative Professionals"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Dog Lovers"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Neighborhoods"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Non-Profits"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Parent Groups"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Pet Lovers"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for PTAs"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Tech Support"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service<br>for Your Community"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "The Best Group Service^100000"
+msgid "The Best Email Groups Service"
 msgstr ""
 
 #, go-format
@@ -21582,6 +21626,11 @@ msgid "Trinidad and Tobago"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Trusted By Leading Organizations"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/register.qtpl
 msgid "Try Groups.io Free For 90 Days"
 msgstr ""
@@ -22272,11 +22321,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 msgid "Upgrade ($20 for one month, w/automatic downgrade to Free after)"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "Upgrade From Mailman or Lyris"
 msgstr ""
 
 #, go-format
@@ -23087,6 +23131,11 @@ msgid "Visit Your Groups!"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Wageningen University & Research"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Waitlist"
 msgstr ""
@@ -23163,13 +23212,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid ""
-"We are a fremium service. We don't run advertising and your data is never "
-"submitted to any ad tracking networks."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid ""
 "We are the most advanced email group service on the Internet. Check out our list "
@@ -23191,13 +23233,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/post/grouppost.qtpl
 msgid "We don't allow subjects that begin with 'Private:'."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid ""
-"We don't run advertising and your data is never submitted to any ad tracking "
-"networks."
 msgstr ""
 
 #, go-format
@@ -23322,7 +23357,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "We're passionate about groups, and we're here to make them even better."
+msgid "We're passionate about email groups, and we're here to make them even better."
 msgstr ""
 
 #, go-format
@@ -23763,11 +23798,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid "Why Use Groups.io?"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "Why You'll Love Groups.io"
 msgstr ""
 
 #, go-format
