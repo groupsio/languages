@@ -1307,6 +1307,13 @@ msgstr "%[1]s a envoyé le message %[2]s aux propriétaires"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
+msgid "%[1]s sent message '%[2]s' to everyone that is waitlisted for event %[3]s"
+msgstr ""
+"%[1]s a envoyé le message '%[2]s' à toutes les personnes inscrites sur la liste d'attente de l'événement %[3]s."
+
+#. Automatically translated using DeepL
+#: ../../tools/genactivities/activities.hjson
+#, fuzzy
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'maybe' to event %[3]s"
 msgstr ""
@@ -1331,25 +1338,9 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid ""
-"%[1]s sent message '%[2]s' to people that responded 'maybe' to event %[3]s"
+msgid "%[1]s sent message '%[2]s' to everyone that responded to event %[3]s"
 msgstr ""
-"%[1]s envoie le message '%[2]s' aux personnes qui ont répondu 'peut-être' à l'événement %[3]s"
-
-#. Automatically translated using DeepL
-#: ../../tools/genactivities/activities.hjson
-#, fuzzy
-msgid "%[1]s sent message '%[2]s' to people that responded 'no' to event %[3]s"
-msgstr ""
-"%[1]s a envoyé le message \"%[2]s\" aux personnes qui ont répondu \"non\" à l'événement %[3]s."
-
-#. Automatically translated using DeepL
-#: ../../tools/genactivities/activities.hjson
-#, fuzzy
-msgid ""
-"%[1]s sent message '%[2]s' to people that responded 'yes' to event %[3]s"
-msgstr ""
-"%[1]s envoi du message '%[2]s' aux personnes qui ont répondu 'oui' à l'événement %[3]s"
+"%[1]s a envoyé le message '%[2]s' à tous ceux qui ont répondu à l'événement %[3]s."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -2234,14 +2225,14 @@ msgstr ""
 msgid "<a href=\"/search?p=SubsCount"
 msgstr "<br />Href=\"/search?p=SubsCount"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid ""
-"<a href=\"/static/features\">Powerful features</a> that make groups more "
-"useful."
+"<a href=\"/static/features\">Powerful features</a> that make collaboration "
+"effortless"
 msgstr ""
-"Des <a href=\"/static/features\">fonctionnalités puissantes</a> qui rendent "
-"les groupes plus utiles."
+"<a href=\"/static/features\">Des fonctionnalités puissantes</a> qui facilitent la collaboration"
 
 #: ../../cmd/web/views/static/statictranslations.qtpl
 #, fuzzy
@@ -3566,7 +3557,6 @@ msgid "Added:"
 msgstr "Ajout :"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Additional Features"
 msgstr "Caractéristiques supplémentaires"
 
@@ -4853,7 +4843,11 @@ msgstr ""
 "également vous connecter à l'avenir."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupmessages/groupask.qtpl
+#: ../../cmd/web/views/groupmessages/groupasksessions.qtpl
 #: ../../cmd/web/views/groupmessages/groupllm.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #, fuzzy
 msgid "Ask"
 msgstr "Demander"
@@ -4863,6 +4857,12 @@ msgstr "Demander"
 #| msgid "Amount"
 msgid "Ask Amount"
 msgstr "Montant"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Ask is disabled"
+msgstr "Demander est désactivé"
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 #, fuzzy
@@ -5546,23 +5546,20 @@ msgstr "Tableaux et listes"
 msgid "Bolivia"
 msgstr "Bolivie"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
 msgid ""
-"Boost your group communications with our inclusive platform. Your members "
-"get messages directly in their email, so they'll <strong>never miss a "
+"Boost your group communications with our inclusive platform, perfect for "
+"intimate teams of 10 or thriving communities of 100,000+. Your members get "
+"messages directly in their email, so they'll <strong>never miss a "
 "conversation</strong>. Enjoy <strong>photo sharing</strong>, <strong>file "
 "storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
-"<strong>chat</strong>, and <strong>database</strong> features. Mobile-"
-"friendly, privacy-respecting, and ad-free."
+"<strong>chat</strong>, and <strong>database</strong> features. Whether you're "
+"managing a small club or a massive organization, our platform scales "
+"effortlessly. Mobile-friendly, privacy-respecting, and ad-free."
 msgstr ""
-"Boostez les communications de votre groupe grâce à notre plateforme "
-"inclusive. Vos membres reçoivent les messages directement dans leur boîte "
-"aux lettres électronique, de sorte qu'ils <strong>ne manquent jamais une "
-"conversation</strong>. Profitez des fonctions de <strong>partage de photos"
-"</strong>, de <strong>stockage de fichiers</strong>, de <strong>calendrier"
-"</strong>, de <strong>wiki</strong>, de <strong>chat</strong> et de "
-"<strong>base de données</strong>. Convivialité, respect de la vie privée et "
-"absence de publicité."
+"Boostez vos communications de groupe avec notre plateforme inclusive, parfaite pour les équipes intimes de 10 personnes ou les communautés prospères de plus de 100 000 personnes. Vos membres reçoivent les messages directement dans leur boîte aux lettres électronique, de sorte qu'ils <strong>ne manquent jamais une conversation</strong>. Profitez des fonctions de <strong>partage de photos</strong>, de <strong>stockage de fichiers</strong>, de <strong>calendrier</strong>, de <strong>wiki</strong>, de <strong>chat</strong> et de <strong>base de données</strong>. Que vous gériez un petit club ou une grande organisation, notre plateforme s'adapte sans effort. Convivialité, respect de la vie privée et absence de publicité."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -6021,6 +6018,15 @@ msgstr "Le calendrier est désactivé"
 msgid "Calendar Sync"
 msgstr "Synchronisation du calendrier"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Calendar, chat, polls, database, photos, files, wiki, and unlimited subgroups - "
+"all included with premium plans."
+msgstr ""
+"Calendrier, chat, sondages, base de données, photos, fichiers, wiki et sous-groupes illimités - tous inclus dans les plans premium."
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Cambodia"
@@ -6256,6 +6262,19 @@ msgstr "République Centrafricaine"
 #, fuzzy
 msgid "Cerulean Blue"
 msgstr "Bleu céruléen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "CGIAR Climate Initiative"
+msgstr "Initiative du CGIAR sur le climat"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "CGIAR Climate Platform, serving 1000+ climate scientists and researchers"
+msgstr ""
+"Plate-forme climatique du CGIAR, au service de plus de 1000 scientifiques et chercheurs en climatologie"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -6892,6 +6911,12 @@ msgstr "Comparaison des révisions"
 msgid "Comparing Versions of %s"
 msgstr "Comparaison des versions de %s"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Complete Toolkit"
+msgstr "Boîte à outils complète"
+
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticcompliance.qtpl
 msgid "Compliance"
@@ -7024,6 +7049,15 @@ msgstr ""
 msgid "Connect with Stripe"
 msgstr "Se connecter avec Stripe"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Connect with Zoom, Slack, GitHub, Trello and more. Automate workflows and keep "
+"everyone in sync."
+msgstr ""
+"Connectez-vous avec Zoom, Slack, GitHub, Trello et bien plus encore. Automatisez les flux de travail et synchronisez tout le monde."
+
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
 msgid "Connect Your Zoom Account"
@@ -7042,6 +7076,7 @@ msgid "Contact Group Owner"
 msgstr "Propriétaire du groupe"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
+#: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Contact Us"
 msgstr "Contactez-nous"
 
@@ -8010,6 +8045,12 @@ msgstr "Résumé"
 msgid "Digest #"
 msgstr "Résumé"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Digital Agriculture Hub (D4Ag)"
+msgstr "Plate-forme pour l'agriculture numérique (D4Ag)"
+
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
@@ -8220,11 +8261,6 @@ msgstr "Djibouti"
 #, fuzzy
 msgid "Do Merge"
 msgstr "Faire la fusion"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Do More With Integrations"
-msgstr "Ajouter ou modifier des intégrations"
 
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl
 #, fuzzy
@@ -8523,18 +8559,6 @@ msgstr "Mauve poussiéreux"
 msgid "Dutch"
 msgstr "Néerlandais"
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Each premium group also has a calendar, chat, polls, a database section, a "
-"photos section, a files section, and a wiki, along with an unlimited number "
-"of subgroups on your own subdomain."
-msgstr ""
-"Chaque groupe premium possède également un calendrier, un chat, des "
-"sondages, une section base de données, une section photos, une section "
-"fichiers et un wiki, ainsi qu'un nombre illimité de sous-groupes sur votre "
-"propre sous-domaine."
-
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid ""
@@ -8559,24 +8583,6 @@ msgstr ""
 "colonnes. Des sections permettent de télécharger des photos et des fichiers. "
 "Et un wiki, pour stocker les connaissances du groupe. Enfin, chaque groupe\n"
 "\t\t\t\t\t\tGroupe Premium peut avoir un nombre illimité de sous-groupes."
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Easily integrate Feeds, Slack, Google Drive, Github, Trello, Email and soon "
-"even more services into your premium group."
-msgstr ""
-"Intégrez facilement des flux, Slack, Google Drive, Github, Trello, des "
-"courriels et bientôt d'autres services dans votre groupe premium."
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Easily integrate Zoom, Feeds, Slack, Github, Trello, Email and soon even "
-"more services into your premium group."
-msgstr ""
-"Intégrez facilement Zoom, Feeds, Slack, Github, Trello, Email et bientôt "
-"encore plus de services dans votre groupe premium."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -9431,6 +9437,12 @@ msgstr "Tout est <strong>gratuit</strong>, plus :"
 msgid "Everything in <strong>Premium</strong>, plus:"
 msgstr "Tout ce qui est dans <strong>Premium</strong>, plus :"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Everything You Need to Run Your Community"
+msgstr "Tout ce dont vous avez besoin pour gérer votre communauté"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #, fuzzy
 msgid "Exclude city field."
@@ -10069,6 +10081,15 @@ msgid "From"
 msgstr "De"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"From global institutions to nonprofit organizations, groups of all sizes rely on "
+"Groups.io for their community communication needs."
+msgstr ""
+"Des institutions mondiales aux organisations à but non lucratif, des groupes de toutes tailles font confiance à Groups.io pour leurs besoins de communication communautaire."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #, fuzzy
 msgid "From non-subscriber"
@@ -10167,6 +10188,12 @@ msgstr "Allemagne"
 msgid "Get Quote Now"
 msgstr "Faire un don"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Get started for FREE"
+msgstr "Commencez GRATUITEMENT"
+
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
 msgid "Get the word out on social media!"
@@ -10205,6 +10232,13 @@ msgstr "Intégration"
 #, fuzzy
 msgid "Github push to"
 msgstr "Github push to"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
+#, fuzzy
+msgid "Glossary"
+msgstr "Glossaire"
 
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
@@ -11119,7 +11153,7 @@ msgstr "Aide"
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
 #: ../../cmd/web/views/newhelp/helpcenter.qtpl
-#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
 msgid "Help Center"
 msgstr "Centre d’aide"
 
@@ -11192,17 +11226,6 @@ msgstr "Hong Kong"
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Host"
 msgstr "Hôte"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Hosting your groups using Mailman or Lyris? We make it easy for you to move "
-"your group to Groups.io. Take advantage of our advanced features. Don't be "
-"stuck with an ancient listserv."
-msgstr ""
-"Vous hébergez vos groupes avec Mailman ou Lyris ? Nous vous facilitons le "
-"transfert de votre groupe vers Groups.io. Profitez de nos fonctionnalités "
-"avancées. Ne restez pas coincé avec un ancien listserv."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -12090,6 +12113,7 @@ msgid "Increased File and Photo Size Limits"
 msgstr "Augmentation des limites de taille des fichiers et des photos"
 
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
 msgid "Index"
 msgstr "Index"
 
@@ -12661,6 +12685,19 @@ msgstr "Chat"
 #: ../../cmd/web/views/sub/joingroup.qtpl
 msgid "Join Group"
 msgstr "Rejoindre le groupe"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Join over 6,000 groups that have successfully migrated to Groups.io. Our team "
+"will handle every step - from importing your members to preserving your complete "
+"message history. But that's just the beginning. Unlike other services, we offer "
+"a comprehensive suite of collaboration tools: an integrated calendar, real-time "
+"chat, photos and files sections, and a built-in wiki. For Premium groups, "
+"migration comes at no cost."
+msgstr ""
+"Rejoignez plus de 6 000 groupes qui ont migré avec succès vers Groups.io. Notre équipe s'occupera de chaque étape - de l'importation de vos membres à la préservation de l'historique complet de vos messages. Mais ce n'est que le début. Contrairement à d'autres services, nous offrons une suite complète d'outils de collaboration : un calendrier intégré, un chat en temps réel, des sections photos et fichiers, et un wiki intégré. Pour les groupes Premium, la migration est gratuite."
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -13359,6 +13396,7 @@ msgstr "Gérer les sous-groupes"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 #, fuzzy
 msgid "Manual"
 msgstr "Manuel"
@@ -13809,6 +13847,20 @@ msgstr ""
 "Les membres peuvent voir les photos, les modérateurs peuvent créer des "
 "albums et télécharger des photos"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Members can view previous queries and ask queries"
+msgstr ""
+"Les membres peuvent consulter les demandes précédentes et poser des questions."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Members can view previous queries, moderators can ask queries"
+msgstr ""
+"Les membres peuvent consulter les questions précédentes, les modérateurs peuvent poser des questions."
+
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Members can view, moderators can create tables"
@@ -13840,6 +13892,13 @@ msgid ""
 msgstr ""
 "Les membres ne peuvent pas voir les photos, les modérateurs peuvent créer "
 "des albums et télécharger des photos"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Members cannot view previous queries, moderators can ask queries"
+msgstr ""
+"Les membres ne peuvent pas consulter les requêtes précédentes, les modérateurs peuvent poser des requêtes."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -15092,17 +15151,14 @@ msgstr "Sujets"
 msgid "Mute Topics"
 msgstr "Sujets"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid ""
-"Mute topics and keywords, ensuring you only see the messages you're "
-"interested in. Take advantage of better email delivery options, including "
-"receiving the first message only in each thread or receiving replies only."
+"Mute topics, filter by keywords, and choose your ideal delivery settings. Never "
+"miss important messages while avoiding the noise."
 msgstr ""
-"Mettez en sourdine les sujets et les mots-clés, afin de ne voir que les "
-"messages qui vous intéressent. Profitez de meilleures options de "
-"distribution des e-mails, notamment en recevant uniquement le premier "
-"message de chaque fil de discussion ou en recevant uniquement les réponses."
+"Mettez des sujets en sourdine, filtrez par mots-clés et choisissez vos paramètres de diffusion idéaux. Ne manquez jamais les messages importants tout en évitant le bruit."
 
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
@@ -15617,10 +15673,14 @@ msgstr "Compte"
 msgid "No active sessions found."
 msgstr "Aucune session active n'a été trouvée."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "No Ads, No Tracking"
-msgstr "Pas de publicité, pas de traçage"
+msgid ""
+"No ads, no tracking, and no data mining. Your community's privacy is our top "
+"priority."
+msgstr ""
+"Pas de publicité, pas de suivi et pas d'extraction de données. La confidentialité de votre communauté est notre priorité absolue."
 
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
 #, fuzzy
@@ -16540,7 +16600,6 @@ msgstr ""
 "sélection de l'envoi des messages."
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 #| msgid "Messages"
 msgid "Only The Messages You Want"
@@ -17831,6 +17890,12 @@ msgstr "Caractéristiques supplémentaires"
 msgid "Powerful Features, Better Security"
 msgstr "Des fonctionnalités puissantes, une meilleure sécurité"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Powerful Integrations"
+msgstr "Des intégrations puissantes"
+
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 #| msgid "Integrations"
@@ -17952,6 +18017,12 @@ msgstr "Tarification"
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Privacy"
 msgstr "Confidentialité"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Privacy First"
+msgstr "Le respect de la vie privée d'abord"
 
 #: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
@@ -18157,6 +18228,18 @@ msgstr "Re:"
 #, fuzzy
 msgid "Read More At Lifehacker"
 msgstr "Lire la suite sur Lifehacker"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Read the full case study"
+msgstr "Lire l'étude de cas complète"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Ready to upgrade your mailing list experience?"
+msgstr "Prêt à améliorer l'expérience de votre liste de diffusion ?"
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
@@ -19233,6 +19316,7 @@ msgstr "prévue pour %s"
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 msgid "Search"
@@ -19247,6 +19331,12 @@ msgstr "Rechercher uniquement dans ce sujet"
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 msgid "Search Results"
 msgstr "Résultats de la recherche"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#, fuzzy
+msgid "Search the help center"
+msgstr "Recherche dans le centre d'aide"
 
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 msgid "Security"
@@ -19583,6 +19673,12 @@ msgstr "Service Sync"
 msgid "Service to sync with."
 msgstr "Service Sync"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Serving online communities for over a decade"
+msgstr "Au service des communautés en ligne depuis plus de dix ans"
+
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Sessions"
 msgstr "Sessions"
@@ -19745,6 +19841,12 @@ msgstr "Description courte"
 msgid "Short description of this database."
 msgstr "La description est trop courte."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+#, fuzzy
+msgid "Show All (Including Hidden)"
+msgstr "Tout afficher (y compris caché)"
+
 #: ../../cmd/web/views/base.qtpl
 #, fuzzy
 msgid "Show all keyboard shortcuts"
@@ -19758,6 +19860,12 @@ msgstr "Afficher les adresses e-mail dans les archives web"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Show More"
 msgstr "Voir plus"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+#, fuzzy
+msgid "Show Public Only"
+msgstr "Afficher uniquement le public"
 
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #, fuzzy
@@ -19880,6 +19988,12 @@ msgstr "Slovaquie ( République Slovaque)"
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Slovenia"
 msgstr "Slovénie"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Smart Conversations"
+msgstr "Conversations intelligentes"
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Social Logins"
@@ -20079,7 +20193,6 @@ msgstr "Démarrer l'essai de 30 jours"
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Start a Groups.io Group"
 msgstr "Démarrer un groupe Groups.io"
@@ -20483,6 +20596,12 @@ msgid ""
 msgstr ""
 "Alerte au succès. Nulla ad proident do cupidatat. Laborum ad voluptate id "
 "adipisicing sint pariatur mollit aliqua nisi."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Success Stories"
+msgstr "Histoires de réussite"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -20923,6 +21042,7 @@ msgstr "Cette adresse e-mail est déjà enregistrée."
 msgid "That email address is not available."
 msgstr "Cette adresse électronique n'est pas disponible."
 
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/register.qtpl
@@ -21095,91 +21215,23 @@ msgstr ""
 msgid "The album must have a name."
 msgstr "Vous devez définir un nom."
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
-msgid "The Best Email Group Service"
-msgstr "Groupes d'e-mails. Supercharged."
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Activism Groups"
-msgstr "Les meilleurs services de groupe<br>pour les groupes d'activistes"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Advocacy Groups"
+msgid ""
+"The Ask feature uses Large Language Models (LLMs) from Anthropic and OpenAI to "
+"answer your queries by analyzing emails from your group archive. When you submit "
+"a question, the system retrieves relevant emails from the archive and sends them "
+"to these LLMs to generate accurate answers based on your group's communication "
+"history."
 msgstr ""
-"Les meilleurs services de groupe<br>pour les groupes de défense d'intérêts"
+"La fonction Demander utilise de grands modèles de langage (LLM) d'Anthropic et d'OpenAI pour répondre à vos questions en analysant les courriels de l'archive de votre groupe. Lorsque vous posez une question, le système extrait les courriels pertinents de l'archive et les envoie à ces LLM pour générer des réponses précises basées sur l'historique des communications de votre groupe."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "The Best Group Service<br>for Alumni Groups"
-msgstr ""
-"Les meilleurs services de groupe<br>pour les groupes d'anciens élèves"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Amateur Radio"
-msgstr "Le meilleur service de groupe<br>pour les radioamateurs"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Cat Lovers"
-msgstr "Le meilleur service de groupe<br>pour les amoureux des chats"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Creative Professionals"
-msgstr ""
-"Les meilleurs services de groupe<br>pour les professionnels de la création"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Dog Lovers"
-msgstr "Les meilleurs services de groupe<br>pour les amateurs de chiens"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Neighborhoods"
-msgstr "Les meilleurs services de groupe<br>pour les quartiers"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Non-Profits"
-msgstr ""
-"Les meilleurs services de groupe<br>pour les organisations à but non lucratif"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Parent Groups"
-msgstr "Les meilleurs services de groupe<br>pour les groupes de parents"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Pet Lovers"
-msgstr ""
-"Le meilleur service de groupe<br>pour les amoureux des animaux de compagnie"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for PTAs"
-msgstr ""
-"Les meilleurs services de groupe<br>pour les associations de parents d'élèves"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Tech Support"
-msgstr "Les meilleurs services de groupe<br>pour l'assistance technique"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Your Community"
-msgstr "Le meilleur service de groupe<br>pour votre communauté"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service^100000"
-msgstr "Le meilleur service de groupe^100000"
+msgid "The Best Email Groups Service"
+msgstr "Le meilleur service de groupes d'e-mails"
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
@@ -23341,6 +23393,12 @@ msgid "Trinidad and Tobago"
 msgstr "Trinité-et-Tobago"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Trusted By Leading Organizations"
+msgstr "Des organisations de premier plan lui font confiance"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
 msgid "Try Groups.io Free For 90 Days"
@@ -24047,11 +24105,6 @@ msgid "Upgrade ($20 for one month, w/automatic downgrade to Free after)"
 msgstr ""
 "Mise à niveau (20 $ pour un mois, avec rétrogradation automatique au niveau "
 "de base après)"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Upgrade From Mailman or Lyris"
-msgstr "Mise à niveau de Mailman ou Lyris"
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid "Upgrade Plan"
@@ -24859,6 +24912,12 @@ msgstr "Visitez votre groupe!"
 msgid "Visit Your Groups!"
 msgstr "Visitez vos groupes!"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Wageningen University & Research"
+msgstr "Université et recherche de Wageningen"
+
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Waitlist"
 msgstr "Liste d’attente"
@@ -24935,15 +24994,6 @@ msgstr ""
 "il est nécessaire de s'assurer que nous sommes en mesure de continuer à "
 "livrer des courriels de groupe de manière fiable. Merci d'utiliser Groups.io."
 
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"We are a fremium service. We don't run advertising and your data is never "
-"submitted to any ad tracking networks."
-msgstr ""
-"Nous sommes un service gratuit. Nous ne diffusons pas de publicité et vos "
-"données ne sont jamais soumises à des réseaux de suivi publicitaire."
-
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid ""
@@ -24970,15 +25020,6 @@ msgstr "Nous n'autorisons pas les sujets qui commencent par \"Private :\"."
 #, fuzzy
 msgid "We don't allow subjects that begin with 'Private:'."
 msgstr "Nous n'autorisons pas les sujets qui commencent par \"Private :\"."
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"We don't run advertising and your data is never submitted to any ad tracking "
-"networks."
-msgstr ""
-"Nous ne diffusons pas de publicité et vos données ne sont jamais transmises "
-"à des réseaux de suivi publicitaire."
 
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
 #, fuzzy
@@ -25149,12 +25190,12 @@ msgstr ""
 "Nous vous contacterons sous peu pour travailler avec vous à la mise en place "
 "de votre domaine."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "We're passionate about groups, and we're here to make them even better."
+msgid "We're passionate about email groups, and we're here to make them even better."
 msgstr ""
-"Nous sommes passionnés par les groupes, et nous sommes là pour les rendre "
-"encore meilleurs."
+"Nous sommes passionnés par les groupes d'e-mails et nous sommes là pour les rendre encore meilleurs."
 
 #: ../../cmd/web/views/sub/groupwelcome.qtpl
 #, fuzzy
@@ -25637,11 +25678,6 @@ msgstr "Pourquoi des groupes de courriel ? La philosophie de Groups.io"
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid "Why Use Groups.io?"
 msgstr "Pourquoi utiliser Groups.io?"
-
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Why You'll Love Groups.io"
-msgstr "Pourquoi vous allez adorer Groups.io"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #, fuzzy

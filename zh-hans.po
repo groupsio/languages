@@ -1300,6 +1300,13 @@ msgstr "%[1]s 向业主发送信息%[2]s "
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
+msgid "%[1]s sent message '%[2]s' to everyone that is waitlisted for event %[3]s"
+msgstr ""
+"%[1]s 向等待参加 %[3]s 活动的所有人发送了信息\"%[2]s\"。"
+
+#. Automatically translated using DeepL
+#: ../../tools/genactivities/activities.hjson
+#, fuzzy
 msgid ""
 "%[1]s sent message '%[2]s' to everyone that responded 'maybe' to event %[3]s"
 msgstr ""
@@ -1324,22 +1331,8 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid ""
-"%[1]s sent message '%[2]s' to people that responded 'maybe' to event %[3]s"
-msgstr "%[1]s 向对事件回复 "可能 "的人发送信息 " "。%[2]s %[3]s"
-
-#. Automatically translated using DeepL
-#: ../../tools/genactivities/activities.hjson
-#, fuzzy
-msgid "%[1]s sent message '%[2]s' to people that responded 'no' to event %[3]s"
-msgstr "%[1]s 向对事件回复 "否 "的人发送信息 " "。%[2]s %[3]s"
-
-#. Automatically translated using DeepL
-#: ../../tools/genactivities/activities.hjson
-#, fuzzy
-msgid ""
-"%[1]s sent message '%[2]s' to people that responded 'yes' to event %[3]s"
-msgstr "%[1]s 向对事件回复 "是 "的人发送信息 " "。%[2]s %[3]s"
+msgid "%[1]s sent message '%[2]s' to everyone that responded to event %[3]s"
+msgstr "%[1]s 向响应事件 %[3]s 的所有人发送了消息\"%[2]s\"。"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -2250,8 +2243,9 @@ msgstr "<a href=\"/search?p=SubsCount"
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid ""
-"<a href=\"/static/features\">Powerful features</a> that make groups more useful."
-msgstr "<a href=\"/static/features\">功能强大</a>，让群组更有用。"
+"<a href=\"/static/features\">Powerful features</a> that make collaboration "
+"effortless"
+msgstr "<a href=\"/static/features\">功能强大</a>，协作轻松"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/statictranslations.qtpl
@@ -3508,7 +3502,6 @@ msgstr "已添加："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Additional Features"
 msgstr "附加功能"
@@ -4959,7 +4952,11 @@ msgstr ""
 "作为一项安全措施，我们刚刚向您发送了一封带有链接的电子邮件。点击该链接后，您就可以登录了，今后也可以登录。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupmessages/groupask.qtpl
+#: ../../cmd/web/views/groupmessages/groupasksessions.qtpl
 #: ../../cmd/web/views/groupmessages/groupllm.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #, fuzzy
 msgid "Ask"
 msgstr "询问"
@@ -4969,6 +4966,12 @@ msgstr "询问"
 #, fuzzy
 msgid "Ask Amount"
 msgstr "询问金额"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Ask is disabled"
+msgstr "询问已禁用"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
@@ -5750,14 +5753,16 @@ msgstr "玻利维亚"
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid ""
-"Boost your group communications with our inclusive platform. Your members get "
+"Boost your group communications with our inclusive platform, perfect for "
+"intimate teams of 10 or thriving communities of 100,000+. Your members get "
 "messages directly in their email, so they'll <strong>never miss a "
 "conversation</strong>. Enjoy <strong>photo sharing</strong>, <strong>file "
 "storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
-"<strong>chat</strong>, and <strong>database</strong> features. Mobile-friendly, "
-"privacy-respecting, and ad-free."
+"<strong>chat</strong>, and <strong>database</strong> features. Whether you're "
+"managing a small club or a massive organization, our platform scales "
+"effortlessly. Mobile-friendly, privacy-respecting, and ad-free."
 msgstr ""
-"利用我们的包容性平台，促进您的群组交流。您的成员会直接在电子邮件中收到消息，因此他们不会<strong>错过任何对话</strong>。享受<strong>照片共享</strong>、<strong>文件存储</strong>、<strong>日历</strong>、<strong>维基</strong>、<strong>聊天</strong>和<strong>数据库</strong>功能。移动友好、尊重隐私、无广告。"
+"我们的平台具有包容性，非常适合 10 人的亲密团队或 100,000 人以上的繁荣社区，可促进您的群组交流。您的成员可以直接在电子邮件中收到消息，因此他们不会<strong>错过任何对话</strong>。享受<strong>照片共享</strong>、<strong>文件存储</strong>、<strong>日历</strong>、<strong>维基</strong>、<strong>聊天</strong>和<strong>数据库</strong>功能。无论您管理的是小型俱乐部还是大型组织，我们的平台都能轻松扩展。移动友好、尊重隐私、无广告。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -6244,6 +6249,15 @@ msgid "Calendar Sync"
 msgstr "日历同步"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Calendar, chat, polls, database, photos, files, wiki, and unlimited subgroups - "
+"all included with premium plans."
+msgstr ""
+"日历、聊天、投票、数据库、照片、文件、维基和无限子群--所有这些都包含在高级计划中。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 #, fuzzy
@@ -6512,6 +6526,19 @@ msgstr "中非共和国"
 #, fuzzy
 msgid "Cerulean Blue"
 msgstr "宝石蓝"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "CGIAR Climate Initiative"
+msgstr "国际农业研究磋商组织气候倡议"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "CGIAR Climate Platform, serving 1000+ climate scientists and researchers"
+msgstr ""
+"CGIAR 气候平台，为 1000 多名气候科学家和研究人员提供服务"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -7243,6 +7270,12 @@ msgid "Comparing Versions of %s"
 msgstr "版本比较%s"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Complete Toolkit"
+msgstr "完整工具包"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/static/staticcompliance.qtpl
 #, fuzzy
@@ -7394,6 +7427,15 @@ msgid "Connect with Stripe"
 msgstr "与 Stripe 连接"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Connect with Zoom, Slack, GitHub, Trello and more. Automate workflows and keep "
+"everyone in sync."
+msgstr ""
+"与 Zoom、Slack、GitHub、Trello 等连接。自动执行工作流程，让每个人保持同步。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
 msgid "Connect Your Zoom Account"
@@ -7413,6 +7455,7 @@ msgstr "联系组长"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
+#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Contact Us"
 msgstr "联系我们"
@@ -8547,6 +8590,12 @@ msgid "Digest #"
 msgstr "摘要 #"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Digital Agriculture Hub (D4Ag)"
+msgstr "数字农业中心（D4Ag）"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
@@ -8788,12 +8837,6 @@ msgstr "吉布提"
 #, fuzzy
 msgid "Do Merge"
 msgstr "进行合并"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Do More With Integrations"
-msgstr "通过集成做更多"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl
@@ -9140,16 +9183,6 @@ msgid "Dutch"
 msgstr "荷兰语"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Each premium group also has a calendar, chat, polls, a database section, a "
-"photos section, a files section, and a wiki, along with an unlimited number of "
-"subgroups on your own subdomain."
-msgstr ""
-"每个高级群组还拥有日历、聊天、投票、数据库部分、照片部分、文件部分和维基，以及您自己子域上数量不限的子群组。"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid ""
@@ -9163,24 +9196,6 @@ msgid ""
 "unlimited number of subgroups."
 msgstr ""
 "每个高级群组都有许多附加功能，每个功能都与群组完全集成。从日历开始，您可以安排活动和发送提醒。您可以设置数量不限的聊天室。还有投票功能，可以向群组提问。每个群组还有一个功能齐全的数据库，可以定义不同列类型的表格。还有用于上传照片和文件的部分。还有一个维基，用于存储群组知识。最后，每个高级群组可以拥有不限数量的子群组。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Easily integrate Feeds, Slack, Google Drive, Github, Trello, Email and soon even "
-"more services into your premium group."
-msgstr ""
-"轻松将 Feeds、Slack、Google Drive、Github、Trello、电子邮件以及更多服务整合到您的高级群组中。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Easily integrate Zoom, Feeds, Slack, Github, Trello, Email and soon even more "
-"services into your premium group."
-msgstr ""
-"轻松将 Zoom、Feeds、Slack、Github、Trello、电子邮件以及更多服务整合到您的高级群组中。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -10157,6 +10172,12 @@ msgid "Everything in <strong>Premium</strong>, plus:"
 msgstr "<strong>高级版中</strong>的所有内容，另外还有："
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Everything You Need to Run Your Community"
+msgstr "运营社区所需的一切"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #, fuzzy
 msgid "Exclude city field."
@@ -10906,6 +10927,15 @@ msgid "From"
 msgstr "来自"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"From global institutions to nonprofit organizations, groups of all sizes rely on "
+"Groups.io for their community communication needs."
+msgstr ""
+"从全球性机构到非营利组织，各种规模的团体都依赖 Groups.io 满足其社区交流需求。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #, fuzzy
 msgid "From non-subscriber"
@@ -11028,6 +11058,12 @@ msgid "Get Quote Now"
 msgstr "立即获取报价"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Get started for FREE"
+msgstr "免费开始"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
 msgid "Get the word out on social media!"
@@ -11072,6 +11108,13 @@ msgstr "Github 集成"
 #, fuzzy
 msgid "Github push to"
 msgstr "Github 推送到"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
+#, fuzzy
+msgid "Glossary"
+msgstr "术语表"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/searchfilter.qtpl
@@ -12088,7 +12131,7 @@ msgstr "帮助"
 #: ../../cmd/web/views/help/helpcentermanual.qtpl
 #: ../../cmd/web/views/help/helpcentersinglepage.qtpl
 #: ../../cmd/web/views/newhelp/helpcenter.qtpl
-#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
 #, fuzzy
 msgid "Help Center"
 msgstr "帮助中心"
@@ -12175,16 +12218,6 @@ msgstr "香港"
 #, fuzzy
 msgid "Host"
 msgstr "主持人"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"Hosting your groups using Mailman or Lyris? We make it easy for you to move your "
-"group to Groups.io. Take advantage of our advanced features. Don't be stuck with "
-"an ancient listserv."
-msgstr ""
-"使用 Mailman 或 Lyris 托管您的群组？我们能让您轻松将群组转移到 Groups.io。利用我们的高级功能。不要被古老的列表服务器所束缚。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -13054,6 +13087,7 @@ msgstr "增加文件和照片大小限制"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
 #, fuzzy
 msgid "Index"
 msgstr "索引"
@@ -13696,6 +13730,19 @@ msgstr "加入聊天"
 #, fuzzy
 msgid "Join Group"
 msgstr "加入小组"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid ""
+"Join over 6,000 groups that have successfully migrated to Groups.io. Our team "
+"will handle every step - from importing your members to preserving your complete "
+"message history. But that's just the beginning. Unlike other services, we offer "
+"a comprehensive suite of collaboration tools: an integrated calendar, real-time "
+"chat, photos and files sections, and a built-in wiki. For Premium groups, "
+"migration comes at no cost."
+msgstr ""
+"加入已成功迁移到 Groups.io 的 6000 多个群组的行列。从导入成员到保存完整的消息历史记录，我们的团队将处理每一个步骤。但这仅仅是开始。与其他服务不同，我们提供一整套协作工具：集成日历、实时聊天、照片和文件版块以及内置维基。对于高级群组，迁移无需任何费用。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
@@ -14552,6 +14599,7 @@ msgstr "管理分组"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/newhelp/helpcentermanual.qtpl
+#: ../../cmd/web/views/newhelp/helpcentersinglepage.qtpl
 #, fuzzy
 msgid "Manual"
 msgstr "手册"
@@ -15061,6 +15109,18 @@ msgstr "会员可查看照片，版主可创建相册和上传照片"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
+msgid "Members can view previous queries and ask queries"
+msgstr "成员可查看以前的查询并提出查询"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Members can view previous queries, moderators can ask queries"
+msgstr "会员可查看以前的询问，版主可提出询问"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
 msgid "Members can view, moderators can create tables"
 msgstr "会员可以查看，版主可以创建表格"
 
@@ -15089,6 +15149,12 @@ msgstr "会员不能查看文件，版主可以创建文件夹和上传文件"
 msgid ""
 "Members cannot view photos, moderators can create albums and upload photos"
 msgstr "会员不能查看照片，版主可以创建相册和上传照片"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid "Members cannot view previous queries, moderators can ask queries"
+msgstr "会员不能查看以前的询问，版主可以提出询问"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -16485,11 +16551,10 @@ msgstr "静音主题"
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid ""
-"Mute topics and keywords, ensuring you only see the messages you're interested "
-"in. Take advantage of better email delivery options, including receiving the "
-"first message only in each thread or receiving replies only."
+"Mute topics, filter by keywords, and choose your ideal delivery settings. Never "
+"miss important messages while avoiding the noise."
 msgstr ""
-"将主题和关键字设为静音，确保你只看到感兴趣的信息。利用更好的电子邮件发送选项，包括只接收每个主题的第一条信息或只接收回复。"
+"将主题静音、按关键字过滤并选择理想的发送设置。在避开噪音的同时，也不会错过重要信息。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
@@ -17097,8 +17162,11 @@ msgstr "未找到活动会话。"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "No Ads, No Tracking"
-msgstr "无广告，无跟踪"
+msgid ""
+"No ads, no tracking, and no data mining. Your community's privacy is our top "
+"priority."
+msgstr ""
+"无广告、无跟踪、无数据挖掘。您社区的隐私是我们的首要任务。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
@@ -18118,7 +18186,6 @@ msgstr ""
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Only The Messages You Want"
 msgstr "只发送您想要的信息"
@@ -19583,6 +19650,12 @@ msgid "Powerful Features, Better Security"
 msgstr "功能强大，安全性更高"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Powerful Integrations"
+msgstr "功能强大的集成"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid "Powerful integrations"
@@ -19724,6 +19797,12 @@ msgstr "定价"
 #, fuzzy
 msgid "Privacy"
 msgstr "隐私权"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Privacy First"
+msgstr "隐私第一"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
@@ -19976,6 +20055,18 @@ msgstr "关于"
 #, fuzzy
 msgid "Read More At Lifehacker"
 msgstr "在 Lifehacker 阅读更多"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Read the full case study"
+msgstr "阅读完整案例研究"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Ready to upgrade your mailing list experience?"
+msgstr "准备好升级您的邮件列表体验了吗？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -21210,6 +21301,7 @@ msgstr "计划于%s"
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/newhelp/searchhelp.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
@@ -21228,6 +21320,12 @@ msgstr "仅在本主题内搜索"
 #, fuzzy
 msgid "Search Results"
 msgstr "搜索结果"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
+#, fuzzy
+msgid "Search the help center"
+msgstr "搜索帮助中心"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
@@ -21618,6 +21716,12 @@ msgid "Service to sync with."
 msgstr "同步服务。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Serving online communities for over a decade"
+msgstr "十多年来一直为在线社区提供服务"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
 msgid "Sessions"
@@ -21805,6 +21909,12 @@ msgid "Short description of this database."
 msgstr "该数据库的简要说明。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+#, fuzzy
+msgid "Show All (Including Hidden)"
+msgstr "显示全部（包括隐藏）"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #, fuzzy
 msgid "Show all keyboard shortcuts"
@@ -21821,6 +21931,12 @@ msgstr "在网络档案中显示电子邮件地址"
 #, fuzzy
 msgid "Show More"
 msgstr "显示更多"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+#, fuzzy
+msgid "Show Public Only"
+msgstr "仅对公众开放"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
@@ -21981,6 +22097,12 @@ msgstr "斯洛伐克（斯洛伐克共和国）"
 #, fuzzy
 msgid "Slovenia"
 msgstr "斯洛文尼亚"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Smart Conversations"
+msgstr "智能对话"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -22223,7 +22345,6 @@ msgstr "开始为期 90 天的免费高级群组试用"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
-#: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Start a Groups.io Group"
 msgstr "创建 Groups.io 小组"
@@ -22682,6 +22803,12 @@ msgid ""
 "adipisicing sint pariatur mollit aliqua nisi."
 msgstr ""
 "成功警报。Nulla ad proident do cupidatat.劳动和工作都是虚无缥缈的。"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Success Stories"
+msgstr "成功案例"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -23186,6 +23313,7 @@ msgid "That email address is not available."
 msgstr "该电子邮件地址不可用。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/views/account/bouncing.qtpl
 #: ../../cmd/web/views/account/needreverification.qtpl
 #: ../../cmd/web/views/account/register.qtpl
@@ -23366,100 +23494,22 @@ msgid "The album must have a name."
 msgstr "专辑必须有一个名字。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#, fuzzy
+msgid ""
+"The Ask feature uses Large Language Models (LLMs) from Anthropic and OpenAI to "
+"answer your queries by analyzing emails from your group archive. When you submit "
+"a question, the system retrieves relevant emails from the archive and sends them "
+"to these LLMs to generate accurate answers based on your group's communication "
+"history."
+msgstr ""
+"询问 \"功能使用 Anthropic 和 OpenAI 的大型语言模型 (LLM)，通过分析群组档案中的电子邮件来回答您的问题。当您提交问题时，系统会从档案中检索相关电子邮件，并将其发送给这些 LLM，从而根据您的群组交流历史生成准确的答案。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "The Best Email Group Service"
+msgid "The Best Email Groups Service"
 msgstr "最佳电子邮件群组服务"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Activism Groups"
-msgstr "最佳团体服务<br>为激进主义团体提供的服务"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Advocacy Groups"
-msgstr "最佳团体服务<br>宣传小组"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Alumni Groups"
-msgstr "最佳团体服务<br>校友团体"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Amateur Radio"
-msgstr "最佳团体服务<br>业余无线电爱好者"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Cat Lovers"
-msgstr "最佳团体服务<br>爱猫人士"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Creative Professionals"
-msgstr "最佳团体服务<br>创意专业人士"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Dog Lovers"
-msgstr "最佳团体服务<br>爱狗人士"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Neighborhoods"
-msgstr "最佳团体服务<br>社区"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Non-Profits"
-msgstr "最佳团体服务<br>非营利组织"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Parent Groups"
-msgstr "最佳团体服务<br>家长团体"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Pet Lovers"
-msgstr "最佳团体服务<br>宠物爱好者"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for PTAs"
-msgstr "最佳团体服务<br>家长教师协会"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Tech Support"
-msgstr "最佳团体服务<br>技术支持"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service<br>for Your Community"
-msgstr "最佳团体服务<br>适合您所在社区"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "The Best Group Service^100000"
-msgstr "最佳团体服务^100000"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
@@ -25704,6 +25754,12 @@ msgid "Trinidad and Tobago"
 msgstr "特立尼达和多巴哥"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Trusted By Leading Organizations"
+msgstr "受到领先机构的信任"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
 #, fuzzy
 msgid "Try Groups.io Free For 90 Days"
@@ -26516,12 +26572,6 @@ msgstr "升级"
 #, fuzzy
 msgid "Upgrade ($20 for one month, w/automatic downgrade to Free after)"
 msgstr "升级（一个月 20 美元，之后自动降级为免费）"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Upgrade From Mailman or Lyris"
-msgstr "从 Mailman 或 Lyris 升级"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
@@ -27473,6 +27523,12 @@ msgid "Visit Your Groups!"
 msgstr "访问您的团体！"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Wageningen University & Research"
+msgstr "瓦赫宁根大学与研究所"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #, fuzzy
 msgid "Waitlist"
@@ -27562,15 +27618,6 @@ msgstr ""
 "我们对这一过程可能造成的不便深表歉意，但这是确保我们能够继续可靠地发送群组电子邮件所必需的。感谢您使用 Groups.io。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"We are a fremium service. We don't run advertising and your data is never "
-"submitted to any ad tracking networks."
-msgstr ""
-"我们提供免费服务。我们不做广告，也不会将您的数据提交给任何广告跟踪网络。"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid ""
@@ -27598,15 +27645,6 @@ msgstr "我们不允许向群组发送主题以 "Private: "开头的信息。"
 #, fuzzy
 msgid "We don't allow subjects that begin with 'Private:'."
 msgstr "我们不允许以 "Private: "开头的主题。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid ""
-"We don't run advertising and your data is never submitted to any ad tracking "
-"networks."
-msgstr ""
-"我们不做广告，也不会将您的数据提交给任何广告跟踪网络。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
@@ -27762,8 +27800,9 @@ msgstr "我们将尽快与您联系，与您一起设置域名。"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "We're passionate about groups, and we're here to make them even better."
-msgstr "我们对团体充满热情，我们要让团体变得更好。"
+msgid "We're passionate about email groups, and we're here to make them even better."
+msgstr ""
+"我们对电子邮件群组充满热情，我们要让它们变得更好。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupwelcome.qtpl
@@ -28295,12 +28334,6 @@ msgstr "为什么要建立电子邮件群组？Groups.io 的理念"
 #, fuzzy
 msgid "Why Use Groups.io?"
 msgstr "为什么使用 Groups.io？"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "Why You'll Love Groups.io"
-msgstr "为什么您会爱上 Groups.io"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
