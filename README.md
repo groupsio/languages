@@ -32,11 +32,14 @@ Here is a table of language code to language name, in alphabetical order, along 
 
 | Language code | Language name | Native name | Status |
 | --- | --- | --- | :---: |
-| `en` (default) | English | English | ✅ |
+| `ar` | Arabic | العربية | 🚧 |
 | `de` | German | Deutsch | 🚧 |
+| `en` (default) | English | English | ✅ |
 | `es` | Spanish | Español | 🚧 |
-| `fr` | French | français | 🚧 |
+| `fr` | French | Français | 🚧 |
 | `it` | Italian | Italiano | 🚧 |
+| `nl` | Dutch | Nederlands | 🚧 |
+| `pt-BR` | Brazilian Portuguese | Português do Brasil | 🚧 |
+| `pt-PT` | European Portuguese | Português | 🚧 |
 | `uk` | Ukrainian | Українська | 🚧 |
-
-
+| `zh-CN` | Simplified Chinese | 简体中文 | 🚧 |
