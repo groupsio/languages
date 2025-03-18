@@ -17061,9 +17061,8 @@ msgstr "Teilnehmer"
 #: ../../cmd/web/views/mutefollow/unft.qtpl
 #: ../../cmd/web/views/mutefollow/unmt.qtpl
 #: ../../cmd/web/views/static/staticwelcome.qtpl
-#, fuzzy
 msgid "Password"
-msgstr "Das gewählte Passwort ist zu kurz."
+msgstr "Passwort"
 
 #: ../../cmd/web/views/account/register.qtpl
 #: ../../cmd/web/views/account/settings.qtpl

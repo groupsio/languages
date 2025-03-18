@@ -13344,9 +13344,8 @@ msgstr "Vergrendelt onderwerpen na het opgegeven aantal dagen. Onderwerpen worde
 #: ../../cmd/web/views/login/login.qtpl
 #: ../../cmd/web/views/login/twofactor.qtpl
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl
-#, fuzzy
 msgid "Log In"
-msgstr "Aanmelden"
+msgstr "Inloggen"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
@@ -20715,9 +20714,8 @@ msgstr "Sierra Leone"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
-#, fuzzy
 msgid "Sign Up"
-msgstr "Aanmelden"
+msgstr "Registreren"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
