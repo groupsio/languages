@@ -12368,10 +12368,9 @@ msgstr "Intégration \"%[1]s\" a envoyé le message #%#[2]d %[3]s"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Integration \"%[1]s\" sent message \"%[2]s\" requiring approval"
 msgstr ""
-"L'intégration \"%[1]s\" a envoyé un message \"%[2]s\" nécessitant une approbation."
+"L'intégration \"%[1]s\" a envoyé un message \"%[2]s\" nécessitant une approbation"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -12384,14 +12383,13 @@ msgstr "L'intégration \"%[1]s\" a envoyé un avis spécial #%#[2]d %[3]s"
 #, fuzzy
 msgid "Integration \"%[1]s\" sent special notice \"%[2]s\" requiring approval"
 msgstr ""
-"L'intégration \"%[1]s\" a envoyé une notice spéciale \"%[2]s\" nécessitant une approbation."
+"L'intégration \"%[1]s\" a envoyé un avis spécial \"%[2]s\" nécessitant une approbation"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Integration message \"%s\" was sent requiring approval"
 msgstr ""
-"Le message d'intégration \"%s\" a été envoyé et nécessite une approbation."
+"Le message d'intégration \"%s\" a été envoyé et nécessite une approbation"
 
 #: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
@@ -12405,10 +12403,9 @@ msgstr ""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Integration special notice \"%s\" was sent requiring approval"
 msgstr ""
-"L'avis spécial d'intégration \"%s\" a été envoyé et nécessite une approbation."
+"L'avis spécial d'intégration \"%s\" a été envoyé et nécessite une approbation"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -12908,9 +12905,8 @@ msgid "Last Updated:"
 msgstr "Dernière mise à jour:"
 
 #: ../../cmd/web/views/user/groups.qtpl
-#, fuzzy
 msgid "Latest Message"
-msgstr "Messages de chat"
+msgstr "Dernier Message"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -12934,14 +12930,13 @@ msgstr "En savoir plus"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
-#, fuzzy
 msgid "Leave Chat"
-msgstr "Quitter le chat"
+msgstr "Quitter la discussion"
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
 msgid "Leave Group"
-msgstr "Quitter le groupe"
+msgstr "Quitter Le Groupe"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -12950,12 +12945,11 @@ msgstr "Liban"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Left"
-msgstr "Gauche"
+msgstr "Est parti"
 
 #: ../../pkg/notifications/noteviews/chatpostnotification.qtpl
-#, fuzzy
 msgid "left the chat"
-msgstr "Créer ou modifier des hashtags"
+msgstr "a quitté la discussion"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
@@ -16283,7 +16277,7 @@ msgstr "Notification"
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid "Notification \"%s\" was sent requiring approval"
-msgstr "La notification \"%s\" a été envoyée et nécessite une approbation."
+msgstr "La notification \"%s\" a été envoyée et nécessite une approbation"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl
@@ -23842,15 +23836,13 @@ msgstr "Se désabonner de"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
-#, fuzzy
 #| msgid "Unsubscribe"
 msgid "Unsubscribe From %s"
-msgstr "Se désabonner de %s"
+msgstr "Se Désabonner De %s"
 
 #: ../../pkg/notifications/noteviews/unsubnotification.qtpl
-#, fuzzy
 msgid "Unsubscription - %[1]s has left %[2]s"
-msgstr "Approbation de l'abonnement nécessaire - %[1]s appliqués à %[2]s"
+msgstr "Désabonnement - %[1]s a quitté %[2]s"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Until"
@@ -24396,9 +24388,8 @@ msgstr "Utiliser le paramètre de modération du groupe"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#, fuzzy
 msgid "Use Group Reply to Setting"
-msgstr "Utiliser la réponse de groupe pour paramétrer"
+msgstr "Utiliser le paramètre de réponse au groupe"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Use Personal Meeting ID"
