@@ -1,5 +1,5 @@
 # Groups.io translation template.
-# Copyright (C) 2024 Groups.io, Inc
+# Copyright (C) 2025 Groups.io, Inc
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -15,10 +15,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-Basepath: .\n"
-
-#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-msgid "# Changelog"
-msgstr "# Changelog"
 
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
 #: ../../cmd/web/views/groupdonations/groupviewdonations.qtpl
@@ -56,15 +52,23 @@ msgstr "%.2f $ si facturé aujourd'hui"
 msgid "$0"
 msgstr "$0"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "$0 <small>per member</small>"
-msgstr "0 $ <small>par membre<br> </small>"
+msgid "$0.04/member (min $20/month) after trial"
+msgstr "0,04 $/membre (min 20 $/mois) après essai"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "$0.04 <small>per member, per month<br>(minimum $20/month)</small>"
-msgstr "0,04 $ <small>par membre, par mois<br>(minimum 20 $/mois)</small>"
+msgid "$0.10 - 0.20 per member"
+msgstr "0,10 - 0,20 $ par membre"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "$0.44/member (min $220/year) billed annually (1 month free)"
+msgstr "0,44 $/membre (min 220 $/an) facturé annuellement (1 mois gratuit)"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
@@ -1672,6 +1676,12 @@ msgid_plural "%d New Commits"
 msgstr[0] "%d Nouvel engagement"
 msgstr[1] "%d New Commits"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "%d out of 5 Integrations"
+msgstr "%d sur 5 Intégrations"
+
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -2118,6 +2128,18 @@ msgstr "Membre"
 msgid "/table?id="
 msgstr "/table?id="
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "1 GB attachment storage"
+msgstr "1 Go de mémoire d'attachement"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "1 TB storage"
+msgstr "1 TB de stockage"
+
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 #, fuzzy
 msgid ""
@@ -2138,13 +2160,11 @@ msgid "12 Hour Clock (3:04pm)"
 msgstr "horloge 12 heures (3:04pm)"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "1GB Storage Space"
 msgstr "1TB d'espace de stockage"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "1TB Storage Space"
 msgstr "1TB d'espace de stockage"
@@ -2163,8 +2183,13 @@ msgstr "20 articles"
 msgid "24 Hour Clock (15:04)"
 msgstr "l'horloge de 24 heures (15:04)"
 
-#: ../../cmd/web/views/groupadmin/groupplans.qtpl
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "30 GB storage"
+msgstr "30 Go de stockage"
+
+#: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
 msgid "30GB Storage Space"
 msgstr "espace de stockage de 30 Go"
@@ -2496,6 +2521,30 @@ msgstr ""
 "<p>Si ce problème se répète, veuillez contacter votre fournisseur de "
 "services de messagerie pour savoir comment il décide d'envoyer des rapports "
 "d'évaluation aux services de listes (tels que les groupes %[1]s).</p>"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
+#, fuzzy
+msgid ""
+"<p>Dear %[1]s Member,</p> <p>We've noticed that emails sent to your address "
+"(%[2]s) are being returned undelivered. This can happen for several reasons:</p> "
+"<ul> <li>Your email provider may be blocking our messages</li> <li>Your mailbox "
+"might be full or have storage limitations</li> <li>There may be temporary "
+"technical issues with email delivery</li> </ul> <p>You are subscribed to the "
+"following groups:</p> <ul> %[3]s </ul> <p>To continue receiving messages from "
+"your groups, please verify your email address by clicking the secure link "
+"below:</p> <p><a href=\"%[4]s\">%[4]s</a></p> <p>Until this is resolved, we've "
+"temporarily paused sending you messages from your subscribed groups. After "
+"verification, your normal email delivery will resume automatically.</p> <p>If "
+"you'd like to review the technical details of the delivery errors, you can <a "
+"href=\"%[5]s\">view the bounce messages here</a>.</p> <p><strong>Important "
+"Security Note: Groups.io will never ask for your password in emails. If you "
+"receive any email claiming to be from us that requests your password, please do "
+"not respond.</strong></p> <p>Member since: %[6]s</p> <p>If you need assistance, "
+"please contact support@groups.io.</p> <p>Regards,<br> The %s Support Team</br> "
+"</p>"
+msgstr ""
+"<p>Cher membre %[1]s,</p> <p>Nous avons remarqué que les courriels envoyés à votre adresse (%[2]s) sont retournés sans avoir été délivrés. Il y a plusieurs raisons à cela :</p> <ul> <li>Votre fournisseur d'accès à Internet bloque peut-être nos messages</li> <li>Votre boîte aux lettres est peut-être pleine ou présente des limites de stockage.</li> <li>Il peut y avoir des problèmes techniques temporaires avec la livraison des messages.</li> </ul> <p>Vous êtes abonné aux groupes suivants :</p> <ul> %[3]s </ul> <p>Pour continuer à recevoir des messages de vos groupes, veuillez vérifier votre adresse électronique en cliquant sur le lien sécurisé ci-dessous :</p> <p><a href=\"%[4]s\">%[4]s</a></p> <p>Jusqu'à ce que le problème soit résolu, nous avons temporairement interrompu l'envoi de messages provenant des groupes auxquels vous êtes abonné. Après vérification, l'envoi normal des messages reprendra automatiquement.</p> <p>Si vous souhaitez consulter les détails techniques des erreurs de livraison, vous pouvez <a href=\"%[5]s\">voir les messages de rebond ici</a>.</p> <p><strong>Note de sécurité importante : Groups.io ne vous demandera jamais votre mot de passe dans les emails. Si vous recevez un email prétendant provenir de nous et demandant votre mot de passe, ne répondez pas.</strong></p> <p>Membre depuis : %[6]s</p> <p>Si vous avez besoin d'aide, veuillez contacter support@groups.io.</p> <p>Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées,<br> L'équipe d'assistance %s.</br> </p>"
 
 #. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
@@ -3173,7 +3222,6 @@ msgid "About Me"
 msgstr "À propos de moi"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Accept Donations From Members"
 msgstr "Accepter les dons des membres"
@@ -3219,6 +3267,13 @@ msgid ""
 msgstr ""
 "Action requise : Confirmez votre adhésion à Groups.io pour continuer à "
 "recevoir des courriels de groupe"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
+#, fuzzy
+msgid "Action Required: Email Delivery Issues with Your Groups.io Account"
+msgstr ""
+"Action requise : Problèmes d'acheminement des courriels avec votre compte Groups.io"
 
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -3615,11 +3670,6 @@ msgstr "Admin"
 msgid "Advanced group management."
 msgstr "Gestion avancée des groupes."
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Advanced Moderation Features"
-msgstr "Utiliser le paramètre de modération du groupe"
-
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -3642,6 +3692,16 @@ msgstr "Afghanistan"
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "After"
 msgstr "Après"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid ""
+"After 90 days your group automatically reverts to the Basic plan—keeping your "
+"mailing list intact but losing Premium features. If your group has grown beyond "
+"100 members by then, you'll need to choose a paid plan to continue."
+msgstr ""
+"Au bout de 90 jours, votre groupe passe automatiquement à l'offre Basic, ce qui vous permet de conserver votre liste de diffusion intacte, mais de perdre les fonctionnalités Premium. Si votre groupe a dépassé les 100 membres à ce moment-là, vous devrez choisir un plan payant pour continuer."
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -3961,11 +4021,6 @@ msgstr "Autoriser les photos dans les fichiers"
 #, fuzzy
 msgid "Allow videos to be uploaded to the Photos section."
 msgstr "Autorisez le téléchargement de photos dans la section Fichiers."
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Almost all of our features."
-msgstr "Presque toutes nos fonctionnalités."
 
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 #, fuzzy
@@ -4937,11 +4992,11 @@ msgstr ""
 "Les pièces jointes seront enregistrées ici. Le répertoire sera créé s'il "
 "n'existe pas."
 
-#. TRANSLATORS: The %[1]s refers to total attachment bytes, the %[2]d refers to attachment percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Attachments: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Pièces jointes : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Attachments:"
+msgstr "Pièces jointes :"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "Attempted"
@@ -5334,6 +5389,12 @@ msgstr ""
 "est atteinte, les pièces jointes les plus anciennes sont automatiquement "
 "supprimées pour faire de la place."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Basic (Free forever)"
+msgstr "Basic (gratuit pour toujours)"
+
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #, fuzzy
 msgid "BCC Me"
@@ -5457,6 +5518,12 @@ msgstr "Bénin"
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Bermuda"
 msgstr "Bermudes"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/googlegroupsalts.qtpl
+#, fuzzy
+msgid "Best Google Groups Alternatives (2025 Edition)"
+msgstr "Meilleures alternatives à Google Groups (2025 Edition)"
 
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
@@ -5868,7 +5935,6 @@ msgstr "Calculez vos coûts"
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #: ../../pkg/notifications/noteviews/groupcalinvitesnotification.qtpl
 #: ../../pkg/notifications/noteviews/groupcalsingleinvitesnotification.qtpl
 msgid "Calendar"
@@ -6351,6 +6417,9 @@ msgstr "Vous n'avez aucunes adhésions."
 msgid "Change Your RSVP"
 msgstr "Modifier le plan"
 
+#: ../../cmd/web/views/base.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid "Changelog"
 msgstr "Changelog"
@@ -6394,6 +6463,12 @@ msgstr ""
 #| msgid "Your Subscription"
 msgid "Changing Your Subscription"
 msgstr "Votre abonnement"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
+#, fuzzy
+msgid "Charged To"
+msgstr "Imputé à"
 
 #: ../../pkg/notifications/noteviews/donationreceiptnotification.qtpl
 #: ../../pkg/notifications/noteviews/sponsorshipnotification.qtpl
@@ -6443,11 +6518,11 @@ msgstr "Notifications"
 msgid "Chat Photos"
 msgstr "Photos"
 
-#. TRANSLATORS: The %[1]s refers to total chat photos bytes, the %[2]d refers to chat photos percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Chat Photos: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Photos du chat : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Chat Photos:"
+msgstr "Photos du chat :"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -6594,6 +6669,15 @@ msgstr "Chinois (simplifié)"
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Choices"
 msgstr "Choix"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid ""
+"Choose monthly or annual billing any time during your 90-day trial—no card "
+"needed up front."
+msgstr ""
+"Choisissez la facturation mensuelle ou annuelle à tout moment pendant votre période d'essai de 90 jours - aucune carte n'est nécessaire à l'avance."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -6922,7 +7006,6 @@ msgstr "Des outils de modération complets"
 msgid "Computer"
 msgstr "Ordinateur"
 
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "Concentration"
 msgstr "Concentration"
@@ -7066,6 +7149,12 @@ msgstr "Valider"
 msgid "Contact Group Owner"
 msgstr "Propriétaire du groupe"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Contact Sales"
+msgstr "Contacter les ventes"
+
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Contact Us"
@@ -7106,6 +7195,12 @@ msgstr "Adresse électronique du groupe"
 #, fuzzy
 msgid "Copy/Paste Onto Your Site"
 msgstr "Copier/coller sur votre site"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Core email group only"
+msgstr "Groupe de base par courrier électronique uniquement"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -7349,7 +7444,6 @@ msgid "Current Plan (Yearly Billing)"
 msgstr "Plan actuel (facturation annuelle)"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Custom Pricing"
 msgstr "Tarif Personnalisé"
 
@@ -7377,15 +7471,21 @@ msgid "Custom range..."
 msgstr "Gamme personnalisée"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Customizable Home Page"
 msgstr "Page d'accueil personnalisable"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "Customizable Profiles and Member Data"
+msgid "Customizable home page"
 msgstr "Page d'accueil personnalisable"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Customizable profiles and member data"
+msgstr "Profils et données sur les membres personnalisables"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -7502,11 +7602,11 @@ msgstr "Base de données - Ligne modifiée"
 msgid "Database Images"
 msgstr "Bases de données"
 
-#. TRANSLATORS: The %[1]s refers to total database image bytes, the %[2]d refers to database image percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Database Images: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Images de la base de données : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Database Images:"
+msgstr "Images de la base de données :"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #, fuzzy
@@ -8051,10 +8151,15 @@ msgid "Direct Add"
 msgstr "Ajout direct de membre"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Direct Add Members"
 msgstr "Ajout direct de membres"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Direct add members"
+msgstr "Ajouter directement des membres"
 
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #, fuzzy
@@ -8495,6 +8600,12 @@ msgstr "Télécharger"
 #| msgid "Download"
 msgid "Download Group Export"
 msgstr "Télécharger"
+
+#. Automatically translated using DeepL
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#, fuzzy
+msgid "Download it here"
+msgstr "Téléchargez-le ici"
 
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -9420,16 +9531,6 @@ msgstr "Hebdomadaire le jeudi"
 msgid "Every weekday (Monday to Friday)"
 msgstr "Bihebdomadaire le vendredi"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Everything in <strong>Free</strong>, plus:"
-msgstr "Tout est <strong>gratuit</strong>, plus :"
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Everything in <strong>Premium</strong>, plus:"
-msgstr "Tout ce qui est dans <strong>Premium</strong>, plus :"
-
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
@@ -9764,16 +9865,21 @@ msgid "Files are disabled"
 msgstr "Les fichiers sont désactivés"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Files Section"
 msgstr "Sélection des messages"
 
-#. TRANSLATORS: The %[1]s refers to total files bytes, the %[2]d refers to files percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Files, photos, wiki, calendar, chat"
+msgstr "Fichiers, photos, wiki, calendrier, chat"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Files: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Fichiers : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Files:"
+msgstr "Fichiers :"
 
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -9801,12 +9907,6 @@ msgstr "Trouver ou créer un groupe"
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Finland"
 msgstr "Finlande"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "First Login"
-msgstr "Première connexion"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -9980,11 +10080,6 @@ msgstr ""
 "souhaitez conserver, vous pouvez les verrouiller. Un groupe verrouillé ne "
 "peut être modifié en aucune façon."
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "For larger groups, this is the plan for you."
-msgstr "Pour les groupes plus importants, ce plan est fait pour vous."
-
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Force HTML Emails"
@@ -10020,7 +10115,6 @@ msgstr "France, Métropolitaine"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Free"
 msgstr "Gratuit"
 
@@ -10028,6 +10122,12 @@ msgstr "Gratuit"
 #, fuzzy
 msgid "Free Basic Plan"
 msgstr "Plan de base gratuit"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Free for 90 days"
+msgstr "Gratuit pendant 90 jours"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
@@ -10073,6 +10173,13 @@ msgstr "Ven"
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl
 msgid "From"
 msgstr "De"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "From $100/month non-profit · $200/month commercial"
+msgstr ""
+"A partir de 100 $/mois pour les organisations à but non lucratif - 200 $/mois pour les entreprises"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -10176,11 +10283,12 @@ msgstr "Allemand"
 msgid "Germany"
 msgstr "Allemagne"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-#| msgid "Donate Now"
-msgid "Get Quote Now"
-msgstr "Faire un don"
+msgid "Get access to Polls, Calendar, Chat, and more for your group"
+msgstr ""
+"Accédez aux sondages, au calendrier, au chat et à bien d'autres choses encore pour votre groupe."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -10871,6 +10979,13 @@ msgstr ""
 "Groups.io prend en charge toutes les options que l'on peut attendre d'un "
 "service de groupes moderne."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/mailmanalts.qtpl
+#, fuzzy
+msgid "Groups.io vs Mailman – Features, Security, and Compliance Comparison"
+msgstr ""
+"Groups.io vs Mailman - Comparaison des fonctionnalités, de la sécurité et de la conformité"
+
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid ""
@@ -10897,6 +11012,12 @@ msgstr ""
 msgid "Groups.io | Email Discussion Groups & Listserv Alternative"
 msgstr ""
 "Groups.io | Alternative aux groupes de discussion par courriel et aux serveurs de listes"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/changelog.qtpl
+#, fuzzy
+msgid "Groups.io: Changelog"
+msgstr "Groups.io : Changelog"
 
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 #, fuzzy
@@ -11151,7 +11272,6 @@ msgid "Hello [Name],"
 msgstr "Bonjour [Nom],"
 
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
 #: ../../pkg/notifications/noteviews/changedemailnotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -11495,6 +11615,13 @@ msgstr "ID"
 msgid "ID Column Default Hidden"
 msgstr "ID Colonne par défaut Caché"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Ideal for simple mailing lists ≤ 100 members. Upgrade anytime."
+msgstr ""
+"Idéal pour les listes de diffusion simples ≤ 100 membres. Mise à niveau à tout moment."
+
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 msgid "Identity"
 msgstr "Identité"
@@ -11767,11 +11894,6 @@ msgstr ""
 "groupe. Nous ne savons pas pourquoi. Nous avons déjà désactivé le compte de "
 "cette personne.\n"
 "Nous sommes désolés que vous ayez reçu ces e-mails indésirables."
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "If you just need a full-featured mailing list."
-msgstr "Si vous avez simplement besoin d'une liste de diffusion complète."
 
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #, fuzzy
@@ -12134,6 +12256,12 @@ msgstr ""
 "que vous recevrez en affinant votre préférence de livraison d'e-mails pour "
 "n'inclure que les messages que vous spécifiez."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid "Inactive for over 90 days"
+msgstr "Inactif depuis plus de 90 jours"
+
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 msgid "Inactive Member"
 msgstr "Membre inactif"
@@ -12433,17 +12561,11 @@ msgstr ""
 "Les intégrations vous permettent de connecter votre groupe à d'autres "
 "sources de données, comme l'importation de flux RSS et de pages Facebook."
 
-#. TRANSLATORS: The %d refers to the number of integrations in use.
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Integrations: %d Integrations"
-msgstr "Intégrations : %d Intégrations"
-
-#. TRANSLATORS: The %d refers to the number of integrations in use.
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#, fuzzy
-msgid "Integrations: %d out of 5 Integrations"
-msgstr "Intégrations : %d sur 5 intégrations"
+msgid "Integrations:"
+msgstr "Intégrations :"
 
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
 #, fuzzy
@@ -12801,6 +12923,12 @@ msgstr "Juil"
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Jun"
 msgstr "Juin"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Just need a limited free plan?"
+msgstr "Vous avez besoin d'un plan gratuit limité ?"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -13160,7 +13288,6 @@ msgstr "LLM"
 
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -13302,12 +13429,6 @@ msgstr "Se connecter avec Google"
 msgid "Log Out"
 msgstr "Déconnexion"
 
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "Logged out"
-msgstr "Déconnecté"
-
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 msgid "Login"
@@ -13336,7 +13457,6 @@ msgstr ""
 "Les connexions via Google ou Facebook ne sont pas autorisées pour les "
 "comptes dont l'authentification à deux facteurs est activée."
 
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/login/logout.qtpl
 msgid "Logout"
 msgstr "Déconnexion"
@@ -13684,11 +13804,11 @@ msgstr "Répertoire des membres"
 msgid "Member Data Images"
 msgstr "Données sur les membres supplémentaires"
 
-#. TRANSLATORS: The %[1]s refers to total member data bytes, the %[2]d refers to member data percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Member Data Images: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Images des données membres : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Member Data Images:"
+msgstr "Images des données des membres :"
 
 #: ../../cmd/web/views/user/enterprise.qtpl
 #, fuzzy
@@ -15015,15 +15135,15 @@ msgstr "Maroc"
 msgid "Moss Green"
 msgstr "Vert mousse"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Most Popular"
+msgstr "Les plus populaires"
+
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Most recent"
 msgstr "Les plus récents"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "Most Recent Login"
-msgstr "Connexion la plus récente"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
@@ -15770,10 +15890,6 @@ msgstr "Pas de couleur"
 msgid "No credit card is on file."
 msgstr "Ajouter un mode de paiement"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "No credit card required"
-msgstr "Aucune carte de crédit requise"
-
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #, fuzzy
 #| msgid "No credit card required"
@@ -15844,6 +15960,12 @@ msgid ""
 msgstr ""
 "Aucun courriel ne sera envoyé à ces personnes lorsqu'elles seront supprimées,"
 " à moins de cocher la case <strong>Envoyer la notification de membre retiré</strong>."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "No files / photos / calendar / chat / integrations"
+msgstr "Pas de fichiers / photos / calendrier / chat / intégrations"
 
 #: ../../cmd/web/views/groupadmin/groupaliases.qtpl
 #, fuzzy
@@ -15968,9 +16090,9 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "Non-member %s attempted to send message from a banned domain"
+msgid "Non-member %s attempted to send message \"%[2]s\" from a banned domain"
 msgstr ""
-"Le non-membre %s a tenté d'envoyer un message à partir d'un domaine interdit."
+"Le non-membre %s a tenté d'envoyer le message \"%[2]s\" à partir d'un domaine interdit."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -16841,10 +16963,6 @@ msgstr "Un autre nom pour votre groupe."
 msgid "Other Services"
 msgstr "D'autres Services"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Our most popular plan"
-msgstr "Notre offre le plus populaire"
-
 #: ../../cmd/web/views/login/login.qtpl
 #, fuzzy
 msgid ""
@@ -17222,20 +17340,9 @@ msgstr "Semaine dernière"
 msgid "Past Year"
 msgstr "L'an passé"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Pay annually (one month free)"
-msgstr "Payer annuellement (un mois gratuit)"
-
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "Pay Invoice"
 msgstr "Payer la facture"
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-#| msgid "Past month"
-msgid "Pay monthly"
-msgstr "Mois passé"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "Payment"
@@ -17514,7 +17621,6 @@ msgstr "album photo du groupe %s."
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Photo Albums"
 msgstr "Albums photo"
 
@@ -17562,11 +17668,11 @@ msgstr "Les photos sont désactivées"
 msgid "Photos Section"
 msgstr "Sélection des messages"
 
-#. TRANSLATORS: The %[1]s refers to total photos bytes, the %[2]d refers to photos percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Photos: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Photos : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Photos:"
+msgstr "Photos :"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #, fuzzy
@@ -17740,7 +17846,6 @@ msgstr "Aux répondants au sondage"
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Polls"
 msgstr "Sondages"
 
@@ -18311,11 +18416,6 @@ msgid "Ready to upgrade from your current listserv or Google Group?"
 msgstr ""
 "Vous êtes prêt à remplacer votre serveur de liste ou votre groupe Google actuel ?"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Real-time Chat"
-msgstr "Chat en temps réel"
-
 #: ../../cmd/web/qtutils/messagereports.qtpl
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
@@ -18451,24 +18551,6 @@ msgstr "chats ouverts"
 #: ../../cmd/web/views/account/groupprofile.qtpl
 msgid "Recent Messages"
 msgstr "Messages récents"
-
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"Recently, emails sent to you have bounced back to us. This can be for many "
-"reasons, including: <ul> <li>We have an incorrect email address for you.</"
-"li> <li>Your account was or is full.</li> <li>Other temporary delivery "
-"issues.</li> </ul>"
-msgstr ""
-"<p>Récemment, des courriels qui vous ont été envoyés nous ont été retournés. "
-"Cela peut être dû à de nombreuses raisons, notamment</p> <ul> <li>Nous "
-"disposons d'une adresse électronique incorrecte.</li> <li>Votre compte était "
-"ou est plein.</li> <li>Autres problèmes temporaires de livraison.</li> </ul> "
-"<p>Pour consulter les messages d'erreur que nous recevons de votre serveur "
-"de messagerie, <a href=\"https://groups.io/account?page=bounces\">cliquez "
-"ici</a>.</p> <p>Nous avons suspendu l'envoi de votre courrier électronique. "
-"Cela signifie que vous ne recevrez plus de messages des groupes auxquels "
-"vous êtes abonné, y compris :</p>"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reconfirmemailnotification.qtpl
@@ -20005,10 +20087,11 @@ msgstr "Autorisez les choix multiples."
 msgid "Single Sign On"
 msgstr "Authentification unique"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "Single Sign On, via Auth0 (others by request)"
-msgstr "Ouverture de session unique, via Auth0 (autres sur demande)"
+msgid "Single sign on"
+msgstr "Signature unique"
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Six Months"
@@ -20245,13 +20328,13 @@ msgstr "Heure normale (3:04pm)"
 msgid "Start"
 msgstr "Début"
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Start 90 day trial"
-msgstr "Démarrer l'essai de 30 jours"
+msgid "Start 90-Day Free Trial"
+msgstr "Essai gratuit de 90 jours"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Start a free group"
 msgstr "Démarrer un groupe Groups.io"
@@ -20267,9 +20350,21 @@ msgstr "Démarrer l'essai de 30 jours"
 msgid "Start a Groups.io Group"
 msgstr "Démarrer un groupe Groups.io"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Start Basic Group"
+msgstr "Démarrer le groupe de base"
+
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Start Date"
 msgstr "Date de début"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Start Free 90-Day Trial"
+msgstr "Essai gratuit de 90 jours"
 
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
@@ -20354,6 +20449,12 @@ msgstr "Page wiki collante"
 msgid "Storage"
 msgstr "Stockage"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "Storage Breakdown"
+msgstr "Ventilation du stockage"
+
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Storage Limit Reached"
@@ -20383,11 +20484,6 @@ msgstr ""
 #, fuzzy
 msgid "Strip out HTML messages."
 msgstr "Supprimez les messages HTML."
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Structured Databases"
-msgstr "Bases de données structurées"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/subgroupnotification.qtpl
@@ -20592,6 +20688,12 @@ msgstr "S'abonner au calendrier"
 #, fuzzy
 msgid "Subscribe to Subgroups"
 msgstr "S'abonner au calendrier"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/changelog.qtpl
+#, fuzzy
+msgid "Subscribe via RSS"
+msgstr "S'abonner via RSS"
 
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 msgid "Subscribed"
@@ -20993,10 +21095,6 @@ msgstr ""
 "Nous vous remercions de l'attention que vous avez portée à cette question et "
 "de votre rôle essentiel au sein de notre communauté."
 
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid "Thank you,"
-msgstr "Merci,"
-
 #: ../../cmd/web/views/account/reverifyaccount.qtpl
 #, fuzzy
 msgid ""
@@ -21243,7 +21341,6 @@ msgstr "Le %s Modérateur"
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
 #: ../../pkg/notifications/noteviews/changedemailnotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -21552,6 +21649,28 @@ msgid "The following are counted towards the storage limits for your group:"
 msgstr ""
 "Les éléments suivants sont pris en compte dans les limites de stockage de "
 "votre groupe :"
+
+#. Automatically translated using DeepL
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
+#, fuzzy
+msgid ""
+"The following attachments were removed because the message exceeded 15MB. "
+"Attachments are automatically removed for messages larger than 15MB to ensure "
+"delivery."
+msgstr ""
+"Les pièces jointes suivantes ont été supprimées car le message dépassait 15MB. Les pièces jointes sont automatiquement supprimées pour les messages de plus de 15 Mo afin d'en assurer la distribution."
+
+#. Automatically translated using DeepL
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
+#, fuzzy
+msgid ""
+"The following attachments were removed because they exceeded your subscription's "
+"maximum attachment size limit. You can adjust this limit in your subscription "
+"settings."
+msgstr ""
+"Les pièces jointes suivantes ont été supprimées parce qu'elles dépassaient la limite de taille maximale des pièces jointes de votre abonnement. Vous pouvez ajuster cette limite dans les paramètres de votre abonnement."
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -22294,10 +22413,11 @@ msgstr ""
 "Une erreur s'est produite lors de l'ajout du compte Instagram. Veuillez vous "
 "assurer qu'il ne s'agit pas d'un compte privé."
 
-#. TRANSLATORS: The %.02f refers to the amount of money in the reserve.
+#. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves.
 #. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves remaining.
 #. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#. TRANSLATORS: The %.02f refers to the amount of money in the reserve.
 #, fuzzy
 msgid "There is $%.02f in reserve to pay hosting fees."
 msgstr "Il y a %.02f $ en réserve pour payer les frais d'hébergement."
@@ -22401,6 +22521,15 @@ msgid ""
 msgstr ""
 "Il y a une facture due, de %[1]s, d'un montant de $%[2]f.2. Si cette facture "
 "n'est pas payée, le groupe sera rétrogradé au plan gratuit."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid ""
+"These are your active sessions. You can review your active sessions and sign out "
+"from sessions you no longer use."
+msgstr ""
+"Il s'agit de vos sessions actives. Vous pouvez consulter vos sessions actives et vous déconnecter des sessions que vous n'utilisez plus."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #, fuzzy
@@ -23160,16 +23289,6 @@ msgstr "Pour désactiver un sujet, vous devez d'abord vous connecter."
 msgid "To unsubscribe from this group, send an email to:"
 msgstr "S'abonner au calendrier"
 
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"To view the error messages we receive from your email server, <a "
-"href=\"https://groups.io/account?page=bounces\">click here</a>."
-msgstr ""
-"Pour consulter les messages d'erreur que nous recevons de votre serveur de "
-"messagerie, <a href=\"https://groups.io/account?page=bounces\">cliquez ici</"
-"a>."
-
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "to:"
 msgstr "à:"
@@ -23374,9 +23493,11 @@ msgstr[1] "Les sujets sont automatiquement fermés après %d jours"
 msgid "Topics created with this hashtag will be locked immediately."
 msgstr "Les sujets créés avec ce hashtag seront verrouillés immédiatement."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
-msgid "Total Amount"
-msgstr "Montant total"
+#, fuzzy
+msgid "Total Amount Charged"
+msgstr "Montant total facturé"
 
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
 #, fuzzy
@@ -23412,6 +23533,7 @@ msgstr "Messages de chat"
 msgid "Track Removed Members"
 msgstr "Supprimer la sélection"
 
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 msgid "Transaction ID"
 msgstr "ID de transaction"
@@ -23479,6 +23601,12 @@ msgstr "Des organisations de premier plan lui font confiance"
 #, fuzzy
 msgid "Try Groups.io Free For 90 Days"
 msgstr "Essayez Groups.io gratuitement pendant 90 jours"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "Try Premium"
+msgstr "Essayez Premium"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
@@ -23698,27 +23826,13 @@ msgstr ""
 "\t\t\tLa nature asynchrone du courrier électronique présente plusieurs "
 "avantages, notamment pour les groupes plus importants et distribués."
 
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "Unlimited"
 msgstr "Illimité"
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-#| msgid "Unlimited"
-msgid "Unlimited Messages"
-msgstr "Illimité"
-
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Unlimited Subgroups"
-msgstr "Inclure les sous-groupes"
 
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #, fuzzy
@@ -23863,9 +23977,14 @@ msgid "Up to 100"
 msgstr "Jusqu'à 100"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Up to 100 Members"
+msgstr "Jusqu'à 100 membres"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Up to 100 members"
 msgstr "Jusqu'à 100 membres"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -24148,7 +24267,6 @@ msgstr "Page Wiki mise à jour : %s"
 msgid "Updated:"
 msgstr "Mis à jour :"
 
-#: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
@@ -24161,6 +24279,12 @@ msgstr "Mises à jour"
 #| msgid "Update Group"
 msgid "Updates to Github"
 msgstr "Mettre à jour le groupe"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/changelog.qtpl
+#, fuzzy
+msgid "Updates to the Groups.io service."
+msgstr "Mises à jour du service Groups.io."
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
@@ -24183,6 +24307,12 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid "Upgrade Plan"
 msgstr "Mise à niveau de l'abonnement"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "Upgrade to Premium and unlock all features"
+msgstr "Passez à la version Premium et débloquez toutes les fonctionnalités"
 
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
@@ -24351,13 +24481,13 @@ msgstr "Utilisation"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 #, fuzzy
 msgid "USD $"
 msgstr "USD $"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #, fuzzy
 msgid "USD $%.02f"
 msgstr "USD %.02f"
@@ -24431,12 +24561,6 @@ msgstr "Utilisé pour l'affichage des heures."
 #, fuzzy
 msgid "Used on the website to reference the enterprise."
 msgstr "Utilisé sur le site web pour référencer l'entreprise."
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "User Agent"
-msgstr "Agent utilisateur"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -24756,6 +24880,12 @@ msgstr "videos"
 msgid "Viet Nam"
 msgstr "Vietnam"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "View"
+msgstr "Voir"
+
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid ""
@@ -24789,7 +24919,6 @@ msgstr "Afficher tous les messages"
 msgid "View All Topics"
 msgstr "Nouveau sujet"
 
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl
 msgid "View Attachments"
 msgstr "Afficher les pièces jointes"
@@ -25165,15 +25294,6 @@ msgstr ""
 "souhaitez vous connecter à votre compte en utilisant %[2]s, cliquez sur le "
 "lien suivant :"
 
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"We have suspended email delivery to you. This means you will no longer "
-"receive messages from the groups you are subscribed to, including:"
-msgstr ""
-"Nous avons suspendu l'envoi de courriels. Cela signifie que vous ne recevrez "
-"plus de messages des groupes auxquels vous êtes abonné, y compris :"
-
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
 #| msgid "You have no subscriptions."
@@ -25262,13 +25382,6 @@ msgid "We will contact you shortly to work with you to set up your domain."
 msgstr ""
 "Nous vous contacterons sous peu pour travailler avec vous à la mise en place "
 "de votre domaine."
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "We're passionate about email groups, and we're here to make them even better."
-msgstr ""
-"Nous sommes passionnés par les groupes d'e-mails et nous sommes là pour les rendre encore meilleurs."
 
 #: ../../cmd/web/views/sub/groupwelcome.qtpl
 #, fuzzy
@@ -25465,6 +25578,12 @@ msgstr "Que faire lorsque Groups.io détecte qu'un message contient un virus."
 msgid "What to do when the group is out of space."
 msgstr "Que faire lorsque le groupe n'a plus de place."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid "What's this?"
+msgstr "Qu'est-ce que c'est ?"
+
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "When"
@@ -25635,6 +25754,12 @@ msgstr "Quand:"
 msgid "Where"
 msgstr "Où"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid "Where You're Signed In"
+msgstr "Où vous êtes connecté"
+
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 #: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl
 msgid "Where:"
@@ -25660,6 +25785,18 @@ msgstr "Quel éditeur utiliser pour composer les messages sur le site web."
 #, fuzzy
 msgid "Which SSO provider you are using."
 msgstr "Le fournisseur de SSO que vous utilisez."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "White-Label & Scale"
+msgstr "Marque blanche et échelle"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "White-label web & email"
+msgstr "Site web et courriel en marque blanche"
 
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #, fuzzy
@@ -25772,7 +25909,6 @@ msgstr "Largeur de la colonne, pour l'affichage (0 signifie par défaut)."
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Wiki"
 msgstr "Wiki"
 
@@ -25817,11 +25953,11 @@ msgstr "Wiki - Révision supprimée"
 msgid "Wiki Images"
 msgstr "Wikis"
 
-#. TRANSLATORS: The %[1]s refers to total wiki image bytes, the %[2]d refers to wiki image percentage, %[3]d refers to total storage
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Wiki Images: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "Images Wiki : %[1]s - %[2]d%% de %[3]dGB"
+msgid "Wiki Images:"
+msgstr "Wiki Images :"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -26357,11 +26493,11 @@ msgstr ""
 "FAQ sur la reverification, à l'adresse <a href=\"https://groups.io/static/"
 "reverifyfaq\">https://groups.io/static/reverifyfaq</a>"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticwelcome.qtpl
-msgid ""
-"You are subscribed to the <a href=\"%[1]s\">%[2]s</a> group. Check it out."
-msgstr ""
-"Vous êtes abonné au groupe <a href=\"%[1]s\">%[2]s</a>. Consultez-le."
+#, fuzzy
+msgid "You are subscribed to the <a href=\"%[1]s\">%[1]s</a> group. Check it out."
+msgstr "Vous êtes abonné au groupe <a href=\"%[1]s\">%[1]s</a>. Consultez-le."
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 msgid "You are subscribed to this group."
@@ -26551,7 +26687,6 @@ msgid "You can sync manually."
 msgstr "Vous pouvez effectuer une synchronisation manuelle."
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "You can upgrade at any time"
 msgstr "Vous pouvez effectuer une mise à niveau à tout moment"
@@ -27095,15 +27230,6 @@ msgid ""
 "You must specify if the group will be listed in the Groups.io directory."
 msgstr "Non répertorié dans le répertoire de Groups.io."
 
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"You must take action to restore your account. To unbounce your account, go "
-"to the following link:"
-msgstr ""
-"Vous devez prendre des mesures pour rétablir votre compte. Pour débloquer "
-"votre compte, rendez-vous sur le lien suivant :"
-
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
 #, fuzzy
@@ -27227,45 +27353,41 @@ msgstr ""
 "Vous passez au plan <strong>gratuit</strong> (0 $/mois). Votre groupe sera "
 "rétrogradé après la fin de l'année Premium que vous avez payée."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Enterprise</strong>plan ($2,200 for up to "
+"You're signing up for the <strong>Enterprise</strong> plan ($2,200 for up to "
 "1000 members, with additional members $2.20, billed yearly)."
 msgstr ""
-"Vous vous inscrivez au <strong>plan d'entreprise</strong>(2 200 $ pour un "
-"maximum de 1 000 membres, avec 2,20 $ pour les membres supplémentaires, "
-"facturés annuellement)."
+"Vous souscrivez au plan <strong>Entreprise</strong> (2 200 $ pour un maximum de 1 000 membres, 2,20 $ pour les membres supplémentaires, facturés annuellement)."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Enterprise</strong>plan ($200 for up to "
-"1000 members, with additional members $0.20, billed monthly)."
+"You're signing up for the <strong>Enterprise</strong> plan ($200 for up to 1000 "
+"members, with additional members $0.20, billed monthly)."
 msgstr ""
-"Vous vous inscrivez au <strong>plan d'entreprise</strong>(200 $ pour un "
-"maximum de 1000 membres, avec des membres supplémentaires à 0,20 $, facturés "
-"mensuellement)."
+"Vous vous inscrivez au plan <strong>Entreprise</strong> (200 $ pour un maximum de 1000 membres, 0,20 $ pour les membres supplémentaires, facturés mensuellement)."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Non-profit Enterprise</strong>plan ($1,100 "
+"You're signing up for the <strong>Non-profit Enterprise</strong> plan ($1,100 "
 "for up to 1000 members, with additional members $1.10, billed yearly)."
 msgstr ""
-"Vous vous inscrivez au <strong>plan d'entreprise à but non lucratif</"
-"strong>(1 100 dollars pour un maximum de 1 000 membres, 1,10 dollar pour les "
-"membres supplémentaires, facturé annuellement)."
+"Vous vous inscrivez au plan <strong>Entreprise à but non lucratif</strong> (1 100 $ pour un maximum de 1 000 membres, 1,10 $ pour les membres supplémentaires, facturés annuellement)."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Non-profit Enterprise</strong>plan ($100 "
-"for up to 1000 members, with additional members $0.10, billed monthly)."
+"You're signing up for the <strong>Non-profit Enterprise</strong> plan ($100 for "
+"up to 1000 members, with additional members $0.10, billed monthly)."
 msgstr ""
-"Vous vous inscrivez au <strong>plan d'entreprise à but non lucratif</"
-"strong>(100 $ pour un maximum de 1 000 membres, avec des membres "
-"supplémentaires à 0,10 $, facturés mensuellement)."
+"Vous vous inscrivez au plan <strong>Entreprise à but non lucratif</strong> (100 $ pour un maximum de 1000 membres, avec des membres supplémentaires à 0,10 $, facturés mensuellement)."
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid ""
@@ -27386,12 +27508,6 @@ msgstr ""
 #, fuzzy
 msgid "Your accounts have been merged."
 msgstr "Aucun alias de groupe n'a été défini."
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "Your Active Sessions"
-msgstr "Your Active Sessions"
 
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Your Activity"
@@ -27592,11 +27708,6 @@ msgstr ""
 "Votre compte Groups.io a été revérifié et vous continuerez à recevoir des "
 "emails de vos groupes. Vous n'avez rien d'autre à faire."
 
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid "Your Groups.io Account Is Bouncing"
-msgstr "Caractéristiques de votre groupe"
-
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 #, fuzzy
 msgid "Your Groups.io Membership Has Been Reverified"
@@ -27687,15 +27798,8 @@ msgstr ""
 msgid "Your notification preferences have been updated."
 msgstr "Vos préférences de notification ont été mises à jour."
 
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-#| msgid "Your own domain"
-msgid "Your Own Branding"
-msgstr "Votre propre domaine"
-
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 #| msgid "Your own domain"
 msgid "Your Own Domain"
@@ -27859,14 +27963,14 @@ msgstr "Votre abonnement est en attente d'approbation."
 msgid "Your subscription to %s has been changed"
 msgstr "Votre abonnement à %s a été modifié"
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 #, fuzzy
 msgid ""
-"Your subscription to the <a href=\"%[1]s\">%[2]s</a> group is awaiting "
-"moderator approval."
+"Your subscription to the <a href=\"%[1]s\">%[1]s</a> group is awaiting moderator "
+"approval."
 msgstr ""
-"Votre inscription au groupe <a href=\"%[1]s\">%[2]s</a> est en attente de "
-"l'approbation du modérateur."
+"Votre inscription au groupe <a href=\"%[1]s\">%[1]s</a> est en attente de l'approbation du modérateur."
 
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
 msgid "Your subscription was not approved"

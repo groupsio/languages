@@ -1,5 +1,5 @@
 # Groups.io translation template.
-# Copyright (C) 2024 Groups.io, Inc
+# Copyright (C) 2025 Groups.io, Inc
 #
 msgid ""
 msgstr ""
@@ -14,12 +14,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-#, fuzzy
-msgid "# Changelog"
-msgstr "# 更新日志"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
@@ -68,15 +62,21 @@ msgstr "$0"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "$0 <small>per member</small>"
-msgstr "<small>每位成员</small>0 美元"
+msgid "$0.04/member (min $20/month) after trial"
+msgstr "试用后 0.04 美元/会员（最低 20 美元/月"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "$0.04 <small>per member, per month<br>(minimum $20/month)</small>"
+msgid "$0.10 - 0.20 per member"
+msgstr "每个成员 0.10 - 0.20 美元"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "$0.44/member (min $220/year) billed annually (1 month free)"
 msgstr ""
-"<small>每个会员每月</small>0.04 美元<small><br> （最低 20 美元/月）</small>"
+"0.44 美元/会员（最低 220 美元/年），按年结算（免费 1 个月）"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -1662,6 +1662,12 @@ msgstr[0] "%d 新承诺"
 msgstr[1] "%d 新承诺"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "%d out of 5 Integrations"
+msgstr "%d 出 5 集成"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -2124,6 +2130,18 @@ msgid "/table?id="
 msgstr "/table?id="
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "1 GB attachment storage"
+msgstr "1 GB 附件存储空间"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "1 TB storage"
+msgstr "1 TB 存储空间"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 #, fuzzy
 msgid ""
@@ -2146,14 +2164,12 @@ msgstr "12 小时钟（下午 3:04）"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "1GB Storage Space"
 msgstr "1GB 存储空间"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "1TB Storage Space"
 msgstr "1TB 存储空间"
@@ -2177,8 +2193,13 @@ msgid "24 Hour Clock (15:04)"
 msgstr "24 小时时钟 (15:04)"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "30 GB storage"
+msgstr "30 GB 存储空间"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
 msgid "30GB Storage Space"
 msgstr "30GB 存储空间"
@@ -2380,6 +2401,30 @@ msgid ""
 "send feedback reports to list services (such as %[1]s groups).</p>"
 msgstr ""
 "<p>%[1]s 组提供了多种选项，可控制接收电子邮件的数量和类型。有关详细信息，请参阅<a href=\"https://groups.io/helpcenter/membersmanual/1/controlling-your-email-subscription-preferences?single=true\">帮助中心</a>的这<a href=\"https://groups.io/helpcenter/membersmanual/1/controlling-your-email-subscription-preferences?single=true\">篇文章</a>。  <p>如果反复出现这种情况，请向您的电子邮件服务提供商咨询，了解他们如何决定向列表服务（如%[1]s 群组）发送反馈报告。"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
+#, fuzzy
+msgid ""
+"<p>Dear %[1]s Member,</p> <p>We've noticed that emails sent to your address "
+"(%[2]s) are being returned undelivered. This can happen for several reasons:</p> "
+"<ul> <li>Your email provider may be blocking our messages</li> <li>Your mailbox "
+"might be full or have storage limitations</li> <li>There may be temporary "
+"technical issues with email delivery</li> </ul> <p>You are subscribed to the "
+"following groups:</p> <ul> %[3]s </ul> <p>To continue receiving messages from "
+"your groups, please verify your email address by clicking the secure link "
+"below:</p> <p><a href=\"%[4]s\">%[4]s</a></p> <p>Until this is resolved, we've "
+"temporarily paused sending you messages from your subscribed groups. After "
+"verification, your normal email delivery will resume automatically.</p> <p>If "
+"you'd like to review the technical details of the delivery errors, you can <a "
+"href=\"%[5]s\">view the bounce messages here</a>.</p> <p><strong>Important "
+"Security Note: Groups.io will never ask for your password in emails. If you "
+"receive any email claiming to be from us that requests your password, please do "
+"not respond.</strong></p> <p>Member since: %[6]s</p> <p>If you need assistance, "
+"please contact support@groups.io.</p> <p>Regards,<br> The %s Support Team</br> "
+"</p>"
+msgstr ""
+"<p>亲爱的 %[1]s 会员、</p> <p>我们注意到发送到您的地址（%[2]s）的电子邮件因无法投递而被退回。出现这种情况有几种原因：</p> <ul> <li>您的电子邮件提供商可能屏蔽了我们的邮件</li> <li>您的邮箱可能已满或有存储限制</li> <li>电子邮件发送可能存在临时技术问题</li> </ul> <p>您订阅了以下群组：</p> <ul>%[3]s </ul> <p>若要继续接收群组信息，请点击下面的安全链接验证您的电子邮件地址：</p> <p><a href=\"%[4]s\">%[4]s</a></p> <p>在此问题解决之前，我们暂时停止向您发送您订阅的群组的信息。验证后，您的正常邮件发送将自动恢复。</p> <p>如果您想查看发送错误的技术细节，可以<a href=\"%[5]s\">在此处查看退回信息</a>。</p> <p><strong>重要安全提示：Groups.io 绝不会在邮件中要求您提供密码。如果您收到任何自称来自我们的电子邮件，要求您提供密码，请不要回复。</strong></p> <p>会员注册日期： %[6]s</p> <p>如果您需要帮助，请联系 support@groups.io。</p> <p>谢谢、<br>支持团队</br></p>"
 
 #. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
@@ -3039,7 +3084,6 @@ msgstr "关于我"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Accept Donations From Members"
 msgstr "接受会员捐款"
@@ -3089,6 +3133,12 @@ msgid ""
 "Emails"
 msgstr ""
 "需要采取的行动：确认您的 Groups.io 会员身份，以继续接收群组电子邮件"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
+#, fuzzy
+msgid "Action Required: Email Delivery Issues with Your Groups.io Account"
+msgstr "需要采取行动：Groups.io 账户的电子邮件发送问题"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
@@ -3569,12 +3619,6 @@ msgid "Advanced group management."
 msgstr "高级小组管理。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Advanced Moderation Features"
-msgstr "高级审核功能"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -3601,6 +3645,16 @@ msgstr "阿富汗"
 #, fuzzy
 msgid "After"
 msgstr "之后"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid ""
+"After 90 days your group automatically reverts to the Basic plan—keeping your "
+"mailing list intact but losing Premium features. If your group has grown beyond "
+"100 members by then, you'll need to choose a paid plan to continue."
+msgstr ""
+"90 天后，您的群组将自动恢复到基本计划--保持邮件列表不变，但失去高级功能。如果届时您的群组成员已超过 100 人，则需要选择付费计划才能继续。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -3965,12 +4019,6 @@ msgstr "允许在照片中添加视频"
 #, fuzzy
 msgid "Allow videos to be uploaded to the Photos section."
 msgstr "允许将视频上传到 "照片 "版块。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Almost all of our features."
-msgstr "我们几乎所有的功能。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
@@ -5056,11 +5104,10 @@ msgstr ""
 "附件将保存在此处。如果目录不存在，则将创建该目录。"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total attachment bytes, the %[2]d refers to attachment percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Attachments: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "附件： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Attachments:"
+msgstr "附件："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
@@ -5504,6 +5551,12 @@ msgstr ""
 "根据您的群组设置，当达到存储上限时，最旧的附件将被自动删除，以腾出空间。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Basic (Free forever)"
+msgstr "基本（永久免费）"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #, fuzzy
 msgid "BCC Me"
@@ -5639,6 +5692,12 @@ msgstr "贝宁"
 #, fuzzy
 msgid "Bermuda"
 msgstr "百慕大群岛"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/googlegroupsalts.qtpl
+#, fuzzy
+msgid "Best Google Groups Alternatives (2025 Edition)"
+msgstr "最佳谷歌群组替代品（2025 年版）"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
@@ -6094,7 +6153,6 @@ msgstr "计算成本"
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #: ../../pkg/notifications/noteviews/groupcalinvitesnotification.qtpl
 #: ../../pkg/notifications/noteviews/groupcalsingleinvitesnotification.qtpl
 #, fuzzy
@@ -6626,6 +6684,9 @@ msgid "Change Your RSVP"
 msgstr "更改您的 RSVP"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/base.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid "Changelog"
@@ -6665,6 +6726,12 @@ msgstr ""
 #, fuzzy
 msgid "Changing Your Subscription"
 msgstr "更改订阅"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
+#, fuzzy
+msgid "Charged To"
+msgstr "收费"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/donationreceiptnotification.qtpl
@@ -6721,11 +6788,10 @@ msgid "Chat Photos"
 msgstr "聊天照片"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total chat photos bytes, the %[2]d refers to chat photos percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Chat Photos: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "聊天照片： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Chat Photos:"
+msgstr "聊天照片："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -6898,6 +6964,15 @@ msgstr "简体中文"
 #, fuzzy
 msgid "Choices"
 msgstr "选择"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid ""
+"Choose monthly or annual billing any time during your 90-day trial—no card "
+"needed up front."
+msgstr ""
+"在 90 天试用期内，您可以随时选择按月或按年计费，无需预付卡。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -7286,7 +7361,6 @@ msgid "Computer"
 msgstr "计算机"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
 msgid "Concentration"
@@ -7445,6 +7519,12 @@ msgid "Contact Group Owner"
 msgstr "联系组长"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Contact Sales"
+msgstr "联系销售"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
@@ -7495,6 +7575,12 @@ msgstr "复制电子邮件地址"
 #, fuzzy
 msgid "Copy/Paste Onto Your Site"
 msgstr "复制/粘贴到您的网站"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Core email group only"
+msgstr "仅限核心电子邮件组"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -7775,7 +7861,6 @@ msgstr "当前计划（按年计费）"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Custom Pricing"
 msgstr "自定义定价"
@@ -7808,7 +7893,6 @@ msgstr "自定义范围..."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Customizable Home Page"
 msgstr "可定制的主页"
@@ -7816,7 +7900,13 @@ msgstr "可定制的主页"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "Customizable Profiles and Member Data"
+msgid "Customizable home page"
+msgstr "可定制的主页"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Customizable profiles and member data"
 msgstr "可定制的简介和会员数据"
 
 #. Automatically translated using DeepL
@@ -7957,11 +8047,10 @@ msgid "Database Images"
 msgstr "数据库图像"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total database image bytes, the %[2]d refers to database image percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Database Images: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "数据库图像： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Database Images:"
+msgstr "数据库图像："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
@@ -8598,9 +8687,14 @@ msgstr "直接添加"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Direct Add Members"
+msgstr "直接添加成员"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Direct add members"
 msgstr "直接添加成员"
 
 #. Automatically translated using DeepL
@@ -9105,6 +9199,12 @@ msgstr "下载"
 #, fuzzy
 msgid "Download Group Export"
 msgstr "下载群组导出"
+
+#. Automatically translated using DeepL
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#, fuzzy
+msgid "Download it here"
+msgstr "在此下载"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -10152,18 +10252,6 @@ msgid "Every weekday (Monday to Friday)"
 msgstr "每个工作日（周一至周五）"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Everything in <strong>Free</strong>, plus:"
-msgstr "一切<strong>免费</strong>，另外："
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Everything in <strong>Premium</strong>, plus:"
-msgstr "<strong>高级版中</strong>的所有内容，另外还有："
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
 msgid "Everything You Need to Run Your Community"
@@ -10551,17 +10639,21 @@ msgstr "文件已禁用"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Files Section"
 msgstr "档案科"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total files bytes, the %[2]d refers to files percentage, %[3]d refers to total storage
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Files, photos, wiki, calendar, chat"
+msgstr "文件、照片、Wiki、日历、聊天"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Files: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "文件： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Files:"
+msgstr "文件："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/searchfilter.qtpl
@@ -10600,12 +10692,6 @@ msgstr "查找或创建群组"
 #, fuzzy
 msgid "Finland"
 msgstr "芬兰"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "First Login"
-msgstr "首次登录"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
@@ -10799,12 +10885,6 @@ msgstr ""
 "对于不再活跃但希望保留的组或子组，可以将其锁定。锁定的组不能以任何方式更改。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "For larger groups, this is the plan for you."
-msgstr "对于人数较多的团队，这就是您的最佳选择。"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Force HTML Emails"
@@ -10850,7 +10930,6 @@ msgstr "法国，大都会"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Free"
 msgstr "免费"
@@ -10860,6 +10939,12 @@ msgstr "免费"
 #, fuzzy
 msgid "Free Basic Plan"
 msgstr "免费基本计划"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Free for 90 days"
+msgstr "90 天免费"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
@@ -10918,6 +11003,12 @@ msgstr "星期五"
 #, fuzzy
 msgid "From"
 msgstr "来自"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "From $100/month non-profit · $200/month commercial"
+msgstr "非营利性 100 美元/月起 - 商业性 200 美元/月起"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -11045,10 +11136,10 @@ msgid "Germany"
 msgstr "德国"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Get Quote Now"
-msgstr "立即获取报价"
+msgid "Get access to Polls, Calendar, Chat, and more for your group"
+msgstr "为您的群组访问投票、日历、聊天等功能"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -11804,6 +11895,12 @@ msgid ""
 msgstr "Groups.io 支持现代群组服务中的所有选项。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/mailmanalts.qtpl
+#, fuzzy
+msgid "Groups.io vs Mailman – Features, Security, and Compliance Comparison"
+msgstr "Groups.io 与 Mailman - 功能、安全性和合规性比较"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid ""
@@ -11827,6 +11924,12 @@ msgstr ""
 #, fuzzy
 msgid "Groups.io | Email Discussion Groups & Listserv Alternative"
 msgstr "Groups.io | 电子邮件讨论组和列表服务器替代方案"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/changelog.qtpl
+#, fuzzy
+msgid "Groups.io: Changelog"
+msgstr "Groups.io：更新日志"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -12125,7 +12228,6 @@ msgstr "您好 [姓名]、"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
 #: ../../pkg/notifications/noteviews/changedemailnotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -12508,6 +12610,12 @@ msgid "ID Column Default Hidden"
 msgstr "ID 列 默认隐藏"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Ideal for simple mailing lists ≤ 100 members. Upgrade anytime."
+msgstr "适用于成员少于 100 人的简单邮件列表。随时升级。"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #, fuzzy
 msgid "Identity"
@@ -12749,12 +12857,6 @@ msgid ""
 "unwanted emails."
 msgstr ""
 "如果您没有 Groups.io 账户却收到了 Groups.io 电子邮件，那是因为有人订阅了 Groups.io 群组，然后将他们从该群组收到的电子邮件转发给了您。我们也不知道为什么。我们已经禁用了此人的账户。很抱歉您收到了这些不必要的邮件。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "If you just need a full-featured mailing list."
-msgstr "如果您只需要功能齐全的邮件列表。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
@@ -13100,6 +13202,12 @@ msgstr ""
 "在上面的 "电子邮件发送 "面板中，您为该组选择了首选的电子邮件发送方式。通过下面的高级偏好设置，您可以进一步控制哪些信息和标签会根据您的邮件发送偏好设置发送给您。请注意，您在下面所做的更改将减少您收到的电子邮件的数量，因为您的电子邮件发送首选项只包括您指定的邮件。"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid "Inactive for over 90 days"
+msgstr "超过 90 天未使用"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 #, fuzzy
 msgid "Inactive Member"
@@ -13426,18 +13534,10 @@ msgstr ""
 "通过集成，您可以将群组与其他数据源连接起来，如导入 RSS 源和 Facebook 页面。"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %d refers to the number of integrations in use.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Integrations: %d Integrations"
-msgstr "集成： %d 集成"
-
-#. Automatically translated using DeepL
-#. TRANSLATORS: The %d refers to the number of integrations in use.
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#, fuzzy
-msgid "Integrations: %d out of 5 Integrations"
-msgstr "集成：%d （满分 5 分） 集成"
+msgid "Integrations:"
+msgstr "集成："
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
@@ -13859,6 +13959,12 @@ msgstr "七月"
 #, fuzzy
 msgid "Jun"
 msgstr "Jun"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Just need a limited free plan?"
+msgstr "只需要有限的免费计划？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -14311,7 +14417,6 @@ msgstr "法学硕士"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -14473,12 +14578,6 @@ msgid "Log Out"
 msgstr "退出登录"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "Logged out"
-msgstr "已注销"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #, fuzzy
@@ -14513,7 +14612,6 @@ msgstr ""
 "已启用双因素身份验证的账户不允许通过 Google 或 Facebook 登录。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/login/logout.qtpl
 #, fuzzy
 msgid "Logout"
@@ -14931,11 +15029,10 @@ msgid "Member Data Images"
 msgstr "成员数据图像"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total member data bytes, the %[2]d refers to member data percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Member Data Images: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "成员数据图像： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Member Data Images:"
+msgstr "成员数据图像："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
@@ -16389,16 +16486,16 @@ msgid "Moss Green"
 msgstr "苔藓绿"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Most Popular"
+msgstr "最受欢迎"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #, fuzzy
 msgid "Most recent"
 msgstr "最近"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "Most Recent Login"
-msgstr "最近登录"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
@@ -17267,12 +17364,6 @@ msgid "No credit card is on file."
 msgstr "没有信用卡记录。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "No credit card required"
-msgstr "无需信用卡"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #, fuzzy
 msgid "No credit card required, cancel any time"
@@ -17345,6 +17436,12 @@ msgid ""
 "<strong>Send Removed Member Notice</strong> checkbox is checked."
 msgstr ""
 "除非选中 "<strong>发送已删除会员通知</strong>"复选框，否则<strong>删除会员</strong>时不会向其发送任何电子邮件。"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "No files / photos / calendar / chat / integrations"
+msgstr "无文件/照片/日历/聊天/集成"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupaliases.qtpl
@@ -17482,8 +17579,8 @@ msgstr "非会员%s 试图从被禁域向 + 所有者地址发送信息"
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
-msgid "Non-member %s attempted to send message from a banned domain"
-msgstr "非会员%s 试图从被禁域发送信息"
+msgid "Non-member %s attempted to send message \"%[2]s\" from a banned domain"
+msgstr "非会员 %s 尝试从被禁止的域发送信息 \"%[2]s\""
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -18467,12 +18564,6 @@ msgid "Other Services"
 msgstr "其他服务"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Our most popular plan"
-msgstr "我们最受欢迎的计划"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/login/login.qtpl
 #, fuzzy
 msgid ""
@@ -18900,22 +18991,10 @@ msgid "Past Year"
 msgstr "过去一年"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Pay annually (one month free)"
-msgstr "按年付费（免费一个月）"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "Pay Invoice"
 msgstr "支付发票"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Pay monthly"
-msgstr "按月支付"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -19233,7 +19312,6 @@ msgstr "%s 小组的相册。"
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Photo Albums"
 msgstr "相册"
@@ -19292,11 +19370,10 @@ msgid "Photos Section"
 msgstr "照片部分"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total photos bytes, the %[2]d refers to photos percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Photos: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "照片： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Photos:"
+msgstr "照片"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -19486,7 +19563,6 @@ msgstr "投票回复"
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Polls"
 msgstr "民意调查"
@@ -20142,12 +20218,6 @@ msgid "Ready to upgrade from your current listserv or Google Group?"
 msgstr "准备好升级您当前的列表服务器或 Google 群组了吗？"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Real-time Chat"
-msgstr "实时聊天"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/messagereports.qtpl
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
@@ -20294,17 +20364,6 @@ msgstr "最近的聊天"
 #, fuzzy
 msgid "Recent Messages"
 msgstr "最近的消息"
-
-#. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"Recently, emails sent to you have bounced back to us. This can be for many "
-"reasons, including: <ul> <li>We have an incorrect email address for you.</li> "
-"<li>Your account was or is full.</li> <li>Other temporary delivery issues.</li> "
-"</ul>"
-msgstr ""
-"最近，发送给您的电子邮件被退回给我们。原因有很多，包括 <ul> <li>我们的电子邮件地址有误。</li> <li>您的帐户已满。</li> <li>其他临时发送问题。</li> </ul>"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reconfirmemailnotification.qtpl
@@ -22103,8 +22162,8 @@ msgstr "单点登录"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
-msgid "Single Sign On, via Auth0 (others by request)"
-msgstr "单点登录，通过 Auth0（根据要求提供其他登录方式）"
+msgid "Single sign on"
+msgstr "单点登录"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
@@ -22397,14 +22456,13 @@ msgid "Start"
 msgstr "开始"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Start 90 day trial"
-msgstr "开始 90 天试用"
+msgid "Start 90-Day Free Trial"
+msgstr "开始 90 天免费试用"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Start a free group"
 msgstr "创建免费小组"
@@ -22423,10 +22481,22 @@ msgid "Start a Groups.io Group"
 msgstr "创建 Groups.io 小组"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Start Basic Group"
+msgstr "启动基本组"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy
 msgid "Start Date"
 msgstr "开始日期"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Start Free 90-Day Trial"
+msgstr "开始 90 天免费试用"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
@@ -22533,6 +22603,12 @@ msgid "Storage"
 msgstr "存储"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "Storage Breakdown"
+msgstr "存储明细"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Storage Limit Reached"
@@ -22567,12 +22643,6 @@ msgstr "从 HTML 电子邮件中删除所有不同的字体和颜色。"
 #, fuzzy
 msgid "Strip out HTML messages."
 msgstr "删除 HTML 信息。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Structured Databases"
-msgstr "结构化数据库"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/subgroupnotification.qtpl
@@ -22790,6 +22860,12 @@ msgstr "订阅我们的群组"
 #, fuzzy
 msgid "Subscribe to Subgroups"
 msgstr "订阅分组"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/changelog.qtpl
+#, fuzzy
+msgid "Subscribe via RSS"
+msgstr "通过 RSS 订阅"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
@@ -23262,12 +23338,6 @@ msgstr ""
 "感谢您对此事的及时关注，感谢您作为我们社区的重要组成部分。"
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid "Thank you,"
-msgstr "谢谢、"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/account/reverifyaccount.qtpl
 #, fuzzy
 msgid ""
@@ -23523,7 +23593,6 @@ msgstr "%s 版主"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
 #: ../../pkg/notifications/noteviews/changedemailnotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -23834,6 +23903,28 @@ msgstr "文件夹必须有名称。"
 #, fuzzy
 msgid "The following are counted towards the storage limits for your group:"
 msgstr "以下内容将计入您所在组的存储限制："
+
+#. Automatically translated using DeepL
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
+#, fuzzy
+msgid ""
+"The following attachments were removed because the message exceeded 15MB. "
+"Attachments are automatically removed for messages larger than 15MB to ensure "
+"delivery."
+msgstr ""
+"由于邮件超过 15MB，以下附件已被删除。超过 15MB 的邮件会自动删除附件，以确保邮件送达。"
+
+#. Automatically translated using DeepL
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
+#, fuzzy
+msgid ""
+"The following attachments were removed because they exceeded your subscription's "
+"maximum attachment size limit. You can adjust this limit in your subscription "
+"settings."
+msgstr ""
+"以下附件已被删除，因为它们超出了您订阅的最大附件大小限制。您可以在订阅设置中调整此限制。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
@@ -24594,10 +24685,11 @@ msgstr ""
 "添加 Instagram 帐户时出现错误。请确保该账户不是私人账户。"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %.02f refers to the amount of money in the reserve.
+#. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves.
 #. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves remaining.
 #. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#. TRANSLATORS: The %.02f refers to the amount of money in the reserve.
 #, fuzzy
 msgid "There is $%.02f in reserve to pay hosting fees."
 msgstr "%.02f 美元的储备金用于支付托管费。"
@@ -24702,6 +24794,15 @@ msgid ""
 "is not paid, the group will be downgraded to the free plan."
 msgstr ""
 "有一张来自%[1]s 的到期发票，金额为%.02[2]f 美元。如果不支付这张发票，该组将降级为免费计划。"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid ""
+"These are your active sessions. You can review your active sessions and sign out "
+"from sessions you no longer use."
+msgstr ""
+"这些是您的活动会话。您可以查看活动会话，并退出不再使用的会话。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
@@ -25493,15 +25594,6 @@ msgid "To unsubscribe from this group, send an email to:"
 msgstr "如需取消订阅，请发送电子邮件至"
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"To view the error messages we receive from your email server, <a "
-"href=\"https://groups.io/account?page=bounces\">click here</a>."
-msgstr ""
-"要查看我们从您的电子邮件服务器收到的错误信息，<a href=\"https://groups.io/account?page=bounces\">请单击此处</a>。"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "to:"
@@ -25732,8 +25824,8 @@ msgstr "使用此标签创建的主题将被立即锁定。"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #, fuzzy
-msgid "Total Amount"
-msgstr "总金额"
+msgid "Total Amount Charged"
+msgstr "收费总额"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
@@ -25773,6 +25865,7 @@ msgid "Track Removed Members"
 msgstr "跟踪已删除的成员"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 #, fuzzy
 msgid "Transaction ID"
@@ -25843,6 +25936,12 @@ msgstr "受到领先机构的信任"
 #, fuzzy
 msgid "Try Groups.io Free For 90 Days"
 msgstr "免费试用 Groups.io 90 天"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "Try Premium"
+msgstr "试用高级版"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -26100,29 +26199,14 @@ msgstr ""
 "与实时（同步）聊天或即时信息不同，电子邮件群组成员不必被迫同时在线。电子邮件的异步性质有几个优点，尤其是对于规模较大的分布式群组而言。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 #, fuzzy
 msgid "Unlimited"
 msgstr "无限制"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Unlimited Messages"
-msgstr "无限信息"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Unlimited Subgroups"
-msgstr "无限分组"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -26293,9 +26377,14 @@ msgstr "高达 100"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Up to 100 Members"
+msgstr "最多 100 名成员"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "Up to 100 members"
 msgstr "最多 100 名成员"
 
 #. Automatically translated using DeepL
@@ -26618,7 +26707,6 @@ msgid "Updated:"
 msgstr "已更新："
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
@@ -26632,6 +26720,12 @@ msgstr "更新"
 #, fuzzy
 msgid "Updates to Github"
 msgstr "更新至 Github"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/changelog.qtpl
+#, fuzzy
+msgid "Updates to the Groups.io service."
+msgstr "更新 Groups.io 服务。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -26657,6 +26751,12 @@ msgstr "升级（一个月 20 美元，之后自动降级为免费）"
 #, fuzzy
 msgid "Upgrade Plan"
 msgstr "升级计划"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "Upgrade to Premium and unlock all features"
+msgstr "升级至高级版，解锁所有功能"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
@@ -26850,6 +26950,7 @@ msgstr "使用方法"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 #, fuzzy
 msgid "USD $"
@@ -26857,7 +26958,6 @@ msgstr "美元 $"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #, fuzzy
 msgid "USD $%.02f"
 msgstr "美元 $%.02f"
@@ -26944,12 +27044,6 @@ msgstr "用于显示时间。"
 #, fuzzy
 msgid "Used on the website to reference the enterprise."
 msgstr "在网站上用于提及企业。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "User Agent"
-msgstr "用户代理"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -27325,6 +27419,12 @@ msgid "Viet Nam"
 msgstr "越南"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#, fuzzy
+msgid "View"
+msgstr "查看"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticabout.qtpl
 #, fuzzy
 msgid ""
@@ -27362,7 +27462,6 @@ msgid "View All Topics"
 msgstr "查看所有主题"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl
 #, fuzzy
 msgid "View Attachments"
@@ -27788,15 +27887,6 @@ msgstr ""
 "我们收到了通过%[2]s 登录您的%[1]s 账户的请求。您的帐户目前设置为不允许这样做。如果您想使用%[2]s 登录您的帐户，请单击以下链接："
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"We have suspended email delivery to you. This means you will no longer receive "
-"messages from the groups you are subscribed to, including:"
-msgstr ""
-"我们已暂停向您发送电子邮件。这意味着您将不再收到您订阅的群组的信息，包括"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
 msgid "We have updated all of your subscriptions."
@@ -27875,13 +27965,6 @@ msgstr ""
 #, fuzzy
 msgid "We will contact you shortly to work with you to set up your domain."
 msgstr "我们将尽快与您联系，与您一起设置域名。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-#, fuzzy
-msgid "We're passionate about email groups, and we're here to make them even better."
-msgstr ""
-"我们对电子邮件群组充满热情，我们要让它们变得更好。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupwelcome.qtpl
@@ -28113,6 +28196,12 @@ msgid "What to do when the group is out of space."
 msgstr "当小组没有空间时该怎么办？"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid "What's this?"
+msgstr "这是什么？"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 #, fuzzy
@@ -28273,6 +28362,12 @@ msgid "Where"
 msgstr "地点"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/account/usersessions.qtpl
+#, fuzzy
+msgid "Where You're Signed In"
+msgstr "您登录的位置"
+
+#. Automatically translated using DeepL
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 #: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl
 #, fuzzy
@@ -28303,6 +28398,18 @@ msgstr "在网站上撰写信息时使用哪个编辑器。"
 #, fuzzy
 msgid "Which SSO provider you are using."
 msgstr "您使用的 SSO 提供商。"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "White-Label & Scale"
+msgstr "白标和规模"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/static/staticpricing.qtpl
+#, fuzzy
+msgid "White-label web & email"
+msgstr "白标网络和电子邮件"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
@@ -28435,7 +28542,6 @@ msgstr "显示时的列宽（0 表示默认值）。"
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Wiki"
 msgstr "维基"
@@ -28483,11 +28589,10 @@ msgid "Wiki Images"
 msgstr "维基图片"
 
 #. Automatically translated using DeepL
-#. TRANSLATORS: The %[1]s refers to total wiki image bytes, the %[2]d refers to wiki image percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
-msgid "Wiki Images: %[1]s - %[2]d%% of %[3]dGB"
-msgstr "维基图片： %[1]s -%[2]d%% of%[3]dGB"
+msgid "Wiki Images:"
+msgstr "维基图片："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -29088,9 +29193,8 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 #, fuzzy
-msgid ""
-"You are subscribed to the <a href=\"%[1]s\">%[2]s</a> group. Check it out."
-msgstr "您已订阅 <a href=\"%[1]s\">%[2]s</a> 群。查看一下。"
+msgid "You are subscribed to the <a href=\"%[1]s\">%[1]s</a> group. Check it out."
+msgstr "您已订阅<a href=\"%[1]s\">%[1]s</a>群组。查看它。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
@@ -29275,7 +29379,6 @@ msgstr "您可以手动同步。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "You can upgrade at any time"
 msgstr "您可以随时升级"
@@ -29870,15 +29973,6 @@ msgid ""
 msgstr "您必须指定该组是否将在 Groups.io 目录中列出。"
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid ""
-"You must take action to restore your account. To unbounce your account, go to "
-"the following link:"
-msgstr ""
-"您必须采取行动恢复账户。要取消您的账户，请访问以下链接："
-
-#. Automatically translated using DeepL
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
 #, fuzzy
@@ -30019,37 +30113,37 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Enterprise</strong>plan ($2,200 for up to 1000 "
-"members, with additional members $2.20, billed yearly)."
+"You're signing up for the <strong>Enterprise</strong> plan ($2,200 for up to "
+"1000 members, with additional members $2.20, billed yearly)."
 msgstr ""
-"您注册的是<strong>企业计划</strong>（最多 1000 名会员，2,200 美元，额外会员 2.20 美元，按年结算）。"
+"您注册的是<strong>企业</strong>计划（最多 1000 名会员，2,200 美元；新增会员 2.20 美元，按年结算）。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Enterprise</strong>plan ($200 for up to 1000 "
+"You're signing up for the <strong>Enterprise</strong> plan ($200 for up to 1000 "
 "members, with additional members $0.20, billed monthly)."
 msgstr ""
-"您注册的是<strong>Enterpriseplan</strong>（最多 1000 名会员，200 美元，额外会员 0.20 美元，按月结算）。"
+"您注册的是<strong>企业</strong>计划（最多 1000 个会员，200 美元，额外会员 0.20 美元，按月结算）。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Non-profit Enterprise</strong>plan ($1,100 for "
-"up to 1000 members, with additional members $1.10, billed yearly)."
+"You're signing up for the <strong>Non-profit Enterprise</strong> plan ($1,100 "
+"for up to 1000 members, with additional members $1.10, billed yearly)."
 msgstr ""
-"您注册的是<strong>非营利企业计划</strong>（最多 1000 名会员，1,100 美元，额外会员 1.10 美元，按年结算）。"
+"您注册的是<strong>非营利企业</strong>计划（最多 1000 名会员，1,100 美元，增加会员 1.10 美元，按年结算）。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #, fuzzy
 msgid ""
-"You're signing up for the <strong>Non-profit Enterprise</strong>plan ($100 for "
+"You're signing up for the <strong>Non-profit Enterprise</strong> plan ($100 for "
 "up to 1000 members, with additional members $0.10, billed monthly)."
 msgstr ""
-"您要注册的是<strong>非营利企业计划</strong>（最多 1000 名会员，100 美元，其他会员 0.10 美元，按月结算）。"
+"您注册的是<strong>非营利企业</strong>计划（最多 1000 名成员，100 美元，增加成员 0.10 美元，按月结算）。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
@@ -30172,12 +30266,6 @@ msgstr ""
 #, fuzzy
 msgid "Your accounts have been merged."
 msgstr "您的账户已被合并。"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/account/usersessions.qtpl
-#, fuzzy
-msgid "Your Active Sessions"
-msgstr "您的活动会话"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
@@ -30400,12 +30488,6 @@ msgstr ""
 "您的 Groups.io 账户已重新认证，您将继续收到来自群组的电子邮件。您无需再做其他任何操作。"
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-#, fuzzy
-msgid "Your Groups.io Account Is Bouncing"
-msgstr "您的 Groups.io 账户正在跳转"
-
-#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 #, fuzzy
 msgid "Your Groups.io Membership Has Been Reverified"
@@ -30511,15 +30593,8 @@ msgid "Your notification preferences have been updated."
 msgstr "您的通知首选项已更新。"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/static/staticpricing.qtpl
-#, fuzzy
-msgid "Your Own Branding"
-msgstr "打造自己的品牌"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "Your Own Domain"
 msgstr "您自己的域名"
@@ -30707,10 +30782,9 @@ msgstr "您订阅的%s 已更改"
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 #, fuzzy
 msgid ""
-"Your subscription to the <a href=\"%[1]s\">%[2]s</a> group is awaiting moderator "
+"Your subscription to the <a href=\"%[1]s\">%[1]s</a> group is awaiting moderator "
 "approval."
-msgstr ""
-"您对 <a href="%[1]s\">%[2]s</a> 群组的订阅正在等待版主批准。"
+msgstr "您对<a href=\"%[1]s\">%[1]s</a>组的订阅正在等待版主批准。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl

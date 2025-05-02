@@ -1,12 +1,12 @@
 # Groups.io translation template.
-# Copyright (C) 2024 Groups.io, Inc
+# Copyright (C) 2025 Groups.io, Inc
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2025-03-14 15:45-0700\n"
+"PO-Revision-Date: 2025-05-02 14:14-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -14,11 +14,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#, go-format
-#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-msgid "# Changelog"
-msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
@@ -59,12 +54,17 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "$0 <small>per member</small>"
+msgid "$0.04/member (min $20/month) after trial"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "$0.04 <small>per member, per month<br>(minimum $20/month)</small>"
+msgid "$0.10 - 0.20 per member"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "$0.44/member (min $220/year) billed annually (1 month free)"
 msgstr ""
 
 #, go-format
@@ -1364,6 +1364,11 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "%d out of 5 Integrations"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -1755,6 +1760,16 @@ msgid "/table?id="
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "1 GB attachment storage"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "1 TB storage"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 msgid ""
 "1. Without adding any text, just send a reply to this email. This will be seen "
@@ -1773,13 +1788,11 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "1GB Storage Space"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "1TB Storage Space"
 msgstr ""
 
@@ -1799,8 +1812,12 @@ msgid "24 Hour Clock (15:04)"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "30 GB storage"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupplans.qtpl
 msgid "30GB Storage Space"
 msgstr ""
 
@@ -1977,6 +1994,28 @@ msgid ""
 "Center article</a> for more information. </p> <p>If this happens repeatedly "
 "please check with your Email Service Provider to learn about how they decide to "
 "send feedback reports to list services (such as %[1]s groups).</p>"
+msgstr ""
+
+#, go-format
+#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
+msgid ""
+"<p>Dear %[1]s Member,</p> <p>We've noticed that emails sent to your address "
+"(%[2]s) are being returned undelivered. This can happen for several reasons:</p> "
+"<ul> <li>Your email provider may be blocking our messages</li> <li>Your mailbox "
+"might be full or have storage limitations</li> <li>There may be temporary "
+"technical issues with email delivery</li> </ul> <p>You are subscribed to the "
+"following groups:</p> <ul> %[3]s </ul> <p>To continue receiving messages from "
+"your groups, please verify your email address by clicking the secure link "
+"below:</p> <p><a href=\"%[4]s\">%[4]s</a></p> <p>Until this is resolved, we've "
+"temporarily paused sending you messages from your subscribed groups. After "
+"verification, your normal email delivery will resume automatically.</p> <p>If "
+"you'd like to review the technical details of the delivery errors, you can <a "
+"href=\"%[5]s\">view the bounce messages here</a>.</p> <p><strong>Important "
+"Security Note: Groups.io will never ask for your password in emails. If you "
+"receive any email claiming to be from us that requests your password, please do "
+"not respond.</strong></p> <p>Member since: %[6]s</p> <p>If you need assistance, "
+"please contact support@groups.io.</p> <p>Regards,<br> The %s Support Team</br> "
+"</p>"
 msgstr ""
 
 #, go-format
@@ -2511,7 +2550,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Accept Donations From Members"
 msgstr ""
 
@@ -2551,6 +2589,11 @@ msgstr ""
 msgid ""
 "Action Required: Confirm Your Groups.io Membership to Continue Receiving Group "
 "Emails"
+msgstr ""
+
+#, go-format
+#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
+msgid "Action Required: Email Delivery Issues with Your Groups.io Account"
 msgstr ""
 
 #, go-format
@@ -2957,11 +3000,6 @@ msgid "Advanced group management."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Advanced Moderation Features"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -2983,6 +3021,14 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "After"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid ""
+"After 90 days your group automatically reverts to the Basic plan—keeping your "
+"mailing list intact but losing Premium features. If your group has grown beyond "
+"100 members by then, you'll need to choose a paid plan to continue."
 msgstr ""
 
 #, go-format
@@ -3287,11 +3333,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Allow videos to be uploaded to the Photos section."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Almost all of our features."
 msgstr ""
 
 #, go-format
@@ -4188,9 +4229,8 @@ msgid ""
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total attachment bytes, the %[2]d refers to attachment percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Attachments: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Attachments:"
 msgstr ""
 
 #, go-format
@@ -4560,6 +4600,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Basic (Free forever)"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 msgid "BCC Me"
 msgstr ""
@@ -4671,6 +4716,11 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Bermuda"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/googlegroupsalts.qtpl
+msgid "Best Google Groups Alternatives (2025 Edition)"
 msgstr ""
 
 #, go-format
@@ -5062,7 +5112,6 @@ msgstr ""
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 #: ../../pkg/notifications/noteviews/groupcalinvitesnotification.qtpl
 #: ../../pkg/notifications/noteviews/groupcalsingleinvitesnotification.qtpl
 msgid "Calendar"
@@ -5520,6 +5569,9 @@ msgid "Change Your RSVP"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/base.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid "Changelog"
 msgstr ""
@@ -5550,6 +5602,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/emailhelpnotification.qtpl
 msgid "Changing Your Subscription"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
+msgid "Charged To"
 msgstr ""
 
 #, go-format
@@ -5599,9 +5656,8 @@ msgid "Chat Photos"
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total chat photos bytes, the %[2]d refers to chat photos percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Chat Photos: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Chat Photos:"
 msgstr ""
 
 #, go-format
@@ -5751,6 +5807,13 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Choices"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid ""
+"Choose monthly or annual billing any time during your 90-day trial—no card "
+"needed up front."
 msgstr ""
 
 #, go-format
@@ -6092,7 +6155,6 @@ msgid "Computer"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "Concentration"
 msgstr ""
@@ -6223,6 +6285,11 @@ msgid "Contact Group Owner"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Contact Sales"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Contact Us"
@@ -6264,6 +6331,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/group/grouppromote.qtpl
 msgid "Copy/Paste Onto Your Site"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Core email group only"
 msgstr ""
 
 #, go-format
@@ -6503,7 +6575,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Custom Pricing"
 msgstr ""
 
@@ -6532,13 +6603,17 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Customizable Home Page"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Customizable Profiles and Member Data"
+msgid "Customizable home page"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Customizable profiles and member data"
 msgstr ""
 
 #, go-format
@@ -6658,9 +6733,8 @@ msgid "Database Images"
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total database image bytes, the %[2]d refers to database image percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Database Images: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Database Images:"
 msgstr ""
 
 #, go-format
@@ -7208,8 +7282,12 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Direct Add Members"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Direct add members"
 msgstr ""
 
 #, go-format
@@ -7628,6 +7706,11 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/exportgroupnotification.qtpl
 #: ../../pkg/notifications/noteviews/exportusernotification.qtpl
 msgid "Download Group Export"
+msgstr ""
+
+#, go-format
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+msgid "Download it here"
 msgstr ""
 
 #, go-format
@@ -8516,16 +8599,6 @@ msgid "Every weekday (Monday to Friday)"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Everything in <strong>Free</strong>, plus:"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Everything in <strong>Premium</strong>, plus:"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Everything You Need to Run Your Community"
 msgstr ""
@@ -8858,14 +8931,17 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Files Section"
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total files bytes, the %[2]d refers to files percentage, %[3]d refers to total storage
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Files, photos, wiki, calendar, chat"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Files: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Files:"
 msgstr ""
 
 #, go-format
@@ -8898,11 +8974,6 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Finland"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
-msgid "First Login"
 msgstr ""
 
 #, go-format
@@ -9067,11 +9138,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "For larger groups, this is the plan for you."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Force HTML Emails"
 msgstr ""
@@ -9111,13 +9177,17 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Free"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 msgid "Free Basic Plan"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Free for 90 days"
 msgstr ""
 
 #, go-format
@@ -9167,6 +9237,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl
 msgid "From"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "From $100/month non-profit · $200/month commercial"
 msgstr ""
 
 #, go-format
@@ -9276,8 +9351,8 @@ msgid "Germany"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Get Quote Now"
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Get access to Polls, Calendar, Chat, and more for your group"
 msgstr ""
 
 #, go-format
@@ -9918,6 +9993,11 @@ msgid "Groups.io supports all the options you'd expect in a modern groups servic
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/mailmanalts.qtpl
+msgid "Groups.io vs Mailman – Features, Security, and Compliance Comparison"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid ""
 "Groups.io was developed by Mark Fletcher. We launched in September, 2014. The <a "
@@ -9935,6 +10015,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 msgid "Groups.io | Email Discussion Groups & Listserv Alternative"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "Groups.io: Changelog"
 msgstr ""
 
 #, go-format
@@ -10189,7 +10274,6 @@ msgstr ""
 
 #, go-format
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
 #: ../../pkg/notifications/noteviews/changedemailnotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -10516,6 +10600,11 @@ msgid "ID Column Default Hidden"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Ideal for simple mailing lists ≤ 100 members. Upgrade anytime."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 msgid "Identity"
 msgstr ""
@@ -10708,11 +10797,6 @@ msgid ""
 "forwarded emails they received from that group on to you. We don't know why. "
 "We've already disabled that person's account. We're sorry you received these "
 "unwanted emails."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "If you just need a full-featured mailing list."
 msgstr ""
 
 #, go-format
@@ -10994,6 +11078,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/account/usersessions.qtpl
+msgid "Inactive for over 90 days"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 msgid "Inactive Member"
 msgstr ""
@@ -11269,15 +11358,8 @@ msgid ""
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %d refers to the number of integrations in use.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Integrations: %d Integrations"
-msgstr ""
-
-#, go-format
-#. TRANSLATORS: The %d refers to the number of integrations in use.
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Integrations: %d out of 5 Integrations"
+msgid "Integrations:"
 msgstr ""
 
 #, go-format
@@ -11634,6 +11716,11 @@ msgstr ""
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Jun"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Just need a limited free plan?"
 msgstr ""
 
 #, go-format
@@ -12016,7 +12103,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -12156,11 +12242,6 @@ msgid "Log Out"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
-msgid "Logged out"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 msgid "Login"
@@ -12189,7 +12270,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
 #: ../../cmd/web/views/login/logout.qtpl
 msgid "Logout"
 msgstr ""
@@ -12539,9 +12619,8 @@ msgid "Member Data Images"
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total member data bytes, the %[2]d refers to member data percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Member Data Images: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Member Data Images:"
 msgstr ""
 
 #, go-format
@@ -13765,13 +13844,13 @@ msgid "Moss Green"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-msgid "Most recent"
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Most Popular"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
-msgid "Most Recent Login"
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
+msgid "Most recent"
 msgstr ""
 
 #, go-format
@@ -14510,11 +14589,6 @@ msgid "No credit card is on file."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "No credit card required"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "No credit card required, cancel any time"
 msgstr ""
@@ -14575,6 +14649,11 @@ msgstr ""
 msgid ""
 "No emails will sent to these people when they are removed unless the "
 "<strong>Send Removed Member Notice</strong> checkbox is checked."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "No files / photos / calendar / chat / integrations"
 msgstr ""
 
 #, go-format
@@ -14690,7 +14769,7 @@ msgstr ""
 
 #, go-format
 #: ../../tools/genactivities/activities.hjson
-msgid "Non-member %s attempted to send message from a banned domain"
+msgid "Non-member %s attempted to send message \"%[2]s\" from a banned domain"
 msgstr ""
 
 #, go-format
@@ -15522,11 +15601,6 @@ msgid "Other Services"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Our most popular plan"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/login/login.qtpl
 msgid ""
 "Our site uses cookies so that we can remember you and understand how you and "
@@ -15894,18 +15968,8 @@ msgid "Past Year"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Pay annually (one month free)"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "Pay Invoice"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Pay monthly"
 msgstr ""
 
 #, go-format
@@ -16177,7 +16241,6 @@ msgstr ""
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Photo Albums"
 msgstr ""
 
@@ -16228,9 +16291,8 @@ msgid "Photos Section"
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total photos bytes, the %[2]d refers to photos percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Photos: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Photos:"
 msgstr ""
 
 #, go-format
@@ -16393,7 +16455,6 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Polls"
 msgstr ""
 
@@ -16946,11 +17007,6 @@ msgid "Ready to upgrade from your current listserv or Google Group?"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Real-time Chat"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/messagereports.qtpl
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
@@ -17073,15 +17129,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/groupprofile.qtpl
 msgid "Recent Messages"
-msgstr ""
-
-#, go-format
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid ""
-"Recently, emails sent to you have bounced back to us. This can be for many "
-"reasons, including: <ul> <li>We have an incorrect email address for you.</li> "
-"<li>Your account was or is full.</li> <li>Other temporary delivery issues.</li> "
-"</ul>"
 msgstr ""
 
 #, go-format
@@ -18597,7 +18644,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Single Sign On, via Auth0 (others by request)"
+msgid "Single sign on"
 msgstr ""
 
 #, go-format
@@ -18849,13 +18896,12 @@ msgid "Start"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Start 90 day trial"
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Start 90-Day Free Trial"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Start a free group"
 msgstr ""
 
@@ -18871,8 +18917,18 @@ msgid "Start a Groups.io Group"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Start Basic Group"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Start Date"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Start Free 90-Day Trial"
 msgstr ""
 
 #, go-format
@@ -18965,6 +19021,11 @@ msgid "Storage"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Storage Breakdown"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Storage Limit Reached"
 msgstr ""
@@ -18992,11 +19053,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Strip out HTML messages."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Structured Databases"
 msgstr ""
 
 #, go-format
@@ -19180,6 +19236,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/groupmemberbuttons.qtpl
 msgid "Subscribe to Subgroups"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "Subscribe via RSS"
 msgstr ""
 
 #, go-format
@@ -19578,11 +19639,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid "Thank you,"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/account/reverifyaccount.qtpl
 msgid ""
 "Thank you. Your account has been reverified and there is nothing more you need "
@@ -19796,7 +19852,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../pkg/notifications/noteviews/ackchangesubnotifcation.qtpl
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
 #: ../../pkg/notifications/noteviews/changedemailnotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -20050,6 +20105,24 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "The following are counted towards the storage limits for your group:"
+msgstr ""
+
+#, go-format
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
+msgid ""
+"The following attachments were removed because the message exceeded 15MB. "
+"Attachments are automatically removed for messages larger than 15MB to ensure "
+"delivery."
+msgstr ""
+
+#, go-format
+#: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
+msgid ""
+"The following attachments were removed because they exceeded your subscription's "
+"maximum attachment size limit. You can adjust this limit in your subscription "
+"settings."
 msgstr ""
 
 #, go-format
@@ -20674,7 +20747,7 @@ msgid ""
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %.02f refers to the amount of money in the reserve.
+#. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves.
 #. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves remaining.
 #. TRANSLATORS: The %.02f is a dollar amount of sponsorship reserves.
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -20761,6 +20834,13 @@ msgstr ""
 msgid ""
 "There's a due invoice, from %[1]s, in the amount of $%.02[2]f. If this invoice "
 "is not paid, the group will be downgraded to the free plan."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/usersessions.qtpl
+msgid ""
+"These are your active sessions. You can review your active sessions and sign out "
+"from sessions you no longer use."
 msgstr ""
 
 #, go-format
@@ -21408,13 +21488,6 @@ msgid "To unsubscribe from this group, send an email to:"
 msgstr ""
 
 #, go-format
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid ""
-"To view the error messages we receive from your email server, <a "
-"href=\"https://groups.io/account?page=bounces\">click here</a>."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "to:"
 msgstr ""
@@ -21611,7 +21684,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
-msgid "Total Amount"
+msgid "Total Amount Charged"
 msgstr ""
 
 #, go-format
@@ -21645,6 +21718,7 @@ msgid "Track Removed Members"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 msgid "Transaction ID"
 msgstr ""
@@ -21701,6 +21775,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/register.qtpl
 msgid "Try Groups.io Free For 90 Days"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Try Premium"
 msgstr ""
 
 #, go-format
@@ -21920,25 +21999,12 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "Unlimited"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Unlimited Messages"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Unlimited Subgroups"
 msgstr ""
 
 #, go-format
@@ -22085,8 +22151,12 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Up to 100 Members"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Up to 100 members"
 msgstr ""
 
 #, go-format
@@ -22362,7 +22432,6 @@ msgid "Updated:"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
@@ -22373,6 +22442,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 msgid "Updates to Github"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "Updates to the Groups.io service."
 msgstr ""
 
 #, go-format
@@ -22394,6 +22468,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid "Upgrade Plan"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Upgrade to Premium and unlock all features"
 msgstr ""
 
 #, go-format
@@ -22557,13 +22636,13 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 msgid "USD $"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 msgid "USD $%.02f"
 msgstr ""
 
@@ -22635,11 +22714,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Used on the website to reference the enterprise."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
-msgid "User Agent"
 msgstr ""
 
 #, go-format
@@ -22966,6 +23040,11 @@ msgid "Viet Nam"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "View"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid ""
 "View a list of <a rel=\"nofollow\" "
@@ -22997,7 +23076,6 @@ msgid "View All Topics"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupusage.qtpl
 msgid "View Attachments"
 msgstr ""
@@ -23352,13 +23430,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid ""
-"We have suspended email delivery to you. This means you will no longer receive "
-"messages from the groups you are subscribed to, including:"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "We have updated all of your subscriptions."
 msgstr ""
@@ -23421,11 +23492,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid "We will contact you shortly to work with you to set up your domain."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/homeloggedout.qtpl
-msgid "We're passionate about email groups, and we're here to make them even better."
 msgstr ""
 
 #, go-format
@@ -23621,6 +23687,11 @@ msgid "What to do when the group is out of space."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/account/usersessions.qtpl
+msgid "What's this?"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "When"
@@ -23750,6 +23821,11 @@ msgid "Where"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/account/usersessions.qtpl
+msgid "Where You're Signed In"
+msgstr ""
+
+#, go-format
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 #: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl
 msgid "Where:"
@@ -23774,6 +23850,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Which SSO provider you are using."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "White-Label & Scale"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "White-label web & email"
 msgstr ""
 
 #, go-format
@@ -23887,7 +23973,6 @@ msgstr ""
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Wiki"
 msgstr ""
 
@@ -23927,9 +24012,8 @@ msgid "Wiki Images"
 msgstr ""
 
 #, go-format
-#. TRANSLATORS: The %[1]s refers to total wiki image bytes, the %[2]d refers to wiki image percentage, %[3]d refers to total storage
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-msgid "Wiki Images: %[1]s - %[2]d%% of %[3]dGB"
+msgid "Wiki Images:"
 msgstr ""
 
 #, go-format
@@ -24436,7 +24520,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticwelcome.qtpl
-msgid "You are subscribed to the <a href=\"%[1]s\">%[2]s</a> group. Check it out."
+msgid "You are subscribed to the <a href=\"%[1]s\">%[1]s</a> group. Check it out."
 msgstr ""
 
 #, go-format
@@ -24586,7 +24670,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "You can upgrade at any time"
 msgstr ""
 
@@ -25073,13 +25156,6 @@ msgid "You must specify if the group will be listed in the Groups.io directory."
 msgstr ""
 
 #, go-format
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid ""
-"You must take action to restore your account. To unbounce your account, go to "
-"the following link:"
-msgstr ""
-
-#, go-format
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
 msgid "You only receive special notices."
@@ -25193,28 +25269,28 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid ""
-"You're signing up for the <strong>Enterprise</strong>plan ($2,200 for up to 1000 "
-"members, with additional members $2.20, billed yearly)."
+"You're signing up for the <strong>Enterprise</strong> plan ($2,200 for up to "
+"1000 members, with additional members $2.20, billed yearly)."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid ""
-"You're signing up for the <strong>Enterprise</strong>plan ($200 for up to 1000 "
+"You're signing up for the <strong>Enterprise</strong> plan ($200 for up to 1000 "
 "members, with additional members $0.20, billed monthly)."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid ""
-"You're signing up for the <strong>Non-profit Enterprise</strong>plan ($1,100 for "
-"up to 1000 members, with additional members $1.10, billed yearly)."
+"You're signing up for the <strong>Non-profit Enterprise</strong> plan ($1,100 "
+"for up to 1000 members, with additional members $1.10, billed yearly)."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 msgid ""
-"You're signing up for the <strong>Non-profit Enterprise</strong>plan ($100 for "
+"You're signing up for the <strong>Non-profit Enterprise</strong> plan ($100 for "
 "up to 1000 members, with additional members $0.10, billed monthly)."
 msgstr ""
 
@@ -25315,11 +25391,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Your accounts have been merged."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/account/usersessions.qtpl
-msgid "Your Active Sessions"
 msgstr ""
 
 #, go-format
@@ -25505,11 +25576,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
-msgid "Your Groups.io Account Is Bouncing"
-msgstr ""
-
-#, go-format
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 msgid "Your Groups.io Membership Has Been Reverified"
 msgstr ""
@@ -25596,14 +25662,8 @@ msgid "Your notification preferences have been updated."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/static/staticpricing.qtpl
-msgid "Your Own Branding"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
-#: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Your Own Domain"
 msgstr ""
 
@@ -25756,7 +25816,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 msgid ""
-"Your subscription to the <a href=\"%[1]s\">%[2]s</a> group is awaiting moderator "
+"Your subscription to the <a href=\"%[1]s\">%[1]s</a> group is awaiting moderator "
 "approval."
 msgstr ""
 
