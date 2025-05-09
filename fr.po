@@ -1929,7 +1929,6 @@ msgstr "%s a exporté le groupe"
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
-#, fuzzy
 msgid ""
 "%s groups have powerful advanced subscription options to help you control "
 "which messages and hashtags appear in a group's digest or in the individual "
@@ -1937,7 +1936,7 @@ msgid ""
 msgstr ""
 "les groupes %s disposent de puissantes options d'abonnement avancées qui "
 "vous permettent de contrôler les messages et les hashtags qui apparaissent "
-"dans le condensé d'un groupe ou dans les e-mails individuels que vous "
+"dans le condensé d'un groupe ou dans les courriels individuels que vous "
 "recevez dans votre boîte de réception."
 
 #. Automatically translated using DeepL
@@ -7516,7 +7515,7 @@ msgstr "Quotidien"
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "Daily Summary"
-msgstr "Résumé quotidien"
+msgstr "Résumé Quotidien"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
@@ -9110,39 +9109,35 @@ msgid "Email Delivery: Individual Messages"
 msgstr "Messages individuels"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
 #| msgid "Email Delivery"
 msgid "Email Delivery: No Email"
 msgstr ""
-"Envoi d'e-\n"
-"mail"
+"Livraison de Courriel : Pas de Courriel"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
 #| msgid "Email Delivery"
 msgid "Email Delivery: Plain Digest"
 msgstr ""
-"Envoi d'e-\n"
-"mail"
+"Livraison de courriel : Condensé Brut"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Email Delivery: Special Notices Only"
-msgstr "Avis spéciaux uniquement"
+msgstr "Livraison de Courriel : Avis spéciaux uniquement"
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 #, fuzzy
 msgid "Email Fosters Thoughtful Communication"
-msgstr "Le courrier électronique favorise une communication réfléchie"
+msgstr "Le Courriel Favorise une Communication Réfléchie"
 
 #: ../../cmd/web/views/groupintegrations/groupintegrations.qtpl
 msgid "Email Integration"
-msgstr "Intégration d'email"
+msgstr "Intégration de Courriel"
 
 #: ../../cmd/web/views/groupintegrations/groupemailintegrations.qtpl
 #: ../../cmd/web/views/groupintegrations/groupintegrations.qtpl
 msgid "Email Integrations"
-msgstr "Intégrations de courrier électronique"
+msgstr "Intégrations de Courriel"
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 #, fuzzy
@@ -9175,32 +9170,30 @@ msgstr "Envoyez-moi un lien pour me connecter"
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Email only"
-msgstr "Email seulement"
+msgstr "Courriel seulement"
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Email Preferences"
-msgstr "Préférences des emails"
+msgstr "Préférences de Courriel"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Email Subject"
-msgstr "Sujet du courriel"
+msgstr "Objet du Courriel"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Email to %s is bouncing"
-msgstr "L'e-mail adressé à %s rebondit."
+msgstr "Le courriel vers %s rebondit"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
-#, fuzzy
 msgid "Email to %s is no longer bouncing"
-msgstr "L'e-mail à %s ne rebondit plus"
+msgstr "Le courriel vers %s ne rebondit plus"
 
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl
 #, fuzzy
 msgid "Email topics with this hashtag."
-msgstr "Envoyez des e-mails avec ce hashtag."
+msgstr "Envoyez des courriels avec ce hashtag."
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -9213,7 +9206,7 @@ msgstr "courriel@exemple.com"
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Emails"
-msgstr "Emails"
+msgstr "Courriels"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -9485,23 +9478,21 @@ msgstr ""
 "envoyé par e-mail."
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#, fuzzy
 msgid ""
 "Every message is emailed to the member, according to the member's Email "
 "Delivery Selection, except topics or hashtags they've muted."
 msgstr ""
-"Chaque message est envoyé par courrier électronique au membre, en fonction "
-"de sa sélection d'envoi de courrier électronique, à l'exception des sujets "
+"Chaque message est envoyé par courriel au membre, en fonction "
+"de sa sélection de réception de courriel, à l'exception des sujets "
 "ou des hashtags qu'il a mis en sourdine."
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
-#, fuzzy
 msgid ""
 "Every message is emailed to the members, according to their Email Delivery "
 "Selection, except topics or hashtags they've muted."
 msgstr ""
 "Chaque message est envoyé par courriel aux membres, selon leur sélection de "
-"livraison par courriel, à l'exception des sujets ou des hashtags qu'ils ont "
+"réception de courriel, à l'exception des sujets ou des hashtags qu'ils ont "
 "mis en sourdine."
 
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -10199,9 +10190,8 @@ msgstr "De la part d'un non-abonné"
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
-#, fuzzy
 msgid "Full Digest"
-msgstr "Digest complet"
+msgstr "Condensé Complet"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -11879,7 +11869,6 @@ msgstr ""
 "Si vous avez des questions concernant cette invitation, envoyez-les à %s."
 
 #: ../../cmd/web/views/sub/groupleave.qtpl
-#, fuzzy
 msgid ""
 "If you have received Groups.io emails even though you do not have a Groups."
 "io account, it is because someone subscribed to a Groups.io group and then "
@@ -11887,13 +11876,11 @@ msgid ""
 "We've already disabled that person's account. We're sorry you received these "
 "unwanted emails."
 msgstr ""
-"Si vous avez reçu des messages électroniques de Groups.io alors que vous "
+"Si vous avez reçu des courriels de Groups.io alors que vous "
 "n'avez pas de compte Groups.io, c'est parce que quelqu'un s'est abonné à un "
-"groupe Groups.io et vous a transmis les messages électroniques de ce groupe\n"
-"à un groupe Groups.io et vous a transmis les e-mails qu'il a reçus de ce "
-"groupe. Nous ne savons pas pourquoi. Nous avons déjà désactivé le compte de "
-"cette personne.\n"
-"Nous sommes désolés que vous ayez reçu ces e-mails indésirables."
+"groupe Groups.io et vous a transmis les courriels qu'il a reçu de ce groupe. "
+"Nous ne savons pas pourquoi. Nous avons déjà désactivé le compte de cette "
+"personne. Nous sommes désolés que vous ayez reçu ces courriels indésirables."
 
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
 #, fuzzy
@@ -12001,25 +11988,23 @@ msgstr ""
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
-#, fuzzy
 msgid ""
 "If you would like to stay a member but reduce the number of emails you "
 "receive, you can switch to a Daily Summary or to Special Notices Only."
 msgstr ""
-"Si vous souhaitez rester membre mais réduire le nombre d'e-mails que vous "
-"recevez, vous pouvez passer à un résumé quotidien ou à des avis spéciaux "
-"uniquement."
+"Si vous souhaitez rester membre mais réduire le nombre de courriels que vous "
+"recevez, vous pouvez passer à un Résumé Quotidien ou à des Avis Spéciaux "
+"Uniquement."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl
-#, fuzzy
 msgid ""
 "If you would like to stay but reduce the number of emails you receive, you "
 "can switch your subscriptions to Digest, Daily Summary, or to Special "
 "Notices Only."
 msgstr ""
-"Si vous souhaitez rester membre mais réduire le nombre d'e-mails que vous "
-"recevez, vous pouvez passer à un résumé quotidien ou à des avis spéciaux "
-"uniquement."
+"Si vous souhaitez rester mais réduire le nombre de courriels que vous "
+"recevez, vous pouvez passer à un Résumé Quotidien ou à des Avis Spéciaux "
+"Uniquement."
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 #, fuzzy
@@ -12649,11 +12634,11 @@ msgstr "Inviter des membres"
 #, fuzzy
 #| msgid "Daily Summary"
 msgid "Invite Summary"
-msgstr "Résumé quotidien"
+msgstr "Résumé d'Invitation"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
 msgid "Invite Your Friends"
-msgstr "Invitez vos amis"
+msgstr "Invitez Vos Amis"
 
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
@@ -13661,22 +13646,19 @@ msgid "Max Number Of Subgroups"
 msgstr "Nombre maximal de reposts"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Max Photo Size In Email"
-msgstr "Taille maximale des photos dans les e-mails"
+msgstr "Taille Maximale des Photos dans les Courriels"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Max Size In Photos Section"
-msgstr "Taille maximale dans la section photos"
+msgstr "Taille Maximale dans la Section Photos"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
-#, fuzzy
 msgid ""
 "Max size of attachments sent to the member in emails. For attachments larger "
 "than this size, links to retrieve them will be provided instead."
 msgstr ""
-"Taille maximale des pièces jointes envoyées au membre dans les e-mails. Pour "
+"Taille maximale des pièces jointes envoyées au membre dans les courriels. Pour "
 "les pièces jointes dépassant cette taille, des liens permettant de les "
 "récupérer seront fournis à la place."
 
@@ -16769,14 +16751,13 @@ msgstr ""
 "Seuls les messages spéciaux du modérateur vous seront envoyés à %s."
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#, fuzzy
 msgid ""
 "Only the messages in topics or hashtags the member has chosen to follow are "
 "emailed to them, according to their Email Delivery selection."
 msgstr ""
 "Seuls les messages des sujets ou des hashtags que le membre a choisi de "
-"suivre lui sont envoyés par courrier électronique, en fonction de la "
-"sélection de l'envoi des messages."
+"suivre lui sont envoyés par courriel, en fonction de sa "
+"sélection de réception de messages."
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -17701,15 +17682,14 @@ msgstr "Placez les pieds de message dans une partie MIME distincte."
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
-#, fuzzy
 msgid "Plain Digest"
-msgstr "Plain Digest"
+msgstr "Condensé Brut"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
 msgid "plain digest"
-msgstr "résumé en clair"
+msgstr "condensé brut"
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Plain Text"
@@ -17986,12 +17966,11 @@ msgstr ""
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
 msgid "Posting Policy"
-msgstr "Politiques de rediffusion"
+msgstr "Politiques de Diffusion"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#, fuzzy
 msgid "Posting Privileges"
-msgstr "Privilèges d'affichage"
+msgstr "Privilèges de Publication"
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
@@ -18919,7 +18898,7 @@ msgstr "Répéter le"
 #, fuzzy
 #| msgid "Daily Summary"
 msgid "Repeat Summary"
-msgstr "Résumé quotidien"
+msgstr "Résumé de Rappel"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -19949,7 +19928,7 @@ msgstr "Aucun Email"
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Set to plain digest"
-msgstr "Plain Digest"
+msgstr "Mis en condensé brut"
 
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
@@ -23244,8 +23223,8 @@ msgstr "Ne reçoit aucun message envoyé à"
 msgid ""
 "To receive plain digests instead of individual messages, send an email to:"
 msgstr ""
-"Pour recevoir des résumés en clair au lieu de messages individuels, envoyez "
-"un courriel à"
+"Pour recevoir des condensés bruts au lieu de messages individuels, envoyez "
+"un courriel à :"
 
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl
 #, fuzzy
@@ -24415,29 +24394,27 @@ msgstr "Charger le fichier"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
-#, fuzzy
 msgid "Upload Files"
-msgstr "Téléchargement de fichiers"
+msgstr "Téléversement de Fichiers"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 msgid "Upload Folder"
-msgstr "Dossier des envois"
+msgstr "Dossier des Envois"
 
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
 msgid "Upload Image"
-msgstr "Télécharger une image"
+msgstr "Téléverser une Image"
 
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 msgid "Upload Photos"
-msgstr "Téléverser des photos"
+msgstr "Téléverser des Photos"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
-#, fuzzy
 msgid "Upload Privileges"
-msgstr "Privilèges d'affichage"
+msgstr "Privilèges de Téléversement"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
@@ -26569,8 +26546,8 @@ msgid ""
 "sent."
 msgstr ""
 "Vous pouvez ajouter <strong>digest, summary ou nomail</strong> à la fin "
-"d'une ligne pour spécifier l'envoi d'un digest, d'un résumé quotidien ou "
-"l'absence d'envoi de courrier électronique."
+"d'une ligne pour spécifier l'envoi d'un condensé, d'un résumé quotidien ou "
+"l'absence d'envoi de courriel."
 
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
 #, fuzzy
