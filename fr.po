@@ -2441,7 +2441,6 @@ msgid "Allow Google Login"
 msgstr "Autoriser la connexion Google"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Allow group members to download the message archive."
 msgstr ""
 "Autoriser les membres du groupe à télécharger l'archive des messages."
@@ -2457,7 +2456,6 @@ msgid "Allow login to your account via Google."
 msgstr "Autorisez la connexion à votre compte via Google."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Allow Members To Download Archive"
 msgstr "Autoriser les membres à télécharger les archives"
 
@@ -2766,25 +2764,20 @@ msgid "Antique Pink"
 msgstr "Rose antique"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
-#, fuzzy
 msgid "Any group member can add files to this folder"
 msgstr ""
-"Les membres peuvent afficher et télécharger des photos, mais pas créer des "
-"albums"
+"N'importe quel membre peut ajouter des fichiers dans ce dossier"
 
 #: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
-#, fuzzy
 msgid "Any group member can add photos to this album"
 msgstr ""
-"Les membres peuvent afficher et télécharger des photos, mais pas créer des "
-"albums"
+"N'importe quel membre peut ajouter des photos à cet album"
 
 #: ../../cmd/web/views/account/settings.qtpl
-#, fuzzy
 #| msgid "Your Groups"
 msgid "Any other groups"
-msgstr "Vos groupes"
+msgstr "N'importe quel autre groupe"
 
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
@@ -3911,7 +3904,7 @@ msgstr "Retour à la connexion"
 #: ../../cmd/web/views/groupsync/groupfilesyncconfirm.qtpl
 #, fuzzy
 msgid "Bad Addresses"
-msgstr "Télécharger les adresses"
+msgstr "Adresses erronées"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -6918,7 +6911,7 @@ msgstr "Désactiver la modification des messages"
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Disable No Email"
-msgstr "Désactiver l'option \"Pas d'e-mail\""
+msgstr "Désactiver le mode de distribution \"Pas de courriel\""
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -6926,10 +6919,9 @@ msgid "Disable Notifications In This Browser"
 msgstr "Désactiver les notifications dans ce navigateur"
 
 #: ../../cmd/web/views/account/settings.qtpl
-#, fuzzy
 #| msgid "Notification"
 msgid "Disable Notifications On All Devices"
-msgstr "Notification"
+msgstr "Désactiver les notifications sur tous les appareils"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -6946,9 +6938,8 @@ msgstr ""
 "groupe sans être connecté."
 
 #: ../../cmd/web/views/user/enterprise.qtpl
-#, fuzzy
 msgid "Disable Signup"
-msgstr "Désactiver l'option \"Pas d'e-mail\""
+msgstr "Désactiver la souscription"
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Disable two-factor authentication"
@@ -7134,9 +7125,8 @@ msgid "Don't allow members to edit their own messages."
 msgstr "Ne permettez pas aux membres de modifier leurs propres messages."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Don't allow members to set their delivery to no email."
-msgstr "Ne permettez pas aux membres de ne pas recevoir d'e-mail."
+msgstr "Ne pas permettre aux membres de ne pas recevoir de courriel."
 
 #: ../../cmd/web/views/login/login.qtpl
 #, fuzzy
@@ -7231,10 +7221,9 @@ msgstr "Télécharger"
 
 #: ../../pkg/notifications/noteviews/exportgroupnotification.qtpl
 #: ../../pkg/notifications/noteviews/exportusernotification.qtpl
-#, fuzzy
 #| msgid "Download"
 msgid "Download Group Export"
-msgstr "Télécharger"
+msgstr "Télécharger l'export du groupe"
 
 #. Automatically translated using DeepL
 #: ../../pkg/emailfooters/htmlfooter.qtpl
@@ -7313,7 +7302,6 @@ msgid "e.g., My Application"
 msgstr "Par exemple, Ma demande"
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl
-#, fuzzy
 msgid ""
 "Each Premium group has many additional features, each of which is fully "
 "integrated with your group. Start with the calendar, where you can schedule "
@@ -7326,16 +7314,14 @@ msgid ""
 msgstr ""
 "Chaque groupe Premium dispose de nombreuses fonctionnalités supplémentaires, "
 "qui sont toutes totalement intégrées à votre groupe. Commencez par le "
-"calendrier, où vous pouvez\n"
-"\t\t\t\t\t\tprogrammer des événements et envoyer des rappels. Vous pouvez "
-"créer un nombre illimité de salons de discussion. Il existe également une "
-"fonction de sondage, qui vous permet de poser des questions à votre groupe\n"
-"\t\t\t\t\t\tvotre groupe. Chaque groupe dispose également d'une base de "
-"données complète,\n"
-"\t\t\t\t\t\toù vous pouvez définir des tableaux avec différents types de "
-"colonnes. Des sections permettent de télécharger des photos et des fichiers. "
-"Et un wiki, pour stocker les connaissances du groupe. Enfin, chaque groupe\n"
-"\t\t\t\t\t\tGroupe Premium peut avoir un nombre illimité de sous-groupes."
+"calendrier, où vous pouvez planifier des événements et envoyer des rappels. "
+"Vous pouvez  créer un nombre illimité de salons de discussion. Il existe "
+"également une fonction de sondage, qui vous permet de poser des questions à "
+"votre groupe. Chaque groupe dispose également d'une base de données complète,"
+"où vous pouvez définir des tableaux avec différents types de "
+"colonnes. Des sections permettent de téléverser des photos et des fichiers. "
+"Et un wiki, pour stocker les connaissances du groupe. Enfin, chaque groupe"
+"Premium peut avoir un nombre illimité de sous-groupes."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -7804,12 +7790,10 @@ msgstr ""
 "Livraison de courriel : Condensé Brut"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
 msgid "Email Delivery: Special Notices Only"
 msgstr "Livraison de Courriel : Avis spéciaux uniquement"
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
-#, fuzzy
 msgid "Email Fosters Thoughtful Communication"
 msgstr "Le Courriel Favorise une Communication Réfléchie"
 
@@ -11937,7 +11921,7 @@ msgstr "Ajouter un événement"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Lock Group"
-msgstr "Groupe de coffre à clés"
+msgstr "Verrouiller le groupe"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #, fuzzy
@@ -11945,10 +11929,9 @@ msgid "Lock Groups and Subgroups"
 msgstr "Qui peut créer des sous-groupes."
 
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#, fuzzy
 #| msgid "Lock Group"
 msgid "Lock Notice"
-msgstr "Groupe de coffre à clés"
+msgstr "Avis de verrouillage"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -12559,7 +12542,6 @@ msgid "Member List Visibility"
 msgstr "Visibilité de la liste des membres"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
-#, fuzzy
 #| msgid "Member Notices"
 msgid "Member Notice"
 msgstr "Avis aux membres"
@@ -12571,7 +12553,6 @@ msgstr "Avis aux membres"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
-#, fuzzy
 msgid "Member Notifications"
 msgstr "Notifications aux membres"
 
@@ -12601,7 +12582,7 @@ msgstr "Répartition des statuts des membres"
 #, fuzzy
 #| msgid "Integrations"
 msgid "Member synchronization"
-msgstr "Intégrations"
+msgstr "Synchronisation de membre"
 
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -12625,31 +12606,26 @@ msgid "Members"
 msgstr "Membres"
 
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
-#, fuzzy
 msgid "Members @ $0.%02d/member"
 msgstr "Membres @ $0.%d/membre"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
-#, fuzzy
 msgid "Members automatically follow any topics they've started or replied to."
 msgstr ""
 "Les membres suivent automatiquement les sujets qu'ils ont lancés ou auxquels "
 "ils ont répondu."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can create"
 msgstr "Les membres peuvent créer"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
-#, fuzzy
 msgid "Members can edit their messages."
-msgstr "Ne permettez pas aux membres de modifier leurs propres messages."
+msgstr "Les membres peuvent modifier leurs propres messages."
 
 #: ../../cmd/web/views/group/grouphome.qtpl
-#, fuzzy
 msgid "Members can set their subscriptions to no email."
-msgstr "Ne permettez pas aux membres de ne pas recevoir d'e-mail."
+msgstr "Les membres peuvent choisir de ne pas recevoir de courriels."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -12662,46 +12638,40 @@ msgid "Members can view and edit"
 msgstr "Les membres peuvent consulter et modifier"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can view and upload files, but not create folders"
 msgstr ""
-"Les membres peuvent visualiser et télécharger des fichiers, mais pas créer "
+"Les membres peuvent visualiser et téléverser des fichiers, mais pas créer "
 "des dossiers"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can view and upload photos, but not create albums"
 msgstr ""
-"Les membres peuvent afficher et télécharger des photos, mais pas créer des "
+"Les membres peuvent afficher et téléverser des photos, mais pas créer des "
 "albums"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can view files, create folders, and upload files"
 msgstr ""
 "Les membres peuvent visualiser des fichiers, créer des dossiers et "
-"télécharger des fichiers"
+"téléverser des fichiers"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can view files, moderators can create folders and upload files"
 msgstr ""
 "Les membres peuvent consulter les fichiers, les modérateurs peuvent créer "
-"des dossiers et télécharger des fichiers"
+"des dossiers et téléverser des fichiers"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can view photos, create albums, and upload photos"
 msgstr ""
-"Les membres peuvent afficher des photos, créer des albums et télécharger des "
+"Les membres peuvent afficher des photos, créer des albums et téléverser des "
 "photos"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Members can view photos, moderators can create albums and upload photos"
 msgstr ""
 "Les membres peuvent voir les photos, les modérateurs peuvent créer des "
-"albums et télécharger des photos"
+"albums et téléverser des photos"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -12734,20 +12704,18 @@ msgid "Members cannot edit their messages."
 msgstr "Ne permettez pas aux membres de modifier leurs propres messages."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid ""
 "Members cannot view files, moderators can create folders and upload files"
 msgstr ""
 "Les membres ne peuvent pas consulter les fichiers, les modérateurs peuvent "
-"créer des dossiers et télécharger des fichiers"
+"créer des dossiers et téléverser des fichiers"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid ""
 "Members cannot view photos, moderators can create albums and upload photos"
 msgstr ""
 "Les membres ne peuvent pas voir les photos, les modérateurs peuvent créer "
-"des albums et télécharger des photos"
+"des albums et téléverser des photos"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -18095,7 +18063,7 @@ msgstr "Envoi à partir de l'adresse du propriétaire du groupe"
 #, fuzzy
 #| msgid "Confirm Email Address"
 msgid "Send from your address"
-msgstr "Confirmer l'adresse courriel"
+msgstr "Envoyer depuis votre adresse"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupintegrations/addbluesky.qtpl
@@ -18120,7 +18088,7 @@ msgstr "Envoyer des invitations lors de l'adhésion"
 #, fuzzy
 #| msgid "Send Again"
 msgid "Send Log In Link"
-msgstr "Envoyer encore"
+msgstr "Envoyer lien de connexion"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -18149,7 +18117,7 @@ msgstr "Annonce planifiée mensuelle"
 #, fuzzy
 #| msgid "Reply To"
 msgid "Send Notice To Group"
-msgstr "Répondre à"
+msgstr "Envoyer un avis au groupe"
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy
@@ -18172,7 +18140,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Send Again"
 msgid "Send on join"
-msgstr "Envoyer encore"
+msgstr "Envoyer à l'adhésion"
 
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 #| msgid "Remove Members"
@@ -22160,7 +22128,6 @@ msgid "Tweet"
 msgstr "Tweet"
 
 #: ../../cmd/web/views/login/sendloginlink.qtpl
-#, fuzzy
 msgid ""
 "Two factor authentication is enabled for that account. This function is not "
 "available."
@@ -22173,18 +22140,14 @@ msgid "Two-Factor Authentication"
 msgstr "Authentification à deux facteurs"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Two-factor authentication has been disabled for your account."
 msgstr ""
-"L'authentification à deux facteurs est activée pour ce compte. Cette "
-"fonction n'est pas disponible."
+"L'authentification à deux facteurs a été désactivée pour votre compte."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 msgid "Two-factor authentication is now set up for your account."
 msgstr ""
-"L'authentification à deux facteurs est activée pour ce compte. Cette "
-"fonction n'est pas disponible."
+"L'authentification à deux facteurs est maintenant activée pour votre compte."
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -22239,7 +22202,7 @@ msgstr "Débloqué"
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "Uncheck All"
-msgstr "Tout décocher"
+msgstr "Tout Décocher"
 
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
 #, fuzzy
@@ -22248,10 +22211,9 @@ msgstr "Annuler toutes les modifications"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
-#, fuzzy
 #| msgid "Edit"
 msgid "Undo Edit"
-msgstr "Modifier"
+msgstr "Annuler Édition"
 
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
@@ -22263,48 +22225,42 @@ msgstr "Ne plus suivre"
 #. Automatically translated using DeepL
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
-#, fuzzy
 #| msgid "Unfollow"
 msgid "Unfollow #%s"
-msgstr "Unfollow #%s"
+msgstr "Ne plus suivre #%s"
 
 #: ../../cmd/web/views/mutefollow/unfk.qtpl
 #, fuzzy
 #| msgid "Hashtags"
 msgid "Unfollow Hashtag"
-msgstr "Hashtags"
+msgstr "Ne plus suivre ce Hashtag"
 
 #: ../../cmd/web/views/mutefollow/unfk.qtpl
-#, fuzzy
 msgid "Unfollow the <b>#%[1]s</b> hashtag in the <b>%[2]s</b> group?"
 msgstr ""
-"Vous ne suivez pas le hashtag <b>#%[1]s</b> dans le groupe <b>%[2]s</b>?"
+"Ne plus suivre le hashtag <b>#%[1]s</b> dans le groupe <b>%[2]s</b>?"
 
 #: ../../cmd/web/views/mutefollow/unft.qtpl
-#, fuzzy
 msgid ""
 "Unfollow the <b>%[1]s</b> topic in the <b>%[2]s</b> group? You will no "
 "longer receive any messages in this topic."
 msgstr ""
 "Ne plus suivre le sujet <b>%[1]s</b> dans le groupe <b>%[2]s</b>? Vous ne "
-"recevrez plus de messages dans ce sujet."
+"recevrez plus de messages sur ce sujet."
 
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 #: ../../pkg/emailfooters/plainfooter.qtpl
-#, fuzzy
 #| msgid "New Topic"
 msgid "Unfollow This Topic"
-msgstr "Nouveau sujet"
+msgstr "Ne plus suivre ce Sujet"
 
 #: ../../cmd/web/views/mutefollow/unft.qtpl
-#, fuzzy
 #| msgid "New Topic"
 msgid "Unfollow Topic"
-msgstr "Nouveau sujet"
+msgstr "Ne plus suivre le sujet"
 
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
-#, fuzzy
 msgid ""
 "Unfortunately, due to changes with Google's APIs, we've had to temporarily "
 "disable Google Drive authentication."
@@ -22376,7 +22332,7 @@ msgstr "Déverrouiller ce groupe ?"
 #, fuzzy
 #| msgid "Lock Group"
 msgid "Unlock Topic"
-msgstr "Groupe de coffre à clés"
+msgstr "Déverrouiller le sujet"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -22918,13 +22874,12 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
-#, fuzzy
 msgid "Upload Addresses"
-msgstr "Télécharger les adresses"
+msgstr "Téléverser les adresses"
 
 #: ../../cmd/web/qtutils/editor.qtpl
 msgid "Upload Attachments"
-msgstr "Télécharger des pièces jointes"
+msgstr "Téléverser des pièces jointes"
 
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Upload File"
@@ -22956,28 +22911,26 @@ msgstr "Privilèges de Téléversement"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
-#, fuzzy
 msgid "Upload Videos"
 msgstr "Télécharger des vidéos"
 
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 msgid "Uploaded"
-msgstr "Chargé"
+msgstr "Téléversé"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 msgid "uploaded"
-msgstr "téléchargé"
+msgstr "téléversé"
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 msgid "Uploaded By"
-msgstr "Chargé par"
+msgstr "Téléversé par"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
-#, fuzzy
 #| msgid "Welcome to the"
 msgid "uploaded to the"
-msgstr "Chargé par"
+msgstr "Téléversé au"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
@@ -23869,10 +23822,9 @@ msgstr ""
 "lien suivant :"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#, fuzzy
 #| msgid "You have no subscriptions."
 msgid "We have updated all of your subscriptions."
-msgstr "Vous n'avez aucunes adhésions."
+msgstr "Nous avons mis à jour toutes vos adhésions."
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 #, fuzzy
@@ -24330,7 +24282,6 @@ msgstr ""
 "Lorsque vous créez votre premier sous-groupe, un sous-domaine est automatiquement créé pour vous. Votre groupe parent s&#x27;appelle <em>%[1]s</em>. Supposons que vous créiez un sous-groupe appelé <em>sg</em>. Une fois le sous-groupe créé, votre groupe parent s&#x27;appellera désormais <em>main@%[2]s</em> et votre sous-groupe s&#x27;appellera <em>sg@%[2]s</em>. Vous pouvez remplacer main par le nom de votre choix."
 
 #: ../../cmd/web/views/account/settings.qtpl
-#, fuzzy
 msgid ""
 "When you generate new recovery codes, you must download or print the new "
 "codes. Your old codes won’t work anymore."
@@ -24449,14 +24400,12 @@ msgid "Who can view and modify group databases."
 msgstr "Qui peut voir et modifier les bases de données du groupe."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Who can view and upload to the group files section."
-msgstr "Qui peut voir et télécharger dans la section des fichiers de groupe."
+msgstr "Qui peut voir et téléverser dans la section des fichiers de groupe."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#, fuzzy
 msgid "Who can view and upload to the group photos section."
-msgstr "Qui peut voir et télécharger la section des photos de groupe."
+msgstr "Qui peut voir et téléverser la section des photos de groupe."
 
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #, fuzzy
@@ -26543,8 +26492,7 @@ msgid ""
 "zipfile of the data within about 10 minutes."
 msgstr ""
 "Votre demande a été soumise. Vous recevrez un courriel contenant un lien "
-"pour télécharger un fichier zip des données dans un délai de 10 minutes "
-"environ."
+"pour télécharger un fichier zip des données dans un délai d'environ 10 minutes."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
