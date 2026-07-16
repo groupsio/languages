@@ -1003,7 +1003,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>Bonjour [Nom], <p>Vous avez été ajouté par l'équipe %[1]s à <a href=\"%[2]s\">%[3]s</a> . Vous pouvez utiliser [ce lien] pendant les prochaines 24 heures pour vous connecter si c'est la première fois que vous vous connectez ou si vous avez oublié votre mot de passe. Vous pourrez le faire à l'avenir en utilisant le bouton "Envoyez-moi un lien pour me connecter" sur la page de connexion. <p>L'adresse électronique de ce groupe est : %[4]s. %[5]s <p>Mais surtout, ajoutez cette adresse électronique à votre liste d'expéditeurs sûrs dans les contacts de votre client de messagerie. Si vous trouvez des courriels de ce groupe dans les dossiers spam, promo ou social, déplacez ces courriels vers votre boîte de réception principale afin que vous puissiez apprendre à votre client de messagerie à les placer directement dans votre boîte de réception. <div id=\"custom_message\"></div> <p>S'il s'agit d'une erreur, cliquez sur le lien suivant et vous serez immédiatement désinscrit : <p style=\"text-decoration: underline\">Se désabonner <p>L'équipe %[1]s "
+"<p>Bonjour [Nom], <p>Vous avez été ajouté par l'équipe %[1]s à <a href=\"%[2]s\">%[3]s</a> . Vous pouvez utiliser [ce lien] pendant les prochaines 24 heures pour vous connecter si c'est la première fois que vous vous connectez ou si vous avez oublié votre mot de passe. Vous pourrez le faire à l'avenir en utilisant le bouton \"Envoyez-moi un lien pour me connecter\" sur la page de connexion. <p>L'adresse électronique de ce groupe est : %[4]s. %[5]s <p>Mais surtout, ajoutez cette adresse électronique à votre liste d'expéditeurs sûrs dans les contacts de votre client de messagerie. Si vous trouvez des courriels de ce groupe dans les dossiers spam, promo ou social, déplacez ces courriels vers votre boîte de réception principale afin que vous puissiez apprendre à votre client de messagerie à les placer directement dans votre boîte de réception. <div id=\"custom_message\"></div> <p>S'il s'agit d'une erreur, cliquez sur le lien suivant et vous serez immédiatement désinscrit : <p style=\"text-decoration: underline\">Se désabonner <p>L'équipe %[1]s "
 
 #. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
@@ -19896,7 +19896,7 @@ msgid ""
 "The address to send an email to the groups is <a href=\"mailto:"
 "%[1]s\">%[1]s</a>."
 msgstr ""
-"L'adresse pour envoyer un courriel aux groupes est <a href="mailto :%[1]s\">%[1]s</a> ."
+"L'adresse pour envoyer un courriel aux groupes est <a href=\"mailto :%[1]s\">%[1]s</a> ."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/legalnoticenotification.qtpl
@@ -25356,7 +25356,7 @@ msgid ""
 "this in the future using the \"email me a link to login\" button on the "
 "Login page."
 msgstr ""
-"Vous avez été ajouté par l'équipe %[1]s à %[2]s. Vous pouvez utiliser <a href="%[3]s\">ce lien</a> pendant les prochaines 24 heures pour vous connecter si c'est la première fois que vous vous connectez ou si vous avez oublié votre mot de passe. Vous pourrez le faire à l'avenir en utilisant le bouton "Envoyez-moi un lien pour me connecter" sur la page de connexion."
+"Vous avez été ajouté par l'équipe %[1]s à %[2]s. Vous pouvez utiliser <a href=\"%[3]s\">ce lien</a> pendant les prochaines 24 heures pour vous connecter si c'est la première fois que vous vous connectez ou si vous avez oublié votre mot de passe. Vous pourrez le faire à l'avenir en utilisant le bouton \"Envoyez-moi un lien pour me connecter\" sur la page de connexion."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #, fuzzy

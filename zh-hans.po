@@ -147,7 +147,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s' in group %[5]s"
-msgstr "%[1]s 将 ' 的显示名称从 " "改为 " "。%[2]s%[3]s%[4]s %[5]s"
+msgstr "%[1]s 将 ' 的显示名称从 \" \"改为 \" \"。%[2]s%[3]s%[4]s %[5]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -162,7 +162,7 @@ msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name from "
 "'%[5]s' to '%[6]s' in group %[7s]"
 msgstr ""
-"%[1]s 将 的电子邮件地址从 更改为 ，并将组 %[7s] 中的显示名称从 " "更改为 " "。%[2]s %[3]s %[4]s%[5]s%[6]s"
+"%[1]s 将 的电子邮件地址从 更改为 ，并将组 %[7s] 中的显示名称从 \" \"更改为 \" \"。%[2]s %[3]s %[4]s%[5]s%[6]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -171,7 +171,7 @@ msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name to "
 "'%[5]s' in group %[6]s"
 msgstr ""
-"%[1]s 将 的电子邮件地址从 更改为 ，并将组中的显示名称更改为 " "。%[2]s %[3]s %[4]s%[5]s %[6]s"
+"%[1]s 将 的电子邮件地址从 更改为 ，并将组中的显示名称更改为 \" \"。%[2]s %[3]s %[4]s%[5]s %[6]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -184,13 +184,13 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
 msgid "%[1]s changed their display name from '%[2]s' to '%[3]s' in group %[4]s"
-msgstr "%[1]s 将其在组中的显示名称从 " "更改为 "%[2]s%[3]s %[4]s"
+msgstr "%[1]s 将其在组中的显示名称从 \" \"更改为 \"%[2]s%[3]s %[4]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
 msgid "%[1]s changed their display name to '%[2]s' in group %[3]s"
-msgstr "%[1]s 在小组中将其显示名称改为 " "。%[2]s %[3]s"
+msgstr "%[1]s 在小组中将其显示名称改为 \" \"。%[2]s %[3]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -199,7 +199,7 @@ msgid ""
 "%[1]s changed their email address from %[2]s to %[3]s and display name from "
 "'%[4]s' to '%[5]s' in group %[6]s"
 msgstr ""
-"%[1]s 将他们的电子邮件地址从 更改为 ，并将显示名称从 " "更改为 " "。%[2]s %[3]s%[4]s%[5]s %[6]s"
+"%[1]s 将他们的电子邮件地址从 更改为 ，并将显示名称从 \" \"更改为 \" \"。%[2]s %[3]s%[4]s%[5]s %[6]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -208,7 +208,7 @@ msgid ""
 "%[1]s changed their email address from %[2]s to %[3]s and display name to "
 "'%[4]s' in group %[5]s"
 msgstr ""
-"%[1]s 将其电子邮件地址从 更改为 ，并将组中的显示名称更改为 " "。%[2]s %[3]s%[4]s %[5]s"
+"%[1]s 将其电子邮件地址从 更改为 ，并将组中的显示名称更改为 \" \"。%[2]s %[3]s%[4]s %[5]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -1018,7 +1018,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>您好 [姓名]、 <p>%[1]s 团队已将您添加到 <a href=\"%[2]s\">%[3]s</a> 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用[此链接]登录。以后您也可以使用登录页面上的 "email me a link to login\" 按钮来登录。 <p>这个群组的电子邮件地址是：%[4]s 。%[5]s <p>但最重要的是，请将此电子邮件地址添加到电子邮件客户端联系人的安全发件人列表中。如果您发现来自该群组的电子邮件进入了垃圾邮件、促销或社交文件夹，请将这些邮件移到您的主收件箱，这样您就可以训练您的电子邮件客户端将这些邮件直接放入您的收件箱。 <div id=\"custom_message\"></div> <p>如果这是一个错误，请单击以下链接，您将立即被移除： <p style=\"text-decoration: underline\">取消订阅 <p>%[1]s 团队"
+"<p>您好 [姓名]、 <p>%[1]s 团队已将您添加到 <a href=\"%[2]s\">%[3]s</a> 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用[此链接]登录。以后您也可以使用登录页面上的 \"email me a link to login\" 按钮来登录。 <p>这个群组的电子邮件地址是：%[4]s 。%[5]s <p>但最重要的是，请将此电子邮件地址添加到电子邮件客户端联系人的安全发件人列表中。如果您发现来自该群组的电子邮件进入了垃圾邮件、促销或社交文件夹，请将这些邮件移到您的主收件箱，这样您就可以训练您的电子邮件客户端将这些邮件直接放入您的收件箱。 <div id=\"custom_message\"></div> <p>如果这是一个错误，请单击以下链接，您将立即被移除： <p style=\"text-decoration: underline\">取消订阅 <p>%[1]s 团队"
 
 #. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
@@ -1063,7 +1063,7 @@ msgid ""
 "tap on our app's name.</p> <p>Tap on 'Permissions.'</p> <p>Turn on the switch "
 "next to 'Camera.'</p>"
 msgstr ""
-"<p>我们的应用程序需要相机访问权限才能提供某些功能，如捕捉照片或访问相机胶卷。要启用这些功能，请授予相机权限： <p>打开设备的 "设置"。 <p>向下滚动并点击我们应用程序的名称。 <p>点击 "权限"。 <p>打开 "相机 "旁边的开关。"
+"<p>我们的应用程序需要相机访问权限才能提供某些功能，如捕捉照片或访问相机胶卷。要启用这些功能，请授予相机权限： <p>打开设备的 \"设置\"。 <p>向下滚动并点击我们应用程序的名称。 <p>点击 \"权限\"。 <p>打开 \"相机 \"旁边的开关。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -1206,7 +1206,7 @@ msgstr ""
 msgid ""
 "[%[1]s] New card \"<a href=\"%[2]s\">%[3]s</a>\" was added to list \"%[4]s\"."
 msgstr ""
-"[%[1]s] 新卡"<a href=\"%[2]s\">%[3]s</a> \"被添加到列表 "%[4]s\"中。"
+"[%[1]s] 新卡\"<a href=\"%[2]s\">%[3]s</a> \"被添加到列表 \"%[4]s\"中。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1215,7 +1215,7 @@ msgid ""
 "[%[1]s] New checklist item \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 在卡片"<a href=\"%[3]s\">%[4]s</a> \"中添加了新的清单项目"%[2]s\"。"
+"[%[1]s] 在卡片\"<a href=\"%[3]s\">%[4]s</a> \"中添加了新的清单项目\"%[2]s\"。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1248,7 +1248,7 @@ msgstr ""
 msgid ""
 "[%[1]s] The %[2]s label was added to the card \"<a href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s]%[2]s 标签被添加到卡片上："<a href=\"%[3]s\">%[4]s</a> \"。"
+"[%[1]s]%[2]s 标签被添加到卡片上：\"<a href=\"%[3]s\">%[4]s</a> \"。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1272,7 +1272,7 @@ msgid ""
 "[%[1]s] The checklist \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 在卡片"<a href=\"%[3]s\">%[4]s</a> \"中添加了核对表 "%[2]s\"。"
+"[%[1]s] 在卡片\"<a href=\"%[3]s\">%[4]s</a> \"中添加了核对表 \"%[2]s\"。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1281,7 +1281,7 @@ msgid ""
 "[%[1]s] The checklist \"%[2]s\" was removed from the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 核对表 "%[2]s"已从卡片"<a href=\"%[3]s\">%[4]s</a> \" 中删除。"
+"[%[1]s] 核对表 \"%[2]s\"已从卡片\"<a href=\"%[3]s\">%[4]s</a> \" 中删除。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1290,7 +1290,7 @@ msgid ""
 "[%[1]s] The checklist item \"%[2]s\" on card \"<a href=\"%[3]s\">%[4]s</a>\" was "
 "marked completed."
 msgstr ""
-"[%[1]s] 卡片"<a href=\"%[3]s\">%[4]s</a> \"上的核对表项目 "%[2]s\"被标记为已完成。"
+"[%[1]s] 卡片\"<a href=\"%[3]s\">%[4]s</a> \"上的核对表项目 \"%[2]s\"被标记为已完成。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1299,7 +1299,7 @@ msgid ""
 "[%[1]s] The checklist item \"%[2]s\" on card \"<a href=\"%[3]s\">%[4]s</a>\" was "
 "marked incomplete."
 msgstr ""
-"[%[1]s] 卡片"<a href=\"%[3]s\">%[4]s</a> \" 上的核对表项目"%[2]s\" 被标记为不完整。"
+"[%[1]s] 卡片\"<a href=\"%[3]s\">%[4]s</a> \" 上的核对表项目\"%[2]s\" 被标记为不完整。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1308,7 +1308,7 @@ msgid ""
 "[%[1]s] The description of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed "
 "to:<br>%[4]s"
 msgstr ""
-"[%[1]s] 卡片"<a href=\"%[2]s\">%[3]s</a> \"的描述改为：<br>%[4]s"
+"[%[1]s] 卡片\"<a href=\"%[2]s\">%[3]s</a> \"的描述改为：<br>%[4]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1317,7 +1317,7 @@ msgid ""
 "[%[1]s] The due date of card \"<a href=\"%[2]s\">%[3]s</a>\" was changed to "
 "%[4]s"
 msgstr ""
-"[%[1]s] "<a href=\"%[2]s\">%[3]s</a> \"卡的到期日被改为%[4]s"
+"[%[1]s] \"<a href=\"%[2]s\">%[3]s</a> \"卡的到期日被改为%[4]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1332,7 +1332,7 @@ msgid ""
 "[%[1]s] The member \"%[2]s\" was added to the card \"<a "
 "href=\"%[3]s\">%[4]s</a>\"."
 msgstr ""
-"[%[1]s] 成员 "%[2]s"被添加到卡片"<a href=\"%[3]s\">%[4]s</a> \" 中。"
+"[%[1]s] 成员 \"%[2]s\"被添加到卡片\"<a href=\"%[3]s\">%[4]s</a> \" 中。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1349,7 +1349,7 @@ msgstr ""
 msgid ""
 "[%[1]s] Updated comment from card \"<a href=\"%[2]s\">%[3]s</a>\" by %[4]s."
 msgstr ""
-"[%[1]s] 由%[4]s 更新了来自卡片"<a href=\"%[2]s\">%[3]s</a> \"的评论。"
+"[%[1]s] 由%[4]s 更新了来自卡片\"<a href=\"%[2]s\">%[3]s</a> \"的评论。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
@@ -1365,7 +1365,7 @@ msgid ""
 "colleagues ... suggests that \"always on\" may not be always effective. "
 "\"Intermittently on\" might, instead, be better for complex problem solving."
 msgstr ""
-"[哈佛商学院副教授伊桑-伯恩斯坦（Ethan Bernstein）及其同事的研究......表明，"始终在线 "可能并不总是有效的。\相反，"间歇性开机 "可能更适合复杂问题的解决。"
+"[哈佛商学院副教授伊桑-伯恩斯坦（Ethan Bernstein）及其同事的研究......表明，\"始终在线 \"可能并不总是有效的。相反，\"间歇性开机 \"可能更适合复杂问题的解决。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
@@ -1495,7 +1495,7 @@ msgid ""
 "A moderator in another group changed %[1]s's display name from '%[2]s' to "
 "'%[3]s' in group %[4]s"
 msgstr ""
-"另一个组的版主将%[1]s 的显示名称从 "%[2]s"改为 "%[3]s"。%[4]s"
+"另一个组的版主将%[1]s 的显示名称从 \"%[2]s\"改为 \"%[3]s\"。%[4]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -1503,7 +1503,7 @@ msgstr ""
 msgid ""
 "A moderator in another group changed %[1]s's display name to '%[2]s' in group "
 "%[3]s"
-msgstr "另一个群组的版主将%[1]s 的显示名称改为 "%[2]s"。%[3]s"
+msgstr "另一个群组的版主将%[1]s 的显示名称改为 \"%[2]s\"。%[3]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -1521,7 +1521,7 @@ msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to %[3]s "
 "and display name to '%[4]s' in group %[5]s"
 msgstr ""
-"另一个群组的版主将%[1]s 的电子邮件地址从%[2]s 更改为%[3]s ，并将群组中的显示名称更改为 "%[4]s"。%[5]s"
+"另一个群组的版主将%[1]s 的电子邮件地址从%[2]s 更改为%[3]s ，并将群组中的显示名称更改为 \"%[4]s\"。%[5]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -2318,7 +2318,7 @@ msgid ""
 "activity log entry will be <em>Membership - Member Removed</em>, with the added "
 "reason of <em>reverification failed</em>."
 msgstr ""
-"之后，仍处于 RI 状态的成员将从组中删除。活动日志条目将是 "<em>成员资格 - 成员</em>已<em>移除</em>"，并加上 "<em>恢复失败 "</em>的原因。"
+"之后，仍处于 RI 状态的成员将从组中删除。活动日志条目将是 \"<em>成员资格 - 成员</em>已<em>移除</em>\"，并加上 \"<em>恢复失败 \"</em>的原因。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -2632,7 +2632,7 @@ msgstr "允许文件中包含照片"
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Allow photos to be uploaded to the Files section."
-msgstr "允许将照片上传到 "文件 "部分。"
+msgstr "允许将照片上传到 \"文件 \"部分。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -2657,7 +2657,7 @@ msgstr "允许在照片中添加视频"
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Allow videos to be uploaded to the Photos section."
-msgstr "允许将视频上传到 "照片 "版块。"
+msgstr "允许将视频上传到 \"照片 \"版块。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
@@ -2698,7 +2698,7 @@ msgid ""
 "attachments. To do so, go to your group's Settings page and look for the 'Out Of "
 "Space' setting at the bottom of the 'Message Policies' section."
 msgstr ""
-"您也可以将群组设置为退回包含附件的邮件。为此，请进入群组的 "设置 "页面，在 "邮件策略 "部分的底部查找 "超出空间 "设置。"
+"您也可以将群组设置为退回包含附件的邮件。为此，请进入群组的 \"设置 \"页面，在 \"邮件策略 \"部分的底部查找 \"超出空间 \"设置。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -2745,7 +2745,7 @@ msgid ""
 "your membership. Look for a message from %[1]s with the Subject: \"Confirm Your "
 "%[2]s email address\"."
 msgstr ""
-"Groups.io 已发送电子邮件确认您的电子邮件地址并激活您的会员资格。请查找来自%[1]s 的主题为\Confirm Your%[2]s email address\"."
+"Groups.io 已发送电子邮件确认您的电子邮件地址并激活您的会员资格。请查找来自%[1]s 的主题为\"Confirm Your%[2]s email address\"."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -2836,7 +2836,7 @@ msgstr "和"
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 #, fuzzy
 msgid "And to complete the deletion, enter <strong>I understand</strong>:"
-msgstr "为了完成删除，请输入 "<strong>我明白</strong>"："
+msgstr "为了完成删除，请输入 \"<strong>我明白</strong>\"："
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -3180,7 +3180,7 @@ msgid ""
 "website? You probably don't have a password set up yet. Use the <b>Email me a "
 "link to log in</b> button above to log into the website."
 msgstr ""
-"您是否收到过%[1]s 小组的电子邮件，但从未访问过%[1]s 网站？您可能还没有设置密码。请使用上面的 "通过<b>电子邮件发送登录链接</b>"按钮登录网站。"
+"您是否收到过%[1]s 小组的电子邮件，但从未访问过%[1]s 网站？您可能还没有设置密码。请使用上面的 \"通过<b>电子邮件发送登录链接</b>\"按钮登录网站。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
@@ -4064,7 +4064,7 @@ msgid ""
 "Automatically resize photos uploaded to the photos section that are larger than "
 "a specific size."
 msgstr ""
-"自动调整上传到 "照片 "部分的大于特定尺寸的照片的大小。"
+"自动调整上传到 \"照片 \"部分的大于特定尺寸的照片的大小。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
@@ -4268,13 +4268,13 @@ msgid ""
 "Be as specific as possible with your description. Generic descriptions such as "
 "\"test\" or \"general chat\" may not be approved."
 msgstr ""
-"描述要尽可能具体。诸如 "test （测试）"或 "general chat （普通聊天）"之类的笼统描述可能不会获得批准。"
+"描述要尽可能具体。诸如 \"test （测试）\"或 \"general chat （普通聊天）\"之类的笼统描述可能不会获得批准。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #, fuzzy
 msgid "Be the first to say yes."
-msgstr "第一个说 "是"。"
+msgstr "第一个说 \"是\"。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -4766,7 +4766,7 @@ msgid ""
 "data portability, in the conditions set out in our <a "
 "href=\"/static/privacy\">Privacy Policy</a>."
 msgstr ""
-"点击下面的 "确认电子邮件地址"，即表示您同意<a href=\"/static/tos\">服务条款</a>和<a href=\"/static/privacy\">隐私政策</a>。Groups.io 将根据我们的<a href=\"/static/privacy\">隐私政策</a>处理您的个人信息，以便向您提供我们的服务，并随时向您通报与我们服务相关的新闻。您可以要求访问、更正或删除您的个人信息，并有权在我们的<a href=\"/static/privacy\">隐私政策</a>规定的条件下进行数据移植。"
+"点击下面的 \"确认电子邮件地址\"，即表示您同意<a href=\"/static/tos\">服务条款</a>和<a href=\"/static/privacy\">隐私政策</a>。Groups.io 将根据我们的<a href=\"/static/privacy\">隐私政策</a>处理您的个人信息，以便向您提供我们的服务，并随时向您通报与我们服务相关的新闻。您可以要求访问、更正或删除您的个人信息，并有权在我们的<a href=\"/static/privacy\">隐私政策</a>规定的条件下进行数据移植。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/register.qtpl
@@ -4782,7 +4782,7 @@ msgid ""
 "data portability, in the conditions set out in our <a "
 "href=\"/static/privacy\">Privacy Policy</a>."
 msgstr ""
-"点击下面的 "创建账户"，即表示您同意<a href=\"/static/tos\">服务条款</a>和<a href=\"/static/privacy\">隐私政策</a>。Groups.io 将根据我们的<a href=\"/static/privacy\">隐私政策</a>处理您的个人信息，以便向您提供我们的服务，并随时向您通报与我们服务相关的新闻。您可以要求访问、更正或删除您的个人信息，并有权在我们的<a href=\"/static/privacy\">隐私政策</a>规定的条件下进行数据移植。"
+"点击下面的 \"创建账户\"，即表示您同意<a href=\"/static/tos\">服务条款</a>和<a href=\"/static/privacy\">隐私政策</a>。Groups.io 将根据我们的<a href=\"/static/privacy\">隐私政策</a>处理您的个人信息，以便向您提供我们的服务，并随时向您通报与我们服务相关的新闻。您可以要求访问、更正或删除您的个人信息，并有权在我们的<a href=\"/static/privacy\">隐私政策</a>规定的条件下进行数据移植。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/login/login.qtpl
@@ -5656,7 +5656,7 @@ msgid ""
 "to create a new Stripe account or connect an existing Stripe account. Stripe "
 "accounts are free."
 msgstr ""
-"点击 "<strong>与 Stripe 连接</strong>"按钮，您将进入创建新 Stripe 账户或连接现有 Stripe 账户的页面。Stripe 账户是免费的。"
+"点击 \"<strong>与 Stripe 连接</strong>\"按钮，您将进入创建新 Stripe 账户或连接现有 Stripe 账户的页面。Stripe 账户是免费的。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
@@ -7647,7 +7647,7 @@ msgstr "显示模板"
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid "Display this wiki page at the top of the Messages page."
-msgstr "在 "信息 "页面顶部显示此维基页面。"
+msgstr "在 \"信息 \"页面顶部显示此维基页面。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -8975,7 +8975,7 @@ msgid ""
 "Every message is emailed to the member, according to the member's Email Delivery "
 "Selection, except topics or hashtags they've muted."
 msgstr ""
-"根据会员的 "电子邮件发送选择"，每条信息都会通过电子邮件发送给会员，但会员静音的主题或标签除外。"
+"根据会员的 \"电子邮件发送选择\"，每条信息都会通过电子邮件发送给会员，但会员静音的主题或标签除外。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
@@ -8984,7 +8984,7 @@ msgid ""
 "Every message is emailed to the members, according to their Email Delivery "
 "Selection, except topics or hashtags they've muted."
 msgstr ""
-"每条信息都会根据会员的 "电子邮件发送选择 "以电子邮件发送给会员，但会员静音的主题或标签除外。"
+"每条信息都会根据会员的 \"电子邮件发送选择 \"以电子邮件发送给会员，但会员静音的主题或标签除外。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -8995,7 +8995,7 @@ msgid ""
 "Every message is emailed to you, according to your Email Delivery Selection, "
 "except topics or hashtags you've muted."
 msgstr ""
-"根据您的 "电子邮件发送选择"，每条信息都会通过电子邮件发送给您，但您静音的主题或标签除外。"
+"根据您的 \"电子邮件发送选择\"，每条信息都会通过电子邮件发送给您，但您静音的主题或标签除外。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
@@ -10283,7 +10283,7 @@ msgstr "小组主持人"
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 msgid "Group Moderator posted the message '%s' that needs to be approved."
-msgstr "组版主发布了需要批准的消息 "%s"。"
+msgstr "组版主发布了需要批准的消息 \"%s\"。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -10471,7 +10471,7 @@ msgid ""
 "Groups dedicated to the promotion of conspiracy theories, including, but not "
 "limited to: Gamergate, Pizzagate, and Qanon."
 msgstr ""
-"专门宣扬阴谋论的团体，包括但不限于：Gamergate、Pizzagate 和 Qanon：游戏门"、"披萨门 "和 "卡农"。"
+"专门宣扬阴谋论的团体，包括但不限于：Gamergate、Pizzagate 和 Qanon：游戏门\"、\"披萨门 \"和 \"卡农\"。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
@@ -10904,7 +10904,7 @@ msgstr "标签以 # 开头，不包含空格。"
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #, fuzzy
 msgid "Hashtags start with a '#' and don't contain any spaces."
-msgstr "标签以 "#"开头，不包含任何空格。"
+msgstr "标签以 \"#\"开头，不包含任何空格。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
@@ -11515,7 +11515,7 @@ msgid ""
 "be viewed by group members only.</strong> Failure to set these options will "
 "result in the group being deleted."
 msgstr ""
-"如果创建群组只是为了测试 Groups.io 的功能，请确保 "<strong>Directory</strong> <strong>Of Groups.io Groups（群组目录</strong>）"选项设置为 "<strong>Do not list group in directory（不在目录</strong> <strong>中</strong> <strong>列出</strong>群组）"，"<strong>Visibility</strong> <strong>of</strong> <strong>Messages in Message Archive（消息存档中消息的可见性</strong>）"选项设置为 "<strong>Messages can be viewed by group members only（只有群组成员才能查看消息）"。</strong>未设置这些选项将导致组被删除。"
+"如果创建群组只是为了测试 Groups.io 的功能，请确保 \"<strong>Directory</strong> <strong>Of Groups.io Groups（群组目录</strong>）\"选项设置为 \"<strong>Do not list group in directory（不在目录</strong> <strong>中</strong> <strong>列出</strong>群组）\"，\"<strong>Visibility</strong> <strong>of</strong> <strong>Messages in Message Archive（消息存档中消息的可见性</strong>）\"选项设置为 \"<strong>Messages can be viewed by group members only（只有群组成员才能查看消息）\"。</strong>未设置这些选项将导致组被删除。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -11712,7 +11712,7 @@ msgid ""
 "If you would like to continue, click the Log Out button, and then click the "
 "invite link again."
 msgstr ""
-"如果您想继续，请单击 "注销 "按钮，然后再次单击 "邀请 "链接。"
+"如果您想继续，请单击 \"注销 \"按钮，然后再次单击 \"邀请 \"链接。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupleave.qtpl
@@ -11721,7 +11721,7 @@ msgid ""
 "If you would like to continue, click the Log Out button, and then click the "
 "leave link again."
 msgstr ""
-"如果您想继续，请单击 "注销 "按钮，然后再次单击 "离开 "链接。"
+"如果您想继续，请单击 \"注销 \"按钮，然后再次单击 \"离开 \"链接。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl
@@ -11754,7 +11754,7 @@ msgid ""
 "If you would like to stay a member but limit emails, click the Special Notices "
 "Only button."
 msgstr ""
-"如果您想继续成为会员，但限制电子邮件数量，请单击 "仅限特别通知 "按钮。"
+"如果您想继续成为会员，但限制电子邮件数量，请单击 \"仅限特别通知 \"按钮。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -11817,7 +11817,7 @@ msgstr "图片库"
 #, fuzzy
 msgid ""
 "Images cannot be uploaded to the Files section. Please use the Photos section."
-msgstr "图片不能上传到 "文件 "部分。请使用 "照片 "部分。"
+msgstr "图片不能上传到 \"文件 \"部分。请使用 \"照片 \"部分。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -12005,7 +12005,7 @@ msgid ""
 "refining your email delivery preference to include only the messages you "
 "specify."
 msgstr ""
-"在上面的 "电子邮件发送 "面板中，您为该组选择了首选的电子邮件发送方式。通过下面的高级偏好设置，您可以进一步控制哪些信息和标签会根据您的邮件发送偏好发送给您。默认设置为所有信息。请注意，您在下面所做的更改将减少您收到的电子邮件的数量，因为您的电子邮件发送首选项只包括您指定的邮件。"
+"在上面的 \"电子邮件发送 \"面板中，您为该组选择了首选的电子邮件发送方式。通过下面的高级偏好设置，您可以进一步控制哪些信息和标签会根据您的邮件发送偏好发送给您。默认设置为所有信息。请注意，您在下面所做的更改将减少您收到的电子邮件的数量，因为您的电子邮件发送首选项只包括您指定的邮件。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -12019,7 +12019,7 @@ msgid ""
 "refining your email delivery preference to include only the messages you "
 "specify."
 msgstr ""
-"在上面的 "电子邮件发送 "面板中，您为该组选择了首选的电子邮件发送方式。通过下面的高级偏好设置，您可以进一步控制哪些信息和标签会根据您的邮件发送偏好设置发送给您。请注意，您在下面所做的更改将减少您收到的电子邮件的数量，因为您的电子邮件发送首选项只包括您指定的邮件。"
+"在上面的 \"电子邮件发送 \"面板中，您为该组选择了首选的电子邮件发送方式。通过下面的高级偏好设置，您可以进一步控制哪些信息和标签会根据您的邮件发送偏好设置发送给您。请注意，您在下面所做的更改将减少您收到的电子邮件的数量，因为您的电子邮件发送首选项只包括您指定的邮件。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/usersessions.qtpl
@@ -12748,7 +12748,7 @@ msgid ""
 "href=\"/static/translations\">Language Support</a> page for information on how "
 "you can help."
 msgstr ""
-"网站和通知所使用的语言。有关如何提供帮助的信息，请参阅我们的 "<a href=\"/static/translations\">语言支持</a>"页面。"
+"网站和通知所使用的语言。有关如何提供帮助的信息，请参阅我们的 \"<a href=\"/static/translations\">语言支持</a>\"页面。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -14372,7 +14372,7 @@ msgstr "给会员的信息"
 #, fuzzy
 msgid "Message to send people when they RSVP Yes and are not on the waitlist."
 msgstr ""
-"当有人回复 "是 "但不在候补名单上时，向其发送信息。"
+"当有人回复 \"是 \"但不在候补名单上时，向其发送信息。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
@@ -16017,7 +16017,7 @@ msgid ""
 "No emails will sent to these people when they are removed unless the "
 "<strong>Send Removed Member Notice</strong> checkbox is checked."
 msgstr ""
-"除非选中 "<strong>发送已删除会员通知</strong>"复选框，否则<strong>删除会员</strong>时不会向其发送任何电子邮件。"
+"除非选中 \"<strong>发送已删除会员通知</strong>\"复选框，否则<strong>删除会员</strong>时不会向其发送任何电子邮件。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -16368,7 +16368,7 @@ msgid ""
 "Note: The preferences below do not apply if you select either Special Notices "
 "Only in the Email Delivery panel above."
 msgstr ""
-"注意：如果您在上述电子邮件发送面板中选择了 "仅限特别通知"，则以下首选项不适用。"
+"注意：如果您在上述电子邮件发送面板中选择了 \"仅限特别通知\"，则以下首选项不适用。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -16377,7 +16377,7 @@ msgid ""
 "Note: The preferences below do not apply if you select either Special Notices "
 "Only or No Email in the Email Delivery panel above."
 msgstr ""
-"注意：如果您在上述电子邮件发送面板中选择了 "仅限特别通知 "或 "无电子邮件"，则以下首选项不适用。"
+"注意：如果您在上述电子邮件发送面板中选择了 \"仅限特别通知 \"或 \"无电子邮件\"，则以下首选项不适用。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -16388,7 +16388,7 @@ msgid ""
 "Note: The preferences below do not apply if you select Special Notices Only in "
 "the Email Delivery panel above."
 msgstr ""
-"注意：如果在上述电子邮件发送面板中选择 "仅限特别通知"，则以下首选项不适用。"
+"注意：如果在上述电子邮件发送面板中选择 \"仅限特别通知\"，则以下首选项不适用。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -16399,7 +16399,7 @@ msgid ""
 "Note: The preferences below do not apply if you select Special Notices Only or "
 "No Email in the Email Delivery panel above."
 msgstr ""
-"注意：如果您在上述 "电子邮件发送 "面板中选择了 "仅限特别通知 "或 "无电子邮件"，则以下首选项不适用。"
+"注意：如果您在上述 \"电子邮件发送 \"面板中选择了 \"仅限特别通知 \"或 \"无电子邮件\"，则以下首选项不适用。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
@@ -22344,7 +22344,7 @@ msgstr "今年的账单为%.02f"
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
 msgid "The board \"%[1]s\" was renamed to \"<a href=\"%[2]s\">%[3]s</a>\"."
-msgstr "%[1]s\"更名为"<a href=\"%[2]s\">%[3]s</a> \"。"
+msgstr "%[1]s\"更名为\"<a href=\"%[2]s\">%[3]s</a> \"。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
@@ -23162,7 +23162,7 @@ msgstr "该主题已解除静音。"
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #, fuzzy
 msgid "The Updated column should default to being hidden."
-msgstr "更新 "栏应默认为隐藏。"
+msgstr "更新 \"栏应默认为隐藏。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
@@ -23310,7 +23310,7 @@ msgstr ""
 msgid ""
 "There is a directory of people who have responded, and you can send emails just "
 "to those who replied Yes or No."
-msgstr "您可以向回复 "是 "或 "否 "的人发送电子邮件。"
+msgstr "您可以向回复 \"是 \"或 \"否 \"的人发送电子邮件。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -24103,7 +24103,7 @@ msgstr "给业主留言 '%s'"
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #, fuzzy
 msgid "To Owner Message '%s' from non-subscriber"
-msgstr "给所有者的信息 "%s"来自非订阅者"
+msgstr "给所有者的信息 \"%s\"来自非订阅者"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -24127,13 +24127,13 @@ msgstr "致未回复者"
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #, fuzzy
 msgid "To People Who RSVPed Not Sure"
-msgstr "致回复 "不确定 "的人"
+msgstr "致回复 \"不确定 \"的人"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #, fuzzy
 msgid "To People Who RSVPed Yes"
-msgstr "致回复 "是 "的人"
+msgstr "致回复 \"是 \"的人"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -26484,13 +26484,13 @@ msgstr "我们无法读取这张照片。"
 msgid ""
 "We do not allow messages with subjects that begin with 'Private:' to be sent to "
 "the group."
-msgstr "我们不允许向群组发送主题以 "Private: "开头的信息。"
+msgstr "我们不允许向群组发送主题以 \"Private: \"开头的信息。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/grouppost.qtpl
 #, fuzzy
 msgid "We don't allow subjects that begin with 'Private:'."
-msgstr "我们不允许以 "Private: "开头的主题。"
+msgstr "我们不允许以 \"Private: \"开头的主题。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
@@ -26585,7 +26585,7 @@ msgid ""
 "link</a> sent to a list of your friends. And you can always point people to your "
 "group home page: <p><strong><a href=\"%[2]s\">%[2]s</a></strong></p>"
 msgstr ""
-"我们可以轻松地将带有邀请链接</a> 的 <a href=\"%[1]s\"> 定制电子邮件发送给您的好友列表。您还可以随时将人们指向您的群组主页： <p><strong><a href="%[2]s\">%[2]s</a></strong>"
+"我们可以轻松地将带有邀请链接</a> 的 <a href=\"%[1]s\"> 定制电子邮件发送给您的好友列表。您还可以随时将人们指向您的群组主页： <p><strong><a href=\"%[2]s\">%[2]s</a></strong>"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
@@ -27993,7 +27993,7 @@ msgid ""
 "is in progress, but has not been completed. RS means the "
 "confirmation/reverification has been successfully completed."
 msgstr ""
-"您可以查看哪些用户（如果有的话）受到了影响。进入群组的 "管理 "部分，查看 "成员 "页面。在每个用户的电子邮件旁边，可能会有一个带有 RI 或 RS 字母的徽章。RI 表示确认/验证正在进行中，但尚未完成。RS 表示确认/验证已成功完成。"
+"您可以查看哪些用户（如果有的话）受到了影响。进入群组的 \"管理 \"部分，查看 \"成员 \"页面。在每个用户的电子邮件旁边，可能会有一个带有 RI 或 RS 字母的徽章。RI 表示确认/验证正在进行中，但尚未完成。RS 表示确认/验证已成功完成。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/joingroup.qtpl
@@ -28051,7 +28051,7 @@ msgid ""
 "href=\"%[1]s\">%[1]s</a>. If it's your first time logging in or you have "
 "forgotten your password, please use the \"email me a link to login\" button."
 msgstr ""
-"您可以访问您的群组，开始阅读信息并在此发布：<a href=\"%[1]s\">%[1]s</a> 。如果您是第一次登录或忘记了密码，请使用 "email me a link to login\" 按钮。"
+"您可以访问您的群组，开始阅读信息并在此发布：<a href=\"%[1]s\">%[1]s</a> 。如果您是第一次登录或忘记了密码，请使用 \"email me a link to login\" 按钮。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
@@ -28180,7 +28180,7 @@ msgid ""
 "time logging in or if you have forgotten your password. You can do this in the "
 "future using the \"email me a link to login\" button on the Login page."
 msgstr ""
-"您已被%[1]s 团队添加到%[2]s 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用 <a href=\"%[3]s\">此链接</a> 登录。以后您也可以使用登录页面上的 "email me a link to login\" 按钮进行登录。"
+"您已被%[1]s 团队添加到%[2]s 。如果您是第一次登录或忘记了密码，您可以在接下来的 24 小时内使用 <a href=\"%[3]s\">此链接</a> 登录。以后您也可以使用登录页面上的 \"email me a link to login\" 按钮进行登录。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
@@ -28231,7 +28231,7 @@ msgid ""
 "subscription options. You will not be added to the group until you click the "
 "'Join This Group' button or reply to the invite email."
 msgstr ""
-"您已被邀请加入 <strong>%s</strong>小组。请查看群组说明。然后，如果您有兴趣加入，请查看订阅选项。在您点击 "加入本群组 "按钮或回复邀请电子邮件之前，您不会被加入本群组。"
+"您已被邀请加入 <strong>%s</strong>小组。请查看群组说明。然后，如果您有兴趣加入，请查看订阅选项。在您点击 \"加入本群组 \"按钮或回复邀请电子邮件之前，您不会被加入本群组。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
@@ -29630,7 +29630,7 @@ msgid ""
 "calendar event, making it easy to delete and possibly recreate the Zoom meeting "
 "should the event change."
 msgstr ""
-"在创建新的 Groups.io 日历事件时，Zoom 集成允许轻松创建新的 Zoom 会议。创建新日历事件时，只需按下 "将此作为 Zoom 会议 "按钮，即可创建 Zoom 会议，并在事件的位置和描述字段中填入如何访问会议的信息。一旦创建了 Zoom 会议，它就会与 Groups.io 日历事件链接，这样就可以轻松删除 Zoom 会议，并在事件发生变化时重新创建会议。"
+"在创建新的 Groups.io 日历事件时，Zoom 集成允许轻松创建新的 Zoom 会议。创建新日历事件时，只需按下 \"将此作为 Zoom 会议 \"按钮，即可创建 Zoom 会议，并在事件的位置和描述字段中填入如何访问会议的信息。一旦创建了 Zoom 会议，它就会与 Groups.io 日历事件链接，这样就可以轻松删除 Zoom 会议，并在事件发生变化时重新创建会议。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl

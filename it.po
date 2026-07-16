@@ -19713,7 +19713,7 @@ msgid ""
 "The address to send an email to the groups is <a href=\"mailto:"
 "%[1]s\">%[1]s</a>."
 msgstr ""
-"L'indirizzo per inviare un'e-mail ai gruppi è <a href="mailto:%[1]s\">%[1]s</a> ."
+"L'indirizzo per inviare un'e-mail ai gruppi è <a href=\"mailto:%[1]s\">%[1]s</a> ."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/legalnoticenotification.qtpl
@@ -25092,7 +25092,7 @@ msgid ""
 "this in the future using the \"email me a link to login\" button on the "
 "Login page."
 msgstr ""
-"Sei stato aggiunto dal team di %[1]s a %[2]s. Puoi usare <a href=\"%[3]s\">questo link</a> per le prossime 24 ore per accedere se è la prima volta che accedi o se hai dimenticato la password. In futuro, è possibile utilizzare il pulsante "inviami via e-mail un link per accedere" nella pagina di accesso."
+"Sei stato aggiunto dal team di %[1]s a %[2]s. Puoi usare <a href=\"%[3]s\">questo link</a> per le prossime 24 ore per accedere se è la prima volta che accedi o se hai dimenticato la password. In futuro, è possibile utilizzare il pulsante \"inviami via e-mail un link per accedere\" nella pagina di accesso."
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #, fuzzy
