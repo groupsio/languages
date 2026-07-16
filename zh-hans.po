@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-02 14:46-0700\n"
+"PO-Revision-Date: 2026-07-16 09:15+0200\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -3545,7 +3545,7 @@ msgid ""
 "Are you sure you want to merge the topic '%s' into the topic '<span "
 "id=\"subject\">Action</span>'?"
 msgstr ""
-"您确定要将主题 &#x27;%s&#x27; 合并到主题 <span id=\"subject\">&#x27;Action</span>&#x27; 中吗？"
+"您确定要将主题 '%s' 合并到主题 <span id=\"subject\">'Action</span>' 中吗？"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -25646,7 +25646,7 @@ msgstr ""
 #, fuzzy
 msgid "Use this key by setting the Authorization header: 'Bearer YOUR_API_KEY'"
 msgstr ""
-"请通过设置授权标头使用此密钥：&#x27;Bearer YOUR_API_KEY&#x27;"
+"请通过设置授权标头使用此密钥：'Bearer YOUR_API_KEY'"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-02 14:46-0700\n"
+"PO-Revision-Date: 2026-07-16 09:15+0200\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -26185,7 +26185,7 @@ msgstr ""
 #, fuzzy
 msgid "Use this key by setting the Authorization header: 'Bearer YOUR_API_KEY'"
 msgstr ""
-"استخدم هذا المفتاح عن طريق تعيين رأس التخويل: &#x27;Bearer YOUR_API_KEY&#x27;"
+"استخدم هذا المفتاح عن طريق تعيين رأس التخويل: 'Bearer YOUR_API_KEY'"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl

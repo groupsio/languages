@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-06-05 15:29-0700\n"
+"PO-Revision-Date: 2026-07-16 09:15+0200\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: it\n"
@@ -909,7 +909,7 @@ msgid ""
 "their account. They can then request to join groups or be added via direct "
 "addition or invitation. </p>"
 msgstr ""
-"<h3>Panoramica</h3> <p>Ad alcuni membri è stata inviata un&#x27;e-mail con oggetto &quot;<strong>Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail del gruppo</strong>&quot;. L&#x27;e-mail chiede al membro di rispondere all&#x27;e-mail o di accedere al proprio account per confermare la propria iscrizione. La maggior parte di questi account sono quelli che non pubblicano post da molto tempo. È importante che tutti sappiano che <strong>questa e-mail è autentica</strong>. Non si tratta di phishing.</p> <p>Qualsiasi utente che abbia ricevuto l&#x27;e-mail e non completi la conferma/verifica entro lunedì 25 marzo 2024 sarà sospeso da Groups.io. Da qui a lunedì 25 marzo 2024 saranno inviate alcune e-mail di sollecito ai membri che non hanno risposto.</p> <div class=\"well well-sm\"> Se sei proprietario o moderatore di un gruppo, puoi verificare se alcuni dei tuoi membri devono essere riverniciati. Vai alla pagina Membri del tuo gruppo e cerca il badge <span class=\"label label-info\">RI</span>. Potresti non avere membri con quel badge. In tal caso, <strong>puoi tranquillamente ignorare questa richiesta</strong>. </div> <h3>Perché la nuova verifica?</h3> <p>L&#x27;11 marzo 2024, un servizio anti-spam chiamato Spamhaus ha etichettato uno dei nostri server di posta elettronica come mittente di spam. Ciò ha causato l&#x27;interruzione dell&#x27;accettazione delle e-mail dal nostro server da parte di tutti i servizi di posta elettronica che utilizzano Spamhaus. Il motivo per cui hanno etichettato uno dei nostri server di posta elettronica come mittente di spam è che alcuni gruppi hanno indirizzi e-mail iscritti che non sono persone valide, ma sono invece trappole antispam. Una trappola spam è un indirizzo e-mail che non viene utilizzato da una persona, ma viene invece utilizzato per catturare gli spammer. Questo è il motivo per cui abbiamo avviato un processo di nuova verifica e inviato e-mail di nuova verifica a molti utenti quel giorno.</p> <p>Ci rendiamo conto del disagio che ciò può causare e ci scusiamo, ma siamo tenuti a farlo per garantire che la consegna delle e-mail di gruppo possa continuare senza intoppi.</p> <h3>Esempio di e-mail di nuova verifica</h3> <div class=\"well well-sm\"> <p><strong>Oggetto</strong>: Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail di gruppo</p> <p>Buongiorno</p> <p>il tuo account associato all&#x27;INDIRIZZO E-MAIL è membro di uno o più gruppi e-mail di Groups.io dal DATA. Nell&#x27;ambito del nostro impegno a garantire un&#x27;esperienza di valore e priva di spam, stiamo aggiornando i nostri registri di iscrizione. Per assicurarci che tu desideri ancora ricevere e-mail dai gruppi a cui sei iscritto, ti chiediamo gentilmente di confermare la tua iscrizione.</p> <p>Hai due semplici opzioni per confermare la tua iscrizione:</p> <p> 1. Senza aggiungere alcun testo, basta rispondere a questa e-mail. Il software di Groups.io interpreterà la risposta come una volontà di rimanere nei gruppi.<br>2. Oppure puoi accedere al tuo account Groups.io e il tuo login attivo verrà considerato come conferma.</p> <p>Se non riceveremo alcuna risposta da parte tua, ti invieremo un&#x27;e-mail di promemoria ogni 4 giorni per assicurarci che tu abbia tutte le opportunità di rimanere iscritto.</p> <p>Senza conferma entro lunedì 25 marzo 2024, considereremo che preferisci non continuare la tua iscrizione. Di conseguenza, la tua email verrà rimossa dai gruppi di cui sei membro.</p> <p>Abbiamo creato una pagina di domande frequenti con ulteriori informazioni. La puoi trovare qui: <a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>Sei membro dei seguenti gruppi da noi ospitati: <ul> <li>NOME DEL GRUPPO - Descrizione del gruppo</li> </ul> <p> <p>Grazie per la vostra pronta attenzione alla questione e per essere una parte essenziale della nostra comunità.</p><br>Cordiali saluti<br>Il team di Groups.io </p></p></div> <h3>Se hai ricevuto un&#x27;e-mail di verifica</h3> <p>I membri che hanno ricevuto l&#x27;e-mail di verifica hanno tempo fino a lunedì 25 marzo 2024 per rispondere all&#x27;e-mail o accedere al proprio account Groups.io.</p> <p>Se rispondi all&#x27;e-mail, non è necessario inserire alcun testo nella risposta. Ti verrà inviata un&#x27;e-mail di conferma.</p> <p>Se accedi al tuo account, vedrai un banner verde che indica che la verifica è stata completata con successo. Non è necessario fare altro. Se non hai una password o non la ricordi, utilizza il link <i>Hai dimenticato la password o non ne hai ancora una?</i> per ricevere un&#x27;e-mail con un link che ti consentirà di accedere automaticamente. Una volta effettuato l&#x27;accesso, la verifica sarà completata.</p> <p>Invieremo ulteriori promemoria di nuova verifica fino a lunedì 25 marzo 2024. Per i membri che vengono rimossi dopo questo processo, le rimozioni saranno registrate nel Registro attività del gruppo.</p> <h3>Moderatori</h3> <p>Puoi vedere quali utenti sono interessati. Vai alla sezione Amministrazione del tuo gruppo e consulta la pagina Membri. Accanto all&#x27;indirizzo e-mail di ciascun utente, potrebbe essere presente un badge con le lettere <span class=\"label label-info\">RI</span> o <span class=\"label label-info\">RS</span>. <span class=\"label label-info\">RI</span> significa che la conferma/verifica è in corso (ma non è stata completata). <span class=\"label label-info\">RS</span> significa che la conferma/verifica è stata completata con successo.</p> <p>I moderatori possono scaricare un elenco filtrato dei membri in formato CSV, facendo clic sul pulsante <strong>Scarica</strong> dopo aver selezionato le caselle di controllo Filtro appropriate.</p> <p>Il numero di membri interessati varia notevolmente da un gruppo all&#x27;altro; alcuni non ne hanno nessuno. Nel complesso, si tratta solo di una piccola parte del totale dei membri di Groups.io.</p> <h3>Tempistica (ancora in fase di definizione)</h3> <p>Ecco i passaggi rimanenti del processo:</p> <ol> <li>Per almeno altre due settimane dopo il 25 marzo, le persone potranno ancora verificare nuovamente la propria identità e i badge <span class=\"label label-info\">RI</span> e <span class=\"label label-info\">RS</span> continueranno a essere visualizzati nella pagina Membri.</li> <li>Successivamente, i membri ancora in stato <span class=\"label label-info\">RI</span> saranno rimossi dai gruppi. La voce nel registro delle attività sarà <em>Iscrizione - Membro rimosso</em>, con l&#x27;aggiunta del motivo della <em>mancata riconferma</em>.</li> </ol> <p>Per i domini in cui non è stata effettuata alcuna nuova verifica, gli account saranno banditi da tutte le attività in quanto potenziali trappole di spam. Questi indirizzi e-mail non potranno effettuare il login, rientrare nei gruppi tramite invito, aggiunta diretta o richiesta di adesione. Se uno di questi domini appartiene a una persona valida, questa dovrà contattare support@groups.io per far revocare il divieto sul dominio. Per i domini senza tale divieto, l&#x27;account dell&#x27;utente rimarrà attivo, quindi gli utenti rimossi dai loro gruppi potranno accedere direttamente o utilizzando il pulsante &quot;Inviami un link per accedere&quot; nella pagina di accesso. Questo consentirà di verificare nuovamente il loro account. Potranno quindi richiedere di unirsi ai gruppi o essere aggiunti tramite aggiunta diretta o invito. </p>"
+"<h3>Panoramica</h3> <p>Ad alcuni membri è stata inviata un'e-mail con oggetto &quot;<strong>Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail del gruppo</strong>&quot;. L'e-mail chiede al membro di rispondere all'e-mail o di accedere al proprio account per confermare la propria iscrizione. La maggior parte di questi account sono quelli che non pubblicano post da molto tempo. È importante che tutti sappiano che <strong>questa e-mail è autentica</strong>. Non si tratta di phishing.</p> <p>Qualsiasi utente che abbia ricevuto l'e-mail e non completi la conferma/verifica entro lunedì 25 marzo 2024 sarà sospeso da Groups.io. Da qui a lunedì 25 marzo 2024 saranno inviate alcune e-mail di sollecito ai membri che non hanno risposto.</p> <div class=\"well well-sm\"> Se sei proprietario o moderatore di un gruppo, puoi verificare se alcuni dei tuoi membri devono essere riverniciati. Vai alla pagina Membri del tuo gruppo e cerca il badge <span class=\"label label-info\">RI</span>. Potresti non avere membri con quel badge. In tal caso, <strong>puoi tranquillamente ignorare questa richiesta</strong>. </div> <h3>Perché la nuova verifica?</h3> <p>L'11 marzo 2024, un servizio anti-spam chiamato Spamhaus ha etichettato uno dei nostri server di posta elettronica come mittente di spam. Ciò ha causato l'interruzione dell'accettazione delle e-mail dal nostro server da parte di tutti i servizi di posta elettronica che utilizzano Spamhaus. Il motivo per cui hanno etichettato uno dei nostri server di posta elettronica come mittente di spam è che alcuni gruppi hanno indirizzi e-mail iscritti che non sono persone valide, ma sono invece trappole antispam. Una trappola spam è un indirizzo e-mail che non viene utilizzato da una persona, ma viene invece utilizzato per catturare gli spammer. Questo è il motivo per cui abbiamo avviato un processo di nuova verifica e inviato e-mail di nuova verifica a molti utenti quel giorno.</p> <p>Ci rendiamo conto del disagio che ciò può causare e ci scusiamo, ma siamo tenuti a farlo per garantire che la consegna delle e-mail di gruppo possa continuare senza intoppi.</p> <h3>Esempio di e-mail di nuova verifica</h3> <div class=\"well well-sm\"> <p><strong>Oggetto</strong>: Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail di gruppo</p> <p>Buongiorno</p> <p>il tuo account associato all'INDIRIZZO E-MAIL è membro di uno o più gruppi e-mail di Groups.io dal DATA. Nell'ambito del nostro impegno a garantire un'esperienza di valore e priva di spam, stiamo aggiornando i nostri registri di iscrizione. Per assicurarci che tu desideri ancora ricevere e-mail dai gruppi a cui sei iscritto, ti chiediamo gentilmente di confermare la tua iscrizione.</p> <p>Hai due semplici opzioni per confermare la tua iscrizione:</p> <p> 1. Senza aggiungere alcun testo, basta rispondere a questa e-mail. Il software di Groups.io interpreterà la risposta come una volontà di rimanere nei gruppi.<br>2. Oppure puoi accedere al tuo account Groups.io e il tuo login attivo verrà considerato come conferma.</p> <p>Se non riceveremo alcuna risposta da parte tua, ti invieremo un'e-mail di promemoria ogni 4 giorni per assicurarci che tu abbia tutte le opportunità di rimanere iscritto.</p> <p>Senza conferma entro lunedì 25 marzo 2024, considereremo che preferisci non continuare la tua iscrizione. Di conseguenza, la tua email verrà rimossa dai gruppi di cui sei membro.</p> <p>Abbiamo creato una pagina di domande frequenti con ulteriori informazioni. La puoi trovare qui: <a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>Sei membro dei seguenti gruppi da noi ospitati: <ul> <li>NOME DEL GRUPPO - Descrizione del gruppo</li> </ul> <p> <p>Grazie per la vostra pronta attenzione alla questione e per essere una parte essenziale della nostra comunità.</p><br>Cordiali saluti<br>Il team di Groups.io </p></p></div> <h3>Se hai ricevuto un'e-mail di verifica</h3> <p>I membri che hanno ricevuto l'e-mail di verifica hanno tempo fino a lunedì 25 marzo 2024 per rispondere all'e-mail o accedere al proprio account Groups.io.</p> <p>Se rispondi all'e-mail, non è necessario inserire alcun testo nella risposta. Ti verrà inviata un'e-mail di conferma.</p> <p>Se accedi al tuo account, vedrai un banner verde che indica che la verifica è stata completata con successo. Non è necessario fare altro. Se non hai una password o non la ricordi, utilizza il link <i>Hai dimenticato la password o non ne hai ancora una?</i> per ricevere un'e-mail con un link che ti consentirà di accedere automaticamente. Una volta effettuato l'accesso, la verifica sarà completata.</p> <p>Invieremo ulteriori promemoria di nuova verifica fino a lunedì 25 marzo 2024. Per i membri che vengono rimossi dopo questo processo, le rimozioni saranno registrate nel Registro attività del gruppo.</p> <h3>Moderatori</h3> <p>Puoi vedere quali utenti sono interessati. Vai alla sezione Amministrazione del tuo gruppo e consulta la pagina Membri. Accanto all'indirizzo e-mail di ciascun utente, potrebbe essere presente un badge con le lettere <span class=\"label label-info\">RI</span> o <span class=\"label label-info\">RS</span>. <span class=\"label label-info\">RI</span> significa che la conferma/verifica è in corso (ma non è stata completata). <span class=\"label label-info\">RS</span> significa che la conferma/verifica è stata completata con successo.</p> <p>I moderatori possono scaricare un elenco filtrato dei membri in formato CSV, facendo clic sul pulsante <strong>Scarica</strong> dopo aver selezionato le caselle di controllo Filtro appropriate.</p> <p>Il numero di membri interessati varia notevolmente da un gruppo all'altro; alcuni non ne hanno nessuno. Nel complesso, si tratta solo di una piccola parte del totale dei membri di Groups.io.</p> <h3>Tempistica (ancora in fase di definizione)</h3> <p>Ecco i passaggi rimanenti del processo:</p> <ol> <li>Per almeno altre due settimane dopo il 25 marzo, le persone potranno ancora verificare nuovamente la propria identità e i badge <span class=\"label label-info\">RI</span> e <span class=\"label label-info\">RS</span> continueranno a essere visualizzati nella pagina Membri.</li> <li>Successivamente, i membri ancora in stato <span class=\"label label-info\">RI</span> saranno rimossi dai gruppi. La voce nel registro delle attività sarà <em>Iscrizione - Membro rimosso</em>, con l'aggiunta del motivo della <em>mancata riconferma</em>.</li> </ol> <p>Per i domini in cui non è stata effettuata alcuna nuova verifica, gli account saranno banditi da tutte le attività in quanto potenziali trappole di spam. Questi indirizzi e-mail non potranno effettuare il login, rientrare nei gruppi tramite invito, aggiunta diretta o richiesta di adesione. Se uno di questi domini appartiene a una persona valida, questa dovrà contattare support@groups.io per far revocare il divieto sul dominio. Per i domini senza tale divieto, l'account dell'utente rimarrà attivo, quindi gli utenti rimossi dai loro gruppi potranno accedere direttamente o utilizzando il pulsante &quot;Inviami un link per accedere&quot; nella pagina di accesso. Questo consentirà di verificare nuovamente il loro account. Potranno quindi richiedere di unirsi ai gruppi o essere aggiunti tramite aggiunta diretta o invito. </p>"
 
 #: ../../cmd/web/views/static/staticupgradeapp.qtpl
 #, fuzzy
@@ -1119,7 +1119,7 @@ msgid ""
 "your passkeys. You can also view and manage your recovery codes on the <a "
 "href=\"/settings/recoverycodes\">Recovery Codes</a> page."
 msgstr ""
-"<strong>Codici di recupero:</strong> quando aggiungi la tua prima chiave di accesso, riceverai dei codici di recupero che potrai utilizzare per accedere al tuo account nel caso in cui perdessi l&#x27;accesso alle tue chiavi di accesso. Puoi anche visualizzare e gestire i tuoi codici di recupero nella pagina <a href=\"/settings/recoverycodes\">Codici di recupero</a>."
+"<strong>Codici di recupero:</strong> quando aggiungi la tua prima chiave di accesso, riceverai dei codici di recupero che potrai utilizzare per accedere al tuo account nel caso in cui perdessi l'accesso alle tue chiavi di accesso. Puoi anche visualizzare e gestire i tuoi codici di recupero nella pagina <a href=\"/settings/recoverycodes\">Codici di recupero</a>."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -1419,7 +1419,7 @@ msgstr "Modifica messaggio"
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "A label with this name already exists"
-msgstr "Esiste già un&#x27;etichetta con questo nome"
+msgstr "Esiste già un'etichetta con questo nome"
 
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
 #, fuzzy
@@ -1549,7 +1549,7 @@ msgid ""
 "this is done, all subscriptions will be transferred from <b>%[1]s</b> to "
 "<b>%[2]s</b> and the <b>%[1]s</b> account will be deleted."
 msgstr ""
-"È stata richiesta la fusione dell&#x27;account Groups.io associato a <b>%[1]s</b> con l&#x27;account Groups.io associato a questo indirizzo e-mail, <b>%[2]s</b>. Se ciò avverrà, tutte le iscrizioni saranno trasferite da <b>%[1]s</b> a <b>%[2]s</b> e l&#x27;account <b>%[1]s</b> sarà eliminato."
+"È stata richiesta la fusione dell'account Groups.io associato a <b>%[1]s</b> con l'account Groups.io associato a questo indirizzo e-mail, <b>%[2]s</b>. Se ciò avverrà, tutte le iscrizioni saranno trasferite da <b>%[1]s</b> a <b>%[2]s</b> e l'account <b>%[1]s</b> sarà eliminato."
 
 #: ../../cmd/web/views/account/needreverification.qtpl
 #, fuzzy
@@ -1773,7 +1773,7 @@ msgstr "Aggiungi 50 GB di spazio di archiviazione"
 #: ../../cmd/web/views/groupintegrations/blueskyintegrations.qtpl
 #, fuzzy
 msgid "Add A Bluesky Integration"
-msgstr "Aggiungi un&#x27;integrazione Bluesky"
+msgstr "Aggiungi un'integrazione Bluesky"
 
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl
 #, fuzzy
@@ -2646,7 +2646,7 @@ msgid ""
 "Analytics data is generated daily, so it may take some time to appear after "
 "group creation."
 msgstr ""
-"I dati analitici vengono generati quotidianamente, quindi potrebbe essere necessario un po&#x27; di tempo prima che compaiano dopo la creazione del gruppo."
+"I dati analitici vengono generati quotidianamente, quindi potrebbe essere necessario un po' di tempo prima che compaiano dopo la creazione del gruppo."
 
 #: ../../cmd/web/qtutils/likes.qtpl
 #: ../../cmd/web/qtutils/searchfilter.qtpl
@@ -2779,7 +2779,7 @@ msgid ""
 "API keys allow you to authenticate with the Groups.io API without using your "
 "password. Each key can be individually revoked if compromised."
 msgstr ""
-"Le chiavi API consentono di autenticarsi con l&#x27;API Groups.io senza utilizzare la password. Ogni chiave può essere revocata individualmente in caso di compromissione."
+"Le chiavi API consentono di autenticarsi con l'API Groups.io senza utilizzare la password. Ogni chiave può essere revocata individualmente in caso di compromissione."
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -2818,7 +2818,7 @@ msgstr "Richiedi l'iscrizione a questo gruppo"
 #, fuzzy
 msgid "Applying/joining through the group website or by email is disabled."
 msgstr ""
-"L&#x27;iscrizione/adesione tramite il sito web del gruppo o tramite e-mail è disabilitata."
+"L'iscrizione/adesione tramite il sito web del gruppo o tramite e-mail è disabilitata."
 
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
@@ -3063,7 +3063,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #, fuzzy
 msgid "Are you sure you want to delete the label"
-msgstr "Sei sicuro di voler eliminare l&#x27;etichetta?"
+msgstr "Sei sicuro di voler eliminare l'etichetta?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -3116,7 +3116,7 @@ msgid ""
 "Are you sure you want to delete this message from the message archives of %s? "
 "<strong>This cannot be undone.</strong>"
 msgstr ""
-"Sei sicuro di voler eliminare questo messaggio dall&#x27;archivio messaggi di %s? <strong>Questa operazione non può essere annullata.</strong>"
+"Sei sicuro di voler eliminare questo messaggio dall'archivio messaggi di %s? <strong>Questa operazione non può essere annullata.</strong>"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
@@ -3160,7 +3160,7 @@ msgid ""
 "Are you sure you want to delete this poll and the associated topic? This cannot "
 "be undone."
 msgstr ""
-"Sei sicuro di voler eliminare questo sondaggio e l&#x27;argomento associato? Questa operazione non può essere annullata."
+"Sei sicuro di voler eliminare questo sondaggio e l'argomento associato? Questa operazione non può essere annullata."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
@@ -3219,7 +3219,7 @@ msgid ""
 "Are you sure you want to force logout this session? The user will be logged out "
 "on their next request."
 msgstr ""
-"Sei sicuro di voler forzare il logout di questa sessione? L&#x27;utente verrà disconnesso alla sua prossima richiesta."
+"Sei sicuro di voler forzare il logout di questa sessione? L'utente verrà disconnesso alla sua prossima richiesta."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupleave.qtpl
@@ -3331,7 +3331,7 @@ msgid ""
 "Are you sure you want to merge the topic '%s' into the topic '<span "
 "id=\"subject\">Action</span>'?"
 msgstr ""
-"Sei sicuro di voler unire l&#x27;argomento &quot;%s&quot; all&#x27;argomento &quot;<span id=\"subject\">Azione</span>&quot;?"
+"Sei sicuro di voler unire l'argomento &quot;%s&quot; all'argomento &quot;<span id=\"subject\">Azione</span>&quot;?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -4467,7 +4467,7 @@ msgid ""
 "rel=\"noopener\">Terms of Service</a>. You also confirm this group does not fall "
 "into the disallowed categories shown at the start of the flow."
 msgstr ""
-"Creando questo gruppo, accetti di rispettare la nostra <a href=\"/static/online-safety\" target=\"_blank\" rel=\"noopener\">Politica sulla sicurezza online</a> e <a href=\"/static/tos\" target=\"_blank\" rel=\"noopener\">i</a> nostri <a href=\"/static/tos\" target=\"_blank\" rel=\"noopener\">Termini di servizio</a>. Confermi inoltre che questo gruppo non rientra nelle categorie non consentite indicate all&#x27;inizio del flusso."
+"Creando questo gruppo, accetti di rispettare la nostra <a href=\"/static/online-safety\" target=\"_blank\" rel=\"noopener\">Politica sulla sicurezza online</a> e <a href=\"/static/tos\" target=\"_blank\" rel=\"noopener\">i</a> nostri <a href=\"/static/tos\" target=\"_blank\" rel=\"noopener\">Termini di servizio</a>. Confermi inoltre che questo gruppo non rientra nelle categorie non consentite indicate all'inizio del flusso."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/createsubgroup.qtpl
@@ -5743,13 +5743,13 @@ msgstr "Costo: 5 $ al mese per 50 GB"
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "Cost: $55/year"
-msgstr "Costo: 55 $ all&#x27;anno"
+msgstr "Costo: 55 $ all'anno"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "Cost: $55/year per 50GB"
-msgstr "Costo: 55 $ all&#x27;anno per 50 GB"
+msgstr "Costo: 55 $ all'anno per 50 GB"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -7012,7 +7012,7 @@ msgid ""
 "associated with <strong>%[1]s</strong> to be moved to your account and the "
 "<strong>%[1]s</strong> account will be deleted."
 msgstr ""
-"Vuoi unire l&#x27;account associato all&#x27;indirizzo e-mail <strong>%[1]s</strong> al tuo account? In questo modo tutti gli abbonamenti associati a <strong>%[1]s</strong> verranno trasferiti al tuo account e l&#x27;account <strong>%[1]s</strong> verrà eliminato."
+"Vuoi unire l'account associato all'indirizzo e-mail <strong>%[1]s</strong> al tuo account? In questo modo tutti gli abbonamenti associati a <strong>%[1]s</strong> verranno trasferiti al tuo account e l'account <strong>%[1]s</strong> verrà eliminato."
 
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 msgid "Doc"
@@ -7875,14 +7875,14 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Enter label description"
-msgstr "Inserisci la descrizione dell&#x27;etichetta"
+msgstr "Inserisci la descrizione dell'etichetta"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Enter label name"
-msgstr "Inserisci il nome dell&#x27;etichetta"
+msgstr "Inserisci il nome dell'etichetta"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -8284,7 +8284,7 @@ msgstr "Isole Faroe"
 #, fuzzy
 msgid "Faster login with just your fingerprint or face"
 msgstr ""
-"Accesso più veloce con solo l&#x27;impronta digitale o il riconoscimento facciale"
+"Accesso più veloce con solo l'impronta digitale o il riconoscimento facciale"
 
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
@@ -8684,7 +8684,7 @@ msgstr "Opzioni form"
 #: ../../cmd/web/views/user/enterprise.qtpl
 #, fuzzy
 msgid "Format for the NameID element in SAML assertions."
-msgstr "Formato per l&#x27;elemento NameID nelle asserzioni SAML."
+msgstr "Formato per l'elemento NameID nelle asserzioni SAML."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -9447,7 +9447,7 @@ msgid ""
 "management solution scales effortlessly whether you're running a hobby group, "
 "nonprofit, or large organization."
 msgstr ""
-"Groups.io è il <strong>servizio di posta elettronica di gruppo</strong> definitivo e <strong>il moderno sostituto delle liste di distribuzione</strong> per team di qualsiasi dimensione. Dai piccoli club di 10 persone alle fiorenti comunità di oltre 100.000 membri, <strong>la</strong> nostra <strong>piattaforma di liste di discussione via e-mail</strong> consegna i messaggi direttamente nelle caselle di posta dei membri, in modo che <strong>non perdano</strong> <strong>mai una conversazione</strong>. A differenza di Google Groups o di altre alternative, offriamo <strong>condivisione di foto</strong>, <strong>archiviazione di file</strong>, <strong>calendario</strong>, <strong>wiki</strong>, <strong>chat</strong>, <strong>database</strong> e <strong>analisi di gruppo</strong>, il tutto senza pubblicità e con particolare attenzione alla privacy. La nostra soluzione di gestione delle mailing list è facilmente scalabile, sia che tu gestisca un gruppo di hobby, un&#x27;organizzazione no profit o una grande organizzazione."
+"Groups.io è il <strong>servizio di posta elettronica di gruppo</strong> definitivo e <strong>il moderno sostituto delle liste di distribuzione</strong> per team di qualsiasi dimensione. Dai piccoli club di 10 persone alle fiorenti comunità di oltre 100.000 membri, <strong>la</strong> nostra <strong>piattaforma di liste di discussione via e-mail</strong> consegna i messaggi direttamente nelle caselle di posta dei membri, in modo che <strong>non perdano</strong> <strong>mai una conversazione</strong>. A differenza di Google Groups o di altre alternative, offriamo <strong>condivisione di foto</strong>, <strong>archiviazione di file</strong>, <strong>calendario</strong>, <strong>wiki</strong>, <strong>chat</strong>, <strong>database</strong> e <strong>analisi di gruppo</strong>, il tutto senza pubblicità e con particolare attenzione alla privacy. La nostra soluzione di gestione delle mailing list è facilmente scalabile, sia che tu gestisca un gruppo di hobby, un'organizzazione no profit o una grande organizzazione."
 
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl
@@ -10220,7 +10220,7 @@ msgid ""
 "Identity Provider's X.509 certificate for signature validation (optional if "
 "using metadata URL)."
 msgstr ""
-"Certificato X.509 dell&#x27;Identity Provider per la convalida della firma (facoltativo se si utilizza l&#x27;URL dei metadati)."
+"Certificato X.509 dell'Identity Provider per la convalida della firma (facoltativo se si utilizza l'URL dei metadati)."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
@@ -10233,7 +10233,7 @@ msgstr "URL dei metadati IdP"
 #, fuzzy
 msgid "IdP SSO endpoint URL (required if not using metadata URL)."
 msgstr ""
-"URL endpoint SSO IdP (richiesto se non si utilizza l&#x27;URL dei metadati)."
+"URL endpoint SSO IdP (richiesto se non si utilizza l'URL dei metadati)."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
@@ -10430,7 +10430,7 @@ msgid ""
 "If you do not want to belong to this group, you may unsubscribe by sending an "
 "email to: %s"
 msgstr ""
-"Se non desideri far parte di questo gruppo, puoi annullare l&#x27;iscrizione inviando un&#x27;e-mail a: %s"
+"Se non desideri far parte di questo gruppo, puoi annullare l'iscrizione inviando un'e-mail a: %s"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
@@ -10537,7 +10537,7 @@ msgid ""
 "with a link that, when clicked, will cause the accounts to be merged and this "
 "account to be deleted."
 msgstr ""
-"Se desideri unire questo account, <strong>%[1]s</strong>, a quell&#x27;account, fai clic sul pulsante Unisci account. Verrà inviata un&#x27;e-mail a <strong>%[2]s</strong> con un link che, una volta cliccato, provocherà l&#x27;unione degli account e la cancellazione di questo account."
+"Se desideri unire questo account, <strong>%[1]s</strong>, a quell'account, fai clic sul pulsante Unisci account. Verrà inviata un'e-mail a <strong>%[2]s</strong> con un link che, una volta cliccato, provocherà l'unione degli account e la cancellazione di questo account."
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #, fuzzy
@@ -10649,7 +10649,7 @@ msgstr ""
 #, fuzzy
 msgid "If you've lost access to your passkey, you can use a recovery code to log in."
 msgstr ""
-"Se hai perso l&#x27;accesso alla tua chiave di accesso, puoi utilizzare un codice di recupero per effettuare il login."
+"Se hai perso l'accesso alla tua chiave di accesso, puoi utilizzare un codice di recupero per effettuare il login."
 
 #: ../../cmd/web/views/login/twofactor.qtpl
 #, fuzzy
@@ -11222,7 +11222,7 @@ msgid ""
 "It looks like you're using an outdated browser that may not display this site "
 "correctly or securely. We recommend upgrading to one of these free browsers:"
 msgstr ""
-"Sembra che tu stia utilizzando un browser obsoleto che potrebbe non visualizzare correttamente o in modo sicuro questo sito. Ti consigliamo di effettuare l&#x27;aggiornamento a uno di questi browser gratuiti:"
+"Sembra che tu stia utilizzando un browser obsoleto che potrebbe non visualizzare correttamente o in modo sicuro questo sito. Ti consigliamo di effettuare l'aggiornamento a uno di questi browser gratuiti:"
 
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl
 #, fuzzy
@@ -11449,7 +11449,7 @@ msgstr "Colore etichetta"
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Label Name"
-msgstr "Nome dell&#x27;etichetta"
+msgstr "Nome dell'etichetta"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 #, fuzzy
@@ -12000,7 +12000,7 @@ msgstr "Esci"
 #, fuzzy
 msgid "Lost access to your passkey? Use a recovery code"
 msgstr ""
-"Hai perso l&#x27;accesso alla tua chiave di accesso? Utilizza un codice di recupero"
+"Hai perso l'accesso alla tua chiave di accesso? Utilizza un codice di recupero"
 
 #: ../../pkg/notifications/noteviews/chatpostnotification.qtpl
 #, fuzzy
@@ -12323,7 +12323,7 @@ msgstr "Membro"
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
 msgid "Member Account Change Notification"
-msgstr "Notifica di modifica dell&#x27;account membro"
+msgstr "Notifica di modifica dell'account membro"
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #, fuzzy
@@ -12395,7 +12395,7 @@ msgstr "Sincronizzazione dei file dei membri"
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #, fuzzy
 msgid "Member Growth & Activity Trends"
-msgstr "Tendenze relative alla crescita e all&#x27;attività dei membri"
+msgstr "Tendenze relative alla crescita e all'attività dei membri"
 
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
 #: ../../cmd/web/views/sub/subintegrations.qtpl
@@ -13152,7 +13152,7 @@ msgstr "Mississippi"
 #: ../../cmd/web/views/static/staticmississippi.qtpl
 #, fuzzy
 msgid "Mississippi Access Update (HB1126)"
-msgstr "Aggiornamento sull&#x27;accesso al Mississippi (HB1126)"
+msgstr "Aggiornamento sull'accesso al Mississippi (HB1126)"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -14302,7 +14302,7 @@ msgstr "Non saranno inviate e-mail a queste persone quando saranno rimosse."
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "No extra storage add-ons."
-msgstr "Nessun componente aggiuntivo per l&#x27;archiviazione."
+msgstr "Nessun componente aggiuntivo per l'archiviazione."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -14400,7 +14400,7 @@ msgstr "Nessun hashtag utilizzato."
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #, fuzzy
 msgid "No user status data available"
-msgstr "Nessun dato sullo stato dell&#x27;utente disponibile"
+msgstr "Nessun dato sullo stato dell'utente disponibile"
 
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #, fuzzy
@@ -15620,7 +15620,7 @@ msgid ""
 "Passkeys are a secure alternative to passwords. They use your device's biometric "
 "authentication (Touch ID, Face ID, Windows Hello) or security keys."
 msgstr ""
-"Le passkey sono un&#x27;alternativa sicura alle password. Utilizzano l&#x27;autenticazione biometrica del dispositivo (Touch ID, Face ID, Windows Hello) o chiavi di sicurezza."
+"Le passkey sono un'alternativa sicura alle password. Utilizzano l'autenticazione biometrica del dispositivo (Touch ID, Face ID, Windows Hello) o chiavi di sicurezza."
 
 #: ../../cmd/web/views/account/register.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
@@ -16859,7 +16859,7 @@ msgid ""
 "Recovery codes can be used to access your account if you lose access to your "
 "two-factor authentication app or passkeys."
 msgstr ""
-"I codici di recupero possono essere utilizzati per accedere al tuo account se perdi l&#x27;accesso all&#x27;app di autenticazione a due fattori o alle chiavi di accesso."
+"I codici di recupero possono essere utilizzati per accedere al tuo account se perdi l'accesso all'app di autenticazione a due fattori o alle chiavi di accesso."
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -17364,7 +17364,7 @@ msgid ""
 "Require users to re-authenticate with the IdP on each login. Note: Microsoft "
 "Entra typically ignores this setting."
 msgstr ""
-"Richiedi agli utenti di eseguire nuovamente l&#x27;autenticazione con l&#x27;IdP ad ogni accesso. Nota: Microsoft Entra in genere ignora questa impostazione."
+"Richiedi agli utenti di eseguire nuovamente l'autenticazione con l'IdP ad ogni accesso. Nota: Microsoft Entra in genere ignora questa impostazione."
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -17551,7 +17551,7 @@ msgid ""
 "SAML attribute name containing the user's email address. Leave blank to use "
 "default fallback list."
 msgstr ""
-"Nome attributo SAML contenente l&#x27;indirizzo e-mail dell&#x27;utente. Lasciare vuoto per utilizzare l&#x27;elenco di fallback predefinito."
+"Nome attributo SAML contenente l'indirizzo e-mail dell'utente. Lasciare vuoto per utilizzare l'elenco di fallback predefinito."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
@@ -17813,7 +17813,7 @@ msgid ""
 "compressed zip archive. You will receive an email with a link to the data when "
 "it is ready (generally within 10 minutes)."
 msgstr ""
-"Seleziona i dati che desideri esportare. Una volta effettuate le selezioni e cliccato sul pulsante <strong>Esporta dati di gruppo</strong>, i dati verranno raccolti in un archivio zip compresso. Riceverai un&#x27;e-mail con un link ai dati quando saranno pronti (generalmente entro 10 minuti)."
+"Seleziona i dati che desideri esportare. Una volta effettuate le selezioni e cliccato sul pulsante <strong>Esporta dati di gruppo</strong>, i dati verranno raccolti in un archivio zip compresso. Riceverai un'e-mail con un link ai dati quando saranno pronti (generalmente entro 10 minuti)."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -19521,7 +19521,7 @@ msgid ""
 "send an email to support@groups.io, specifying both email addresses and which "
 "email address should be the final address."
 msgstr ""
-"Quell&#x27;indirizzo e-mail è già registrato. Se desideri unire i due account, invia un&#x27;e-mail all&#x27;indirizzo support@Groups.io, specificando entrambi gli indirizzi e-mail e quale indirizzo e-mail deve essere quello definitivo."
+"Quell'indirizzo e-mail è già registrato. Se desideri unire i due account, invia un'e-mail all'indirizzo support@Groups.io, specificando entrambi gli indirizzi e-mail e quale indirizzo e-mail deve essere quello definitivo."
 
 #: ../../cmd/web/views/sub/joingroup.qtpl
 #, fuzzy
@@ -19722,7 +19722,7 @@ msgid ""
 "The affected topic and all related messages have been removed from the group "
 "archive, website, search index, and exports."
 msgstr ""
-"L&#x27;argomento interessato e tutti i messaggi correlati sono stati rimossi dall&#x27;archivio del gruppo, dal sito web, dall&#x27;indice di ricerca e dalle esportazioni."
+"L'argomento interessato e tutti i messaggi correlati sono stati rimossi dall'archivio del gruppo, dal sito web, dall'indice di ricerca e dalle esportazioni."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/legalnoticenotification.qtpl
@@ -19731,7 +19731,7 @@ msgid ""
 "The affected topics and all related messages have been removed from the group "
 "archive, website, search index, and exports."
 msgstr ""
-"Gli argomenti interessati e tutti i messaggi correlati sono stati rimossi dall&#x27;archivio del gruppo, dal sito web, dall&#x27;indice di ricerca e dalle esportazioni."
+"Gli argomenti interessati e tutti i messaggi correlati sono stati rimossi dall'archivio del gruppo, dal sito web, dall'indice di ricerca e dalle esportazioni."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
@@ -20470,7 +20470,7 @@ msgid ""
 "The storage will be removed at the start of your next billing period. You will "
 "continue to have access to the extra storage until then."
 msgstr ""
-"Lo spazio di archiviazione verrà rimosso all&#x27;inizio del prossimo periodo di fatturazione. Fino ad allora continuerai ad avere accesso allo spazio di archiviazione aggiuntivo."
+"Lo spazio di archiviazione verrà rimosso all'inizio del prossimo periodo di fatturazione. Fino ad allora continuerai ad avere accesso allo spazio di archiviazione aggiuntivo."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
@@ -20803,7 +20803,7 @@ msgid ""
 "of Service. If you have any questions or concerns about this removal, please "
 "contact Groups.io Support."
 msgstr ""
-"Questa azione è stata intrapresa in conformità con le leggi applicabili e i Termini di servizio di Groups.io. Per qualsiasi domanda o dubbio in merito a questa rimozione, contatta l&#x27;assistenza di Groups.io."
+"Questa azione è stata intrapresa in conformità con le leggi applicabili e i Termini di servizio di Groups.io. Per qualsiasi domanda o dubbio in merito a questa rimozione, contatta l'assistenza di Groups.io."
 
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #, fuzzy
@@ -21223,13 +21223,13 @@ msgstr "Questo verrà richiesto nella pagina RSVP."
 #: ../../cmd/web/views/groupadmin/groupbanneddomains.qtpl
 #, fuzzy
 msgid "This will remove the domain from the banned domain list."
-msgstr "Questo rimuoverà il dominio dall&#x27;elenco dei domini vietati."
+msgstr "Questo rimuoverà il dominio dall'elenco dei domini vietati."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #, fuzzy
 msgid "This will remove the label from all members who have it."
-msgstr "Questo rimuoverà l&#x27;etichetta da tutti i membri che la possiedono."
+msgstr "Questo rimuoverà l'etichetta da tutti i membri che la possiedono."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #, fuzzy
@@ -21332,7 +21332,7 @@ msgstr ""
 #, fuzzy
 msgid "To complete the deletion, enter <strong>I understand</strong>:"
 msgstr ""
-"Per completare l&#x27;eliminazione, inserisci &quot;<strong>Ho compreso</strong>&quot;:"
+"Per completare l'eliminazione, inserisci &quot;<strong>Ho compreso</strong>&quot;:"
 
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 #, fuzzy
@@ -22675,7 +22675,7 @@ msgstr "URL"
 #, fuzzy
 msgid "URL to fetch Identity Provider metadata (recommended method)."
 msgstr ""
-"URL per recuperare i metadati dell&#x27;Identity Provider (metodo consigliato)."
+"URL per recuperare i metadati dell'Identity Provider (metodo consigliato)."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -22753,14 +22753,14 @@ msgid ""
 "Use the NameID value as the user's email address. Leave unchecked for Microsoft "
 "Entra (typically uses UPN, not email)."
 msgstr ""
-"Utilizza il valore NameID come indirizzo e-mail dell&#x27;utente. Lascia deselezionato per Microsoft Entra (in genere utilizza UPN, non e-mail)."
+"Utilizza il valore NameID come indirizzo e-mail dell'utente. Lascia deselezionato per Microsoft Entra (in genere utilizza UPN, non e-mail)."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
 msgid "Use this key by setting the Authorization header: 'Bearer YOUR_API_KEY'"
 msgstr ""
-"Utilizza questa chiave impostando l&#x27;intestazione di autorizzazione: &#x27;Bearer YOUR_API_KEY&#x27;"
+"Utilizza questa chiave impostando l'intestazione di autorizzazione: 'Bearer YOUR_API_KEY'"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #, fuzzy
@@ -23862,7 +23862,7 @@ msgid ""
 "hashtags, it will automatically be cross-posted to the connected Bluesky "
 "account."
 msgstr ""
-"Quando viene pubblicato un nuovo messaggio in questo gruppo che contiene uno degli hashtag selezionati, verrà automaticamente pubblicato anche sull&#x27;account Bluesky collegato."
+"Quando viene pubblicato un nuovo messaggio in questo gruppo che contiene uno degli hashtag selezionati, verrà automaticamente pubblicato anche sull'account Bluesky collegato."
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 #, fuzzy
@@ -24457,7 +24457,7 @@ msgid ""
 "directories, and more. You can see full details of our pricing <a "
 "href=\"/static/pricing\">here</a>."
 msgstr ""
-"Sì, Groups.io offre un piano gratuito che include le funzionalità essenziali della mailing list per comunità con un massimo di 100 membri. Per i gruppi in crescita, il nostro piano Premium a 20 $ al mese (o 220 $ all&#x27;anno) elimina il limite di membri e aggiunge funzionalità avanzate come sottogruppi, archiviazione di file, una sezione foto, un calendario, sondaggi, elenchi dei membri e altro ancora. Puoi vedere tutti i dettagli dei nostri prezzi <a href=\"/static/pricing\">qui</a>."
+"Sì, Groups.io offre un piano gratuito che include le funzionalità essenziali della mailing list per comunità con un massimo di 100 membri. Per i gruppi in crescita, il nostro piano Premium a 20 $ al mese (o 220 $ all'anno) elimina il limite di membri e aggiunge funzionalità avanzate come sottogruppi, archiviazione di file, una sezione foto, un calendario, sondaggi, elenchi dei membri e altro ancora. Puoi vedere tutti i dettagli dei nostri prezzi <a href=\"/static/pricing\">qui</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -25186,7 +25186,7 @@ msgid ""
 "it, please check your Spam folder; also double-check that you spelled your email "
 "address correctly."
 msgstr ""
-"Hai cambiato il tuo indirizzo email in <b>%s</b>. Ora devi riconfermare il tuo account. Dovresti ricevere un&#x27;email di conferma quasi immediatamente; se non la vedi, controlla la cartella Spam; verifica anche di aver scritto correttamente il tuo indirizzo email."
+"Hai cambiato il tuo indirizzo email in <b>%s</b>. Ora devi riconfermare il tuo account. Dovresti ricevere un'email di conferma quasi immediatamente; se non la vedi, controlla la cartella Spam; verifica anche di aver scritto correttamente il tuo indirizzo email."
 
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #, fuzzy
@@ -25393,7 +25393,7 @@ msgid ""
 "You logged in using a passkey from another device. For faster access next time, "
 "add a passkey to this device."
 msgstr ""
-"Hai effettuato l&#x27;accesso utilizzando una chiave di accesso da un altro dispositivo. Per un accesso più rapido la prossima volta, aggiungi una chiave di accesso a questo dispositivo."
+"Hai effettuato l'accesso utilizzando una chiave di accesso da un altro dispositivo. Per un accesso più rapido la prossima volta, aggiungi una chiave di accesso a questo dispositivo."
 
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl
 #, fuzzy
@@ -25641,7 +25641,7 @@ msgstr "Verrete cancellati anche da tutti i sottogruppi."
 #, fuzzy
 msgid "You will no longer be able to use this passkey to sign in."
 msgstr ""
-"Non potrai più utilizzare questa chiave di accesso per effettuare l&#x27;accesso."
+"Non potrai più utilizzare questa chiave di accesso per effettuare l'accesso."
 
 #: ../../pkg/notifications/noteviews/spamresubemail.qtpl
 #, fuzzy
@@ -25783,7 +25783,7 @@ msgid ""
 "experience, we're updating our subscription records. To ensure you still want to "
 "receive emails from your subscribed groups, we kindly ask for your confirmation."
 msgstr ""
-"Il tuo account associato a %s è membro di uno o più gruppi e-mail di Groups.io dal %s. Nell&#x27;ambito del nostro impegno a garantire un&#x27;esperienza di valore e priva di spam, stiamo aggiornando i nostri registri di iscrizione. Per assicurarci che tu desideri ancora ricevere e-mail dai gruppi a cui sei iscritto, ti chiediamo gentilmente di confermare la tua iscrizione."
+"Il tuo account associato a %s è membro di uno o più gruppi e-mail di Groups.io dal %s. Nell'ambito del nostro impegno a garantire un'esperienza di valore e priva di spam, stiamo aggiornando i nostri registri di iscrizione. Per assicurarci che tu desideri ancora ricevere e-mail dai gruppi a cui sei iscritto, ti chiediamo gentilmente di confermare la tua iscrizione."
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 #, fuzzy
