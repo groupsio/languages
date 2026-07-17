@@ -238,11 +238,6 @@ msgid ""
 "members of the external service can automatically be made members of an %[1]s "
 "organization. Automatic syncing occurs hourly."
 msgstr ""
-"%[1]s movidoslas organizaciones de %[1]s pueden sincronizarse con un servicio "
-"externo. Esto significa que los miembros del servicio externo pueden "
-"convertirse automÃ¡ticamente en miembros de una organización de %[1]smiembros "
-"de una organización de %[1]s. La sincronización automÃ¡tica se produce cada "
-"hora."
 
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
@@ -888,7 +883,7 @@ msgid ""
 "their account. They can then request to join groups or be added via direct "
 "addition or invitation. </p>"
 msgstr ""
-"<h3>Visão geral</h3> <p>Alguns membros receberam um e-mail com o assunto <strong>&quot;Ação necessária: confirme sua adesão ao Groups.io para continuar recebendo e-mails do grupo</strong>&quot;. O e-mail solicita que o membro responda ao e-mail ou faça login em sua conta para confirmar sua adesão. A maioria dessas contas são aquelas que não postam há muito tempo. É importante que todos saibam que <strong>este e-mail é legítimo</strong>. Não se trata de um phishing.</p> <p>Qualquer usuário que recebeu o e-mail e não concluir a confirmação/reverificação até segunda-feira, 25 de março de 2024, será suspenso do Groups.io. Alguns e-mails de acompanhamento serão enviados aos membros que não responderem entre agora e segunda-feira, 25 de março de 2024.</p> <div class=\"well well-sm\"> Se você é proprietário ou moderador de um grupo, pode verificar se algum dos seus membros precisa ser reverificado. Acesse a página Membros do seu grupo e procure o selo <span class=\"label label-info\">RI</span>. Talvez você não tenha nenhum membro com esse selo. Se for esse o caso, <strong>você pode ignorar esta mensagem</strong>. </div> <h3>Por que a reverificação?</h3> <p>Em 11 de março de 2024, um serviço antispam chamado Spamhaus classificou um de nossos servidores de e-mail como remetente de spam. Isso fez com que qualquer serviço de e-mail que usa o Spamhaus parasse de aceitar e-mails do nosso servidor. O motivo pelo qual eles classificaram um de nossos servidores de e-mail como remetente de spam é porque alguns grupos têm endereços de e-mail inscritos que não são de pessoas válidas, mas sim armadilhas de spam. Uma armadilha de spam é um endereço de e-mail que não é usado por uma pessoa, mas sim para capturar spammers. Esse é o motivo pelo qual iniciamos um processo de reverificação e enviamos e-mails de reverificação para muitos usuários naquele dia.</p> <p>Reconhecemos e pedimos desculpas pelo inconveniente que isso pode causar, mas somos obrigados a fazer isso para garantir que a entrega de e-mails em grupo possa continuar sem problemas.</p> <h3>Exemplo do e-mail de reverificação</h3> <div class=\"well well-sm\"> <p><strong>Assunto</strong>: Ação necessária: confirme sua adesão ao Groups.io para continuar recebendo e-mails em grupo</p> <p>Olá,</p> <p>Sua conta associada ao ENDEREÇO DE E-MAIL é membro de um ou mais grupos de e-mail do Groups.io desde DATA. Como parte do nosso compromisso em manter uma experiência valiosa e livre de spam, estamos atualizando nossos registros de assinatura. Para garantir que você ainda deseja receber e-mails dos grupos aos quais está inscrito, solicitamos sua confirmação.</p> <p>Você tem duas opções simples para confirmar sua inscrição:</p> <p> 1. Sem adicionar nenhum texto, basta enviar uma resposta a este e-mail. Isso será visto pelo software do Groups.io como um desejo de permanecer nos seus grupos.<br>2. Ou você pode fazer login na sua conta do Groups.io e seu login ativo contará como confirmação.</p> <p>Se não tivermos notícias suas, enviaremos um e-mail de lembrete a cada 4 dias para garantir que você tenha todas as oportunidades de permanecer inscrito.</p> <p>Sem confirmação até segunda-feira, 25 de março de 2024, consideraremos que você prefere não continuar com suas assinaturas. Consequentemente, seu e-mail será removido dos grupos dos quais você é membro.</p> <p>Criamos uma página de perguntas frequentes com mais informações. Você pode encontrá-la aqui: <a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>Você é membro dos seguintes grupos hospedados por nós: <ul> <li>NOME DO GRUPO - Descrição do grupo</li> </ul> <p> <p>Agradecemos sua atenção imediata a este assunto e por ser uma parte essencial da nossa comunidade.</p><br>Atenciosamente,<br>A equipe do Groups.io </p></p></div> <h3>Se você recebeu um e-mail de reverificação</h3> <p>Os membros que receberam o e-mail de reverificação têm até segunda-feira, 25 de março de 2024, para responder ao e-mail ou fazer login em sua conta Groups.io.</p> <p>Se você responder ao e-mail, não será necessário inserir nada na resposta. Você receberá um e-mail de confirmação.</p> <p>Se você fizer login em sua conta, verá um banner verde informando que você foi reverificado com sucesso. Você não precisa fazer mais nada. Se você não tem uma senha ou não se lembra dela, use o link <i>Esqueceu sua senha ou ainda não tem uma?</i> para receber um e-mail com um link que fará o login automaticamente. Depois de fazer o login, você será reverificado.</p> <p>Enviaremos lembretes adicionais de reverificação até segunda-feira, 25 de março de 2024. Para os membros que forem removidos após esse processo, as remoções serão registradas no Log de atividades do grupo.</p> <h3>Moderadores</h3> <p>Você pode ver quais usuários foram afetados. Acesse a seção Admin do seu grupo e consulte a página Membros. Ao lado do e-mail de cada usuário, pode haver um emblema com as letras <span class=\"label label-info\">RI</span> ou <span class=\"label label-info\">RS</span>. <span class=\"label label-info\">RI</span> significa que a confirmação/reverificação está em andamento (mas não foi concluída). <span class=\"label label-info\">RS</span> significa que a confirmação/reverificação foi concluída com sucesso.</p> <p>Os moderadores podem baixar uma lista filtrada dos membros em formato CSV, clicando no botão <strong>Baixar</strong> após marcar as caixas de seleção de filtro apropriadas.</p> <p>O número de membros afetados varia muito de grupo para grupo; alguns não têm nenhum. No geral, é apenas uma fração do total de membros do Groups.io.</p> <h3>Cronograma (ainda em fase de finalização)</h3> <p>Aqui estão as etapas restantes do processo:</p> <ol> <li>Por pelo menos mais duas semanas após 25 de março, as pessoas ainda poderão reverificar a si mesmas e os emblemas <span class=\"label label-info\">RI</span> e <span class=\"label label-info\">RS</span> ainda aparecerão na página Membros.</li> <li>Depois disso, os membros que ainda estiverem no estado <span class=\"label label-info\">RI</span> serão removidos dos grupos. A entrada no registro de atividades será <em>Associação - Membro removido</em>, com o motivo adicional de <em>falha na reverificação</em>.</li> </ol> <p>Para domínios onde não houve reverificações, as contas serão banidas de todas as atividades, considerando que são potenciais armadilhas de spam. Esses endereços de e-mail não poderão fazer login, reingressar em grupos por convite, adição direta ou solicitação de adesão. Se houver uma pessoa válida em um desses domínios, ela deverá entrar em contato com support@Groups.io para que o banimento do domínio seja suspenso. Para domínios sem esse banimento, a conta do usuário permanecerá, de modo que os usuários removidos de seus grupos poderão fazer login diretamente ou usando o botão &quot;Enviar-me um link para fazer login&quot; na página de login. Isso verificará novamente sua conta. Eles poderão então solicitar a adesão a grupos ou ser adicionados por adição direta ou convite. </p>"
+"<h3>Visão geral</h3> <p>Alguns membros receberam um e-mail com o assunto <strong>\"Ação necessária: confirme sua adesão ao Groups.io para continuar recebendo e-mails do grupo</strong>\". O e-mail solicita que o membro responda ao e-mail ou faça login em sua conta para confirmar sua adesão. A maioria dessas contas são aquelas que não postam há muito tempo. É importante que todos saibam que <strong>este e-mail é legítimo</strong>. Não se trata de um phishing.</p> <p>Qualquer usuário que recebeu o e-mail e não concluir a confirmação/reverificação até segunda-feira, 25 de março de 2024, será suspenso do Groups.io. Alguns e-mails de acompanhamento serão enviados aos membros que não responderem entre agora e segunda-feira, 25 de março de 2024.</p> <div class=\"well well-sm\"> Se você é proprietário ou moderador de um grupo, pode verificar se algum dos seus membros precisa ser reverificado. Acesse a página Membros do seu grupo e procure o selo <span class=\"label label-info\">RI</span>. Talvez você não tenha nenhum membro com esse selo. Se for esse o caso, <strong>você pode ignorar esta mensagem</strong>. </div> <h3>Por que a reverificação?</h3> <p>Em 11 de março de 2024, um serviço antispam chamado Spamhaus classificou um de nossos servidores de e-mail como remetente de spam. Isso fez com que qualquer serviço de e-mail que usa o Spamhaus parasse de aceitar e-mails do nosso servidor. O motivo pelo qual eles classificaram um de nossos servidores de e-mail como remetente de spam é porque alguns grupos têm endereços de e-mail inscritos que não são de pessoas válidas, mas sim armadilhas de spam. Uma armadilha de spam é um endereço de e-mail que não é usado por uma pessoa, mas sim para capturar spammers. Esse é o motivo pelo qual iniciamos um processo de reverificação e enviamos e-mails de reverificação para muitos usuários naquele dia.</p> <p>Reconhecemos e pedimos desculpas pelo inconveniente que isso pode causar, mas somos obrigados a fazer isso para garantir que a entrega de e-mails em grupo possa continuar sem problemas.</p> <h3>Exemplo do e-mail de reverificação</h3> <div class=\"well well-sm\"> <p><strong>Assunto</strong>: Ação necessária: confirme sua adesão ao Groups.io para continuar recebendo e-mails em grupo</p> <p>Olá,</p> <p>Sua conta associada ao ENDEREÇO DE E-MAIL é membro de um ou mais grupos de e-mail do Groups.io desde DATA. Como parte do nosso compromisso em manter uma experiência valiosa e livre de spam, estamos atualizando nossos registros de assinatura. Para garantir que você ainda deseja receber e-mails dos grupos aos quais está inscrito, solicitamos sua confirmação.</p> <p>Você tem duas opções simples para confirmar sua inscrição:</p> <p> 1. Sem adicionar nenhum texto, basta enviar uma resposta a este e-mail. Isso será visto pelo software do Groups.io como um desejo de permanecer nos seus grupos.<br>2. Ou você pode fazer login na sua conta do Groups.io e seu login ativo contará como confirmação.</p> <p>Se não tivermos notícias suas, enviaremos um e-mail de lembrete a cada 4 dias para garantir que você tenha todas as oportunidades de permanecer inscrito.</p> <p>Sem confirmação até segunda-feira, 25 de março de 2024, consideraremos que você prefere não continuar com suas assinaturas. Consequentemente, seu e-mail será removido dos grupos dos quais você é membro.</p> <p>Criamos uma página de perguntas frequentes com mais informações. Você pode encontrá-la aqui: <a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>Você é membro dos seguintes grupos hospedados por nós: <ul> <li>NOME DO GRUPO - Descrição do grupo</li> </ul> <p> <p>Agradecemos sua atenção imediata a este assunto e por ser uma parte essencial da nossa comunidade.</p><br>Atenciosamente,<br>A equipe do Groups.io </p></p></div> <h3>Se você recebeu um e-mail de reverificação</h3> <p>Os membros que receberam o e-mail de reverificação têm até segunda-feira, 25 de março de 2024, para responder ao e-mail ou fazer login em sua conta Groups.io.</p> <p>Se você responder ao e-mail, não será necessário inserir nada na resposta. Você receberá um e-mail de confirmação.</p> <p>Se você fizer login em sua conta, verá um banner verde informando que você foi reverificado com sucesso. Você não precisa fazer mais nada. Se você não tem uma senha ou não se lembra dela, use o link <i>Esqueceu sua senha ou ainda não tem uma?</i> para receber um e-mail com um link que fará o login automaticamente. Depois de fazer o login, você será reverificado.</p> <p>Enviaremos lembretes adicionais de reverificação até segunda-feira, 25 de março de 2024. Para os membros que forem removidos após esse processo, as remoções serão registradas no Log de atividades do grupo.</p> <h3>Moderadores</h3> <p>Você pode ver quais usuários foram afetados. Acesse a seção Admin do seu grupo e consulte a página Membros. Ao lado do e-mail de cada usuário, pode haver um emblema com as letras <span class=\"label label-info\">RI</span> ou <span class=\"label label-info\">RS</span>. <span class=\"label label-info\">RI</span> significa que a confirmação/reverificação está em andamento (mas não foi concluída). <span class=\"label label-info\">RS</span> significa que a confirmação/reverificação foi concluída com sucesso.</p> <p>Os moderadores podem baixar uma lista filtrada dos membros em formato CSV, clicando no botão <strong>Baixar</strong> após marcar as caixas de seleção de filtro apropriadas.</p> <p>O número de membros afetados varia muito de grupo para grupo; alguns não têm nenhum. No geral, é apenas uma fração do total de membros do Groups.io.</p> <h3>Cronograma (ainda em fase de finalização)</h3> <p>Aqui estão as etapas restantes do processo:</p> <ol> <li>Por pelo menos mais duas semanas após 25 de março, as pessoas ainda poderão reverificar a si mesmas e os emblemas <span class=\"label label-info\">RI</span> e <span class=\"label label-info\">RS</span> ainda aparecerão na página Membros.</li> <li>Depois disso, os membros que ainda estiverem no estado <span class=\"label label-info\">RI</span> serão removidos dos grupos. A entrada no registro de atividades será <em>Associação - Membro removido</em>, com o motivo adicional de <em>falha na reverificação</em>.</li> </ol> <p>Para domínios onde não houve reverificações, as contas serão banidas de todas as atividades, considerando que são potenciais armadilhas de spam. Esses endereços de e-mail não poderão fazer login, reingressar em grupos por convite, adição direta ou solicitação de adesão. Se houver uma pessoa válida em um desses domínios, ela deverá entrar em contato com support@Groups.io para que o banimento do domínio seja suspenso. Para domínios sem esse banimento, a conta do usuário permanecerá, de modo que os usuários removidos de seus grupos poderão fazer login diretamente ou usando o botão \"Enviar-me um link para fazer login\" na página de login. Isso verificará novamente sua conta. Eles poderão então solicitar a adesão a grupos ou ser adicionados por adição direta ou convite. </p>"
 
 #: ../../cmd/web/views/static/staticupgradeapp.qtpl
 #, fuzzy
@@ -2972,7 +2967,7 @@ msgstr "Tem certeza de que deseja cancelar o downgrade?"
 #, fuzzy
 msgid "Are you sure you want to change your RSVP to Not Sure?"
 msgstr ""
-"Tem certeza de que deseja alterar sua resposta para &quot;Não tenho certeza&quot;?"
+"Tem certeza de que deseja alterar sua resposta para \"Não tenho certeza\"?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -7819,7 +7814,7 @@ msgstr "Inglês"
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
 msgid "Enter a name for this passkey (e.g., 'My MacBook'):"
-msgstr "Digite um nome para esta senha (por exemplo, &quot;Meu MacBook&quot;):"
+msgstr "Digite um nome para esta senha (por exemplo, \"Meu MacBook\"):"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -9142,9 +9137,7 @@ msgstr "Moderador de Grupo"
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 msgid "Group Moderator posted the message '%s' that needs to be approved."
-msgstr ""
-"O Moderador de Grupo postou a mensagem '%s' que precisa ser aprovada.El "
-"moderador del grupo publicó el mensaje '%s' que necesita ser aprobado."
+msgstr "O Moderador de Grupo postou a mensagem '%s' que precisa ser aprovada."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
@@ -14273,7 +14266,7 @@ msgstr "Nenhuma hashtag foi usada durante esse período."
 #, fuzzy
 msgid "No labels available. Create one using the 'Create New' tab."
 msgstr ""
-"Não há etiquetas disponíveis. Crie uma usando a guia &quot;Criar novo&quot;."
+"Não há etiquetas disponíveis. Crie uma usando a guia \"Criar novo\"."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "No limit"
@@ -17591,9 +17584,7 @@ msgstr "Salve documentos do Word."
 
 #: ../../cmd/web/views/sub/subintegrations.qtpl
 msgid "Saving attachments to <b>%s</b> from messages with hashtag <b>#%s</b>."
-msgstr ""
-"Salvando anexos em <b>%s</b> de mensagens com hashtag <b>#%s</b>.Guardar "
-"archivos adjuntos en <b>%s</b> de mensajes con el hashtag <b>#%s</b>."
+msgstr "Salvando anexos em <b>%s</b> de mensagens com hashtag <b>#%s</b>."
 
 #: ../../cmd/web/views/sub/subintegrations.qtpl
 #, fuzzy
@@ -19483,9 +19474,7 @@ msgstr "Esse arquivo ou diretório não existe mais"
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
 msgid "That group has been disabled. Please contact support@%s."
-msgstr ""
-"Esse grupo foi desativado. Entre em contato com support@%s.Ese grupo ha sido "
-"desactivado. Póngase en contacto con el servicio de asistencia@%s."
+msgstr "Esse grupo foi desativado. Entre em contato com support@%s."
 
 #: ../../cmd/web/views/groupadmin/groupaliases.qtpl
 #, fuzzy
@@ -21242,7 +21231,7 @@ msgstr ""
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #, fuzzy
 msgid "To complete the deletion, enter <strong>I understand</strong>:"
-msgstr "Para concluir a exclusão, digite <strong>&quot;Entendo</strong>&quot;:"
+msgstr "Para concluir a exclusão, digite <strong>\"Entendo</strong>\":"
 
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 msgid "to confirm your account."
@@ -21371,9 +21360,7 @@ msgstr ""
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl
 #, fuzzy
 msgid "To post to the group, send an email to <strong>%s</strong>"
-msgstr ""
-"Para publicar no grupo, envie um e-mail para <strong>%s</strong>Para publicar "
-"en el grupo, envÃ­e un correo electrónico a <strong>%s</strong>"
+msgstr "Para publicar no grupo, envie um e-mail para <strong>%s</strong>"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy

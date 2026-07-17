@@ -1946,12 +1946,13 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
 msgid ""
 "After that, members still in the RI state will be removed from groups. The "
-"activity log entry will be Membership - Member Removed, with the "
-"added reason of reverification failed."
+"activity log entry will be <em>Membership - Member Removed</em>, with the "
+"added reason of <em>reverification failed</em>."
 msgstr ""
 "Après cela, les membres se trouvant encore dans l'état RI seront retirés des "
-"groupes. L'entrée du journal d'activité sera Adhésion - Membre retiré, "
-"avec la raison supplémentaire Échec de la revérification."
+"groupes. L'entrée du journal d'activité sera <em>Adhésion - Membre "
+"retiré</em>, avec la raison supplémentaire <em>Échec de la "
+"revérification</em>."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -2277,11 +2278,13 @@ msgstr ""
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid ""
-"An email has been sent to %s with a link that, when "
-"clicked, will cause the accounts to be merged and this account to be deleted."
+"An email has been sent to <strong>%s</strong> with a link that, when "
+"clicked, will cause the accounts to be merged and this account to be "
+"deleted."
 msgstr ""
-"Un e-mail a été envoyé à %s avec un lien qui, "
-"lorsqu'il sera cliqué, entraînera la fusion des comptes et la suppression de ce compte."
+"Un e-mail a été envoyé à <strong>%s</strong> avec un lien qui, lorsqu'il "
+"sera cliqué, entraînera la fusion des comptes et la suppression de ce "
+"compte."
 
 #: ../../cmd/web/views/login/sendloginlink.qtpl
 msgid "An email has been sent to you with a link to log into your account."
@@ -5737,8 +5740,8 @@ msgid "Deleted Photo Album"
 msgstr "Album photo supprimé"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
-msgid "deleted photo album"
-msgstr "album photo supprimé"
+msgid "Deleted photo album"
+msgstr "Album photo supprimé"
 
 #: ../../pkg/notifications/noteviews/databasenotification.qtpl
 msgid "Deleted Row #"
@@ -13842,14 +13845,14 @@ msgstr "Veuillez vous assurer que votre identité est définie."
 #: ../../cmd/web/views/group/creategroup.qtpl
 msgid ""
 "Please ensure your group adheres to our <a href=\"/static/tos\" "
-"target=\"_blank\" rel=\"noopener\">Terms of Service and our <a "
-"href=\"/static/online-safety\" target=\"_blank\" rel=\"noopener\">Online Safety "
-"Policy."
+"target=\"_blank\" rel=\"noopener\">Terms of Service</a> and our <a "
+"href=\"/static/online-safety\" target=\"_blank\" rel=\"noopener\">Online "
+"Safety Policy</a>."
 msgstr ""
 "Veuillez vous assurer que votre groupe respecte nos <a href=\"/static/tos\" "
-"target=\"_blank\" rel=\"noopener\">Conditions d'utilisation et notre <a "
-"href=\"/static/online-safety\" target=\"_blank\" rel=\"noopener\">Politique de "
-"sécurité en ligne."
+"target=\"_blank\" rel=\"noopener\">Conditions d'utilisation</a> et notre <a "
+"href=\"/static/online-safety\" target=\"_blank\" rel=\"noopener\">Politique "
+"de sécurité en ligne</a>."
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Please enter a name for your passkey."
@@ -13861,22 +13864,22 @@ msgstr "Veuillez vous connecter"
 
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid ""
-"Please review the <a href=\"/static/tos\">terms of service, and <a "
-"href=\"/static/privacy\">privacy policy."
+"Please review the <a href=\"/static/tos\">terms of service</a>, and <a "
+"href=\"/static/privacy\">privacy policy</a>."
 msgstr ""
-"Veuillez consulter les <a href=\"/static/tos\">conditions d'utilisation "
-"et la <a href=\"/static/privacy\">politique de confidentialité."
+"Veuillez consulter les <a href=\"/static/tos\">conditions d'utilisation</a> "
+"et la <a href=\"/static/privacy\">politique de confidentialité</a>."
 
 #: ../../cmd/web/views/groupadmin/groupupgrade.qtpl
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
 msgid ""
-"Please review the <a href=\"/static/tos\">terms of service, and <a "
-"href=\"/static/privacy\">privacy policy. All sales are final.</"
-"strong>"
+"Please review the <a href=\"/static/tos\">terms of service</a>, and <a "
+"href=\"/static/privacy\">privacy policy</a>. <strong>All sales are "
+"final.</strong>"
 msgstr ""
-"Veuillez consulter les <a href=\"/static/tos\">conditions d'utilisation "
-"et la <a href=\"/static/privacy\">politique de confidentialité. "
-"Toutes les ventes sont définitives."
+"Veuillez consulter les <a href=\"/static/tos\">conditions d'utilisation</a> "
+"et la <a href=\"/static/privacy\">politique de confidentialité</a>. "
+"<strong>Toutes les ventes sont définitives.</strong>"
 
 #: ../../pkg/notifications/noteviews/messagereportnotification.qtpl
 msgid ""
@@ -14401,11 +14404,11 @@ msgstr "Des questions ?"
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid ""
-"Questions? Concerns? Contact us at <a href=\"mailto:support@groups."
-"io\">support@groups.io."
+"Questions? Concerns? Contact us at <a "
+"href=\"mailto:support@groups.io\">support@groups.io</a>."
 msgstr ""
-"Des questions ? Des préoccupations ? Contactez-nous à <a href=\"mailto:"
-"support@groups.io\">support@groups.io."
+"Des questions ? Des préoccupations ? Contactez-nous à <a "
+"href=\"mailto:support@groups.io\">support@groups.io</a>."
 
 #: ../../cmd/web/views/base.qtpl
 msgid "Quick actions"
@@ -15254,12 +15257,14 @@ msgid "Save Word documents."
 msgstr "Enregistrer les documents Word."
 
 #: ../../cmd/web/views/sub/subintegrations.qtpl
-msgid "Saving attachments to %s from messages with hashtag #%s."
-msgstr "Enregistrement des pièces jointes vers %s à partir des messages contenant le hashtag #%s."
+msgid "Saving attachments to <b>%s</b> from messages with hashtag <b>#%s</b>."
+msgstr ""
+"Enregistrement des pièces jointes vers <b>%s</b> à partir des messages "
+"contenant le hashtag <b>#%s</b>."
 
 #: ../../cmd/web/views/sub/subintegrations.qtpl
-msgid "Saving attachments to %s."
-msgstr "Enregistrement des pièces jointes vers %s."
+msgid "Saving attachments to <b>%s</b>."
+msgstr "Enregistrement des pièces jointes vers <b>%s</b>."
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Saving your recovery codes in a safe place can help keep you from being locked out of your account. If the authentication code is lost (for example, if a device is reset to factory settings), and you no longer have your recovery codes, you will need to contact Groups.io Support to be able to log in."
@@ -15272,10 +15277,12 @@ msgstr "Scannez ce code-barres avec votre application"
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid ""
-"Scan this image using your authentication app. If you can't use a barcode, enter "
-"the code %s instead."
+"Scan this image using your authentication app. If you can't use a barcode, "
+"enter the code <strong>%s</strong> instead."
 msgstr ""
-"Scannez cette image à l'aide de votre application d'authentification. Si vous ne pouvez pas utiliser de code-barres, saisissez le code %s à la place."
+"Scannez cette image à l'aide de votre application d'authentification. Si "
+"vous ne pouvez pas utiliser de code-barres, saisissez le code "
+"<strong>%s</strong> à la place."
 
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/components/searchbreadcrumb.qtpl
@@ -15351,12 +15358,16 @@ msgstr "Sélectionner le microphone"
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 msgid ""
-"Select the data you want to export. Once you've made your selections and clicked "
-"the Export Group Data button, the data will be gathered into a "
-"compressed zip archive. You will receive an email with a link to the data when "
-"it is ready (generally within 10 minutes)."
+"Select the data you want to export. Once you've made your selections and "
+"clicked the <strong>Export Group Data</strong> button, the data will be "
+"gathered into a compressed zip archive. You will receive an email with a "
+"link to the data when it is ready (generally within 10 minutes)."
 msgstr ""
-"Sélectionnez les données que vous souhaitez exporter. Une fois votre sélection effectuée, cliquez sur le bouton Exporter les données du groupe pour que les données soient regroupées dans une archive zip compressée. Vous recevrez un e-mail contenant un lien vers les données dès qu'elles seront prêtes (généralement dans les 10 minutes)."
+"Sélectionnez les données que vous souhaitez exporter. Une fois votre "
+"sélection effectuée, cliquez sur le bouton <strong>Exporter les données du "
+"groupe</strong> pour que les données soient regroupées dans une archive zip "
+"compressée. Vous recevrez un e-mail contenant un lien vers les données dès "
+"qu'elles seront prêtes (généralement dans les 10 minutes)."
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Select the groups you want to export data from:"
@@ -15958,12 +15969,12 @@ msgid "South Georgia and the South Sandwich Islands"
 msgstr "Géorgie du Sud et îles Sandwich du Sud"
 
 #: ../../cmd/web/views/user/enterprise.qtpl
-msgid "SP Entity ID: https://%s"
-msgstr "ID d'entité du SP : https://%s"
+msgid "SP Entity ID: <em>https://%s</em>"
+msgstr "ID d'entité du SP : <em>https://%s</em>"
 
 #: ../../cmd/web/views/user/enterprise.qtpl
-msgid "SP Metadata URL: https://%s/saml/metadata"
-msgstr "URL des métadonnées du SP : https://%s/saml/metadata"
+msgid "SP Metadata URL: <em>https://%s/saml/metadata</em>"
+msgstr "URL des métadonnées du SP : <em>https://%s/saml/metadata</em>"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -16970,11 +16981,11 @@ msgstr "L'équipe %s"
 
 #: ../../pkg/notifications/noteviews/subgroupdirectadd.qtpl
 msgid ""
-"The address to send an email to the groups is <a href=\"mailto:"
-"%[1]s\">%[1]s."
+"The address to send an email to the groups is <a "
+"href=\"mailto:%[1]s\">%[1]s</a>."
 msgstr ""
-"L'adresse pour envoyer un e-mail aux groupes est <a href=\"mailto:"
-"%[1]s\">%[1]s."
+"L'adresse pour envoyer un e-mail aux groupes est <a "
+"href=\"mailto:%[1]s\">%[1]s</a>."
 
 #: ../../pkg/notifications/noteviews/legalnoticenotification.qtpl
 msgid ""
@@ -17027,9 +17038,8 @@ msgid "The bill for this year is $%.02f"
 msgstr "La facture pour cette année s'élève à %.02f $"
 
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
-msgid "The board \"%[1]s\" was renamed to \"<a href=\"%[2]s\">%[3]s\"."
-msgstr ""
-"Le tableau \"%[1]s\" a été renommé en \"<a href=\"%[2]s\">%[3]s\"."
+msgid "The board \"%[1]s\" was renamed to \"<a href=\"%[2]s\">%[3]s</a>\"."
+msgstr "Le tableau \"%[1]s\" a été renommé en \"<a href=\"%[2]s\">%[3]s</a>\"."
 
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 msgid "The branch \"%[1]s\" was deleted by %[2]s"
@@ -17139,11 +17149,11 @@ msgstr ""
 
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 msgid ""
-"The event is at capacity; you are now waitlisted for the "
+"The event is at capacity; you are now <strong>waitlisted</strong> for the "
 "event. Here are the event details:"
 msgstr ""
-"Cet événement est complet. Vous êtes maintenant sur la liste d'attente "
-"pour cet événement. Voici les détails de l'événement :"
+"Cet événement est complet. Vous êtes maintenant sur la <strong>liste "
+"d'attente</strong> pour cet événement. Voici les détails de l'événement :"
 
 #: ../../pkg/notifications/noteviews/exportgroupnotification.qtpl
 #: ../../pkg/notifications/noteviews/exportusernotification.qtpl
@@ -17630,11 +17640,11 @@ msgstr "La catégorie de sous-groupe a été mise à jour."
 
 #: ../../cmd/web/views/login/sendloginlink.qtpl
 msgid ""
-"The subject of the email is Link to log into %[1]s and it "
-"is sent from noreply@%[2]s."
+"The subject of the email is <strong>Link to log into %[1]s</strong> and it "
+"is sent from <strong>noreply@%[2]s</strong>."
 msgstr ""
-"L'objet du courriel est Lien pour se connecter à %[1]s et il "
-"est envoyé par noreply@%[2]s."
+"L'objet du courriel est <strong>Lien pour se connecter à %[1]s</strong> et "
+"il est envoyé par <strong>noreply@%[2]s</strong>."
 
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl
 msgid "The subscription application came in via the +subscribe email address."
@@ -18348,16 +18358,16 @@ msgstr ""
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid ""
 "To change your delivery and subscription options, or to unsubscribe, click "
-"the Subscription Options bar below."
+"the <strong>Subscription Options</strong> bar below."
 msgstr ""
 "Pour modifier vos options de réception et d'abonnement, ou pour vous "
-"désabonner, cliquez sur la barre Options d'abonnement ci-dessous."
+"désabonner, cliquez sur la barre <strong>Options d'abonnement</strong> "
+"ci-dessous."
 
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
-msgid "To complete the deletion, enter I understand:"
-msgstr ""
-"Pour confirmer la suppression, saisissez Je comprends :"
+msgid "To complete the deletion, enter <strong>I understand</strong>:"
+msgstr "Pour confirmer la suppression, saisissez <strong>Je comprends</strong> :"
 
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 msgid "to confirm your account."
@@ -18403,9 +18413,8 @@ msgid "To Member"
 msgstr "Au membre"
 
 #: ../../pkg/notifications/noteviews/mergeaccountsnotification.qtpl
-msgid "To merge these accounts, <a id=\"clickhere\" href=\"%s\">click here."
-msgstr ""
-"Pour fusionner ces comptes, <a id=\"clickhere\" href=\"%s\">cliquez ici."
+msgid "To merge these accounts, <a id=\"clickhere\" href=\"%s\">click here</a>."
+msgstr "Pour fusionner ces comptes, <a id=\"clickhere\" href=\"%s\">cliquez ici</a>."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "To mute a hashtag, you must first log in."
@@ -18455,17 +18464,18 @@ msgstr "Aux répondants du sondage"
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid ""
 "To post to the group, send an email to %s or visit the <a href=\"%s\">Post "
-"page."
+"page</a>."
 msgstr ""
-"Pour publier dans le groupe, envoyez un e-mail à %s ou visitez la <a href=\"%s\">page de publication."
+"Pour publier dans le groupe, envoyez un e-mail à %s ou visitez la <a "
+"href=\"%s\">page de publication</a>."
 
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl
-msgid "To post to the group, send an email to %s"
-msgstr "Pour publier dans le groupe, envoyez un e-mail à %s"
+msgid "To post to the group, send an email to <strong>%s</strong>"
+msgstr "Pour publier dans le groupe, envoyez un e-mail à <strong>%s</strong>"
 
 #: ../../cmd/web/views/group/grouppromote.qtpl
-msgid "To post to your group, send email to %s."
-msgstr "Pour publier dans votre groupe, envoyez un e-mail à %s."
+msgid "To post to your group, send email to <em>%s</em>."
+msgstr "Pour publier dans votre groupe, envoyez un e-mail à <em>%s</em>."
 
 #: ../../pkg/notifications/noteviews/emailhelpnotification.qtpl
 msgid ""
@@ -18741,10 +18751,10 @@ msgstr "Intégrations Trello"
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 msgid ""
 "Trial groups do not have access to direct add. To use this function, you "
-"need to <a href=\"%s\">upgrade to a paid group"
+"need to <a href=\"%s\">upgrade to a paid group</a>"
 msgstr ""
 "Les groupes d'essai n'ont pas accès à l'ajout direct. Pour utiliser cette "
-"fonction, vous devez <a href=\"%s\">passer à un groupe payant"
+"fonction, vous devez <a href=\"%s\">passer à un groupe payant</a>"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -18897,15 +18907,15 @@ msgid "Unfollow Hashtag"
 msgstr "Ne plus suivre le hashtag"
 
 #: ../../cmd/web/views/mutefollow/unfk.qtpl
-msgid "Unfollow the #%[1]s hashtag in the %[2]s group?"
-msgstr "Ne plus suivre le hashtag #%[1]s dans le groupe %[2]s ?"
+msgid "Unfollow the <b>#%[1]s</b> hashtag in the <b>%[2]s</b> group?"
+msgstr "Ne plus suivre le hashtag <b>#%[1]s</b> dans le groupe <b>%[2]s</b> ?"
 
 #: ../../cmd/web/views/mutefollow/unft.qtpl
 msgid ""
-"Unfollow the %[1]s topic in the %[2]s group? You will no "
+"Unfollow the <b>%[1]s</b> topic in the <b>%[2]s</b> group? You will no "
 "longer receive any messages in this topic."
 msgstr ""
-"Ne plus suivre le sujet %[1]s dans le groupe %[2]s ? Vous ne "
+"Ne plus suivre le sujet <b>%[1]s</b> dans le groupe <b>%[2]s</b> ? Vous ne "
 "recevrez plus de messages sur ce sujet."
 
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
@@ -19009,12 +19019,12 @@ msgid "Unmute Hashtag"
 msgstr "Réactiver le hashtag"
 
 #: ../../cmd/web/views/mutefollow/unmk.qtpl
-msgid "Unmute the #%[1]s hashtag in the %[2]s group?"
-msgstr "Réactiver le hashtag #%[1]s dans le groupe %[2]s ?"
+msgid "Unmute the <b>#%[1]s</b> hashtag in the <b>%[2]s</b> group?"
+msgstr "Réactiver le hashtag <b>#%[1]s</b> dans le groupe <b>%[2]s</b> ?"
 
 #: ../../cmd/web/views/mutefollow/unmt.qtpl
-msgid "Unmute the %[1]s topic in the %[2]s group?"
-msgstr "Réactiver le sujet %[1]s dans le groupe %[2]s ?"
+msgid "Unmute the <b>%[1]s</b> topic in the <b>%[2]s</b> group?"
+msgstr "Réactiver le sujet <b>%[1]s</b> dans le groupe <b>%[2]s</b> ?"
 
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
 msgid "Unmute This Topic"
@@ -19391,20 +19401,21 @@ msgstr ""
 
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 msgid ""
-"Upload a file containing the email addresses of all of the people you want to be "
-"in your group. Any people currently in your group that are not listed will be "
-"removed, and any people in the file that are not in your group will be added. "
-"You will be taken to a confirmation screen before the sync occurs. "
-"Note:No emails will be sent to people when they are removed."
+"Upload a file containing the email addresses of all of the people you want "
+"to be in your group. Any people currently in your group that are not listed "
+"will be removed, and any people in the file that are not in your group will "
+"be added. You will be taken to a confirmation screen before the sync occurs. "
+"<strong>Note:</strong>No emails will be sent to people when they are "
+"removed."
 msgstr ""
 "Téléversez un fichier contenant les adresses e-mail de toutes les personnes "
-"que vous souhaitez ajouter à votre groupe. Toutes les personnes "
-"actuellement membres de votre groupe qui ne figurent pas dans la liste "
-"seront supprimées, et toutes les personnes figurant dans le fichier qui ne "
-"sont pas membres de votre groupe seront ajoutées. Vous serez redirigé vers "
-"un écran de confirmation avant que la synchronisation n'ait lieu. "
-"Remarque : aucun e-mail ne sera envoyé aux personnes lors "
-"de leur suppression."
+"que vous souhaitez ajouter à votre groupe. Toutes les personnes actuellement "
+"membres de votre groupe qui ne figurent pas dans la liste seront supprimées, "
+"et toutes les personnes figurant dans le fichier qui ne sont pas membres de "
+"votre groupe seront ajoutées. Vous serez redirigé vers un écran de "
+"confirmation avant que la synchronisation n'ait lieu. <strong>Remarque "
+":</strong> aucun e-mail ne sera envoyé aux personnes lors de leur "
+"suppression."
 
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 msgid "Upload a file containing the email addresses to add, one per line"
@@ -19528,8 +19539,8 @@ msgid "USD $%.02f"
 msgstr "USD %.02f $"
 
 #: ../../cmd/web/views/user/enterprise.qtpl
-msgid "Use [https://groups.io/ssologin](https://groups.io/ssologin) for the OAuth callback URL."
-msgstr "Utilisez [https://groups.io/ssologin](https://groups.io/ssologin) comme URL de rappel OAuth."
+msgid "Use <em>https://groups.io/ssologin</em> for the OAuth callback URL."
+msgstr "Utilisez <em>https://groups.io/ssologin</em> comme URL de rappel OAuth."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Use by Mods Only"
@@ -20074,14 +20085,6 @@ msgstr "Visibilité des messages dans les archives"
 msgid "Visible"
 msgstr "Visible"
 
-#: ../../cmd/web/views/static/staticwelcome.qtpl
-msgid ""
-"Visit our <a href=\"/helpcenter\">help center for more information about "
-"how the Groups.io site works."
-msgstr ""
-"Visitez notre <a href=\"/helpcenter\">centre d'aide pour plus d'informations "
-"sur le fonctionnement du site Groups.io."
-
 #: ../../pkg/notifications/noteviews/joingroup.qtpl
 #: ../../pkg/notifications/noteviews/welcomenotification.qtpl
 msgid ""
@@ -20279,12 +20282,12 @@ msgid ""
 "We just sent you a confirmation email. You need to either reply to that "
 "email or click on the link within the email to confirm your account. If you "
 "don't receive your confirmation email, <a href=\"/resendconfirm\">have "
-"another one sent to you."
+"another one sent to you.</a>"
 msgstr ""
 "Nous venons de vous envoyer un e-mail de confirmation. Vous devez soit "
 "répondre à cet e-mail, soit cliquer sur le lien qu'il contient pour "
 "confirmer votre compte. Si vous ne recevez pas l'e-mail de confirmation, <a "
-"href=\"/resendconfirm\">cliquez ici pour en recevoir un autre."
+"href=\"/resendconfirm\">cliquez ici pour en recevoir un autre.</a>"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "We keep a history of all members who have left or were removed."
@@ -20295,13 +20298,13 @@ msgstr ""
 #: ../../cmd/web/views/group/grouppromote.qtpl
 msgid ""
 "We make it easy to have a <a href=\"%[1]s\">customized email with an invite "
-"link sent to a list of your friends. And you can always point people to "
-"your group home page: <a href=\"%[2]s\">%[2]s"
+"link</a> sent to a list of your friends. And you can always point people to "
+"your group home page: <p><strong><a href=\"%[2]s\">%[2]s</a></strong></p>"
 msgstr ""
 "Nous vous permettons d'envoyer facilement un <a href=\"%[1]s\">e-mail "
-"personnalisé avec un lien d'invitation à une liste d'amis. De plus, "
-"vous pouvez toujours diriger les personnes vers la page d'accueil de votre "
-"groupe : <a href=\"%[2]s\">%[2]s"
+"personnalisé avec un lien d'invitation</a> à une liste d'amis. De plus, vous "
+"pouvez toujours diriger les personnes vers la page d'accueil de votre groupe "
+": <p><strong><a href=\"%[2]s\">%[2]s</a></strong></p>"
 
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 msgid "We retry messages many times before bouncing them."
@@ -20669,18 +20672,19 @@ msgstr ""
 
 #: ../../cmd/web/views/group/createsubgroup.qtpl
 msgid ""
-"When you create your first subgroup, a subdomain will be created automatically "
-"for you. Your parent group is called %[1]s. Let's say you're creating a "
-"subgroup called sg. After you create the subgroup, your parent group "
-"will now be main@%[2]s and your subgroup will be called "
-"sg@%[2]s. You can change main to any other name you want."
+"When you create your first subgroup, a subdomain will be created "
+"automatically for you. Your parent group is called <em>%[1]s</em>. Let's say "
+"you're creating a subgroup called <em>sg</em>. After you create the "
+"subgroup, your parent group will now be <em>main@%[2]s</em> and your "
+"subgroup will be called <em>sg@%[2]s</em>. You can change main to any other "
+"name you want."
 msgstr ""
 "Lorsque vous créez votre premier sous-groupe, un sous-domaine est "
-"automatiquement créé pour vous. Votre groupe parent se nomme %[1]s. "
-"Par exemple, si vous créez un sous-groupe nommé sg, votre groupe "
-"parent deviendra main@%[2]s et votre sous-groupe s'appellera "
-"sg@%[2]s. Vous pouvez ensuite remplacer « main » par le nom de votre "
-"choix."
+"automatiquement créé pour vous. Votre groupe parent se nomme <em>%[1]s</em>. "
+"Par exemple, si vous créez un sous-groupe nommé <em>sg</em>, votre groupe "
+"parent deviendra <em>main@%[2]s</em> et votre sous-groupe s'appellera "
+"<em>sg@%[2]s</em>. Vous pouvez ensuite remplacer « main » par le nom de "
+"votre choix."
 
 
 #: ../../cmd/web/views/account/settings.qtpl
@@ -21842,10 +21846,10 @@ msgstr "Vous disposez des abonnements de notification suivants :"
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl
 msgid ""
 "You have the maximum number of integrations already. For more integrations, "
-"you must <a href=\"%s\">upgrade your group."
+"you must <a href=\"%s\">upgrade your group</a>."
 msgstr ""
-"Vous avez déjà atteint le nombre maximal d'intégrations. Pour en ajouter d'autres, "
-"vous devez <a href=\"%s\">mettre votre groupe à niveau."
+"Vous avez déjà atteint le nombre maximal d'intégrations. Pour en ajouter "
+"d'autres, vous devez <a href=\"%s\">mettre votre groupe à niveau</a>."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "You have too many drafts. Delete some before posting again."
@@ -21864,11 +21868,11 @@ msgstr "Vous avez réactivé les notifications pour ce sujet."
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid ""
 "You have used all of your two factor recovery codes. We strongly recommend "
-"<a href=\"/account?page=security\">generating a new set."
+"<a href=\"/account?page=security\">generating a new set</a>."
 msgstr ""
 "Vous avez utilisé tous vos codes de récupération pour l'authentification à "
-"deux facteurs. Nous vous recommandons vivement d'<a href=\"/account?page=security\">en "
-"générer un nouveau jeu."
+"deux facteurs. Nous vous recommandons vivement d'<a "
+"href=\"/account?page=security\">en générer un nouveau jeu</a>."
 
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "You haven't added any passkeys yet."
@@ -22672,10 +22676,11 @@ msgstr "Votre abonnement à %s a été modifié"
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 msgid ""
-"Your subscription to the <a href=\"%[1]s\">%[1]s group is awaiting moderator "
-"approval."
+"Your subscription to the <a href=\"%[1]s\">%[1]s</a> group is awaiting "
+"moderator approval."
 msgstr ""
-"Votre inscription au groupe <a href=\"%[1]s\">%[1]s est en attente de l'approbation du modérateur."
+"Votre inscription au groupe <a href=\"%[1]s\">%[1]s</a> est en attente de "
+"l'approbation du modérateur."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid ""

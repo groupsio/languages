@@ -160,8 +160,10 @@ msgstr[1] "%[1]s y %#[2]d otros desplazados"
 #: ../../cmd/web/views/groupsync/syncgroup.qtpl
 msgid "%[1]s organizations can be synced with an external service. This means that members of the external service can automatically be made members of an %[1]s organization. Automatic syncing occurs hourly."
 msgstr ""
-"las organizaciones de %[1]s pueden sincronizarse con un servicio externo. Esto significa que los miembros del servicio externo pueden convertirse automáticamente en miembros de una organización de %[1]s\n"
-"miembros de una organización de %[1]s. La sincronización automática se produce cada hora."
+"las organizaciones de %[1]s pueden sincronizarse con un servicio externo. "
+"Esto significa que los miembros del servicio externo pueden convertirse "
+"automáticamente en miembros de una organización de %[1]s. La sincronización "
+"automática se produce cada hora."
 
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 msgid "%[1]s posted the message '%[2]s' that needs to be approved."
@@ -7578,7 +7580,12 @@ msgstr "Si aumenta el número de invitados, es posible que se le incluya en la l
 
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "If you are legally recognized as a non-profit organization, we offer a 50% discount on our <strong>Enterprise plan</strong>. When upgrading your group, select the non-profit discount. Also, please contact us so we can verify your non-profit status."
-msgstr "Si está legalmente reconocido como organización sin ánimo de lucro, le ofrecemos un descuento de 50%den nuestro <strong>plan Enterprise</strong>. Cuando actualice su grupo, seleccione el descuento para organizaciones sin ánimo de lucro. Póngase en contacto con nosotros para que podamos verificar su condición de organización sin ánimo de lucro."
+msgstr ""
+"Si está legalmente reconocido como organización sin ánimo de lucro, le "
+"ofrecemos un descuento del 50% en nuestro <strong>plan Enterprise</strong>. "
+"Cuando actualice su grupo, seleccione el descuento para organizaciones sin "
+"ánimo de lucro. Póngase en contacto con nosotros para que podamos verificar "
+"su condición de organización sin ánimo de lucro."
 
 #: ../../pkg/notifications/noteviews/invitenotification.qtpl
 msgid "If you are not interested, or if %s is not your email address, please ignore this email."
@@ -17606,8 +17613,12 @@ msgstr "Reintentamos los mensajes muchas veces antes de rebotarlos."
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "We send you a warning when you've reached 80% of your storage limit. You can configure your group to either bounce messages when you've reached your storage limit, or to automatically delete old attachments to keep you under the storage limit. Photos and files are never automatically deleted."
 msgstr ""
-"Te enviaremos un aviso cuando hayas alcanzado el 80%of de tu límite de almacenamiento. Puedes configurar tu grupo para que te devuelva los mensajes cuando hayas alcanzado tu límite de almacenamiento, o para que elimine automáticamente los archivos adjuntos antiguos para mantenerte por debajo del límite de almacenamiento\n"
-"\t\t\t\t\t\t\tlímite de almacenamiento, o para que elimine automáticamente los archivos adjuntos antiguos para mantenerte por debajo del límite de almacenamiento. Las fotos y los archivos nunca se eliminan automáticamente."
+"Te enviaremos un aviso cuando hayas alcanzado el 80% de tu límite de "
+"almacenamiento. Puedes configurar tu grupo para que te devuelva los mensajes "
+"cuando hayas alcanzado tu límite de almacenamiento, o para que elimine "
+"automáticamente los archivos adjuntos antiguos para mantenerte por debajo "
+"del límite de almacenamiento. Las fotos y los archivos nunca se eliminan "
+"automáticamente."
 
 #: ../../pkg/notifications/noteviews/spamresubemail.qtpl
 msgid "We suggest that you check your spam folder as soon as possible to see if your Email Service Provider has diverted other legitimate messages into it."
@@ -19166,7 +19177,7 @@ msgstr "Tu grupo está alojado en tu propio dominio."
 
 #: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl
 msgid "Your group is using over 80% of its available storage"
-msgstr "Tu grupo está utilizando más del 80%of de su almacenamiento disponible"
+msgstr "Tu grupo está utilizando más del 80% de su almacenamiento disponible"
 
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/mutefollow/followedkeywords.qtpl

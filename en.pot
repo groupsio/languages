@@ -5498,6 +5498,31 @@ msgid "Credit Card On File"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/account/settings.qtpl
+msgid "Payment Method On File"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/webviews/groupsponsor.qtpl
+msgid "Bank Account On File"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/webviews/groupsponsor.qtpl
+msgid "Pay With This Bank Account"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Your bank account on file,"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid ", will be charged. Bank payments take 3–5 business days to clear."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/updatecc.qtpl
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
 msgid "Credit Or Debit Card"
@@ -13440,6 +13465,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "No credit card is on file."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/settings.qtpl
+msgid "No payment method is on file."
 msgstr ""
 
 #, go-format

@@ -1,0 +1,21 @@
+name: Validate PO files
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install gettext
+        run: sudo apt-get update && sudo apt-get install -y gettext
+      - name: Validate PO syntax
+        run: |
+          status=0
+          for f in *.po en.pot; do
+            echo "== $f"
+            msgfmt --check --statistics -o /dev/null "$f" || status=1
+          done
+          exit $status

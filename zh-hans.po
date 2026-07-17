@@ -944,7 +944,7 @@ msgid ""
 "their account. They can then request to join groups or be added via direct "
 "addition or invitation. </p>"
 msgstr ""
-"<h3>概述</h3> <p>部分成员已收到主题为&quot;<strong>需操作：确认您的Groups.io会员资格以继续接收群组邮件</strong>&quot;的邮件。该邮件要求成员通过回复邮件或登录账户来确认会员身份。此类账户多为长期未发帖的账户。请所有成员注意：<strong>此邮件属官方正规通知</strong>，并非钓鱼邮件。</p> <p>若用户收到邮件后未能在2024年3月25日（周一）前完成确认/重新验证，其Groups.io账户将被暂停。在此期间，系统将向未响应成员发送数封后续提醒邮件。</p> <div class=\"well well-sm\"> 若您是群组所有者或管理员，可查看成员是否需要重新验证。请进入群组的&quot;成员&quot;页面，查找<span class=\"label label-info\">RI</span>标识。若您的群组中没有成员显示该标识，则<strong>可安全忽略此通知</strong>。 </div> <h3>为何需要重新验证？</h3> <p>2024年3月11日，反垃圾邮件服务商Spamhaus将我方某邮件服务器标记为垃圾邮件发送源。此举导致所有采用Spamhaus服务的邮件系统停止接收我方服务器邮件。该标记源于部分群组订阅了无效邮箱地址——这些并非真实用户，而是垃圾邮件陷阱。 垃圾邮件陷阱是指专为捕捉垃圾邮件发送者而设、非真实用户使用的邮箱地址。为此我们启动了重新验证流程，并于当日向众多用户发送了验证邮件。</p> <p>我们理解并为由此造成的不便致歉，但此举实属必要，旨在确保群组邮件投递能持续顺畅进行。</p> <h3>重新验证邮件示例</h3> <div class=\"well well-sm\"> <p><strong>主题</strong>：请立即确认您的Groups.io会员资格以继续接收群组邮件</p> <p>您好，</p> <p>您关联邮箱地址的账户自日期起已加入一个或多个Groups.io邮件组。为践行维护优质无垃圾邮件体验的承诺，我们正在更新订阅记录。为确保您仍希望接收订阅群组邮件，恳请您进行确认。</p> <p>您可通过以下两种简易方式确认订阅：</p> <p> 1. 无需添加任何文字，直接回复此邮件。Groups.io系统将自动识别为&quot;希望保留组员身份&quot;。<br>2. 或登录您的Groups.io账户，有效登录行为即视为确认。</p> <p>若未收到您的回复，我们将每4天发送一次提醒邮件，确保您有充分机会保留订阅。</p> <p>若截至2024年3月25日（周一）仍未收到确认，我们将视为您不愿继续订阅。届时您的邮箱将从所属群组中移除。</p> <p>我们已整理常见问题解答页面提供更多信息，请访问：<a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>您当前加入的由我们托管的群组如下： <ul> <li>群组名称 - 群组描述</li> </ul> <p> <p>感谢您对此事的及时关注，您是我们社区的重要成员。</p><br>此致Groups.io<br>团队敬上 </p></p></div> <h3>若您已收到重新验证邮件</h3> <p>收到重新验证邮件的成员需在2024年3月25日（星期一）前完成以下任一操作：回复邮件或登录Groups.io账户。</p> <p>若选择回复邮件，无需在回复中填写任何内容，系统将自动发送确认邮件。</p> <p>若您登录账户，将看到绿色横幅提示&quot;重新验证成功&quot;，无需执行其他操作。若您忘记密码或尚未设置密码，请点击&quot;<i>忘记密码？或尚未设置密码？&quot;</i>链接，系统将发送包含自动登录链接的邮件。登录后即完成重新验证。</p> <p>我们将持续发送重新验证提醒至2024年3月25日（周一）。若成员在此流程后被移除，相关记录将留存于群组活动日志中。</p> <h3>管理员须知</h3> <p>您可查看受影响用户。进入群组管理后台的&quot;成员&quot;页面，每个用户邮箱旁可能显示<span class=\"label label-info\">RI</span>或<span class=\"label label-info\">RS</span>标识：<span class=\"label label-info\">RI</span>表示验证/重新验证进行中（尚未完成）；<span class=\"label label-info\">RS</span>表示验证/重新验证已成功完成。</p> <p>管理员可勾选相应筛选框后点击<strong>下载</strong>按钮，获取过滤后的CSV格式成员列表。</p> <p>各群组受影响成员数量差异显著，部分群组无成员受影响。总体而言，仅占Groups.io总会员数的一小部分。</p> <h3>时间线（仍在最终确定中）</h3> <p>后续流程步骤如下：</p> <ol> <li>3月25日之后至少两周内，用户仍可自行重新验证，且<span class=\"label label-info\">RI</span>与<span class=\"label label-info\">RS</span>标识仍会在成员页面显示。</li> <li>此后，仍处于<span class=\"label label-info\">&quot;待验证&quot;</span>状态的成员将被移出群组。活动日志将记录为<em>&quot;会员状态 - 成员移除</em>&quot;，并标注&quot;<em>重新验证失败</em>&quot;为原因。</li> </ol> <p>对于未进行重新验证的域名，相关账户将被禁止所有操作，视同潜在垃圾邮件陷阱。这些邮箱地址将无法登录、通过邀请加入群组、直接添加或申请加入。若该域名下存在有效用户，请联系 support@groups.io 解除域名禁令。 对于未受禁令的域名，用户账户将保留。被移出群组的用户可直接登录，或通过登录页面的&quot;发送登录链接至邮箱&quot;按钮重新验证账户。验证后即可申请加入群组，或通过直接添加/邀请方式重新加入。 </p>"
+"<h3>概述</h3> <p>部分成员已收到主题为\"<strong>需操作：确认您的Groups.io会员资格以继续接收群组邮件</strong>\"的邮件。该邮件要求成员通过回复邮件或登录账户来确认会员身份。此类账户多为长期未发帖的账户。请所有成员注意：<strong>此邮件属官方正规通知</strong>，并非钓鱼邮件。</p> <p>若用户收到邮件后未能在2024年3月25日（周一）前完成确认/重新验证，其Groups.io账户将被暂停。在此期间，系统将向未响应成员发送数封后续提醒邮件。</p> <div class=\"well well-sm\"> 若您是群组所有者或管理员，可查看成员是否需要重新验证。请进入群组的\"成员\"页面，查找<span class=\"label label-info\">RI</span>标识。若您的群组中没有成员显示该标识，则<strong>可安全忽略此通知</strong>。 </div> <h3>为何需要重新验证？</h3> <p>2024年3月11日，反垃圾邮件服务商Spamhaus将我方某邮件服务器标记为垃圾邮件发送源。此举导致所有采用Spamhaus服务的邮件系统停止接收我方服务器邮件。该标记源于部分群组订阅了无效邮箱地址——这些并非真实用户，而是垃圾邮件陷阱。 垃圾邮件陷阱是指专为捕捉垃圾邮件发送者而设、非真实用户使用的邮箱地址。为此我们启动了重新验证流程，并于当日向众多用户发送了验证邮件。</p> <p>我们理解并为由此造成的不便致歉，但此举实属必要，旨在确保群组邮件投递能持续顺畅进行。</p> <h3>重新验证邮件示例</h3> <div class=\"well well-sm\"> <p><strong>主题</strong>：请立即确认您的Groups.io会员资格以继续接收群组邮件</p> <p>您好，</p> <p>您关联邮箱地址的账户自日期起已加入一个或多个Groups.io邮件组。为践行维护优质无垃圾邮件体验的承诺，我们正在更新订阅记录。为确保您仍希望接收订阅群组邮件，恳请您进行确认。</p> <p>您可通过以下两种简易方式确认订阅：</p> <p> 1. 无需添加任何文字，直接回复此邮件。Groups.io系统将自动识别为\"希望保留组员身份\"。<br>2. 或登录您的Groups.io账户，有效登录行为即视为确认。</p> <p>若未收到您的回复，我们将每4天发送一次提醒邮件，确保您有充分机会保留订阅。</p> <p>若截至2024年3月25日（周一）仍未收到确认，我们将视为您不愿继续订阅。届时您的邮箱将从所属群组中移除。</p> <p>我们已整理常见问题解答页面提供更多信息，请访问：<a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>您当前加入的由我们托管的群组如下： <ul> <li>群组名称 - 群组描述</li> </ul> <p> <p>感谢您对此事的及时关注，您是我们社区的重要成员。</p><br>此致Groups.io<br>团队敬上 </p></p></div> <h3>若您已收到重新验证邮件</h3> <p>收到重新验证邮件的成员需在2024年3月25日（星期一）前完成以下任一操作：回复邮件或登录Groups.io账户。</p> <p>若选择回复邮件，无需在回复中填写任何内容，系统将自动发送确认邮件。</p> <p>若您登录账户，将看到绿色横幅提示\"重新验证成功\"，无需执行其他操作。若您忘记密码或尚未设置密码，请点击\"<i>忘记密码？或尚未设置密码？\"</i>链接，系统将发送包含自动登录链接的邮件。登录后即完成重新验证。</p> <p>我们将持续发送重新验证提醒至2024年3月25日（周一）。若成员在此流程后被移除，相关记录将留存于群组活动日志中。</p> <h3>管理员须知</h3> <p>您可查看受影响用户。进入群组管理后台的\"成员\"页面，每个用户邮箱旁可能显示<span class=\"label label-info\">RI</span>或<span class=\"label label-info\">RS</span>标识：<span class=\"label label-info\">RI</span>表示验证/重新验证进行中（尚未完成）；<span class=\"label label-info\">RS</span>表示验证/重新验证已成功完成。</p> <p>管理员可勾选相应筛选框后点击<strong>下载</strong>按钮，获取过滤后的CSV格式成员列表。</p> <p>各群组受影响成员数量差异显著，部分群组无成员受影响。总体而言，仅占Groups.io总会员数的一小部分。</p> <h3>时间线（仍在最终确定中）</h3> <p>后续流程步骤如下：</p> <ol> <li>3月25日之后至少两周内，用户仍可自行重新验证，且<span class=\"label label-info\">RI</span>与<span class=\"label label-info\">RS</span>标识仍会在成员页面显示。</li> <li>此后，仍处于<span class=\"label label-info\">\"待验证\"</span>状态的成员将被移出群组。活动日志将记录为<em>\"会员状态 - 成员移除</em>\"，并标注\"<em>重新验证失败</em>\"为原因。</li> </ol> <p>对于未进行重新验证的域名，相关账户将被禁止所有操作，视同潜在垃圾邮件陷阱。这些邮箱地址将无法登录、通过邀请加入群组、直接添加或申请加入。若该域名下存在有效用户，请联系 support@groups.io 解除域名禁令。 对于未受禁令的域名，用户账户将保留。被移出群组的用户可直接登录，或通过登录页面的\"发送登录链接至邮箱\"按钮重新验证账户。验证后即可申请加入群组，或通过直接添加/邀请方式重新加入。 </p>"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticupgradeapp.qtpl
@@ -1137,7 +1137,7 @@ msgid ""
 "your passkeys. You can also view and manage your recovery codes on the <a "
 "href=\"/settings/recoverycodes\">Recovery Codes</a> page."
 msgstr ""
-"<strong>恢复码：</strong>当您首次添加密钥时，系统将生成一组恢复码。若您遗失密钥，可使用这些恢复码访问账户。您还可在&quot;<a href=\"/settings/recoverycodes\">恢复码</a>&quot;页面查看和管理这些恢复码。"
+"<strong>恢复码：</strong>当您首次添加密钥时，系统将生成一组恢复码。若您遗失密钥，可使用这些恢复码访问账户。您还可在\"<a href=\"/settings/recoverycodes\">恢复码</a>\"页面查看和管理这些恢复码。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -10582,7 +10582,7 @@ msgid ""
 "Groups.io received a %s that required removal of %d topics from your group "
 "<strong>%s</strong>."
 msgstr ""
-"Groups.io 收到一个 %s，需要从您的群组 <strong>%s</strong> 中移除 %d 主题。"
+"Groups.io 收到一个 %s，需要移除 %d 个主题（来自您的群组 <strong>%s</strong>）。"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/legalnoticenotification.qtpl
@@ -11684,7 +11684,7 @@ msgid ""
 "with a link that, when clicked, will cause the accounts to be merged and this "
 "account to be deleted."
 msgstr ""
-"若要将此账户（<strong>%[1]s</strong>）合并至该账户，请点击&quot;合并账户&quot;按钮。系统将向<strong>%[2]s</strong>发送一封包含链接的邮件，点击该链接后，两个账户将完成合并，且本账户将被删除。"
+"若要将此账户（<strong>%[1]s</strong>）合并至该账户，请点击\"合并账户\"按钮。系统将向<strong>%[2]s</strong>发送一封包含链接的邮件，点击该链接后，两个账户将完成合并，且本账户将被删除。"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl

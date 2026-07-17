@@ -236,7 +236,7 @@ msgid ""
 msgstr ""
 "%[1]s Organisationen können mit einem externen Dienst synchronisiert werden. "
 "Dies bedeutet, dass Mitglieder des externen Dienstes automatisch zu "
-"Mitgliedern einer %[1]-Organisation gemacht werden können. Die automatische "
+"Mitgliedern einer %[1]s-Organisation gemacht werden können. Die automatische "
 "Synchronisierung erfolgt stündlich."
 
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
@@ -715,8 +715,8 @@ msgstr "50 Stück"
 msgid ""
 "<a href=\"%[1]s\">Join</a> %[2]s to automatically receive all group messages."
 msgstr ""
-"<a href=\"%[1]s\">Treten Sie</a> {%[2]s <a href=\"%[1]s\">bei</a>, um "
-"automatisch alle Gruppennachrichten zu erhalten."
+"<a href=\"%[1]s\">Treten Sie %[2]s bei</a>, um automatisch alle "
+"Gruppennachrichten zu erhalten."
 
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #, fuzzy
@@ -3212,7 +3212,7 @@ msgstr ""
 #, fuzzy
 msgid "Are you sure you want to delete your <strong>%s</strong> account?"
 msgstr ""
-"Möchten Sie Ihr <strong>_PLACEHOLDER1</strong>_-Konto wirklich löschen?"
+"Möchten Sie Ihr <strong>%s</strong>-Konto wirklich löschen?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -4057,7 +4057,8 @@ msgid ""
 "Before deleting your group, you may want to <a href=\"%s/exportgroup\">export "
 "the group</a>."
 msgstr ""
-"Bevor Sie Ihre Gruppe löschen, möchten Sie <a href=\"%s/exportgroup\">diese</a> möglicherweise <a href=\"%s/exportgroup\">exportieren</a>."
+"Bevor Sie Ihre Gruppe löschen, möchten Sie diese möglicherweise <a "
+"href=\"%s/exportgroup\">exportieren</a>."
 
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 #, fuzzy
@@ -10426,7 +10427,7 @@ msgid ""
 "RSVP</a>."
 msgstr ""
 "Wenn Sie nicht mehr an der Veranstaltung teilnehmen können, <a "
-"href=\"%s\">aktualisieren Sie</a> bitte <a href=\"%s\">Ihre RSVP</a>."
+"href=\"%s\">aktualisieren Sie bitte Ihre RSVP</a>."
 
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl
 #, fuzzy
@@ -10842,8 +10843,8 @@ msgid ""
 "Group, or to Public."
 msgstr ""
 "Um das Mitgliederverzeichnis einsehen zu können, müssen Sie die <a "
-"href=\"%s\">Privatsphäre-Einstellung</a> Ihres <a href=\"%s\">Profils</a> "
-"entweder auf Andere Mitglieder Ihrer Gruppe oder auf Öffentlich ändern."
+"href=\"%s\">Privatsphäre-Einstellung Ihres Profils</a> entweder auf Andere "
+"Mitglieder Ihrer Gruppe oder auf Öffentlich ändern."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -10853,8 +10854,8 @@ msgid ""
 "Subgroup, or to Public."
 msgstr ""
 "Um das Mitgliederverzeichnis einsehen zu können, müssen Sie die <a "
-"href=\"%s\">Privatsphäre-Einstellung</a> Ihres <a href=\"%s\">Profils</a> "
-"entweder auf Andere Mitglieder Ihrer Untergruppe oder auf Öffentlich ändern."
+"href=\"%s\">Privatsphäre-Einstellung Ihres Profils</a> entweder auf Andere "
+"Mitglieder Ihrer Untergruppe oder auf Öffentlich ändern."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -10863,8 +10864,8 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Group."
 msgstr ""
 "Um das Mitgliederverzeichnis einsehen zu können, müssen Sie die <a "
-"href=\"%s\">Privatsphäre-Einstellung</a> Ihres <a href=\"%s\">Profils</a> "
-"auf Andere Mitglieder Ihrer Gruppe ändern."
+"href=\"%s\">Privatsphäre-Einstellung Ihres Profils</a> auf Andere Mitglieder "
+"Ihrer Gruppe ändern."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -10873,8 +10874,8 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Subgroup."
 msgstr ""
 "Um das Mitgliederverzeichnis einsehen zu können, müssen Sie die <a "
-"href=\"%s\">Privatsphäre-Einstellung</a> Ihres <a href=\"%s\">Profils</a> "
-"auf Andere Mitglieder Ihrer Untergruppe ändern."
+"href=\"%s\">Privatsphäre-Einstellung Ihres Profils</a> auf Andere Mitglieder "
+"Ihrer Untergruppe ändern."
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl

@@ -250,7 +250,7 @@ msgid ""
 msgstr ""
 "le organizzazioni %[1]s possono essere sincronizzate con un servizio "
 "esterno. Ciò significa che i membri del servizio esterno possono diventare "
-"automaticamente membri di un'organizzazione %[1]. La sincronizzazione "
+"automaticamente membri di un'organizzazione %[1]s. La sincronizzazione "
 "automatica avviene ogni ora."
 
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
@@ -909,7 +909,7 @@ msgid ""
 "their account. They can then request to join groups or be added via direct "
 "addition or invitation. </p>"
 msgstr ""
-"<h3>Panoramica</h3> <p>Ad alcuni membri è stata inviata un'e-mail con oggetto &quot;<strong>Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail del gruppo</strong>&quot;. L'e-mail chiede al membro di rispondere all'e-mail o di accedere al proprio account per confermare la propria iscrizione. La maggior parte di questi account sono quelli che non pubblicano post da molto tempo. È importante che tutti sappiano che <strong>questa e-mail è autentica</strong>. Non si tratta di phishing.</p> <p>Qualsiasi utente che abbia ricevuto l'e-mail e non completi la conferma/verifica entro lunedì 25 marzo 2024 sarà sospeso da Groups.io. Da qui a lunedì 25 marzo 2024 saranno inviate alcune e-mail di sollecito ai membri che non hanno risposto.</p> <div class=\"well well-sm\"> Se sei proprietario o moderatore di un gruppo, puoi verificare se alcuni dei tuoi membri devono essere riverniciati. Vai alla pagina Membri del tuo gruppo e cerca il badge <span class=\"label label-info\">RI</span>. Potresti non avere membri con quel badge. In tal caso, <strong>puoi tranquillamente ignorare questa richiesta</strong>. </div> <h3>Perché la nuova verifica?</h3> <p>L'11 marzo 2024, un servizio anti-spam chiamato Spamhaus ha etichettato uno dei nostri server di posta elettronica come mittente di spam. Ciò ha causato l'interruzione dell'accettazione delle e-mail dal nostro server da parte di tutti i servizi di posta elettronica che utilizzano Spamhaus. Il motivo per cui hanno etichettato uno dei nostri server di posta elettronica come mittente di spam è che alcuni gruppi hanno indirizzi e-mail iscritti che non sono persone valide, ma sono invece trappole antispam. Una trappola spam è un indirizzo e-mail che non viene utilizzato da una persona, ma viene invece utilizzato per catturare gli spammer. Questo è il motivo per cui abbiamo avviato un processo di nuova verifica e inviato e-mail di nuova verifica a molti utenti quel giorno.</p> <p>Ci rendiamo conto del disagio che ciò può causare e ci scusiamo, ma siamo tenuti a farlo per garantire che la consegna delle e-mail di gruppo possa continuare senza intoppi.</p> <h3>Esempio di e-mail di nuova verifica</h3> <div class=\"well well-sm\"> <p><strong>Oggetto</strong>: Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail di gruppo</p> <p>Buongiorno</p> <p>il tuo account associato all'INDIRIZZO E-MAIL è membro di uno o più gruppi e-mail di Groups.io dal DATA. Nell'ambito del nostro impegno a garantire un'esperienza di valore e priva di spam, stiamo aggiornando i nostri registri di iscrizione. Per assicurarci che tu desideri ancora ricevere e-mail dai gruppi a cui sei iscritto, ti chiediamo gentilmente di confermare la tua iscrizione.</p> <p>Hai due semplici opzioni per confermare la tua iscrizione:</p> <p> 1. Senza aggiungere alcun testo, basta rispondere a questa e-mail. Il software di Groups.io interpreterà la risposta come una volontà di rimanere nei gruppi.<br>2. Oppure puoi accedere al tuo account Groups.io e il tuo login attivo verrà considerato come conferma.</p> <p>Se non riceveremo alcuna risposta da parte tua, ti invieremo un'e-mail di promemoria ogni 4 giorni per assicurarci che tu abbia tutte le opportunità di rimanere iscritto.</p> <p>Senza conferma entro lunedì 25 marzo 2024, considereremo che preferisci non continuare la tua iscrizione. Di conseguenza, la tua email verrà rimossa dai gruppi di cui sei membro.</p> <p>Abbiamo creato una pagina di domande frequenti con ulteriori informazioni. La puoi trovare qui: <a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>Sei membro dei seguenti gruppi da noi ospitati: <ul> <li>NOME DEL GRUPPO - Descrizione del gruppo</li> </ul> <p> <p>Grazie per la vostra pronta attenzione alla questione e per essere una parte essenziale della nostra comunità.</p><br>Cordiali saluti<br>Il team di Groups.io </p></p></div> <h3>Se hai ricevuto un'e-mail di verifica</h3> <p>I membri che hanno ricevuto l'e-mail di verifica hanno tempo fino a lunedì 25 marzo 2024 per rispondere all'e-mail o accedere al proprio account Groups.io.</p> <p>Se rispondi all'e-mail, non è necessario inserire alcun testo nella risposta. Ti verrà inviata un'e-mail di conferma.</p> <p>Se accedi al tuo account, vedrai un banner verde che indica che la verifica è stata completata con successo. Non è necessario fare altro. Se non hai una password o non la ricordi, utilizza il link <i>Hai dimenticato la password o non ne hai ancora una?</i> per ricevere un'e-mail con un link che ti consentirà di accedere automaticamente. Una volta effettuato l'accesso, la verifica sarà completata.</p> <p>Invieremo ulteriori promemoria di nuova verifica fino a lunedì 25 marzo 2024. Per i membri che vengono rimossi dopo questo processo, le rimozioni saranno registrate nel Registro attività del gruppo.</p> <h3>Moderatori</h3> <p>Puoi vedere quali utenti sono interessati. Vai alla sezione Amministrazione del tuo gruppo e consulta la pagina Membri. Accanto all'indirizzo e-mail di ciascun utente, potrebbe essere presente un badge con le lettere <span class=\"label label-info\">RI</span> o <span class=\"label label-info\">RS</span>. <span class=\"label label-info\">RI</span> significa che la conferma/verifica è in corso (ma non è stata completata). <span class=\"label label-info\">RS</span> significa che la conferma/verifica è stata completata con successo.</p> <p>I moderatori possono scaricare un elenco filtrato dei membri in formato CSV, facendo clic sul pulsante <strong>Scarica</strong> dopo aver selezionato le caselle di controllo Filtro appropriate.</p> <p>Il numero di membri interessati varia notevolmente da un gruppo all'altro; alcuni non ne hanno nessuno. Nel complesso, si tratta solo di una piccola parte del totale dei membri di Groups.io.</p> <h3>Tempistica (ancora in fase di definizione)</h3> <p>Ecco i passaggi rimanenti del processo:</p> <ol> <li>Per almeno altre due settimane dopo il 25 marzo, le persone potranno ancora verificare nuovamente la propria identità e i badge <span class=\"label label-info\">RI</span> e <span class=\"label label-info\">RS</span> continueranno a essere visualizzati nella pagina Membri.</li> <li>Successivamente, i membri ancora in stato <span class=\"label label-info\">RI</span> saranno rimossi dai gruppi. La voce nel registro delle attività sarà <em>Iscrizione - Membro rimosso</em>, con l'aggiunta del motivo della <em>mancata riconferma</em>.</li> </ol> <p>Per i domini in cui non è stata effettuata alcuna nuova verifica, gli account saranno banditi da tutte le attività in quanto potenziali trappole di spam. Questi indirizzi e-mail non potranno effettuare il login, rientrare nei gruppi tramite invito, aggiunta diretta o richiesta di adesione. Se uno di questi domini appartiene a una persona valida, questa dovrà contattare support@groups.io per far revocare il divieto sul dominio. Per i domini senza tale divieto, l'account dell'utente rimarrà attivo, quindi gli utenti rimossi dai loro gruppi potranno accedere direttamente o utilizzando il pulsante &quot;Inviami un link per accedere&quot; nella pagina di accesso. Questo consentirà di verificare nuovamente il loro account. Potranno quindi richiedere di unirsi ai gruppi o essere aggiunti tramite aggiunta diretta o invito. </p>"
+"<h3>Panoramica</h3> <p>Ad alcuni membri è stata inviata un'e-mail con oggetto \"<strong>Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail del gruppo</strong>\". L'e-mail chiede al membro di rispondere all'e-mail o di accedere al proprio account per confermare la propria iscrizione. La maggior parte di questi account sono quelli che non pubblicano post da molto tempo. È importante che tutti sappiano che <strong>questa e-mail è autentica</strong>. Non si tratta di phishing.</p> <p>Qualsiasi utente che abbia ricevuto l'e-mail e non completi la conferma/verifica entro lunedì 25 marzo 2024 sarà sospeso da Groups.io. Da qui a lunedì 25 marzo 2024 saranno inviate alcune e-mail di sollecito ai membri che non hanno risposto.</p> <div class=\"well well-sm\"> Se sei proprietario o moderatore di un gruppo, puoi verificare se alcuni dei tuoi membri devono essere riverniciati. Vai alla pagina Membri del tuo gruppo e cerca il badge <span class=\"label label-info\">RI</span>. Potresti non avere membri con quel badge. In tal caso, <strong>puoi tranquillamente ignorare questa richiesta</strong>. </div> <h3>Perché la nuova verifica?</h3> <p>L'11 marzo 2024, un servizio anti-spam chiamato Spamhaus ha etichettato uno dei nostri server di posta elettronica come mittente di spam. Ciò ha causato l'interruzione dell'accettazione delle e-mail dal nostro server da parte di tutti i servizi di posta elettronica che utilizzano Spamhaus. Il motivo per cui hanno etichettato uno dei nostri server di posta elettronica come mittente di spam è che alcuni gruppi hanno indirizzi e-mail iscritti che non sono persone valide, ma sono invece trappole antispam. Una trappola spam è un indirizzo e-mail che non viene utilizzato da una persona, ma viene invece utilizzato per catturare gli spammer. Questo è il motivo per cui abbiamo avviato un processo di nuova verifica e inviato e-mail di nuova verifica a molti utenti quel giorno.</p> <p>Ci rendiamo conto del disagio che ciò può causare e ci scusiamo, ma siamo tenuti a farlo per garantire che la consegna delle e-mail di gruppo possa continuare senza intoppi.</p> <h3>Esempio di e-mail di nuova verifica</h3> <div class=\"well well-sm\"> <p><strong>Oggetto</strong>: Azione richiesta: conferma la tua iscrizione a Groups.io per continuare a ricevere le e-mail di gruppo</p> <p>Buongiorno</p> <p>il tuo account associato all'INDIRIZZO E-MAIL è membro di uno o più gruppi e-mail di Groups.io dal DATA. Nell'ambito del nostro impegno a garantire un'esperienza di valore e priva di spam, stiamo aggiornando i nostri registri di iscrizione. Per assicurarci che tu desideri ancora ricevere e-mail dai gruppi a cui sei iscritto, ti chiediamo gentilmente di confermare la tua iscrizione.</p> <p>Hai due semplici opzioni per confermare la tua iscrizione:</p> <p> 1. Senza aggiungere alcun testo, basta rispondere a questa e-mail. Il software di Groups.io interpreterà la risposta come una volontà di rimanere nei gruppi.<br>2. Oppure puoi accedere al tuo account Groups.io e il tuo login attivo verrà considerato come conferma.</p> <p>Se non riceveremo alcuna risposta da parte tua, ti invieremo un'e-mail di promemoria ogni 4 giorni per assicurarci che tu abbia tutte le opportunità di rimanere iscritto.</p> <p>Senza conferma entro lunedì 25 marzo 2024, considereremo che preferisci non continuare la tua iscrizione. Di conseguenza, la tua email verrà rimossa dai gruppi di cui sei membro.</p> <p>Abbiamo creato una pagina di domande frequenti con ulteriori informazioni. La puoi trovare qui: <a href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a></p> <p>Sei membro dei seguenti gruppi da noi ospitati: <ul> <li>NOME DEL GRUPPO - Descrizione del gruppo</li> </ul> <p> <p>Grazie per la vostra pronta attenzione alla questione e per essere una parte essenziale della nostra comunità.</p><br>Cordiali saluti<br>Il team di Groups.io </p></p></div> <h3>Se hai ricevuto un'e-mail di verifica</h3> <p>I membri che hanno ricevuto l'e-mail di verifica hanno tempo fino a lunedì 25 marzo 2024 per rispondere all'e-mail o accedere al proprio account Groups.io.</p> <p>Se rispondi all'e-mail, non è necessario inserire alcun testo nella risposta. Ti verrà inviata un'e-mail di conferma.</p> <p>Se accedi al tuo account, vedrai un banner verde che indica che la verifica è stata completata con successo. Non è necessario fare altro. Se non hai una password o non la ricordi, utilizza il link <i>Hai dimenticato la password o non ne hai ancora una?</i> per ricevere un'e-mail con un link che ti consentirà di accedere automaticamente. Una volta effettuato l'accesso, la verifica sarà completata.</p> <p>Invieremo ulteriori promemoria di nuova verifica fino a lunedì 25 marzo 2024. Per i membri che vengono rimossi dopo questo processo, le rimozioni saranno registrate nel Registro attività del gruppo.</p> <h3>Moderatori</h3> <p>Puoi vedere quali utenti sono interessati. Vai alla sezione Amministrazione del tuo gruppo e consulta la pagina Membri. Accanto all'indirizzo e-mail di ciascun utente, potrebbe essere presente un badge con le lettere <span class=\"label label-info\">RI</span> o <span class=\"label label-info\">RS</span>. <span class=\"label label-info\">RI</span> significa che la conferma/verifica è in corso (ma non è stata completata). <span class=\"label label-info\">RS</span> significa che la conferma/verifica è stata completata con successo.</p> <p>I moderatori possono scaricare un elenco filtrato dei membri in formato CSV, facendo clic sul pulsante <strong>Scarica</strong> dopo aver selezionato le caselle di controllo Filtro appropriate.</p> <p>Il numero di membri interessati varia notevolmente da un gruppo all'altro; alcuni non ne hanno nessuno. Nel complesso, si tratta solo di una piccola parte del totale dei membri di Groups.io.</p> <h3>Tempistica (ancora in fase di definizione)</h3> <p>Ecco i passaggi rimanenti del processo:</p> <ol> <li>Per almeno altre due settimane dopo il 25 marzo, le persone potranno ancora verificare nuovamente la propria identità e i badge <span class=\"label label-info\">RI</span> e <span class=\"label label-info\">RS</span> continueranno a essere visualizzati nella pagina Membri.</li> <li>Successivamente, i membri ancora in stato <span class=\"label label-info\">RI</span> saranno rimossi dai gruppi. La voce nel registro delle attività sarà <em>Iscrizione - Membro rimosso</em>, con l'aggiunta del motivo della <em>mancata riconferma</em>.</li> </ol> <p>Per i domini in cui non è stata effettuata alcuna nuova verifica, gli account saranno banditi da tutte le attività in quanto potenziali trappole di spam. Questi indirizzi e-mail non potranno effettuare il login, rientrare nei gruppi tramite invito, aggiunta diretta o richiesta di adesione. Se uno di questi domini appartiene a una persona valida, questa dovrà contattare support@groups.io per far revocare il divieto sul dominio. Per i domini senza tale divieto, l'account dell'utente rimarrà attivo, quindi gli utenti rimossi dai loro gruppi potranno accedere direttamente o utilizzando il pulsante \"Inviami un link per accedere\" nella pagina di accesso. Questo consentirà di verificare nuovamente il loro account. Potranno quindi richiedere di unirsi ai gruppi o essere aggiunti tramite aggiunta diretta o invito. </p>"
 
 #: ../../cmd/web/views/static/staticupgradeapp.qtpl
 #, fuzzy
@@ -2992,14 +2992,14 @@ msgstr "Siete sicuri di voler annullare il downgrade?"
 #, fuzzy
 msgid "Are you sure you want to change your RSVP to Not Sure?"
 msgstr ""
-"Sei sicuro di voler modificare la tua risposta a &quot;Non sono sicuro&quot;?"
+"Sei sicuro di voler modificare la tua risposta a \"Non sono sicuro\"?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #, fuzzy
 msgid "Are you sure you want to change your RSVP to Will Not Attend?"
 msgstr ""
-"Sei sicuro di voler modificare la tua risposta a &quot;Non parteciperò&quot;?"
+"Sei sicuro di voler modificare la tua risposta a \"Non parteciperò\"?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
@@ -3331,7 +3331,7 @@ msgid ""
 "Are you sure you want to merge the topic '%s' into the topic '<span "
 "id=\"subject\">Action</span>'?"
 msgstr ""
-"Sei sicuro di voler unire l'argomento &quot;%s&quot; all'argomento &quot;<span id=\"subject\">Azione</span>&quot;?"
+"Sei sicuro di voler unire l'argomento \"%s\" all'argomento \"<span id=\"subject\">Azione</span>\"?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -7868,7 +7868,7 @@ msgstr "Inglese"
 #, fuzzy
 msgid "Enter a name for this passkey (e.g., 'My MacBook'):"
 msgstr ""
-"Inserisci un nome per questa chiave di accesso (ad esempio, &quot;Il mio MacBook&quot;):"
+"Inserisci un nome per questa chiave di accesso (ad esempio, \"Il mio MacBook\"):"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -10807,8 +10807,8 @@ msgid ""
 "Group, or to Public."
 msgstr ""
 "Per visualizzare l'elenco dei membri, è necessario modificare l'<a "
-"href=\"%s\">impostazione della privacy</a> del proprio <a "
-"href=\"%s\">profilo</a> su Altri membri del gruppo o su Pubblico."
+"href=\"%s\">impostazione della privacy del proprio profilo</a> su Altri "
+"membri del gruppo o su Pubblico."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -10818,9 +10818,8 @@ msgid ""
 "Subgroup, or to Public."
 msgstr ""
 "Per visualizzare l'elenco dei membri, è necessario modificare l'<a "
-"href=\"%s\">impostazione della privacy</a> del proprio <a "
-"href=\"%s\">profilo</a> su Altri membri del proprio sottogruppo o su "
-"Pubblico."
+"href=\"%s\">impostazione della privacy del proprio profilo</a> su Altri "
+"membri del proprio sottogruppo o su Pubblico."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -10839,8 +10838,8 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Subgroup."
 msgstr ""
 "Per visualizzare l'elenco dei membri, è necessario modificare l'<a "
-"href=\"%s\">impostazione della privacy</a> del proprio <a "
-"href=\"%s\">profilo</a> in Altri membri del proprio sottogruppo."
+"href=\"%s\">impostazione della privacy del proprio profilo</a> in Altri "
+"membri del proprio sottogruppo."
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -14327,7 +14326,7 @@ msgstr "Durante questo periodo non sono stati utilizzati hashtag."
 #, fuzzy
 msgid "No labels available. Create one using the 'Create New' tab."
 msgstr ""
-"Nessuna etichetta disponibile. Creane una utilizzando la scheda &quot;Crea nuovo&quot;."
+"Nessuna etichetta disponibile. Creane una utilizzando la scheda \"Crea nuovo\"."
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "No limit"
@@ -21332,7 +21331,7 @@ msgstr ""
 #, fuzzy
 msgid "To complete the deletion, enter <strong>I understand</strong>:"
 msgstr ""
-"Per completare l'eliminazione, inserisci &quot;<strong>Ho compreso</strong>&quot;:"
+"Per completare l'eliminazione, inserisci \"<strong>Ho compreso</strong>\":"
 
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 #, fuzzy
@@ -23546,10 +23545,10 @@ msgid ""
 "account is currently set up to not allow this. If you would like to log into "
 "your account using %[2]s, click the following link:"
 msgstr ""
-"Abbiamo ricevuto una richiesta di accesso al suo account %[1]s tramite %[2]. "
-"Il suo account è attualmente impostato in modo da non consentire questa "
-"operazione. Se desidera accedere al suo account utilizzando %[2]s, faccia "
-"clic sul seguente link:"
+"Abbiamo ricevuto una richiesta di accesso al suo account %[1]s tramite "
+"%[2]s. Il suo account è attualmente impostato in modo da non consentire "
+"questa operazione. Se desidera accedere al suo account utilizzando %[2]s, "
+"faccia clic sul seguente link:"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy

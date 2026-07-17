@@ -233,9 +233,9 @@ msgid ""
 "members of the external service can automatically be made members of an "
 "%[1]s organization. Automatic syncing occurs hourly."
 msgstr ""
-"організації %[1] можна синхронізувати із зовнішнім сервісом. Це означає, що "
+"організації %[1]s можна синхронізувати із зовнішнім сервісом. Це означає, що "
 "користувачі зовнішньої служби можуть автоматично стати членами організації "
-"%[1]. Автоматична синхронізація відбувається щогодини."
+"%[1]s. Автоматична синхронізація відбувається щогодини."
 
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 msgid "%[1]s posted the message '%[2]s' that needs to be approved."
@@ -944,13 +944,13 @@ msgid ""
 "about how they decide to send feedback reports to list services (such as "
 "%[1]s groups).</p>"
 msgstr ""
-"<p>групи %[1] пропонують кілька варіантів керування кількістю і типами "
+"<p>групи %[1]s пропонують кілька варіантів керування кількістю і типами "
 "листів, які ви хочете отримувати. Докладнішу інформацію можна знайти в цій "
-"<a href=\"https://groups.io/helpcenter/membersmanual/1/controlling-your-"
-"email-subscription-preferences?single=true\">статті довідкового центру</a>. "
-"</p> <p>Якщо це повторюється, зверніться до постачальника послуг електронної "
-"пошти, щоб дізнатися, як він вирішує надсилати звіти про відгуки службам "
-"списків (наприклад, групам %[1]s).</p>"
+"<a "
+"href=\"https://groups.io/helpcenter/membersmanual/1/controlling-your-email-subscription-preferences?single=true\">статті "
+"довідкового центру</a>. </p> <p>Якщо це повторюється, зверніться до "
+"постачальника послуг електронної пошти, щоб дізнатися, як він вирішує "
+"надсилати звіти про відгуки службам списків (наприклад, групам %[1]s).</p>"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/bouncingnotification.qtpl
@@ -3007,7 +3007,7 @@ msgid ""
 "website? You probably don't have a password set up yet. Use the <b>Email me "
 "a link to log in</b> button above to log into the website."
 msgstr ""
-"Ви отримуєте імейли від групи %[1], але ніколи не відвідували сайт %[1]? "
+"Ви отримуєте імейли від групи %[1]s, але ніколи не відвідували сайт %[1]s? "
 "Можливо, ви ще не встановили пароль. Скористайтеся кнопкою \"Надіслати "
 "<b>мені посилання</b> для входу\" вище, щоб увійти на сайт."
 
@@ -11039,8 +11039,8 @@ msgid ""
 "Group, or to Public."
 msgstr ""
 "Щоб переглянути каталог учасників, ви повинні змінити <a "
-"href=\"%s\">налаштування конфіденційності</a> вашого <a href=\"%s\">профілю</"
-"a> на \"Інші учасники вашої групи\" або \"Публічний\"."
+"href=\"%s\">налаштування конфіденційності вашого профілю</a> на \"Інші "
+"учасники вашої групи\" або \"Публічний\"."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -11050,8 +11050,8 @@ msgid ""
 "Subgroup, or to Public."
 msgstr ""
 "Щоб переглянути каталог учасників, ви повинні змінити <a "
-"href=\"%s\">налаштування конфіденційності</a> вашого <a href=\"%s\">профілю</"
-"a> на \"Інші учасники вашої підгрупи\" або \"Публічні\"."
+"href=\"%s\">налаштування конфіденційності вашого профілю</a> на \"Інші "
+"учасники вашої підгрупи\" або \"Публічні\"."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -11060,8 +11060,8 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Group."
 msgstr ""
 "Щоб переглянути каталог учасників, ви повинні змінити <a "
-"href=\"%s\">налаштування конфіденційності</a> вашого <a href=\"%s\">профілю</"
-"a> на \"Інші учасники вашої групи\"."
+"href=\"%s\">налаштування конфіденційності вашого профілю</a> на \"Інші "
+"учасники вашої групи\"."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -11070,8 +11070,8 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Subgroup."
 msgstr ""
 "Щоб переглянути каталог учасників, ви повинні змінити <a "
-"href=\"%s\">налаштування конфіденційності</a> вашого <a href=\"%s\">профілю</"
-"a> на \"Інші учасники вашої підгрупи\"."
+"href=\"%s\">налаштування конфіденційності вашого профілю</a> на \"Інші "
+"учасники вашої підгрупи\"."
 
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
@@ -22750,7 +22750,7 @@ msgstr "Відмовитися від підписки на"
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #, fuzzy
 msgid "Unsubscribe From %s"
-msgstr "Відписатися від %s %s"
+msgstr "Відписатися від %s"
 
 #: ../../pkg/notifications/noteviews/unsubnotification.qtpl
 #, fuzzy

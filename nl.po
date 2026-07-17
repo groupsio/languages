@@ -2763,7 +2763,7 @@ msgstr "Weet u zeker dat u dit gesprek wilt verwijderen? Dit kan niet ongedaan w
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 #, fuzzy
 msgid "Are you sure you want to delete your <strong>%s</strong> account?"
-msgstr "Weet u zeker dat u uw <strong>_PLACEHOLDER1</strong>_-account wilt verwijderen?"
+msgstr "Weet u zeker dat u uw <strong>%s</strong>-account wilt verwijderen?"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -3513,7 +3513,9 @@ msgstr "Omdat je je e-mailadres hebt gewijzigd, moeten we bevestigen dat dit nie
 #: ../../cmd/web/views/groupadmin/deletegroup.qtpl
 #, fuzzy
 msgid "Before deleting your group, you may want to <a href=\"%s/exportgroup\">export the group</a>."
-msgstr "Voordat u uw groep verwijdert, wilt u <a href=\"%s/exportgroup\">deze</a> misschien eerst <a href=\"%s/exportgroup\">exporteren</a>."
+msgstr ""
+"Voordat u uw groep verwijdert, wilt u deze misschien eerst <a "
+"href=\"%s/exportgroup\">exporteren</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/deleteaccount.qtpl
