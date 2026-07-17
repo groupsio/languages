@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-02 14:46-0700\n"
+"PO-Revision-Date: 2026-07-16 09:15+0200\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -149,7 +149,7 @@ msgstr ""
 msgid ""
 "%[1]s changed %[2]s's display name from '%[3]s' to '%[4]s' in group %[5]s"
 msgstr ""
-"%[1]s تم تغيير اسم العرض %[2]s من "%[3]s" إلى "%[4]s" في المجموعة %[5]s"
+"%[1]s تم تغيير اسم العرض %[2]s من \"%[3]s\" إلى \"%[4]s\" في المجموعة %[5]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -165,7 +165,7 @@ msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name from "
 "'%[5]s' to '%[6]s' in group %[7s]"
 msgstr ""
-"%[1]s تم تغيير عنوان البريد الإلكتروني %[2]s من %[3]s إلى %[4]s واسم العرض من "%[5]s" إلى "%[6]s" في المجموعة %[7s]"
+"%[1]s تم تغيير عنوان البريد الإلكتروني %[2]s من %[3]s إلى %[4]s واسم العرض من \"%[5]s\" إلى \"%[6]s\" في المجموعة %[7s]"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -174,7 +174,7 @@ msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name to "
 "'%[5]s' in group %[6]s"
 msgstr ""
-"%[1]s تم تغيير عنوان البريد الإلكتروني %[2]s من %[3]s إلى %[4]s واسم العرض إلى "%[5]s" في المجموعة %[6]s"
+"%[1]s تم تغيير عنوان البريد الإلكتروني %[2]s من %[3]s إلى %[4]s واسم العرض إلى \"%[5]s\" في المجموعة %[6]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -204,7 +204,7 @@ msgid ""
 "%[1]s changed their email address from %[2]s to %[3]s and display name from "
 "'%[4]s' to '%[5]s' in group %[6]s"
 msgstr ""
-"%[1]s تغيير عنوان بريدهم الإلكتروني من %[2]s إلى %[3]s واسم العرض من "%[4]s" إلى "%[5]s" في المجموعة %[6]s"
+"%[1]s تغيير عنوان بريدهم الإلكتروني من %[2]s إلى %[3]s واسم العرض من \"%[4]s\" إلى \"%[5]s\" في المجموعة %[6]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -213,7 +213,7 @@ msgid ""
 "%[1]s changed their email address from %[2]s to %[3]s and display name to "
 "'%[4]s' in group %[5]s"
 msgstr ""
-"%[1]s تغيير عنوان البريد الإلكتروني الخاص بهم من %[2]s إلى %[3]s واسم العرض إلى "%[4]s" في المجموعة %[5]s"
+"%[1]s تغيير عنوان البريد الإلكتروني الخاص بهم من %[2]s إلى %[3]s واسم العرض إلى \"%[4]s\" في المجموعة %[5]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -805,7 +805,7 @@ msgid ""
 "<a href=\"%s/wiki/Home/edit\">Create a page</a> with the title of <em>Home</em> "
 "to replace this page."
 msgstr ""
-"<a href=\""%s/ wiki/Home/edit\">أنشئ صفحة</a> بعنوان <em>الصفحة الرئيسية</em> لتحل محل هذه الصفحة."
+"<a href=\"\"%s/ wiki/Home/edit\">أنشئ صفحة</a> بعنوان <em>الصفحة الرئيسية</em> لتحل محل هذه الصفحة."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
@@ -1034,7 +1034,7 @@ msgid ""
 "following link and you will be immediately removed:</p> <p "
 "style=\"text-decoration: underline\">Unsubscribe</p> <p>The %[1]s Team</p>"
 msgstr ""
-"<p>مرحبًا [الاسم], <p>لقد تمت إضافتك من قبل فريق %[1]s إلى <a href="%[2]s\">%[3]s</a> . يمكنك استخدام [هذا الرابط] خلال الـ 24 ساعة القادمة لتسجيل الدخول إذا كانت هذه هي المرة الأولى التي تقوم فيها بتسجيل الدخول أو إذا نسيت كلمة المرور الخاصة بك. يمكنك القيام بذلك في المستقبل باستخدام الزر \"أرسل لي رابط تسجيل الدخول بالبريد الإلكتروني\" في صفحة تسجيل الدخول. <p>البريد الإلكتروني لهذه المجموعة هو: %[4]s. %[5]s <p>ولكن الأهم من ذلك، يُرجى إضافة عنوان البريد الإلكتروني هذا إلى قائمة المرسلين الآمنين في جهات اتصال عميل البريد الإلكتروني الخاص بك. إذا وجدت رسائل بريد إلكتروني من هذه المجموعة تصل إلى مجلدات الرسائل غير المرغوب فيها أو الرسائل الترويجية أو المجلدات الاجتماعية، يرجى نقل هذه الرسائل إلى صندوق الوارد الأساسي الخاص بك حتى تتمكن من تدريب عميل البريد الإلكتروني الخاص بك لوضعها مباشرة في صندوق الوارد الخاص بك. <div id=\"custom_message\"></div> <p>إذا كان هذا خطأ، يرجى النقر على الرابط التالي وستتم إزالتها على الفور: <p style=\"text-decoration: underline\">إلغاء الاشتراك <p>فريق %[1]s "
+"<p>مرحبًا [الاسم], <p>لقد تمت إضافتك من قبل فريق %[1]s إلى <a href=\"%[2]s\">%[3]s</a> . يمكنك استخدام [هذا الرابط] خلال الـ 24 ساعة القادمة لتسجيل الدخول إذا كانت هذه هي المرة الأولى التي تقوم فيها بتسجيل الدخول أو إذا نسيت كلمة المرور الخاصة بك. يمكنك القيام بذلك في المستقبل باستخدام الزر \"أرسل لي رابط تسجيل الدخول بالبريد الإلكتروني\" في صفحة تسجيل الدخول. <p>البريد الإلكتروني لهذه المجموعة هو: %[4]s. %[5]s <p>ولكن الأهم من ذلك، يُرجى إضافة عنوان البريد الإلكتروني هذا إلى قائمة المرسلين الآمنين في جهات اتصال عميل البريد الإلكتروني الخاص بك. إذا وجدت رسائل بريد إلكتروني من هذه المجموعة تصل إلى مجلدات الرسائل غير المرغوب فيها أو الرسائل الترويجية أو المجلدات الاجتماعية، يرجى نقل هذه الرسائل إلى صندوق الوارد الأساسي الخاص بك حتى تتمكن من تدريب عميل البريد الإلكتروني الخاص بك لوضعها مباشرة في صندوق الوارد الخاص بك. <div id=\"custom_message\"></div> <p>إذا كان هذا خطأ، يرجى النقر على الرابط التالي وستتم إزالتها على الفور: <p style=\"text-decoration: underline\">إلغاء الاشتراك <p>فريق %[1]s "
 
 #. Automatically translated using DeepL
 #. TRANSLATORS: This is the message that will be sent to people when they are added to the group.
@@ -1079,7 +1079,7 @@ msgid ""
 "tap on our app's name.</p> <p>Tap on 'Permissions.'</p> <p>Turn on the switch "
 "next to 'Camera.'</p>"
 msgstr ""
-"<p>يحتاج تطبيقنا إلى الوصول إلى الكاميرا لتوفير ميزات معينة مثل التقاط الصور أو الوصول إلى لفة الكاميرا. لتمكين هذه الميزات، يرجى منح إذن الكاميرا: <p>افتح إعدادات جهازك. <p>مرر لأسفل وانقر على اسم تطبيقنا. <p>اضغط على "أذونات". <p>قم بتشغيل المفتاح الموجود بجوار "الكاميرا"."
+"<p>يحتاج تطبيقنا إلى الوصول إلى الكاميرا لتوفير ميزات معينة مثل التقاط الصور أو الوصول إلى لفة الكاميرا. لتمكين هذه الميزات، يرجى منح إذن الكاميرا: <p>افتح إعدادات جهازك. <p>مرر لأسفل وانقر على اسم تطبيقنا. <p>اضغط على \"أذونات\". <p>قم بتشغيل المفتاح الموجود بجوار \"الكاميرا\"."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/confirmchangesubnotification.qtpl
@@ -1382,7 +1382,7 @@ msgid ""
 "colleagues ... suggests that \"always on\" may not be always effective. "
 "\"Intermittently on\" might, instead, be better for complex problem solving."
 msgstr ""
-"[يشير البحث الذي أجراه الأستاذ المساعد في كلية هارفارد للأعمال إيثان بيرنشتاين وزملاؤه إلى أن عبارة "دائمًا في حالة تشغيل دائم" قد لا تكون فعالة دائمًا. \وبدلاً من ذلك، قد تكون عبارة "على فترات متقطعة" أفضل لحل المشكلات المعقدة."
+"[يشير البحث الذي أجراه الأستاذ المساعد في كلية هارفارد للأعمال إيثان بيرنشتاين وزملاؤه إلى أن عبارة \"دائمًا في حالة تشغيل دائم\" قد لا تكون فعالة دائمًا. وبدلاً من ذلك، قد تكون عبارة \"على فترات متقطعة\" أفضل لحل المشكلات المعقدة."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
@@ -1515,7 +1515,7 @@ msgid ""
 "A moderator in another group changed %[1]s's display name from '%[2]s' to "
 "'%[3]s' in group %[4]s"
 msgstr ""
-"قام أحد المشرفين في مجموعة أخرى بتغيير اسم العرض %[1]s من "%[2]s" إلى "%[3]s" في المجموعة %[4]s"
+"قام أحد المشرفين في مجموعة أخرى بتغيير اسم العرض %[1]s من \"%[2]s\" إلى \"%[3]s\" في المجموعة %[4]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -1524,7 +1524,7 @@ msgid ""
 "A moderator in another group changed %[1]s's display name to '%[2]s' in group "
 "%[3]s"
 msgstr ""
-"قام أحد المشرفين في مجموعة أخرى بتغيير اسم العرض %[1]s إلى "%[2]s" في المجموعة %[3]s"
+"قام أحد المشرفين في مجموعة أخرى بتغيير اسم العرض %[1]s إلى \"%[2]s\" في المجموعة %[3]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -1542,7 +1542,7 @@ msgid ""
 "A moderator in another group changed %[1]s's email address from %[2]s to %[3]s "
 "and display name to '%[4]s' in group %[5]s"
 msgstr ""
-"قام أحد المشرفين في مجموعة أخرى بتغيير عنوان البريد الإلكتروني %[1]s من %[2]s إلى %[3]s واسم العرض إلى "%[4]s" في المجموعة %[5]s"
+"قام أحد المشرفين في مجموعة أخرى بتغيير عنوان البريد الإلكتروني %[1]s من %[2]s إلى %[3]s واسم العرض إلى \"%[4]s\" في المجموعة %[5]s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -2740,7 +2740,7 @@ msgid ""
 "attachments. To do so, go to your group's Settings page and look for the 'Out Of "
 "Space' setting at the bottom of the 'Message Policies' section."
 msgstr ""
-"وبدلاً من ذلك، يمكنك ضبط مجموعتك على ارتداد الرسائل التي تحتوي على مرفقات. للقيام بذلك، انتقل إلى صفحة الإعدادات الخاصة بمجموعتك وابحث عن إعداد "خارج المساحة" في أسفل قسم "سياسات الرسائل"."
+"وبدلاً من ذلك، يمكنك ضبط مجموعتك على ارتداد الرسائل التي تحتوي على مرفقات. للقيام بذلك، انتقل إلى صفحة الإعدادات الخاصة بمجموعتك وابحث عن إعداد \"خارج المساحة\" في أسفل قسم \"سياسات الرسائل\"."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -3236,7 +3236,7 @@ msgid ""
 "website? You probably don't have a password set up yet. Use the <b>Email me a "
 "link to log in</b> button above to log into the website."
 msgstr ""
-"هل تتلقى رسائل بريد إلكتروني من مجموعة %[1]s ولكنك لم تزر الموقع الإلكتروني %[1]s ؟ ربما لم تقم بإعداد كلمة مرور حتى الآن. استخدم زر <b>"أرسل لي رابطاً لتسجيل الدخول"</b> أعلاه لتسجيل الدخول إلى الموقع الإلكتروني."
+"هل تتلقى رسائل بريد إلكتروني من مجموعة %[1]s ولكنك لم تزر الموقع الإلكتروني %[1]s ؟ ربما لم تقم بإعداد كلمة مرور حتى الآن. استخدم زر <b>\"أرسل لي رابطاً لتسجيل الدخول\"</b> أعلاه لتسجيل الدخول إلى الموقع الإلكتروني."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
@@ -5612,7 +5612,7 @@ msgstr "تم إنشاء عنصر قائمة التحقق"
 #, fuzzy
 msgid "Checklist item marked incomplete"
 msgstr ""
-"بند القائمة المرجعية الذي تم وضع علامة "غير مكتمل" عليه"
+"بند القائمة المرجعية الذي تم وضع علامة \"غير مكتمل\" عليه"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
@@ -11098,7 +11098,7 @@ msgstr ""
 #, fuzzy
 msgid "Hashtags start with a '#' and don't contain any spaces."
 msgstr ""
-"تبدأ الوسوم بحرف "#" ولا تحتوي على أي مسافات."
+"تبدأ الوسوم بحرف \"#\" ولا تحتوي على أي مسافات."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
@@ -11724,7 +11724,7 @@ msgid ""
 "If you are already a member of %[1]s, <a href=\"%[2]s\">Log In</a> to access the "
 "group."
 msgstr ""
-"إذا كنت عضوًا بالفعل في %[1]s ، <a href="%[2]s\">تسجيل الدخول</a> للوصول إلى المجموعة."
+"إذا كنت عضوًا بالفعل في %[1]s ، <a href=\"%[2]s\">تسجيل الدخول</a> للوصول إلى المجموعة."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
@@ -11783,7 +11783,7 @@ msgid ""
 "If you can no longer attend the event, please <a href=\"%s\">update your "
 "RSVP</a>."
 msgstr ""
-"إذا لم يعد بإمكانك حضور الحدث، يرجى <a href="%s\">تحديث الرد على الدعوة</a>."
+"إذا لم يعد بإمكانك حضور الحدث، يرجى <a href=\"%s\">تحديث الرد على الدعوة</a>."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl
@@ -11957,7 +11957,7 @@ msgid ""
 "If you would like to increase the amount of storage space available for your "
 "group, please visit our plans page <a href=\"%s\">here</a>."
 msgstr ""
-"إذا كنت ترغب في زيادة مساحة التخزين المتاحة لمجموعتك، يُرجى زيارة صفحة الخطط الخاصة بنا <a href="%s\">هنا</a>."
+"إذا كنت ترغب في زيادة مساحة التخزين المتاحة لمجموعتك، يُرجى زيارة صفحة الخطط الخاصة بنا <a href=\"%s\">هنا</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/deleteaccount.qtpl
@@ -12197,7 +12197,7 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to either Other Members of Your Group, "
 "or to Public."
 msgstr ""
-"لكي تتمكن من عرض دليل الأعضاء، يجب عليك تغيير <a href="%s\">إعداد خصوصية الملف الشخصي</a> إما إلى أعضاء آخرين في مجموعتك، أو إلى عام."
+"لكي تتمكن من عرض دليل الأعضاء، يجب عليك تغيير <a href=\"%s\">إعداد خصوصية الملف الشخصي</a> إما إلى أعضاء آخرين في مجموعتك، أو إلى عام."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupdirectory.qtpl
@@ -12207,7 +12207,7 @@ msgid ""
 "href=\"%s\">profile privacy setting</a> to either Other Members of Your "
 "Subgroup, or to Public."
 msgstr ""
-"لعرض دليل الأعضاء، يجب عليك تغيير <a href="%s\">إعداد خصوصية الملف الشخصي</a> إما إلى أعضاء آخرين في مجموعتك الفرعية، أو إلى عام."
+"لعرض دليل الأعضاء، يجب عليك تغيير <a href=\"%s\">إعداد خصوصية الملف الشخصي</a> إما إلى أعضاء آخرين في مجموعتك الفرعية، أو إلى عام."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupdirectory.qtpl
@@ -12216,7 +12216,7 @@ msgid ""
 "In order to view the member directory, you must change your <a "
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Group."
 msgstr ""
-"لكي تتمكن من عرض دليل الأعضاء، يجب عليك تغيير <a href="%s\">إعداد خصوصية الملف الشخصي</a> إلى أعضاء آخرين في مجموعتك."
+"لكي تتمكن من عرض دليل الأعضاء، يجب عليك تغيير <a href=\"%s\">إعداد خصوصية الملف الشخصي</a> إلى أعضاء آخرين في مجموعتك."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupdirectory.qtpl
@@ -12225,7 +12225,7 @@ msgid ""
 "In order to view the member directory, you must change your <a "
 "href=\"%s\">profile privacy setting</a> to Other Members of Your Subgroup."
 msgstr ""
-"لعرض دليل الأعضاء، يجب عليك تغيير <a href="%s\">إعداد خصوصية الملف الشخصي</a> إلى أعضاء آخرين في مجموعتك الفرعية."
+"لعرض دليل الأعضاء، يجب عليك تغيير <a href=\"%s\">إعداد خصوصية الملف الشخصي</a> إلى أعضاء آخرين في مجموعتك الفرعية."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/editsub.qtpl
@@ -14655,7 +14655,7 @@ msgstr "رسالة إلى العضو"
 #, fuzzy
 msgid "Message to send people when they RSVP Yes and are not on the waitlist."
 msgstr ""
-"رسالة لإرسالها للأشخاص عندما يردون على الدعوة بـ "نعم" وليسوا على قائمة الانتظار."
+"رسالة لإرسالها للأشخاص عندما يردون على الدعوة بـ \"نعم\" وليسوا على قائمة الانتظار."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
@@ -14845,7 +14845,7 @@ msgid ""
 "change your delivery and other subscription options, visit your <a "
 "href=\"%[2]s\"</a>Subscription page</a>."
 msgstr ""
-"سيتم إرسال الرسائل المنشورة في هذه المجموعة إليك على <code>%[1]s</code>. لتغيير خيارات التسليم وخيارات الاشتراك الأخرى، قم بزيارة <a href="%[2]s\"</a>صفحة الاشتراك</a>."
+"سيتم إرسال الرسائل المنشورة في هذه المجموعة إليك على <code>%[1]s</code>. لتغيير خيارات التسليم وخيارات الاشتراك الأخرى، قم بزيارة <a href=\"%[2]s\"</a>صفحة الاشتراك</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
@@ -22367,7 +22367,7 @@ msgid ""
 "this group you must either <a href=\"%[2]s\">Log In</a> or tell us your email "
 "address below."
 msgstr ""
-"شكراً لاهتمامك بالانضمام إلى %[1]s. لإكمال عضويتك في هذه المجموعة، يجب عليك إما <a href="%[2]s\">تسجيل الدخول</a> أو إخبارنا بعنوان بريدك الإلكتروني أدناه."
+"شكراً لاهتمامك بالانضمام إلى %[1]s. لإكمال عضويتك في هذه المجموعة، يجب عليك إما <a href=\"%[2]s\">تسجيل الدخول</a> أو إخبارنا بعنوان بريدك الإلكتروني أدناه."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/joingroup.qtpl
@@ -22377,7 +22377,7 @@ msgid ""
 "membership in this group you must either <a href=\"%[2]s\">Log In</a> or tell us "
 "your email address below."
 msgstr ""
-"شكراً لاهتمامك بالانضمام إلى %[1]s. لإرسال طلبك للعضوية في هذه المجموعة يجب عليك إما <a href="%[2]s\">تسجيل الدخول</a> أو إخبارنا بعنوان بريدك الإلكتروني أدناه."
+"شكراً لاهتمامك بالانضمام إلى %[1]s. لإرسال طلبك للعضوية في هذه المجموعة يجب عليك إما <a href=\"%[2]s\">تسجيل الدخول</a> أو إخبارنا بعنوان بريدك الإلكتروني أدناه."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/confirmationotification.qtpl
@@ -22502,7 +22502,7 @@ msgstr ""
 msgid ""
 "That email address is already registered. To use it, <a href=\"%s\">Log In</a>."
 msgstr ""
-"عنوان البريد الإلكتروني هذا مسجل بالفعل. لاستخدامه، <a href="%s\">تسجيل الدخول</a>."
+"عنوان البريد الإلكتروني هذا مسجل بالفعل. لاستخدامه، <a href=\"%s\">تسجيل الدخول</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/bouncing.qtpl
@@ -24661,7 +24661,7 @@ msgid ""
 "To post to the group, send an email to %s or visit the <a href=\"%s\">Post "
 "page</a>."
 msgstr ""
-"للنشر في المجموعة، أرسل بريدًا إلكترونيًا إلى %s أو قم بزيارة <a href="%s\">صفحة النشر</a>."
+"للنشر في المجموعة، أرسل بريدًا إلكترونيًا إلى %s أو قم بزيارة <a href=\"%s\">صفحة النشر</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl
@@ -25053,7 +25053,7 @@ msgid ""
 "Trial groups do not have access to direct add. To use this function, you need to "
 "<a href=\"%s\">upgrade to a paid group</a>"
 msgstr ""
-"لا يمكن للمجموعات التجريبية الوصول إلى الإضافة المباشرة. لاستخدام هذه الوظيفة، تحتاج إلى <a href="%s\">الترقية إلى مجموعة مدفوعة</a>"
+"لا يمكن للمجموعات التجريبية الوصول إلى الإضافة المباشرة. لاستخدام هذه الوظيفة، تحتاج إلى <a href=\"%s\">الترقية إلى مجموعة مدفوعة</a>"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -26185,7 +26185,7 @@ msgstr ""
 #, fuzzy
 msgid "Use this key by setting the Authorization header: 'Bearer YOUR_API_KEY'"
 msgstr ""
-"استخدم هذا المفتاح عن طريق تعيين رأس التخويل: &#x27;Bearer YOUR_API_KEY&#x27;"
+"استخدم هذا المفتاح عن طريق تعيين رأس التخويل: 'Bearer YOUR_API_KEY'"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
@@ -27031,13 +27031,13 @@ msgid ""
 "We do not allow messages with subjects that begin with 'Private:' to be sent to "
 "the group."
 msgstr ""
-"لا نسمح بإرسال رسائل ذات مواضيع تبدأ بـ "خاص:" إلى المجموعة."
+"لا نسمح بإرسال رسائل ذات مواضيع تبدأ بـ \"خاص:\" إلى المجموعة."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/post/grouppost.qtpl
 #, fuzzy
 msgid "We don't allow subjects that begin with 'Private:'."
-msgstr "لا نسمح بالمواضيع التي تبدأ بـ "خاص:"."
+msgstr "لا نسمح بالمواضيع التي تبدأ بـ \"خاص:\"."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
@@ -27133,7 +27133,7 @@ msgid ""
 "link</a> sent to a list of your friends. And you can always point people to your "
 "group home page: <p><strong><a href=\"%[2]s\">%[2]s</a></strong></p>"
 msgstr ""
-"نحن نجعل من السهل إرسال رسالة <a href="%[1]s\">بريد إلكتروني مخصص مع رابط دعوة</a> إلى قائمة أصدقائك. ويمكنك دائمًا توجيه الأشخاص إلى الصفحة الرئيسية لمجموعتك: <p><strong><a href=\"%[2]s\">%[2]s</a></strong>"
+"نحن نجعل من السهل إرسال رسالة <a href=\"%[1]s\">بريد إلكتروني مخصص مع رابط دعوة</a> إلى قائمة أصدقائك. ويمكنك دائمًا توجيه الأشخاص إلى الصفحة الرئيسية لمجموعتك: <p><strong><a href=\"%[2]s\">%[2]s</a></strong>"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
@@ -28829,7 +28829,7 @@ msgid ""
 "subscription options. You will not be added to the group until you click the "
 "'Join This Group' button or reply to the invite email."
 msgstr ""
-"لقد تمت دعوتك للانضمام إلى <strong>%s</strong> المجموعة. يرجى مراجعة وصف المجموعة. ثم، إذا كنت مهتمًا بالانضمام، راجع خيارات الاشتراك. لن تتم إضافتك إلى المجموعة حتى تنقر على زر "الانضمام إلى هذه المجموعة" أو ترد على رسالة الدعوة عبر البريد الإلكتروني."
+"لقد تمت دعوتك للانضمام إلى <strong>%s</strong> المجموعة. يرجى مراجعة وصف المجموعة. ثم، إذا كنت مهتمًا بالانضمام، راجع خيارات الاشتراك. لن تتم إضافتك إلى المجموعة حتى تنقر على زر \"الانضمام إلى هذه المجموعة\" أو ترد على رسالة الدعوة عبر البريد الإلكتروني."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
@@ -29058,7 +29058,7 @@ msgid ""
 "You have the maximum number of integrations already. For more integrations, you "
 "must <a href=\"%s\">upgrade your group</a>."
 msgstr ""
-"لديك الحد الأقصى لعدد عمليات التكامل بالفعل. للمزيد من عمليات التكامل، يجب عليك <a href="%s\"> ترقية مجموعتك</a>."
+"لديك الحد الأقصى لعدد عمليات التكامل بالفعل. للمزيد من عمليات التكامل، يجب عليك <a href=\"%s\"> ترقية مجموعتك</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
@@ -29739,7 +29739,7 @@ msgid ""
 "Your email is hosted by Exchange, so we will rewrite the From line for all group "
 "messages sent to you."
 msgstr ""
-"يتم استضافة بريدك الإلكتروني بواسطة Exchange، لذا سنعيد كتابة السطر "من" لجميع رسائل المجموعة المرسلة إليك."
+"يتم استضافة بريدك الإلكتروني بواسطة Exchange، لذا سنعيد كتابة السطر \"من\" لجميع رسائل المجموعة المرسلة إليك."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -29748,7 +29748,7 @@ msgid ""
 "Your email is hosted by Gmail, so we will rewrite the From line for the copies "
 "of your group messages that we send back to you."
 msgstr ""
-"يتم استضافة بريدك الإلكتروني بواسطة Gmail، لذلك سنعيد كتابة السطر "من" لنسخ رسائل المجموعة التي نرسلها إليك."
+"يتم استضافة بريدك الإلكتروني بواسطة Gmail، لذلك سنعيد كتابة السطر \"من\" لنسخ رسائل المجموعة التي نرسلها إليك."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/feed.qtpl
@@ -30265,7 +30265,7 @@ msgid ""
 "calendar event, making it easy to delete and possibly recreate the Zoom meeting "
 "should the event change."
 msgstr ""
-"يتيح تكامل Zoom سهولة إنشاء اجتماعات Zoom جديدة عند إنشاء أحداث تقويم Groups.io جديدة. عند إنشاء حدث تقويم جديد، ما عليك سوى الضغط على زر "جعل هذا اجتماع زووم"، وسيتم إنشاء اجتماع زووم ويتم ملء حقلي الموقع والوصف للحدث بمعلومات حول كيفية الوصول إلى الاجتماع. بمجرد إنشاء اجتماع Zoom، يتم ربطه بحدث تقويم Groups.io، مما يسهل حذف اجتماع Zoom وربما إعادة إنشائه في حالة تغيير الحدث."
+"يتيح تكامل Zoom سهولة إنشاء اجتماعات Zoom جديدة عند إنشاء أحداث تقويم Groups.io جديدة. عند إنشاء حدث تقويم جديد، ما عليك سوى الضغط على زر \"جعل هذا اجتماع زووم\"، وسيتم إنشاء اجتماع زووم ويتم ملء حقلي الموقع والوصف للحدث بمعلومات حول كيفية الوصول إلى الاجتماع. بمجرد إنشاء اجتماع Zoom، يتم ربطه بحدث تقويم Groups.io، مما يسهل حذف اجتماع Zoom وربما إعادة إنشائه في حالة تغيير الحدث."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2024-10-13 17:20-0300\n"
+"PO-Revision-Date: 2026-07-16 09:15+0200\n"
 "Last-Translator: Cleverson Casarin Uliana <groupsio@clul.router5.com>\n"
 "Language-Team: Cleverson Casarin Uliana <groupsio@clul.router5.com>\n"
 "Language: pt_BR\n"
@@ -25106,7 +25106,7 @@ msgstr ""
 #, fuzzy
 msgid "Use this key by setting the Authorization header: 'Bearer YOUR_API_KEY'"
 msgstr ""
-"Use esta chave definindo o cabeçalho de autorização: &#x27;Bearer SUA_CHAVE_API&#x27;"
+"Use esta chave definindo o cabeçalho de autorização: 'Bearer SUA_CHAVE_API'"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
