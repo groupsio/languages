@@ -13912,13 +13912,13 @@ msgstr "Veuillez vérifier que vous êtes un être humain"
 
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
 msgid ""
-"Please visit <a href=\"[https://groups.io/helpcenter/ownersmanual/1/managing-](https://groups.io/helpcenter/ownersmanual/1/managing-)"
-"members/reviewing-members-who-were-removed-because-of\">our help center "
-"if you have questions."
+"Please visit <a "
+"href=\"https://groups.io/helpcenter/ownersmanual/1/managing-members/reviewing-members-who-were-removed-because-of\">our "
+"help center</a> if you have questions."
 msgstr ""
-"Si vous avez des questions, veuillez consulter <a href=\"[https://groups.io/](https://groups.io/)"
-"helpcenter/ownersmanual/1/managing-members/reviewing-members-who-were-removed-because-of\">"
-"notre centre d'aide."
+"Si vous avez des questions, veuillez consulter <a "
+"href=\"https://groups.io/helpcenter/ownersmanual/1/managing-members/reviewing-members-who-were-removed-because-of\">notre "
+"centre d'aide."
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -18712,13 +18712,14 @@ msgstr "Identifiant de transaction :"
 msgid ""
 "Treat your recovery codes with the same level of attention as you would your "
 "password! We recommend saving them with a password manager such as <a "
-"href=\"[https://lastpass.com/](https://lastpass.com/)\">Lastpass or <a href=\"[https://1](https://www.google.com/search?q=https://1)password."
-"com/\">1Password. Each code can be used only once."
+"href=\"https://lastpass.com/\">Lastpass</a> or <a "
+"href=\"https://1password.com/\">1Password</a>. Each code can be used only once."
 msgstr ""
-"Traisez vos codes de récupération avec la même attention que vous le feriez "
+"Traitez vos codes de récupération avec la même attention que vous le feriez "
 "pour votre mot de passe ! Nous vous recommandons de les enregistrer dans un "
-"gestionnaire de mots de passe tel que <a href=\"[https://lastpass.com/](https://lastpass.com/)\">"
-"Lastpass ou <a href=\"[https://1password.com/](https://1password.com/)\">1Password. Chaque "
+"gestionnaire de mots de passe tel que <a "
+"href=\"https://lastpass.com/\">Lastpass</a> ou <a "
+"href=\"https://1password.com/\">1Password</a>. Chaque "
 "code ne peut être utilisé qu'une seule fois."
 
 #: ../../cmd/web/views/static/staticfeatures.qtpl
@@ -19890,11 +19891,12 @@ msgstr "Voir"
 
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid ""
-"View a list of <a rel=\"nofollow\" href=\"[https://groups.io/g/beta/search](https://groups.io/g/beta/search)?"
-"q=%23changelog&ct=1\">recent changes and updates."
+"View a list of <a rel=\"nofollow\" "
+"href=\"https://groups.io/g/beta/search?q=%23changelog&ct=1\">recent changes and "
+"updates</a>."
 msgstr ""
-"Consultez la liste des <a rel=\"nofollow\" href=\"[https://groups.io/g/beta/](https://groups.io/g/beta/)"
-"search?q=%23changelog&ct=1\">modifications et mises à jour récentes."
+"Consultez la liste des <a rel=\"nofollow\" "
+"href=\"https://groups.io/g/beta/search?q=%23changelog&ct=1\">modifications et mises à jour récentes.</a>"
 
 #: ../../cmd/web/views/user/feed.qtpl
 msgid "VIEW ALL"
@@ -20083,10 +20085,10 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/joingroup.qtpl
 #: ../../pkg/notifications/noteviews/welcomenotification.qtpl
 msgid ""
-"Visit our <a href=\"[https://groups.io/helpcenter](https://groups.io/helpcenter)\">help center for more "
-"information about how the Groups.io site works."
+"Visit our <a href=\"/helpcenter\">help center</a> for more information about how "
+"the Groups.io site works."
 msgstr ""
-"Visitez notre <a href=\"[https://groups.io/helpcenter](https://groups.io/helpcenter)\">centre d'aide pour plus d'informations "
+"Visitez notre <a href=\"/helpcenter\">centre d'aide</a> pour plus d'informations "
 "sur le fonctionnement du site Groups.io."
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl
@@ -20181,12 +20183,11 @@ msgstr ""
 
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid ""
-"We are the most advanced email group service on the Internet. Check out our "
-"list of <a href=\"[https://groups.io/static/features](https://groups.io/static/features)\">features."
+"We are the most advanced email group service on the Internet. Check out our list "
+"of <a href=\"https://groups.io/static/features\">features</a>."
 msgstr ""
 "Nous sommes le service de listes de diffusion le plus avancé du Web. Découvrez notre "
-"liste de <a href=\"[https://groups.io/static/features](https://groups.io/static/features)\">fonctionnalités."
-
+"liste de <a href=\"https://groups.io/static/features\">fonctionnalités</a>."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "We are unable to read that photo."
@@ -20250,13 +20251,12 @@ msgstr ""
 
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 msgid ""
-"We have put together a FAQ page with more information. You can find it here: "
-"<a href=\"[https://groups.io/static/reverifyfaq](https://groups.io/static/reverifyfaq)\">[https://groups.io/static/](https://groups.io/static/)"
-"reverifyfaq"
+"We have put together a FAQ page with more information. You can find it here: <a "
+"href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a>"
 msgstr ""
 "Nous avons préparé une page de FAQ contenant plus d'informations. Vous "
-"pouvez la trouver ici : <a href=\"[https://groups.io/static/](https://groups.io/static/)"
-"reverifyfaq\">[https://groups.io/static/reverifyfaq](https://groups.io/static/reverifyfaq)"
+"pouvez la trouver ici : <a "
+"href=\"https://groups.io/static/reverifyfaq\">https://groups.io/static/reverifyfaq</a>"
 
 #: ../../pkg/notifications/noteviews/socialloginnotification.qtpl
 msgid ""
@@ -20336,11 +20336,10 @@ msgstr "Nous avons désabonné %[1]s de %[2]s car"
 
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
 msgid ""
-"We use <a href=\"[https://stripe.com](https://stripe.com)\">Stripe to accept credit card "
-"payments. In order to accept donations,you will need to have a Stripe "
-"account."
+"We use <a href=\"https://stripe.com\">Stripe</a> to accept credit card payments. "
+"In order to accept donations,you will need to have a Stripe account."
 msgstr ""
-"Nous utilisons <a href=\"[https://stripe.com](https://stripe.com)\">Stripe pour accepter les "
+"Nous utilisons <a href=\"https://stripe.com\">Stripe</a> pour accepter les "
 "paiements par carte bancaire. Pour pouvoir recevoir des dons, vous devez "
 "posséder un compte Stripe."
 
