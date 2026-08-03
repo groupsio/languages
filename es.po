@@ -7,7 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: i18n@beta.Groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
 "PO-Revision-Date: 2026-07-29 08:59-0500\n"
-"Last-Translator: Luis Carlos González >Morales <luiscarlosgonzalezmorales655@gmail.com>\n"
+"Last-Translator: Luis Carlos González Morales <luiscarlosgonzalezmorales655@gmail.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -233,7 +233,7 @@ msgstr "%d día(s)"
 
 #: ../../cmd/web/views/groupadmin/awaitingpayment.qtpl
 msgid "%d day(s) ago"
-msgstr "%d hace día(s)"
+msgstr "hace %d día(s)"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 msgid "%d Email integration"
@@ -15854,7 +15854,7 @@ msgstr "Iniciado por"
 
 #: ../../cmd/web/views/group/grouphome.qtpl
 msgid "Started on %s"
-msgstr "Iniciado en %s"
+msgstr "Iniciado el %s"
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Starts at $20/month or $220/year"
