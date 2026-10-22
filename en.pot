@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Groups.io\n"
 "Report-Msgid-Bugs-To: i18n@beta.groups.io\n"
 "POT-Creation-Date: 2023-01-27 10:04-0800\n"
-"PO-Revision-Date: 2026-07-17 14:23-0700\n"
+"PO-Revision-Date: 2026-10-22 13:00-0700\n"
 "Last-Translator: FULL NAME <email@example.com>\n"
 "Language-Team: LANGUAGE <email@example.com>\n"
 "Language: en\n"
@@ -125,7 +125,7 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 msgid ""
 "%[1]s changed %[2]s's email address from %[3]s to %[4]s and display name from "
-"'%[5]s' to '%[6]s' in group %[7s]"
+"'%[5]s' to '%[6]s' in group %[7]s"
 msgstr ""
 
 #, go-format
@@ -205,6 +205,54 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on day %[2]s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the fifth %[2]s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the first %[2]s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the fourth %[2]s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the last %[2]s of the month"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the last day of the month"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the second %[2]s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s on the third %[2]s"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupsync/syncgroup.qtpl
 msgid ""
 "%[1]s organizations can be synced with an external service. This means that "
@@ -267,12 +315,18 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupphotos/groupalbum.qtpl
-#: ../../cmd/web/views/groupphotos/groupphotos.qtpl
-msgid "%d album"
-msgid_plural "%d albums"
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s, %[2]s time"
+msgid_plural "%[1]s, %[2]s times"
 msgstr[0] ""
 msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "%[1]s, through %[2]s"
+msgstr ""
 
 #, go-format
 #. TRANSLATORS: %d is the number of approved messages
@@ -288,6 +342,11 @@ msgid "%d attachment has been deleted."
 msgid_plural "%d attachments have been deleted."
 msgstr[0] ""
 msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "%d attachments"
+msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/subgrouptiers.qtpl
@@ -326,6 +385,11 @@ msgid "%d Github integration"
 msgid_plural "%d Github integrations"
 msgstr[0] ""
 msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "%d going"
+msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/subgroupcategories.qtpl
@@ -381,13 +445,34 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "%d new messages"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupmessages/topicsummary.qtpl
 msgid "%d new messages since this summary."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "%d new messages, jump to latest"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "%d not sure"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 msgid "%d of %d complete"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "%d of %d spots filled"
 msgstr ""
 
 #, go-format
@@ -406,7 +491,6 @@ msgid "%d out of 5 Integrations"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 msgid "%d person"
@@ -415,9 +499,9 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-msgid "%d person is already attending"
-msgid_plural "%d people are already attending."
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "%d person attending, including guests."
+msgid_plural "%d people attending, including guests."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -452,6 +536,14 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "%d spot left"
+msgid_plural "%d spots left"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 msgid "%d steps left before you can request the upgrade:"
 msgstr ""
@@ -460,6 +552,14 @@ msgstr ""
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "%d Sub"
 msgid_plural "%d Subs"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+#: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+msgid "%d sub-album"
+msgid_plural "%d sub-albums"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -507,6 +607,11 @@ msgid "%d x 50GB scheduled for removal at next billing cycle"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdb/groupaddtable.qtpl
+msgid "%s (required)"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl
 msgid "%s applied to join your group."
 msgstr ""
@@ -545,6 +650,16 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/resubnotification.qtpl
 msgid "%s has rejoined"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "%s images failed to upload. Please try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "%s is typing"
 msgstr ""
 
 #, go-format
@@ -629,20 +744,24 @@ msgid "(no subject)"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-msgid "(optional)"
+#: ../../cmd/web/views/groupadmin/memberdetail.qtpl
+msgid "(pending)"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/memberdetail.qtpl
-msgid "(pending)"
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "(Please choose one)"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "(Please Select a Country)"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "(What are you using today?)"
 msgstr ""
 
 #, go-format
@@ -656,6 +775,11 @@ msgstr[1] ""
 #, go-format
 #: ../../cmd/web/qtutils/groupmemberbuttons.qtpl
 msgid "+owner Messages"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ", which is very likely why they aren't receiving messages."
 msgstr ""
 
 #, go-format
@@ -673,6 +797,13 @@ msgstr ""
 msgid ""
 "- Learn how to log in to Groups.io, and why you can still read and post entirely "
 "by email if you prefer."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+". Messages are leaving Groups.io for them, so the most likely causes are a spam "
+"folder or a filter on their side."
 msgstr ""
 
 #, go-format
@@ -696,8 +827,23 @@ msgid "1 GB attachment storage"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "1 image failed to upload. Please try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "1 new message"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupmessages/topicsummary.qtpl
 msgid "1 new message since this summary."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "1 new message, jump to latest"
 msgstr ""
 
 #, go-format
@@ -854,18 +1000,18 @@ msgid ""
 "non-responding members between now and Mon March 25 2024.</p> <div class=\"well "
 "well-sm\"> If you are an owner or moderator of a group, you can see if any of "
 "your members need to be reverified. Go to the Members page of your group, and "
-"look for the <span class=\"label label-info\">RI</span> badge. You may not have "
-"any members with that badge. If so, <strong>you can safely ignore this</strong>. "
-"</div> <h3>Why Reverification?</h3> <p>On March 11, 2024, an anti-spam service "
-"called Spamhaus labeled one of our email servers as a spam sender. This caused "
-"any email service that uses Spamhaus to stop accepting email from our server. "
-"The reason they labeled one of our email servers as a spam sender is because "
-"some groups have email addresses subscribed that are not valid people, but are "
-"instead spam traps. A spam trap is an email address that is not used by a "
-"person, but is instead used to catch spammers. That is the reason that we began "
-"a reverification process and sent out reverification emails to many users on "
-"that day.</p> <p>We recognize and apologize for the inconvenience this may "
-"cause, but we are required to do this in order to ensure that group email "
+"look for the <span class=\"badge text-bg-info\">RI</span> badge. You may not "
+"have any members with that badge. If so, <strong>you can safely ignore "
+"this</strong>. </div> <h3>Why Reverification?</h3> <p>On March 11, 2024, an "
+"anti-spam service called Spamhaus labeled one of our email servers as a spam "
+"sender. This caused any email service that uses Spamhaus to stop accepting email "
+"from our server. The reason they labeled one of our email servers as a spam "
+"sender is because some groups have email addresses subscribed that are not valid "
+"people, but are instead spam traps. A spam trap is an email address that is not "
+"used by a person, but is instead used to catch spammers. That is the reason that "
+"we began a reverification process and sent out reverification emails to many "
+"users on that day.</p> <p>We recognize and apologize for the inconvenience this "
+"may cause, but we are required to do this in order to ensure that group email "
 "delivery will be able to continue unencumbered.</p> <h3>Example Of The "
 "Reverification Email</h3> <div class=\"well well-sm\"> "
 "<p><strong>Subject</strong>: Action Required: Confirm Your Groups.io Membership "
@@ -903,10 +1049,10 @@ msgid ""
 "Activity Log.</p> <h3>Moderators</h3> <p>You can see which your users are "
 "affected. Go to the Admin section of your group and look at the Members page. "
 "Next to each user's email, there may be a badge with the letters <span "
-"class=\"label label-info\">RI</span> or <span class=\"label "
-"label-info\">RS</span>. <span class=\"label label-info\">RI</span> means the "
+"class=\"badge text-bg-info\">RI</span> or <span class=\"badge "
+"text-bg-info\">RS</span>. <span class=\"badge text-bg-info\">RI</span> means the "
 "confirmation/reverification is in progress (but has not been completed). <span "
-"class=\"label label-info\">RS</span> means the confirmation/reverification has "
+"class=\"badge text-bg-info\">RS</span> means the confirmation/reverification has "
 "been successfully completed.</p> <p>Moderators can download a filtered CSV "
 "formatted list of members, by clicking the <strong>Download</strong> button "
 "after checking the appropriate Filter checkboxes.</p> <p>The number of members "
@@ -914,11 +1060,11 @@ msgid ""
 "fraction of the total Groups.io membership.</p> <h3>Timeline (still being "
 "finalized)</h3> <p>Here are the remaining steps in the process:</p> <ol> <li>For "
 "at least an additional two weeks after March 25th, people will still be able to "
-"reverify themselves and the <span class=\"label label-info\">RI</span> and <span "
-"class=\"label label-info\">RS</span> badges will still show up in the Members "
-"page.</li> <li>After that, members still in the <span class=\"label "
-"label-info\">RI</span> state will be removed from groups. The activity log entry "
-"will be <em>Membership - Member Removed</em>, with the added reason of "
+"reverify themselves and the <span class=\"badge text-bg-info\">RI</span> and "
+"<span class=\"badge text-bg-info\">RS</span> badges will still show up in the "
+"Members page.</li> <li>After that, members still in the <span class=\"badge "
+"text-bg-info\">RI</span> state will be removed from groups. The activity log "
+"entry will be <em>Membership - Member Removed</em>, with the added reason of "
 "<em>reverification failed</em>.</li> </ol> <p>For domains where no "
 "reverifications happened, accounts will be banned from all activity with the "
 "thought that they are potential spam traps. Those email addresses cannot login, "
@@ -929,13 +1075,6 @@ msgid ""
 "the \"Email me a link to log in\" button on the login page. This will re-verify "
 "their account. They can then request to join groups or be added via direct "
 "addition or invitation. </p>"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticupgradeapp.qtpl
-msgid ""
-"<h3>Please Upgrade Your App</h3> <p> You are currently using an outdated version "
-"of the Groups.io app. Please upgrade to the latest version. </p> <p><br/></p>"
 msgstr ""
 
 #, go-format
@@ -1020,11 +1159,12 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 msgid ""
 "<p>Hello [Name],</p> <p>You have been invited by %[1]s to join the %[2]s group "
-"<i>%[3]s</i>.</p> <div id=\"custom_message\"></div> <p>If you have questions "
-"about this invitation, send them to <b>%[4]s</b>.</p> <p>To accept the "
-"invitation, please reply to this email, or you may <u>accept the invitation</u> "
-"on the website. This link will expire in 14 days, on %[5]s.</p> <p>If you are "
-"not interested, or if [Invitee Email Address] is not your email address, please "
+"<i>%[3]s</i>.</p> <div id=\"custom_message\"></div> <p>To accept the invitation, "
+"just reply to this email, or you may <u>accept the invitation</u> on the "
+"website. This link will expire in 14 days, on %[5]s.</p> <p>If you have "
+"questions about this invitation, send them to <b>%[4]s</b>. There is no need to "
+"write to this address to accept the invitation.</p> <p>If you are not "
+"interested, or if [Invitee Email Address] is not your email address, please "
 "ignore this email.</p> <p></p> Cheers,<br> <p>The %[2]s Team</p>"
 msgstr ""
 
@@ -1276,11 +1416,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/group/grouphome.qtpl
-msgid "[See All]"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 msgid ""
 "[T]ethering remote team members to your team communication tools undermines "
@@ -1294,6 +1429,13 @@ msgstr ""
 msgid ""
 "A 400×100 PNG with a transparent background. The header is dark, so light or "
 "white logos read best."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"A bank payment for this group is still clearing. Please wait until it completes "
+"before making this change."
 msgstr ""
 
 #, go-format
@@ -1356,6 +1498,11 @@ msgid "a digest message"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "A group I'm not a member of"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid ""
 "A group you belong to requires two-factor authentication. Please set it up to "
@@ -1371,6 +1518,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/paidmem_owner_member_canceled.qtpl
 msgid "A member canceled their paid membership in %s."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "A member of my group"
 msgstr ""
 
 #, go-format
@@ -1403,6 +1555,11 @@ msgstr ""
 msgid ""
 "A message has been sent to the member containing a link to unbounce their "
 "account."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "A message was deleted."
 msgstr ""
 
 #, go-format
@@ -1479,6 +1636,13 @@ msgstr ""
 msgid ""
 "A new set of recovery codes has been generated. Your old recovery codes will no "
 "longer work."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/settings.qtpl
+msgid ""
+"A passkey also counts as two-factor authentication. Once you add one, logging in "
+"with your password will also ask for your passkey."
 msgstr ""
 
 #, go-format
@@ -1599,6 +1763,11 @@ msgid "Access ends:"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/base.qtpl
+msgid "Account"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 msgid "Account Billed"
 msgstr ""
@@ -1612,6 +1781,11 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Account Changes"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Account status"
 msgstr ""
 
 #, go-format
@@ -1643,6 +1817,11 @@ msgstr ""
 #: ../../cmd/web/views/user/groups.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "Actions"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Activate Replacement Certificate"
 msgstr ""
 
 #, go-format
@@ -1702,6 +1881,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/editor.qtpl
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupintegrations/addbluesky.qtpl
@@ -1738,17 +1918,17 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
-msgid "Add a card"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 msgid "Add a credit card for the group."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupintegrations/groupfeedintegrations.qtpl
 msgid "Add a Feed"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/require2fa.qtpl
+msgid "Add a passkey"
 msgstr ""
 
 #, go-format
@@ -1825,11 +2005,6 @@ msgid "Add Event"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Add Event & Invite Group"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "Add Extra Storage"
 msgstr ""
@@ -1880,6 +2055,11 @@ msgid "Add Members Directly"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Add Moderator Note"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Add New"
 msgstr ""
@@ -1892,6 +2072,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "Add or Modify Integrations"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
+msgid "Add or update your card"
 msgstr ""
 
 #, go-format
@@ -1963,7 +2148,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Add this iCalendar URL to your calendar:"
 msgstr ""
 
@@ -1975,8 +2159,12 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "Add to Calendar"
+msgstr ""
+
+#, go-format
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl
+msgid "Add to Google Calendar"
 msgstr ""
 
 #, go-format
@@ -1988,6 +2176,11 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 msgid "Add To Subgroups"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Add to the moderator notes of"
 msgstr ""
 
 #, go-format
@@ -2058,6 +2251,16 @@ msgid "Added photo album"
 msgstr ""
 
 #, go-format
+#: ../../pkg/notifications/noteviews/photonotification.qtpl
+msgid "Added Photo Sub-Album"
+msgstr ""
+
+#, go-format
+#: ../../pkg/notifications/noteviews/photonotification.qtpl
+msgid "Added photo sub-album %[1]s in %[2]s"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/databasenotification.qtpl
 msgid "Added Row #"
 msgstr ""
@@ -2073,6 +2276,11 @@ msgid "added the photo album"
 msgstr ""
 
 #, go-format
+#: ../../pkg/notifications/noteviews/photonotification.qtpl
+msgid "added the photo sub-album"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 msgid "Added:"
 msgstr ""
@@ -2080,6 +2288,12 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 msgid "Additional Features"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Additional guests"
 msgstr ""
 
 #, go-format
@@ -2094,11 +2308,6 @@ msgid "Additional Information Is Required To Join"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Additional Information Requested From Attendees"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
 msgid "Additional Options"
 msgstr ""
@@ -2106,6 +2315,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Address"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Address line 2"
 msgstr ""
 
 #, go-format
@@ -2186,6 +2400,11 @@ msgid "AI summaries are not enabled for this group."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupmessages/topicsummary.qtpl
+msgid "AI summary ready."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 msgid "AI Topic Summaries"
 msgstr ""
@@ -2208,7 +2427,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
-#: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
 msgid "Album"
@@ -2250,6 +2468,7 @@ msgid "Aliases are like a second name for your group."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "All"
 msgstr ""
@@ -2257,6 +2476,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 msgid "All Activity"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "All areas"
 msgstr ""
 
 #, go-format
@@ -2359,6 +2583,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
 msgid "All sales are final."
 msgstr ""
 
@@ -2372,6 +2597,11 @@ msgid ""
 "everyone just spoke one line at a time, and people kept interrupting you while "
 "you were trying to make your point. Would you ever get anywhere? And wouldn't it "
 "take forever?"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+msgid "All Subgroups"
 msgstr ""
 
 #, go-format
@@ -2398,6 +2628,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
 msgid "All Types"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "All types"
 msgstr ""
 
 #, go-format
@@ -2511,6 +2746,11 @@ msgid "Already a Member (as an alias of %s)"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Already a member of a group?"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 msgid "Already Claimed"
 msgstr ""
@@ -2527,6 +2767,11 @@ msgid "Also applying to"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+msgid "Alternative text"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/storagelimitnotification.qtpl
 msgid ""
 "Alternatively, you can set your group to bounce messages that contain "
@@ -2538,6 +2783,13 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "American Samoa"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"among this group's members. Check the address for typos — otherwise send the "
+"request and we'll take a look."
 msgstr ""
 
 #, go-format
@@ -2573,8 +2825,13 @@ msgid "Amount: USD $%.02f"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "An address, a place name, or a link to an online meeting."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupaliases.qtpl
-msgid "An alternate name for your group."
+msgid "An alternate name for your group"
 msgstr ""
 
 #, go-format
@@ -2614,11 +2871,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/rsvputils/rsvpguestschanged.qtpl
 msgid "An organizer has updated your RSVP for the %s event."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-msgid "An RSVP has been requested for this event."
 msgstr ""
 
 #, go-format
@@ -2671,11 +2923,6 @@ msgid "and"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/account/deleteaccount.qtpl
-msgid "And to complete the deletion, enter <strong>I understand</strong>:"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 msgid "And we're adding more integrations all the time."
 msgstr ""
@@ -2709,6 +2956,7 @@ msgid "Announcements Only. Only moderators can post to the group."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittierprice.qtpl
 msgid "Annual"
 msgstr ""
@@ -2719,11 +2967,23 @@ msgid "Annual amount ($)"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Annually on %[1]s %[2]s"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Another Group"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Another Groups.io plan"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 msgid "Answer"
 msgstr ""
@@ -2794,6 +3054,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 msgid "Aperture"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "API"
 msgstr ""
 
 #, go-format
@@ -2888,6 +3153,13 @@ msgid "Approve"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Approve %d member?"
+msgid_plural "Approve %d members?"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 msgid "Approve & Add Sender"
@@ -2945,9 +3217,14 @@ msgid "approved messages needed"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Approximate number of unique people across all your groups"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Apr"
 msgstr ""
 
@@ -3080,6 +3357,13 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete the <strong>%s</strong> group? The group name "
 "will not be able to be reused for some time."
+msgstr ""
+
+#, go-format
+#. TRANSLATORS: The %s is the email address of the subgroup.
+#. TRANSLATORS: The %s is the email address of the subgroup.
+#: ../../cmd/web/views/groupadmin/deletegroup.qtpl
+msgid "Are you sure you want to delete the <strong>%s</strong> subgroup?"
 msgstr ""
 
 #, go-format
@@ -3308,17 +3592,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid ""
 "Are you sure you want to make this group's archives private? Private archives "
-"cannot be reverted to open later."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/group/creategroup.qtpl
-msgid ""
-"Are you sure you want to make this group's archives private? Private archives "
-"cannot be reverted to public archives later."
+"cannot be reverted to public later."
 msgstr ""
 
 #, go-format
@@ -3471,6 +3749,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "Area"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Argentina"
@@ -3493,6 +3776,13 @@ msgstr ""
 msgid ""
 "As a security measure, we have just sent an email to you with a link. Clicking "
 "the link will log you in and enable future logins as well."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+#: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+#: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
+msgid "ascending"
 msgstr ""
 
 #, go-format
@@ -3561,6 +3851,11 @@ msgid "Attached is a calendar removal notice for an upcoming event for this grou
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "Attachment"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl
 msgid "Attachment added to card"
 msgstr ""
@@ -3610,24 +3905,29 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Attendee comments are visible to all members"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Attendees can bring guests"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Attending"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
 msgid "Audio"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Aug"
 msgstr ""
 
@@ -3713,7 +4013,16 @@ msgid "Authenticated to Zoom as:"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"Authentication requests are currently unsigned. First prepare a signing "
+"certificate and import it into your identity provider. You can then return here "
+"to enable signing."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "Author"
 msgstr ""
@@ -3738,11 +4047,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/emailhelpnotification.qtpl
 msgid "Automated help for the %s group"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/account/settings.qtpl
-msgid "Automatic"
 msgstr ""
 
 #, go-format
@@ -3819,6 +4123,13 @@ msgid "Awaiting bank settlement. Bank transfers typically clear in 3–5 busines
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid ""
+"Awaiting bank settlement. Bank transfers typically clear in 3–5 business days. "
+"We'll email you when it's complete."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Awaiting Payment"
 msgstr ""
@@ -3836,13 +4147,76 @@ msgid "Azerbaijan"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/account/groupprofile.qtpl
+#: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
+#: ../../cmd/web/views/group/createsubgroup.qtpl
+#: ../../cmd/web/views/group/groupdirectory.qtpl
+#: ../../cmd/web/views/group/grouphome.qtpl
+#: ../../cmd/web/views/group/grouppromote.qtpl
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
+#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
+#: ../../cmd/web/views/groupadmin/exportgroup.qtpl
+#: ../../cmd/web/views/groupadmin/groupactivity.qtpl
+#: ../../cmd/web/views/groupadmin/groupaliases.qtpl
+#: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
+#: ../../cmd/web/views/groupadmin/groupbanneddomains.qtpl
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+#: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
+#: ../../cmd/web/views/groupadmin/groupcoverphoto.qtpl
+#: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
+#: ../../cmd/web/views/groupadmin/groupmemberdeliveries.qtpl
+#: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmoderatornotes.qtpl
+#: ../../cmd/web/views/groupadmin/groupownermsgs.qtpl
+#: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
+#: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupadmin/groupusage.qtpl
+#: ../../cmd/web/views/groupadmin/subgroupcategories.qtpl
+#: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchats.qtpl
+#: ../../cmd/web/views/groupdb/groupdatabase.qtpl
+#: ../../cmd/web/views/groupdonations/groupdonations.qtpl
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#: ../../cmd/web/views/groupintegrations/groupintegrations.qtpl
+#: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupask.qtpl
+#: ../../cmd/web/views/groupmessages/groupasksessions.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouporiginal.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
+#: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+#: ../../cmd/web/views/groupphotos/groupphoto.qtpl
+#: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+#: ../../cmd/web/views/groupsync/groupfilesync.qtpl
+#: ../../cmd/web/views/groupsync/syncgroup.qtpl
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
+#: ../../cmd/web/views/post/groupdrafts.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#: ../../cmd/web/views/sub/editsub.qtpl
+#: ../../cmd/web/views/sub/subdeliveries.qtpl
+#: ../../cmd/web/views/sub/subintegrations.qtpl
 msgid "Back"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/login/passkeyrecovery.qtpl
+#: ../../cmd/web/views/login/passkeystep.qtpl
 msgid "Back to Login"
 msgstr ""
 
@@ -3869,6 +4243,13 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Ban"
 msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Ban %d member?"
+msgid_plural "Ban %d members?"
+msgstr[0] ""
+msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbanneddomains.qtpl
@@ -3980,11 +4361,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "Be the first to say yes."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 #: ../../pkg/notifications/noteviews/directaddnotification.qtpl
@@ -4019,10 +4395,23 @@ msgid ""
 msgstr ""
 
 #, go-format
+#. TRANSLATORS: The %s is the URL of the subgroup.
+#: ../../cmd/web/views/groupadmin/deletegroup.qtpl
+msgid ""
+"Before deleting your subgroup, you may want to <a href=\"%s/exportgroup\">export "
+"the subgroup</a>."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 msgid ""
 "Before we can delete your account, you must either delete these groups or add "
 "another owner to them."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Before we send this"
 msgstr ""
 
 #, go-format
@@ -4220,8 +4609,22 @@ msgid "Bosnia and Herzegowina"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Both"
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"Both certificates are published in SP metadata. Have your identity provider "
+"trust the replacement while retaining the current certificate. Activate only "
+"after its administrator confirms trust. To cancel, coordinate removal of the "
+"replacement from your identity provider."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"Both certificates remain published. Verify a fresh login with the current "
+"certificate and allow metadata caches and in-flight requests to clear before "
+"retiring the previous certificate. Retirement deletes its saved private key and "
+"removes it from metadata; also remove its trust at your identity provider. "
+"Rollback requires the previous certificate to remain valid and trusted."
 msgstr ""
 
 #, go-format
@@ -4255,6 +4658,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 msgid "Bounces"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Bounces for this group"
 msgstr ""
 
 #, go-format
@@ -4345,6 +4753,11 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Brunei Darussalam"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "Bug fix"
 msgstr ""
 
 #, go-format
@@ -4516,6 +4929,7 @@ msgstr ""
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../pkg/notifications/noteviews/groupcalinvitesnotification.qtpl
@@ -4606,6 +5020,7 @@ msgstr ""
 #: ../../cmd/web/qtutils/editor.qtpl
 #: ../../cmd/web/qtutils/messagereports.qtpl
 #: ../../cmd/web/qtutils/searchfilter.qtpl
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 #: ../../cmd/web/views/account/require2fa.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
@@ -4731,6 +5146,11 @@ msgid "Cancel Merge"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Cancel Replacement"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/paidmemberships.qtpl
 msgid "Cancel scheduled change"
 msgstr ""
@@ -4753,6 +5173,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 msgid "Canceled"
 msgstr ""
 
@@ -4887,6 +5308,11 @@ msgid "Central African Republic"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Certificate Rotation"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/color.qtpl
 msgid "Cerulean Blue"
 msgstr ""
@@ -4911,7 +5337,14 @@ msgstr ""
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 msgid "Change"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/sub/editsub.qtpl
+msgid "Change all of the moderator notification settings below at once."
 msgstr ""
 
 #, go-format
@@ -4989,11 +5422,6 @@ msgid "Change your notification settings"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "Change Your RSVP"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/changedemail.qtpl
 msgid "Changed Email Address"
 msgstr ""
@@ -5001,7 +5429,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
-#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../cmd/web/views/static/staticabout.qtpl
 msgid "Changelog"
 msgstr ""
@@ -5037,6 +5464,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/emailhelpnotification.qtpl
 msgid "Changing Your Subscription"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/group/createsubgroup.qtpl
+msgid "characters remaining"
 msgstr ""
 
 #, go-format
@@ -5138,6 +5570,7 @@ msgstr ""
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
@@ -5155,6 +5588,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/probe/probedata.qtpl
 msgid "Check"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/sub/joincompleted.qtpl
+msgid "Check again"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
+msgid "Check All"
 msgstr ""
 
 #, go-format
@@ -5306,6 +5749,16 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Choice"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Choice removed"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Choices"
 msgstr ""
 
@@ -5321,8 +5774,13 @@ msgid "Choose a paid tier"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
-msgid "Choose cadence"
+#: ../../cmd/web/qtutils/editor.qtpl
+msgid "Choose files"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/editor.qtpl
+msgid "Choose images"
 msgstr ""
 
 #, go-format
@@ -5334,7 +5792,14 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
-msgid "Choose monthly or annual billing."
+msgid ""
+"Choose monthly or annual Enterprise billing. Saving this choice does not charge "
+"your card. Enterprise billing starts when we complete your upgrade."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/paidmembershipsedittierprice.qtpl
+msgid "Choose monthly or annual."
 msgstr ""
 
 #, go-format
@@ -5377,6 +5842,13 @@ msgid "Claim"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Claim %d member?"
+msgid_plural "Claim %d members?"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "Claim Sub"
 msgstr ""
@@ -5396,7 +5868,9 @@ msgid "Claimed by %[1]s on %[2]s"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 msgid "Clear"
 msgstr ""
 
@@ -5445,95 +5919,25 @@ msgid "Client Secret provided by your SSO provider."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/qtutils/dialog.qtpl
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/qtutils/likes.qtpl
-#: ../../cmd/web/qtutils/messagereports.qtpl
-#: ../../cmd/web/qtutils/searchfilter.qtpl
-#: ../../cmd/web/views/account/bouncing.qtpl
-#: ../../cmd/web/views/account/deleteaccount.qtpl
-#: ../../cmd/web/views/account/needreverification.qtpl
-#: ../../cmd/web/views/account/settings.qtpl
-#: ../../cmd/web/views/account/usersessions.qtpl
+#: ../../cmd/web/qtutils/modal.qtpl
 #: ../../cmd/web/views/calendar/calendar.qtpl
-#: ../../cmd/web/views/components/messagelib/messagelib.qtpl
-#: ../../cmd/web/views/components/searchbreadcrumb.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/group/createsubgroup.qtpl
-#: ../../cmd/web/views/groupadmin/deletegroup.qtpl
-#: ../../cmd/web/views/groupadmin/groupactivity.qtpl
-#: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
-#: ../../cmd/web/views/groupadmin/groupbanneddomains.qtpl
-#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
-#: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
-#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
-#: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
-#: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
-#: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
-#: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
-#: ../../cmd/web/views/groupchat/groupchatmembers.qtpl
-#: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
-#: ../../cmd/web/views/groupdb/groupaddtable.qtpl
-#: ../../cmd/web/views/groupdb/groupdatabase.qtpl
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl
-#: ../../cmd/web/views/groupdonations/groupdonations.qtpl
-#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
-#: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
-#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-#: ../../cmd/web/views/groupintegrations/addbluesky.qtpl
-#: ../../cmd/web/views/groupintegrations/blueskyintegrations.qtpl
-#: ../../cmd/web/views/groupintegrations/groupaddemail.qtpl
-#: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
-#: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
-#: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl
-#: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl
-#: ../../cmd/web/views/groupintegrations/groupemailintegrations.qtpl
-#: ../../cmd/web/views/groupintegrations/groupfeedintegrations.qtpl
-#: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl
-#: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl
-#: ../../cmd/web/views/groupmessages/groupallthread.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl
-#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
-#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
-#: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
-#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
-#: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
-#: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl
-#: ../../cmd/web/views/groupphotos/groupphoto.qtpl
-#: ../../cmd/web/views/groupphotos/groupphotos.qtpl
-#: ../../cmd/web/views/groupsync/syncgroup.qtpl
-#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
-#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
-#: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#: ../../cmd/web/views/post/groupdrafts.qtpl
-#: ../../cmd/web/views/post/grouppost.qtpl
-#: ../../cmd/web/views/sub/editsub.qtpl
-#: ../../cmd/web/views/sub/joinedgroup.qtpl
-#: ../../cmd/web/views/user/activity.qtpl
-#: ../../cmd/web/views/user/groups.qtpl
-#: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "Close"
 msgstr ""
 
@@ -5631,9 +6035,25 @@ msgid "Colombia"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Color"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Column deleted"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Column moved down"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Column moved up"
 msgstr ""
 
 #, go-format
@@ -5644,6 +6064,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupsync/syncgroup.qtpl
 msgid "Combine"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/base.qtpl
+msgid "command"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Comment"
 msgstr ""
 
 #, go-format
@@ -5750,11 +6180,6 @@ msgid "Comprehensive Moderation Tools"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Computer"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "Concentration"
 msgstr ""
@@ -5777,8 +6202,18 @@ msgid "Confirm account"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "Confirm Donation"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sub/joingroup.qtpl
 msgid "Confirm Email Address"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Confirm It's You With Your Passkey"
 msgstr ""
 
 #, go-format
@@ -5908,6 +6343,16 @@ msgid "Connect Your Zoom Account"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "Connected again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "Connection lost. Reconnecting..."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Consolidated"
 msgstr ""
@@ -5915,6 +6360,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 msgid "Contact Group Owner"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Contact Groups.io Support"
 msgstr ""
 
 #, go-format
@@ -5957,6 +6407,11 @@ msgid "Continue to Recovery Codes Page"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "Control Access By Tier"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Cook Islands"
@@ -5965,6 +6420,17 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 msgid "Cookie Policy"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupmessages/groupask_script.qtpl
+msgid "Copied"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/calendar/calendar.qtpl
+#: ../../cmd/web/views/groupmessages/groupask_script.qtpl
+msgid "Copy"
 msgstr ""
 
 #, go-format
@@ -6022,6 +6488,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Country"
 msgstr ""
 
@@ -6034,7 +6501,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
@@ -6091,6 +6557,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Create API Key"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"Create as many tiers as you like, each with its own name, description, and "
+"monthly or annual pricing. Every group also has a free default tier that you "
+"control, so your existing members keep whatever access you decide they should "
+"have. If you change a tier's price later, existing subscribers keep the price "
+"they signed up at; new prices apply only to new signups."
 msgstr ""
 
 #, go-format
@@ -6188,11 +6664,6 @@ msgid "Create Your Own Groups"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Create Zoom Meeting"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Create Zoom meetings when you create calendar events"
 msgstr ""
@@ -6256,6 +6727,12 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
+msgid "CSV file"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 msgid "CSV Format"
 msgstr ""
@@ -6269,6 +6746,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/color.qtpl
 msgid "Cucumber"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Current certificate selected:"
 msgstr ""
 
 #, go-format
@@ -6377,6 +6859,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Daily"
 msgstr ""
 
@@ -6509,7 +6992,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "Date and Time"
 msgstr ""
@@ -6528,14 +7010,24 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl
+#: ../../cmd/web/views/groupcalendar/calendarscript.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Day"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Days"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "days"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "days before"
 msgstr ""
 
 #, go-format
@@ -6547,8 +7039,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Dec"
 msgstr ""
 
@@ -6566,6 +7058,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Default Country"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Default Event Color"
 msgstr ""
 
 #, go-format
@@ -6626,6 +7123,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittierprice.qtpl
@@ -6653,6 +7151,7 @@ msgstr ""
 #: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupasksessions.qtpl
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
@@ -6669,10 +7168,16 @@ msgstr ""
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
-#: ../../cmd/web/views/mutefollow/followedkeywords.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "Delete"
 msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Delete %d member without notice?"
+msgid_plural "Delete %d members without notice?"
+msgstr[0] ""
+msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -6694,6 +7199,21 @@ msgstr ""
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 msgid "Delete Chat"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Delete Column"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Delete column"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Delete column %s"
 msgstr ""
 
 #, go-format
@@ -6789,8 +7309,19 @@ msgid "Delete Rows"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/deletegroup.qtpl
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "Delete Subgroup"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 msgid "Delete Table"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Delete the column %s?"
 msgstr ""
 
 #, go-format
@@ -6840,11 +7371,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/deleteaccount.qtpl
 msgid "Delete Your Account"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Delete Zoom Meeting"
 msgstr ""
 
 #, go-format
@@ -6987,6 +7513,18 @@ msgid "Denmark"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+#: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+#: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
+msgid "descending"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+msgid "Describe the image for people who cannot see it."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/group/createsubgroup.qtpl
@@ -6996,7 +7534,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
-#: ../../cmd/web/views/groupdb/groupaddtable.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
@@ -7279,6 +7817,11 @@ msgid "Disconnect Your Zoom Account"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Discourse"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/creategroup.qtpl
 msgid "Discussion Group. Any member with the proper privileges may post to the group."
 msgstr ""
@@ -7548,11 +8091,24 @@ msgid "Download Group Export"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl
+msgid "Download ICS file"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl
+msgid "Download ICS file — entire series"
+msgstr ""
+
+#, go-format
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 msgid "Download it here"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Drafts"
@@ -7647,6 +8203,16 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"Each tier has its own set of feature permissions. For every tier, choose whether "
+"members can read group messages, post, and use chat, files, photos, the wiki, "
+"databases, polls, and the calendar. If your group has subgroups, you can also "
+"restrict individual subgroups to specific tiers, perfect for members-only "
+"spaces."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Early Access"
 msgstr ""
@@ -7702,12 +8268,8 @@ msgid "Edit Additional Guests"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "Edit additional guests"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+#: ../../cmd/web/views/groupphotos/groupeditalbum.qtpl
 msgid "Edit Album"
 msgstr ""
 
@@ -7773,6 +8335,11 @@ msgid "Edit Feed Subscriptions"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+msgid "Edit Footer"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl
 msgid "Edit Github Integration"
 msgstr ""
@@ -7794,6 +8361,11 @@ msgid "Edit Group Profile"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Edit guests"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Edit Hashtag"
 msgstr ""
@@ -7807,6 +8379,11 @@ msgstr ""
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl
 msgid "Edit Message"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+msgid "Edit message"
 msgstr ""
 
 #, go-format
@@ -7862,11 +8439,17 @@ msgid "Edit Rows"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+msgid "Edit Sidebar"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 msgid "Edit Subject"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
 msgid "Edit Subscription"
 msgstr ""
@@ -7915,6 +8498,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupintegrations/groupintegrations.qtpl
 msgid "Edit Trello Integrations"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+msgid "Edit Wiki"
 msgstr ""
 
 #, go-format
@@ -7995,6 +8583,7 @@ msgstr ""
 #: ../../cmd/web/views/grouphashtags/groupmutehashtag.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
 #: ../../cmd/web/views/groupsync/syncslackmembers.qtpl
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Email"
 msgstr ""
 
@@ -8104,6 +8693,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Email All Waitlisted (%d)"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Email an invitation to the group"
 msgstr ""
 
 #, go-format
@@ -8246,6 +8840,16 @@ msgid "Email Subject"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Email the group's owners"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Email the updated event to the group"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl
 msgid "Email topics with this hashtag."
 msgstr ""
@@ -8313,11 +8917,6 @@ msgid "Enable AI Topic Summaries"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Enable join before host"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Enable Notifications In This Browser"
 msgstr ""
@@ -8325,6 +8924,14 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Enable Notifications On This Device"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"Enable only after your identity provider trusts the certificate above. Disabling "
+"signing keeps the certificate available in metadata; your identity provider must "
+"allow unsigned requests before you disable it."
 msgstr ""
 
 #, go-format
@@ -8336,11 +8943,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 msgid "Enable Tier"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Enable waiting room"
 msgstr ""
 
 #, go-format
@@ -8367,8 +8969,18 @@ msgid "End Date"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+msgid "End date"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "End Time"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "Ended"
 msgstr ""
 
 #, go-format
@@ -8384,18 +8996,30 @@ msgid "English"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "Enter a donation amount in dollars, for example 10."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Enter a name for this passkey (e.g., 'My MacBook'):"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
+msgid "Enter a tier name."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Enter label description"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Enter label name"
 msgstr ""
@@ -8554,8 +9178,8 @@ msgid "Event Cancellation"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "Event Details"
+#: ../../pkg/notifications/noteviews/eventnotification.qtpl
+msgid "Event details"
 msgstr ""
 
 #, go-format
@@ -8592,6 +9216,38 @@ msgstr ""
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Events can also have RSVPs, with the following features:"
 msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Every %[1]d week on %[2]s"
+msgid_plural "Every %[1]d weeks on %[2]s"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Every %[1]d year on %[2]s %[3]s"
+msgid_plural "Every %[1]d years on %[2]s %[3]s"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Every %d day"
+msgid_plural "Every %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Every %d month"
+msgid_plural "Every %d months"
+msgstr[0] ""
+msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/group/grouppromote.qtpl
@@ -8645,7 +9301,19 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Every Monday, Wednesday, Friday"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Every Tuesday, and Thursday"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Every Tuesday, Thursday"
 msgstr ""
 
 #, go-format
@@ -8733,6 +9401,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/awaitingpayment.qtpl
 msgid "Expires in"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Expires:"
 msgstr ""
 
 #, go-format
@@ -8840,6 +9513,11 @@ msgid "Failed to update email address. Please try again."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "Failed to upload %s"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Falkland Islands (Malvinas)"
@@ -8865,6 +9543,7 @@ msgstr ""
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
@@ -8885,8 +9564,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Feb"
 msgstr ""
 
@@ -8926,6 +9605,16 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "FF"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "field.Label"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "field.Placeholder"
 msgstr ""
 
 #, go-format
@@ -9023,6 +9712,11 @@ msgid "Files are disabled"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
+msgid "Files Search"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Files Section"
 msgstr ""
@@ -9042,6 +9736,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "Filter"
 msgstr ""
@@ -9084,6 +9779,11 @@ msgstr ""
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "First Message Also"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "Flexible Joining"
 msgstr ""
 
 #, go-format
@@ -9131,6 +9831,16 @@ msgid "Follow A New Hashtag"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "Follow all events in this group, including future updates."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/settings.qtpl
+msgid "Follow device setting"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl
 msgid "Follow Duration"
 msgstr ""
@@ -9169,6 +9879,10 @@ msgid "Follow/Notify"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Followed"
 msgstr ""
@@ -9179,6 +9893,7 @@ msgid "Followed Hashtag"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/mutefollow/fk.qtpl
 #: ../../cmd/web/views/mutefollow/followedkeywords.qtpl
 msgid "Followed Hashtags"
 msgstr ""
@@ -9221,6 +9936,14 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Footer"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
+msgid ""
+"For anyone who was previously a member of this group, also add them back to the "
+"subgroups they belonged to when they were removed, with their previous subgroup "
+"delivery settings. Moderator and owner roles are not restored."
 msgstr ""
 
 #, go-format
@@ -9286,6 +10009,21 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Format for the NameID element in SAML assertions."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Format: %s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Format: hh:mm AM/PM"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Format: hh:mm, 24-hour clock"
 msgstr ""
 
 #, go-format
@@ -9357,9 +10095,14 @@ msgid "Frequently Asked Questions"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Fri"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Friday"
 msgstr ""
 
 #, go-format
@@ -9388,6 +10131,12 @@ msgstr ""
 #: ../../pkg/notifications/noteviews/paidmem_owner_tier_downgrade.qtpl
 #: ../../pkg/notifications/noteviews/paidmem_owner_tier_upgrade.qtpl
 msgid "From tier:"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Full"
 msgstr ""
 
 #, go-format
@@ -9598,6 +10347,11 @@ msgid "Go to page..."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Go to your bounce page"
+msgstr ""
+
+#, go-format
 #: ../../pkg/rsvputils/rsvpfromwaitlistmessage.qtpl
 msgid ""
 "Good news! A spot has opened up for the %s event and you have been moved from "
@@ -9620,6 +10374,23 @@ msgid "Google Analytics Javascript"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "Google Calendar"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid ""
+"Google Calendar saves a separate copy. Later changes here will not update that "
+"copy."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "Google Calendar — this occurrence"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 msgid "Google Drive"
@@ -9636,6 +10407,11 @@ msgid "Google Drive URL"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Google Groups"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/paidmem_owner_payment_failed.qtpl
 msgid "Grace period ends:"
 msgstr ""
@@ -9643,6 +10419,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/memberdetail.qtpl
 msgid "Grant a paid tier"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"Grant complimentary memberships to individual members without involving billing. "
+"See each member's tier in your member list, and filter the list by tier. Track "
+"per-tier member counts and monthly recurring revenue. Receive email "
+"notifications for new memberships, tier changes, cancellations, and failed "
+"payments. And every change is recorded in your group's activity log."
 msgstr ""
 
 #, go-format
@@ -9698,6 +10484,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/mutefollow/fk.qtpl
 #: ../../cmd/web/views/mutefollow/followedkeywords.qtpl
 #: ../../cmd/web/views/mutefollow/mk.qtpl
@@ -9850,6 +10637,11 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 msgid "Group Moderator posted the message '%s' that needs to be approved."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Group name or address"
 msgstr ""
 
 #, go-format
@@ -10214,6 +11006,11 @@ msgid "Groups.io: Changelog"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Groups.io: Contact Support"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Groups.io: Contact Us"
 msgstr ""
@@ -10239,6 +11036,11 @@ msgid "Groups.io: Language Support"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "Groups.io: Paid Memberships"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Groups.io: Plan Comparison"
 msgstr ""
@@ -10246,11 +11048,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Groups.io: Plans & Pricing"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/static/staticupgradeapp.qtpl
-msgid "Groups.io: Upgrade App"
 msgstr ""
 
 #, go-format
@@ -10429,6 +11226,14 @@ msgid "Heard and Mc Donald Islands"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+#: ../../cmd/web/views/groupchat/groupchattapbacks.qtpl
+msgid "Heart"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/legalnoticenotification.qtpl
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
@@ -10516,9 +11321,6 @@ msgid "Help"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/help/helpcenter.qtpl
-#: ../../cmd/web/views/help/helpcentermanual.qtpl
-#: ../../cmd/web/views/help/helpcentersinglepage.qtpl
 #: ../../cmd/web/views/newhelp/helpcenter.qtpl
 #: ../../cmd/web/views/newhelp/helpvideos.qtpl
 #: ../../cmd/web/views/newhelp/searchhelp.qtpl
@@ -10567,6 +11369,16 @@ msgid "Hide password"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/components/messagelib/messagelib.qtpl
+msgid "Hide quoted text"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "Highlights"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 msgid "History"
@@ -10599,8 +11411,17 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Host"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "hours before"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "How many groups or lists?"
 msgstr ""
 
 #, go-format
@@ -10763,6 +11584,11 @@ msgid "I always want copies of my own emails"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "I have coordinated this certificate change with my identity provider."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/messagereports.qtpl
 msgid ""
 "I think this file isn't appropriate for our group. The Group moderators are "
@@ -10898,6 +11724,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "If this group is focused on messages, or on a chatroom."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "If this is a problem with Groups.io itself, carry on below."
 msgstr ""
 
 #, go-format
@@ -11084,7 +11915,9 @@ msgstr ""
 
 #, go-format
 #: ../../pkg/notifications/noteviews/invitenotification.qtpl
-msgid "If you have questions about this invitation, send them to %s."
+msgid ""
+"If you have questions about this invitation, send them to %s. There is no need "
+"to write to this address to accept the invitation."
 msgstr ""
 
 #, go-format
@@ -11235,14 +12068,22 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Image"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Image Library"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+msgid "Image URL"
 msgstr ""
 
 #, go-format
@@ -11442,6 +12283,11 @@ msgid "Include Title"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Include what you did, what you expected, and what happened instead."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 msgid "Increased File and Photo Size Limits"
 msgstr ""
@@ -11501,6 +12347,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "info.Warning"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Inherited from parent group"
@@ -11534,6 +12385,18 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Insert Link To Wiki Page"
+msgstr ""
+
+#, go-format
+#: ../../pkg/notifications/noteviews/photonotification.qtpl
+msgid "inside the photo album"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/account/require2fa.qtpl
+msgid ""
+"Instead of an authentication app, you can add a passkey, which uses your "
+"device's fingerprint, face, or PIN."
 msgstr ""
 
 #, go-format
@@ -11633,6 +12496,13 @@ msgid "Invitations have been sent to join your Slack team."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
+msgid ""
+"Invitations to this subgroup can only be accepted by members of its parent "
+"subgroup, or by people who can join the parent subgroup without approval."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
@@ -11663,7 +12533,6 @@ msgid "Invite-Only Group"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupsync/syncslackmembers.qtpl
 msgid "Invited"
 msgstr ""
@@ -11813,8 +12682,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Jan"
 msgstr ""
 
@@ -11912,6 +12781,11 @@ msgid "Jordan"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdb/groupdatabase.qtpl
+msgid "JSON file"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
 #: ../../cmd/web/views/groupmessages/grouppollresponses.qtpl
@@ -11920,15 +12794,20 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Jul"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Jump to latest message"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Jun"
 msgstr ""
 
@@ -12024,18 +12903,6 @@ msgid "Label changed"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-msgid "Label Color"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupadmin/groupmember.qtpl
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-msgid "Label Name"
-msgstr ""
-
-#, go-format
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 msgid "Label removed"
 msgstr ""
@@ -12093,6 +12960,11 @@ msgid "Last 90 Days"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchats.qtpl
+msgid "Last activity"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/usersessions.qtpl
 msgid "Last activity:"
 msgstr ""
@@ -12109,11 +12981,18 @@ msgid "Last post"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Last successful delivery"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 msgid "Last updated"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmoderatornotes.qtpl
 msgid "Last Updated:"
 msgstr ""
@@ -12140,6 +13019,14 @@ msgid "Latvia"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+#: ../../cmd/web/views/groupchat/groupchattapbacks.qtpl
+msgid "Laugh"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/chatpostnotification.qtpl
 msgid "laughed at a message"
 msgstr ""
@@ -12161,14 +13048,19 @@ msgid "Learn More"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupchat/groupchat.qtpl
-msgid "Leave Chat"
+#: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpricing.qtpl
+msgid "Learn more about Paid Memberships"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/sub/editsub.qtpl
-#: ../../cmd/web/views/sub/groupleave.qtpl
-msgid "Leave Group"
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Leave at 0 for no limit. When the event is full, new RSVPs join a waitlist."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Leave Chat"
 msgstr ""
 
 #, go-format
@@ -12188,6 +13080,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Left"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+msgid "Left %s."
 msgstr ""
 
 #, go-format
@@ -12350,6 +13247,11 @@ msgid "Link to Microsoft OneDrive"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "link.Label"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/grouppromote.qtpl
 msgid "LinkedIn"
 msgstr ""
@@ -12372,6 +13274,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl
+#: ../../cmd/web/views/groupcalendar/calendarscript.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "List"
 msgstr ""
@@ -12430,6 +13333,11 @@ msgid "Listed or Unlisted in Group Directory"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "LISTSERV"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Lithuania"
@@ -12446,7 +13354,6 @@ msgstr ""
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 msgid "Location"
 msgstr ""
@@ -12503,6 +13410,7 @@ msgstr ""
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
@@ -12545,7 +13453,9 @@ msgstr ""
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/login/login.qtpl
 #: ../../cmd/web/views/login/passkeyrecovery.qtpl
+#: ../../cmd/web/views/login/passkeystep.qtpl
 #: ../../cmd/web/views/login/twofactor.qtpl
+#: ../../cmd/web/views/user/homeloggedout.qtpl
 #: ../../pkg/notifications/noteviews/loginlinknotification.qtpl
 msgid "Log In"
 msgstr ""
@@ -12582,6 +13492,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/login/passkeyrecovery.qtpl
+#: ../../cmd/web/views/login/passkeystep.qtpl
 msgid "Log In with Recovery Code"
 msgstr ""
 
@@ -12644,6 +13555,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/login/login.qtpl
+#: ../../cmd/web/views/login/passkeystep.qtpl
 msgid "Lost access to your passkey? Use a recovery code"
 msgstr ""
 
@@ -12682,6 +13594,11 @@ msgid "Madagascar"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Mailman"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Mailman / Discourse / Aurea (previously Lyris)"
 msgstr ""
@@ -12709,11 +13626,6 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Make Sticky"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Make This A Zoom Meeting"
 msgstr ""
 
 #, go-format
@@ -12747,13 +13659,14 @@ msgid "Malta"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Manage"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
-msgid "Manage card"
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Manage %s"
 msgstr ""
 
 #, go-format
@@ -12815,8 +13728,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Mar"
 msgstr ""
 
@@ -12861,11 +13774,6 @@ msgstr ""
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "Max Attachment Size"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "Max Attendees"
 msgstr ""
 
 #, go-format
@@ -12924,7 +13832,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Maximum # Attendees (0 means unlimited)"
+msgid "Maximum Attendees"
 msgstr ""
 
 #, go-format
@@ -12950,14 +13858,9 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "May"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
-msgid "Maybe"
 msgstr ""
 
 #, go-format
@@ -12972,6 +13875,11 @@ msgid "Mayotte"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Me"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 msgid "Median Approval Time"
 msgstr ""
@@ -12979,11 +13887,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 msgid "Median Reply Time"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Meeting ID"
 msgstr ""
 
 #, go-format
@@ -13161,6 +14064,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 msgid "Member synchronization"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Member's email address"
 msgstr ""
 
 #, go-format
@@ -13346,6 +14254,15 @@ msgid "Members left"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"Members manage their own memberships. They can upgrade to a higher tier "
+"immediately, schedule a downgrade for the end of their billing period, or cancel "
+"at any time and retain access until the end of the period they've paid for. They "
+"can also update their payment method and view their invoices."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupsync/syncslackmembers.qtpl
 msgid "Members of %[1]s@groups.io that are not members of the %[2]s Slack team."
 msgstr ""
@@ -13383,6 +14300,15 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Members Only"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"Members pay through Stripe Checkout using your group's connected Stripe account, "
+"the same account used for sponsorships and donations. The revenue goes directly "
+"to you. Groups.io does not charge a platform fee; standard Stripe processing "
+"fees apply. Pricing is in US dollars."
 msgstr ""
 
 #, go-format
@@ -13447,8 +14373,18 @@ msgid "Membership required"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "Membership Tiers"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/subgrouptiers.qtpl
 msgid "Membership tiers"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/base.qtpl
+msgid "Menu"
 msgstr ""
 
 #, go-format
@@ -13477,8 +14413,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/showdeliveries.qtpl
 #: ../../cmd/web/views/account/groupprofile.qtpl
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupmessages/grouporiginal.qtpl
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
+#: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #: ../../cmd/web/views/user/original.qtpl
 msgid "Message"
 msgstr ""
@@ -13486,6 +14425,17 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/spamunsubnotification.qtpl
 msgid "message %[1]s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+msgid "Message actions"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+msgid "Message actions for %s, %s"
 msgstr ""
 
 #, go-format
@@ -13501,6 +14451,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Message attachments"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "Message deleted"
 msgstr ""
 
 #, go-format
@@ -13540,8 +14495,19 @@ msgid "Message Not Found"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "Message not sent. The chat is reconnecting; try again in a moment."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Message Notifications:"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+msgid "Message number"
 msgstr ""
 
 #, go-format
@@ -13604,6 +14570,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
@@ -13618,6 +14585,7 @@ msgstr ""
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 #: ../../cmd/web/views/user/threads.qtpl
 msgid "messages"
@@ -13824,6 +14792,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 msgid "Military Time (15:04)"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "minutes before"
 msgstr ""
 
 #, go-format
@@ -14047,8 +15020,7 @@ msgid "Moldova, Republic of"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Mon"
 msgstr ""
 
@@ -14056,6 +15028,12 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Monaco"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Monday"
 msgstr ""
 
 #, go-format
@@ -14072,6 +15050,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl
+#: ../../cmd/web/views/groupcalendar/calendarscript.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Month"
 msgstr ""
@@ -14082,10 +15061,12 @@ msgid "month?"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittierprice.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Monthly"
 msgstr ""
 
@@ -14115,6 +15096,11 @@ msgid "Monthly reminder"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "months"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Montserrat"
@@ -14129,6 +15115,14 @@ msgstr ""
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "More"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchats.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+msgid "More actions"
 msgstr ""
 
 #, go-format
@@ -14172,6 +15166,11 @@ msgid "Most Recent Bounces"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Most recent delivery errors"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 msgid "Most Recent Messages"
@@ -14192,6 +15191,26 @@ msgstr ""
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 msgid "Move"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Move %s down"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Move %s up"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Move column down"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Move column up"
 msgstr ""
 
 #, go-format
@@ -14328,11 +15347,6 @@ msgid "Mute Hashtag"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Mute participants upon entry"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/mutefollow/mt.qtpl
 msgid "Mute the <b>%[1]s</b> topic in the <b>%[2]s</b> group?"
 msgstr ""
@@ -14367,6 +15381,10 @@ msgid "Mute/Notify"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessage.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 msgid "Muted"
 msgstr ""
@@ -14377,7 +15395,9 @@ msgid "Muted Hashtag"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/mutefollow/mk.qtpl
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl
+#: ../../cmd/web/views/mutefollow/unmk.qtpl
 msgid "Muted Hashtags"
 msgstr ""
 
@@ -14415,7 +15435,9 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/awaitingpayment.qtpl
 #: ../../cmd/web/views/groupadmin/deletedtiers.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
 #: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
 #: ../../cmd/web/views/groupadmin/paidmembershipstiers.qtpl
@@ -14423,7 +15445,6 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-#: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #: ../../cmd/web/views/groupdb/groupdatabase.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonations.qtpl
 #: ../../cmd/web/views/groupdonations/groupviewdonations.qtpl
@@ -14567,7 +15588,13 @@ msgid "Never Ends"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Never mind, I can take it from here"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 msgid "New"
 msgstr ""
@@ -14704,6 +15731,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
+#: ../../cmd/web/views/user/feed.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "New Member Moderated"
 msgstr ""
@@ -14727,6 +15755,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/group/creategroup.qtpl
 msgid "New Members require approval before being allowed to join the group."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "New message from %s:"
 msgstr ""
 
 #, go-format
@@ -14816,15 +15849,15 @@ msgid "New Tier"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "New to Groups.io?"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/post/grouppost.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../pkg/emailfooters/htmlfooter.qtpl
 msgid "New Topic"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/user/feed.qtpl
-msgid "New User Moderated"
 msgstr ""
 
 #, go-format
@@ -14861,6 +15894,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "Next Payment Due:"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupphotos/groupphoto.qtpl
+msgid "Next photo"
 msgstr ""
 
 #, go-format
@@ -14910,6 +15948,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
+#: ../../cmd/web/views/user/feed.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "NMM"
 msgstr ""
@@ -14917,7 +15956,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/mutefollow/ft.qtpl
 #: ../../cmd/web/views/mutefollow/mt.qtpl
 #: ../../cmd/web/views/mutefollow/unfk.qtpl
@@ -14991,6 +16029,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
 msgid "No changes"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
+msgid "No changes match."
 msgstr ""
 
 #, go-format
@@ -15133,8 +16176,18 @@ msgid "No members are currently on this tier."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "No members found."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/base.qtpl
 msgid "No need to use your phone each time"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "No one has given this response."
 msgstr ""
 
 #, go-format
@@ -15255,6 +16308,16 @@ msgid "None"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "none recorded"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
+msgid "Nonprofit Enterprise pricing applies."
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/rssemail.qtpl
 #: ../../pkg/notifications/noteviews/trelloemail.qtpl
 msgid "noreply@"
@@ -15284,6 +16347,16 @@ msgid "Norway"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
+msgid "Not a valid email address"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Not about a specific group"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
@@ -15294,6 +16367,7 @@ msgid "Not Allowed To Post"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Not Attending"
 msgstr ""
@@ -15357,6 +16431,7 @@ msgid "Not Subscribed"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Not Sure"
@@ -15374,6 +16449,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/messagereports.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Note"
 msgstr ""
 
@@ -15450,8 +16526,8 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid ""
-"Note: Topics tagged with #%s will be transfered to #<span "
-"id=\"newtagname\"></span>."
+"Note: Topics tagged with #<span id=\"curtagname\">%s</span> will be transferred "
+"to #<span id=\"newtagname\"></span>."
 msgstr ""
 
 #, go-format
@@ -15475,6 +16551,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/feed.qtpl
 msgid "Nothing new in your groups"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Nothing yet — this would be new"
 msgstr ""
 
 #, go-format
@@ -15581,8 +16662,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Nov"
 msgstr ""
 
@@ -15602,11 +16683,6 @@ msgid "NP"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/user/feed.qtpl
-msgid "NuM"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "Number"
 msgstr ""
@@ -15623,14 +16699,19 @@ msgid "Number Of Members"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Number of times"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Oauth Logins"
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Oct"
 msgstr ""
 
@@ -15650,7 +16731,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Off"
 msgstr ""
 
@@ -15659,7 +16739,6 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 msgid "OK"
@@ -15812,11 +16891,6 @@ msgid "One Year"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "One-time Meeting ID"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 msgid "OneDrive URL"
 msgstr ""
@@ -15839,6 +16913,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Only continue if you just started logging in there yourself."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
 msgid ""
 "Only display results when the poll has closed. Moderators and poll creators can "
@@ -15857,6 +16936,14 @@ msgstr ""
 msgid ""
 "Only letters, numbers, and single dashes (hyphens) are allowed. Maximum of 34 "
 "characters."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/group/createsubgroup.qtpl
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid ""
+"Only letters, numbers, periods, and single dashes (hyphens) are allowed. Maximum "
+"of %d characters."
 msgstr ""
 
 #, go-format
@@ -15993,6 +17080,11 @@ msgid "Only you and the moderators can add photos to this album"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl
+msgid "Only your first 1,000 repositories are shown."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticoutdatedbrowser.qtpl
 msgid "Oops! Your browser isn't supported."
 msgstr ""
@@ -16027,6 +17119,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Open, Restricted, or Moderated Groups"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "opens in a new tab"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "option"
 msgstr ""
 
 #, go-format
@@ -16076,15 +17178,17 @@ msgid "Optional message to be included with each message."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid ""
+"Optional. For example, \"What will you bring?\" Attendees answer it when they "
+"RSVP."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 msgid ""
 "Optional. Leave blank to skip; you can add prices later. Enter the dollar amount "
 "per cycle (e.g. 9.99)."
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Options"
 msgstr ""
 
 #, go-format
@@ -16109,9 +17213,19 @@ msgid "Orchid"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Organization Name"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Organizer"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Organizer and Color"
 msgstr ""
 
 #, go-format
@@ -16155,11 +17269,6 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
 msgid "Other Groups"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Other Info"
 msgstr ""
 
 #, go-format
@@ -16305,6 +17414,7 @@ msgstr ""
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Override: Reply to Sender"
 msgstr ""
 
@@ -16347,6 +17457,11 @@ msgid "Owner Messages"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "Owner Tools"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "Owners have all permissions, while moderators can have specific permissions."
 msgstr ""
@@ -16364,6 +17479,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Page History"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+msgid "Page history, last edited"
 msgstr ""
 
 #, go-format
@@ -16420,6 +17540,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Paid Memberships"
@@ -16488,6 +17609,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid ""
 "Paid Memberships is currently in early access. <a "
@@ -16576,11 +17698,6 @@ msgid "Parent Owner"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Participant"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Passkey added successfully!"
 msgstr ""
@@ -16608,8 +17725,14 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid ""
+"Passkeys only work on the site where you added them. To use a passkey you added "
+"on another site, continue there:"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/register.qtpl
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/login/login.qtpl
 #: ../../cmd/web/views/mutefollow/fk.qtpl
 #: ../../cmd/web/views/mutefollow/ft.qtpl
@@ -16742,6 +17865,14 @@ msgid "Payment failed for %s"
 msgstr ""
 
 #, go-format
+#. TRANSLATORS: %[1]s refers to the date of the invoice being paid, %[2]f refers to the amount of the invoice.
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid ""
+"Payment has been submitted for the invoice from %[1]s, in the amount of "
+"$%.02[2]f. There's nothing more you need to do."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
 msgid "Payment History"
 msgstr ""
@@ -16758,6 +17889,12 @@ msgid "Payment Method On File"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Payment Processing"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupviewinvoice.qtpl
 msgid "Payment processing"
 msgstr ""
@@ -16789,6 +17926,13 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Payment setup failed"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"Payment submitted. Bank transfers typically clear in 3–5 business days. We'll "
+"email you when it's complete, and there's nothing more you need to do."
 msgstr ""
 
 #, go-format
@@ -16932,6 +18076,11 @@ msgid "Percentage"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "permanent"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 msgid "Permanently delete this tier?"
 msgstr ""
@@ -16991,6 +18140,11 @@ msgid "Photo Albums"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/feed.qtpl
+msgid "Photo in %s"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 msgid "Photo Library"
 msgstr ""
@@ -16998,6 +18152,16 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 msgid "Photo Notifications"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl
+msgid "Photo rotated"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
+msgid "Photo Search"
 msgstr ""
 
 #, go-format
@@ -17110,9 +18274,29 @@ msgid "Plan"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+msgid "Play"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/demotitle.qtpl
+msgid "Play video"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Please choose a topic."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sub/joingroup.qtpl
 #: ../../cmd/web/views/sub/joinpay.qtpl
 msgid "Please choose a valid membership tier to continue."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Please describe what's happening."
 msgstr ""
 
 #, go-format
@@ -17132,6 +18316,21 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Please enter a name for your passkey."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/messagereports.qtpl
+msgid "Please enter a reason for your report."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Please enter a subject."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Please enter a valid email address."
 msgstr ""
 
 #, go-format
@@ -17308,6 +18507,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
 msgid "Post Poll"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupmessages/groupask_script.qtpl
+msgid "Post to group"
 msgstr ""
 
 #, go-format
@@ -17529,6 +18733,19 @@ msgid "Premium Yearly"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"Prepare a replacement before the current certificate expires. This publishes a "
+"second certificate without changing the key used for signing. Coordinate trust "
+"with your identity provider before activating it."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Prepare Replacement Certificate"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 msgid "Prevent people from specific domains from subscribing or from sending messages."
 msgstr ""
@@ -17544,6 +18761,7 @@ msgstr ""
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupchat/groupaddchat.qtpl
@@ -17570,6 +18788,11 @@ msgid "Preview on the dark header:"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Previous Certificate — Retained for Rollback"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/paginate.qtpl
 #: ../../cmd/web/views/calendar/calendar.qtpl
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
@@ -17577,6 +18800,11 @@ msgstr ""
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 msgid "previous page"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupphotos/groupphoto.qtpl
+msgid "Previous photo"
 msgstr ""
 
 #, go-format
@@ -17612,6 +18840,7 @@ msgstr ""
 #: ../../cmd/web/views/sidebars/termssidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
@@ -17626,7 +18855,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
-msgid "Privacy"
+msgid "Privacy and Security"
 msgstr ""
 
 #, go-format
@@ -17644,6 +18873,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Private"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupbilling.qtpl
+msgid "Processing"
 msgstr ""
 
 #, go-format
@@ -17802,6 +19036,22 @@ msgid "Qatar"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupmessages/groupask.qtpl
+#: ../../cmd/web/views/groupmessages/groupasksessions.qtpl
+msgid "Question"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Question For Attendees"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupmessages/groupask_script.qtpl
+msgid "Question not sent. Ask is reconnecting; try again in a moment."
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/chatpostnotification.qtpl
 msgid "questioned a message"
 msgstr ""
@@ -17853,6 +19103,12 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 msgid "Re:"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "Reactions: %s"
 msgstr ""
 
 #, go-format
@@ -18021,8 +19277,8 @@ msgid "Record"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Record the meeting automatically on the local computer"
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Record voice message"
 msgstr ""
 
 #, go-format
@@ -18042,6 +19298,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/login/passkeyrecovery.qtpl
+#: ../../cmd/web/views/login/passkeystep.qtpl
 msgid "Recovery codes are 11 characters long and include a dash (e.g., abc12-34def)."
 msgstr ""
 
@@ -18118,6 +19375,13 @@ msgid "Reject"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Reject %d member?"
+msgid_plural "Reject %d members?"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 msgid "Reject Message"
 msgstr ""
@@ -18170,6 +19434,21 @@ msgid "Relevance"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Reminder amount"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Reminder delivery"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Reminder unit"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/awaitingpaymentnotice.qtpl
 msgid "Reminder: complete your membership in %s"
 msgstr ""
@@ -18182,6 +19461,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 #: ../../cmd/web/views/groupchat/groupchatmembers.qtpl
@@ -18191,10 +19471,18 @@ msgstr ""
 #: ../../cmd/web/views/groupintegrations/groupaddgithub.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddtrello.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+#: ../../cmd/web/views/mutefollow/followedkeywords.qtpl
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl
 #: ../../cmd/web/views/sub/subintegrations.qtpl
 msgid "Remove"
 msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Remove %d member?"
+msgid_plural "Remove %d members?"
+msgstr[0] ""
+msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -18214,6 +19502,16 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
+msgid "Remove answer"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Remove Attendee"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Remove Attendees"
 msgstr ""
@@ -18224,8 +19522,18 @@ msgid "Remove Boards"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid "Remove choice"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "Remove Extra Storage"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Remove filter"
 msgstr ""
 
 #, go-format
@@ -18271,6 +19579,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Remove Other Reply Options"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Remove reminder %s"
 msgstr ""
 
 #, go-format
@@ -18338,6 +19651,13 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/filenotification.qtpl
 msgid "Renamed Folder %s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid ""
+"Renaming this subgroup also changes the email addresses and URLs of its "
+"subgroups."
 msgstr ""
 
 #, go-format
@@ -18427,6 +19747,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Replace the standard text at the bottom of the login page."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Replacement Certificate — Awaiting Activation"
 msgstr ""
 
 #, go-format
@@ -18628,6 +19953,18 @@ msgid "Request RSVP"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Request signing is disabled. Rotating certificates does not enable it."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"Request signing is enabled, but its certificate is unavailable. Contact support "
+"before changing signing settings."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
 msgid "Request upgrade"
 msgstr ""
@@ -18640,11 +19977,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/donationrequestnotification.qtpl
 msgid "Requested By:"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Require meeting password"
 msgstr ""
 
 #, go-format
@@ -18665,12 +19997,6 @@ msgid "Required for moderators and owners"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
-#: ../../cmd/web/views/groupadmin/paidmembershipsedittierprice.qtpl
-msgid "Required."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
 msgid "Requires %s"
 msgstr ""
@@ -18682,6 +20008,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Resend"
 msgstr ""
 
@@ -18695,6 +20022,13 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Resend Pending Membership Notice"
 msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Resend the pending membership notice to %d member?"
+msgid_plural "Resend the pending membership notice to %d members?"
+msgstr[0] ""
+msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
@@ -18726,6 +20060,11 @@ msgid "Restore"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
+msgid "Restore previous subgroup memberships"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
 msgid "Restricted"
 msgstr ""
@@ -18733,6 +20072,14 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Restricted Membership"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/base.qtpl
+#: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/usersidebar.qtpl
+msgid "results"
 msgstr ""
 
 #, go-format
@@ -18748,6 +20095,16 @@ msgid "Resume Subscription"
 msgid_plural "Resume Subscriptions"
 msgstr[0] ""
 msgstr[1] ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Retire Previous Certificate"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "Retry now"
+msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl
@@ -18794,6 +20151,11 @@ msgid ""
 "Review this dispute in your Stripe dashboard. The member's tier access has NOT "
 "been changed automatically — if you want to cancel their membership in "
 "response, do so from the group admin section."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
+msgid "Revision"
 msgstr ""
 
 #, go-format
@@ -18850,7 +20212,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "RSVP"
 msgstr ""
 
@@ -18924,6 +20285,11 @@ msgid "SAML Endpoints:"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "SAML Request Signing"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Samoa"
@@ -18942,9 +20308,14 @@ msgid "Sao Tome and Principe"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Sat"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Saturday"
 msgstr ""
 
 #, go-format
@@ -18963,6 +20334,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittierprice.qtpl
 #: ../../cmd/web/views/groupadmin/subgrouptiers.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -18992,6 +20364,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticpricing.qtpl
 msgid "Save big with Groups.io"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
+msgid "Save billing choice"
 msgstr ""
 
 #, go-format
@@ -19028,6 +20405,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupdb/groupaddrow.qtpl
 msgid "Save Row"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Save Settings and Prepare Certificate"
 msgstr ""
 
 #, go-format
@@ -19100,7 +20482,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
+#: ../../cmd/web/views/groupcalendar/calendarscript.qtpl
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
@@ -19113,7 +20495,9 @@ msgstr ""
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#: ../../cmd/web/views/newhelp/helpcenter.qtpl
 #: ../../cmd/web/views/newhelp/searchhelp.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 msgid "Search"
@@ -19142,6 +20526,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/termssidebar.qtpl
+#: ../../cmd/web/views/static/staticsecurity.qtpl
 msgid "Security"
 msgstr ""
 
@@ -19156,12 +20542,33 @@ msgid "See all"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/calendar/calendar.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
-msgid "See more details"
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "See all responses"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "See this member's full delivery history"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
+#: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
+#: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
+#: ../../cmd/web/views/groupintegrations/blueskyintegrations.qtpl
+#: ../../cmd/web/views/groupintegrations/groupemailintegrations.qtpl
+#: ../../cmd/web/views/groupintegrations/groupfeedintegrations.qtpl
+#: ../../cmd/web/views/groupintegrations/groupgithubintegrations.qtpl
+#: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl
+#: ../../cmd/web/views/user/pendingmsgs.qtpl
+msgid "Select %s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/exportgroup.qtpl
+#: ../../cmd/web/views/groupadmin/groupinvitations.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
@@ -19176,8 +20583,21 @@ msgstr ""
 #: ../../cmd/web/views/groupintegrations/grouptrellointegrations.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupsync/syncslackmembers.qtpl
+#: ../../cmd/web/views/mutefollow/followedkeywords.qtpl
+#: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl
+#: ../../cmd/web/views/post/groupdrafts.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "Select All"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Select at least one member first."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/post/groupdrafts.qtpl
+msgid "Select draft: %s"
 msgstr ""
 
 #, go-format
@@ -19189,6 +20609,22 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
 msgid "Select Microphone"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
+msgid "Select revision"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
+msgid "Select row %d"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "Select the data you want to export."
 msgstr ""
 
 #, go-format
@@ -19211,15 +20647,42 @@ msgid "Select which topic will be the final topic:"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
+#: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
+#: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
+#: ../../cmd/web/views/groupdb/groupdatabase.qtpl
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
+#: ../../cmd/web/views/groupsync/groupfilesync.qtpl
+msgid "Selected file"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/awaitingpayment.qtpl
 msgid "Selected tier"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "Self-Service For Members"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupmessages/groupask.qtpl
 #: ../../cmd/web/views/post/grouppost.qtpl
+#: ../../cmd/web/views/static/staticsupport.qtpl
 msgid "Send"
 msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Send a bounce probe to %d member?"
+msgid_plural "Send a bounce probe to %d members?"
+msgstr[0] ""
+msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/grouphashtags/groupfollowhashtag.qtpl
@@ -19260,9 +20723,19 @@ msgid "Send an email to you with a link that will unbounce your account."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Send as normal message"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/post/grouppost.qtpl
 msgid "Send As Special Notice"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "Send as special notice"
 msgstr ""
 
 #, go-format
@@ -19408,6 +20881,11 @@ msgid "Send the guidelines to the group every month."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Send this to support"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/post/groupposttosub.qtpl
 msgid "Send To Member"
 msgid_plural "Send To Members"
@@ -19440,6 +20918,23 @@ msgid "Sending"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/components/messagelib/messagelib.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#: ../../cmd/web/views/post/groupposttosub.qtpl
+msgid ""
+"Sending is taking longer than expected. Please check your connection. If this "
+"page doesn't change, see whether your message appeared in the group. If it "
+"didn't, you can send it from Drafts."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/components/messagelib/messagelib.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#: ../../cmd/web/views/post/groupposttosub.qtpl
+msgid "Sending…"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Senegal"
@@ -19458,8 +20953,8 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/group/groupmonth.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
 msgid "Sep"
 msgstr ""
 
@@ -19523,6 +21018,12 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 msgid "Set A Password"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/sub/editsub.qtpl
+msgid "Set All To"
 msgstr ""
 
 #, go-format
@@ -19682,6 +21183,11 @@ msgid "Seychelles"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "SHA-256 fingerprint:"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 msgid "Sheet"
 msgstr ""
@@ -19704,6 +21210,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/base.qtpl
 msgid "Show all keyboard shortcuts"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Show all responses"
 msgstr ""
 
 #, go-format
@@ -19744,6 +21255,11 @@ msgid "Show quoted text"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Show responses"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 msgid "Showing %[1]d of %[2]d Members"
 msgstr ""
@@ -19759,6 +21275,14 @@ msgid "Shutter Speed"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/sidebars/accountsidebar.qtpl
+#: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/sidebars/helpcentermanualsidebar.qtpl
+#: ../../cmd/web/views/sidebars/usersidebar.qtpl
+msgid "Sidebar"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Sierra Leone"
@@ -19766,17 +21290,11 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
-msgid "Sign Authentication Requests"
+msgid "Sign authentication requests"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/user/enterprise.qtpl
-msgid ""
-"Sign outgoing SAML authentication requests (requires SP certificate "
-"configuration)."
-msgstr ""
-
-#, go-format
+#: ../../cmd/web/views/account/register.qtpl
 #: ../../cmd/web/views/base.qtpl
 msgid "Sign Up"
 msgstr ""
@@ -19860,6 +21378,11 @@ msgid "Size Limits"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/base.qtpl
+msgid "Skip to main content"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/color.qtpl
 msgid "Sky"
 msgstr ""
@@ -19931,6 +21454,18 @@ msgid "Someone"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Something else"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"Something went wrong and the removal could not be completed. No members were "
+"removed. Please try again."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #: ../../cmd/web/views/group/paidmemberships.qtpl
 msgid "Something went wrong. Please try again."
@@ -19951,6 +21486,36 @@ msgstr ""
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
 msgid "Sort By"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tablesortheader.qtpl
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
+#: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
+#: ../../cmd/web/views/user/chats.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
+#: ../../cmd/web/views/user/threads.qtpl
+msgid "sorted ascending"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tablesortheader.qtpl
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
+#: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
+#: ../../cmd/web/views/groupmessages/grouppolls.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
+#: ../../cmd/web/views/user/chats.qtpl
+#: ../../cmd/web/views/user/groups.qtpl
+#: ../../cmd/web/views/user/threads.qtpl
+msgid "sorted descending"
 msgstr ""
 
 #, go-format
@@ -19985,6 +21550,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "SP Metadata URL: <em>https://%s/saml/metadata</em>"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "SP Signing Certificate"
 msgstr ""
 
 #, go-format
@@ -20083,6 +21653,12 @@ msgid "Sponsorship reserves will be used to pay the invoice."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Spots filled"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Sri Lanka"
@@ -20133,6 +21709,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 msgid "Start a Groups.io Group"
 msgstr ""
@@ -20145,6 +21722,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/tierroster.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 msgid "Start date"
 msgstr ""
 
@@ -20249,6 +21827,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Sticky Wiki Page"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Stop Recording"
 msgstr ""
 
 #, go-format
@@ -20422,6 +22005,7 @@ msgid "Subgroup listed in parent group, messages viewable by subgroup members on
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 msgid "Subgroup Members"
@@ -20445,11 +22029,13 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/groupmemberbuttons.qtpl
 #: ../../cmd/web/views/group/creategroup.qtpl
+#: ../../cmd/web/views/group/createsubgroup.qtpl
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupadmin/subgroupcategories.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
@@ -20499,6 +22085,7 @@ msgstr ""
 #: ../../cmd/web/views/post/groupdrafts.qtpl
 #: ../../cmd/web/views/post/grouppost.qtpl
 #: ../../cmd/web/views/post/groupposttosub.qtpl
+#: ../../cmd/web/views/static/staticsupport.qtpl
 #: ../../cmd/web/views/user/pendingmsgs.qtpl
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 msgid "Subject"
@@ -20544,6 +22131,11 @@ msgid "Subscribe to Calendar"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "Subscribe to group calendar"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/grouppromote.qtpl
 msgid "Subscribe to our group"
 msgstr ""
@@ -20581,6 +22173,7 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
+#: ../../cmd/web/views/static/staticsupport.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Subscription"
 msgstr ""
@@ -20666,9 +22259,14 @@ msgid "Summary Email Schedule"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Sun"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Sunday"
 msgstr ""
 
 #, go-format
@@ -20694,6 +22292,14 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Suriname"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+#: ../../cmd/web/views/groupchat/groupchattapbacks.qtpl
+msgid "Surprised"
 msgstr ""
 
 #, go-format
@@ -20855,6 +22461,11 @@ msgid "Take Donations"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+msgid "Take photo"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotosearch.qtpl
@@ -20894,8 +22505,20 @@ msgid "Tax ID"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Telephone"
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Tell us about how you are looking to use Groups.io"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"Tell us what's going on and we'll reply by email. Fields marked with a * are "
+"required."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "temporary"
 msgstr ""
 
 #, go-format
@@ -20938,6 +22561,11 @@ msgstr ""
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Thailand"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Thank You"
 msgstr ""
 
 #, go-format
@@ -21051,6 +22679,12 @@ msgid "That address is not valid."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/group/createsubgroup.qtpl
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid "That address is too long. Maximum of %d characters."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "That album does not exist."
 msgstr ""
@@ -21077,6 +22711,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
+#: ../../cmd/web/views/login/login.qtpl
 #: ../../cmd/web/views/login/sendloginlink.qtpl
 msgid "That email address does not have a %s account."
 msgstr ""
@@ -21149,6 +22784,11 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "That file or folder no longer exists."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "That group has been disabled. Please contact support@%s."
 msgstr ""
 
@@ -21175,6 +22815,13 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
 msgid "That is not a directory."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"That is why messages have stopped arriving. You can see the bounce details and "
+"resume delivery on your bounce page."
 msgstr ""
 
 #, go-format
@@ -21205,6 +22852,13 @@ msgid "That message number does not exist. The message may have been deleted."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid ""
+"That name would make a subgroup address longer than %d characters. Choose a "
+"shorter name or rename the subgroup first."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/register.qtpl
 msgid "That password is too long. Passwords can be at most 60 characters long."
 msgstr ""
@@ -21232,6 +22886,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/login/passkeyrecovery.qtpl
+#: ../../cmd/web/views/login/passkeystep.qtpl
 msgid "That recovery code is incorrect or has already been used."
 msgstr ""
 
@@ -21312,9 +22967,7 @@ msgstr ""
 
 #, go-format
 #: ../../pkg/notifications/noteviews/subgroupdirectadd.qtpl
-msgid ""
-"The address to send an email to the groups is <a "
-"href=\"mailto:%[1]s\">%[1]s</a>."
+msgid "The address to send an email to the group is <a href=\"mailto:%[1]s\">%[1]s</a>."
 msgstr ""
 
 #, go-format
@@ -21391,6 +23044,16 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "The card number is incorrect. Check the number and try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "The card's expiration date is invalid. Check the month and year and try again."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "The chat has been closed."
 msgstr ""
@@ -21411,6 +23074,13 @@ msgid "The code you entered was not correct. Please try again."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+msgid ""
+"The color new events start with. Event creators can still pick a different "
+"color."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 msgid "The column should default to being hidden."
 msgstr ""
@@ -21418,6 +23088,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupcoverphoto.qtpl
 msgid "The cover photo is displayed on the Group home page."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "The current certificate above signs authentication requests."
 msgstr ""
 
 #, go-format
@@ -21502,6 +23177,16 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "The event could not be added. Please check the form and try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "The event ends before it starts. Please check the end date and time."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid ""
 "The event is at capacity. You have been added to the waitlist. You will be "
 "notified if space opens up for you."
@@ -21556,16 +23241,12 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
-msgid "The first message of every new thread is also emailed to the members."
-msgstr ""
-
-#, go-format
-#: ../../pkg/emailfooters/plainfooter.qtpl
-msgid "The first message of every new thread is also emailed to you."
+msgid "The first message of every new topic is also emailed to the members."
 msgstr ""
 
 #, go-format
 #: ../../pkg/emailfooters/htmlfooter.qtpl
+#: ../../pkg/emailfooters/plainfooter.qtpl
 msgid "The first message of every new topic is also emailed to you."
 msgstr ""
 
@@ -21663,6 +23344,15 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "The group is out of space. Resend your message without attachments."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/sub/joinedgroup.qtpl
+msgid ""
+"The group managers have sent you a message at %s about your request to join. It "
+"may ask for information they need before they can approve your membership, so "
+"please read it and reply if it asks you to. If you don't see it in your inbox, "
+"check your spam or junk folder."
 msgstr ""
 
 #, go-format
@@ -21853,6 +23543,18 @@ msgid "The membership file sync is complete"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"The message above comes from their mail provider. Passing it to the member "
+"usually gets it resolved fastest, since only their provider or IT can act on it."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+msgid "The message could not be deleted. Try again."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "The message edit has been deleted."
 msgstr ""
@@ -21922,6 +23624,11 @@ msgstr ""
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthread.qtpl
 msgid "The new topic will begin with this message. Subject of the new topic:"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "The note is added on a new line after any existing notes."
 msgstr ""
 
 #, go-format
@@ -22177,6 +23884,13 @@ msgid "The wiki page %s has been deleted by %[2]s."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"Their account is currently bouncing, so Groups.io has stopped sending to it "
+"until the address starts accepting mail again."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 msgid "There are %d people ahead of you on the waitlist."
 msgstr ""
@@ -22274,11 +23988,6 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-msgid "There is a limit of %d people for this event."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "There is a problem with the database."
 msgstr ""
@@ -22313,6 +24022,11 @@ msgid "There is currently one attendee."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "There is no payment method on file. Please add a card before changing your plan."
+msgstr ""
+
+#, go-format
 #: ../../pkg/rsvputils/waitlistupdate.qtpl
 msgid "There is now one person ahead of you on the waitlist."
 msgstr ""
@@ -22324,7 +24038,17 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "There was a problem storing the photo. Please try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "There was an error retrieving your login from Facebook."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "There was an error saving the draft."
 msgstr ""
 
 #, go-format
@@ -22334,6 +24058,11 @@ msgstr ""
 msgid ""
 "There's a due invoice, from %[1]s, in the amount of $%.02[2]f. If this invoice "
 "is not paid, the group will be downgraded to the free plan."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "these %d members"
 msgstr ""
 
 #, go-format
@@ -22382,6 +24111,24 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/pendingsubnotification.qtpl
 msgid "They selected the paid membership tier: %s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+#: ../../cmd/web/views/groupchat/groupchattapbacks.qtpl
+msgid "Thinking"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupmessages/groupask_script.qtpl
+msgid "Thinking..."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "this 1 member"
 msgstr ""
 
 #, go-format
@@ -22475,8 +24222,28 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "This cannot be undone."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid ""
+"This certificate is published in your SP metadata. Import it into your identity "
+"provider before enabling request signing. It is separate from your website's TLS "
+"certificate."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
 msgid "This donation request has been closed and is no longer accepting donations."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"This draft was deleted in another window, so your changes are not being saved. "
+"Copy your text before you leave this page."
 msgstr ""
 
 #, go-format
@@ -22505,9 +24272,43 @@ msgid "This event has been locked."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid "This event has ended."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid ""
+"This event is full. If you RSVP that you will attend, you will be added to the "
+"waitlist."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "This event is no longer accepting RSVPs."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+msgid ""
+"This event's details are too long for a Google Calendar link. Download the ICS "
+"file instead."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "This field is required."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/login/login.qtpl
+msgid "This form timed out. Please enter your password again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/login/passkeyrecovery.qtpl
+msgid "This form timed out. Please enter your recovery code again."
 msgstr ""
 
 #, go-format
@@ -22751,6 +24552,11 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+msgid "This member has bounced."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "This member is bouncing."
 msgstr ""
 
@@ -22958,11 +24764,6 @@ msgid "This wiki does not contain any pages."
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "This will be asked on the RSVP page."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupbanneddomains.qtpl
 msgid "This will remove the domain from the banned domain list."
 msgstr ""
@@ -22984,9 +24785,30 @@ msgid "through"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Thu"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+#: ../../cmd/web/views/groupchat/groupchattapbacks.qtpl
+msgid "Thumbs down"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_script.qtpl
+#: ../../cmd/web/views/groupchat/groupchattapbacks.qtpl
+msgid "Thumbs up"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Thursday"
 msgstr ""
 
 #, go-format
@@ -23090,7 +24912,7 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/invitenotification.qtpl
 msgid ""
-"To accept the invitation, please reply to this email, or you may %[1]s on the "
+"To accept the invitation, just reply to this email, or you may %[1]s on the "
 "website. This link will expire in 14 days, on %[2]s."
 msgstr ""
 
@@ -23114,9 +24936,8 @@ msgid ""
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupadmin/deletegroup.qtpl
-#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
-msgid "To complete the deletion, enter <strong>I understand</strong>:"
+#: ../../cmd/web/qtutils/modal.qtpl
+msgid "To complete the deletion, enter <strong>I understand</strong> below:"
 msgstr ""
 
 #, go-format
@@ -23161,6 +24982,11 @@ msgstr ""
 msgid ""
 "To join that subgroup, you first need to become a member of this group. Pick a "
 "membership tier to continue."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "To join that subgroup, you first need to join its parent subgroup."
 msgstr ""
 
 #, go-format
@@ -23376,11 +25202,6 @@ msgid "Toggle pinned content"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/components/messagelib/messagelib.qtpl
-msgid "toggle quoted message"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Togo"
@@ -23435,7 +25256,9 @@ msgid "Topic Followers Only"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 msgid "Topic Options"
 msgstr ""
 
@@ -23451,6 +25274,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Topic will be locked instead of deleted after the specified time period."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "topic.Label"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "topic.Lead"
 msgstr ""
 
 #, go-format
@@ -23477,7 +25310,9 @@ msgstr[1] ""
 
 #, go-format
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
-msgid "Topics created with this hashtag will be locked immediately."
+msgid ""
+"Topics will be locked when they are tagged with this hashtag. Topics that "
+"already have it are not affected."
 msgstr ""
 
 #, go-format
@@ -23616,9 +25451,14 @@ msgid "Try Premium"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Tue"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Tuesday"
 msgstr ""
 
 #, go-format
@@ -23646,6 +25486,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 msgid "Turn your community into a membership business."
 msgstr ""
 
@@ -23716,6 +25557,7 @@ msgstr ""
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
+#: ../../cmd/web/views/static/changelog.qtpl
 msgid "Type"
 msgstr ""
 
@@ -23756,6 +25598,13 @@ msgid "Unban"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+msgid "Unban %d member?"
+msgid_plural "Unban %d members?"
+msgstr[0] ""
+msgstr[1] ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupbanneddomains.qtpl
 msgid "Unban Domain"
 msgstr ""
@@ -23766,6 +25615,7 @@ msgid "Unbanned"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
@@ -24016,6 +25866,7 @@ msgstr ""
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
+#: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupleave.qtpl
 #: ../../cmd/web/views/sub/groupunsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -24136,16 +25987,12 @@ msgid "Update Event"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Update Event & Group"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupintegrations/groupaddfeed.qtpl
 msgid "Update Feed Integration"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 msgid "Update File"
 msgstr ""
@@ -24244,6 +26091,7 @@ msgstr ""
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
 #: ../../cmd/web/views/post/groupdrafts.qtpl
@@ -24368,6 +26216,11 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/static/changelog.qtpl
+msgid "Updates to the Groups.io service"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/changelog.qtpl
 msgid "Updates to the Groups.io service."
 msgstr ""
 
@@ -24453,27 +26306,27 @@ msgid ""
 "in your group. Any people currently in your group that are not listed will be "
 "removed, and any people in the file that are not in your group will be added. "
 "You will be taken to a confirmation screen before the sync occurs. "
-"<strong>Note:</strong>No emails will be sent to people when they are removed."
+"<strong>Note:</strong> No emails will be sent to people when they are removed."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
-msgid "Upload a file containing the email addresses to add, one per line"
+msgid "Upload a file containing the email addresses to add, one per line."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
-msgid "Upload a file containing the email addresses to invite, one per line"
+msgid "Upload a file containing the email addresses to invite, one per line."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
-msgid "Upload a file containing the email addresses to remove, one per line"
+msgid "Upload a file containing the email addresses to remove, one per line."
 msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
-msgid "Upload a file containing the email addresses, one per line"
+msgid "Upload a file containing the email addresses, one per line."
 msgstr ""
 
 #, go-format
@@ -24487,6 +26340,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupbulkremove.qtpl
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/groupsendinvites.qtpl
+#: ../../cmd/web/views/groupsync/groupfilesync.qtpl
 msgid "Upload Addresses"
 msgstr ""
 
@@ -24535,6 +26389,13 @@ msgid "Upload Privileges"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/editor.qtpl
+#: ../../cmd/web/views/base.qtpl
+#: ../../cmd/web/views/groupphotos/groupalbum.qtpl
+msgid "Upload progress"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 msgid "Uploaded"
 msgstr ""
@@ -24548,6 +26409,11 @@ msgstr ""
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 msgid "Uploaded By"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+msgid "Uploaded image"
 msgstr ""
 
 #, go-format
@@ -24618,13 +26484,23 @@ msgid "Use my own domain"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Use my passkey from"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/user/enterprise.qtpl
 msgid "Use NameID as email address"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
-msgid "Use Personal Meeting ID"
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Use Passkey"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/user/enterprise.qtpl
+msgid "Use Previous Certificate"
 msgstr ""
 
 #, go-format
@@ -24637,6 +26513,11 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 msgid "Use Signature For Web Posting"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Use the address you receive Groups.io messages at, so we can find your account."
 msgstr ""
 
 #, go-format
@@ -24664,6 +26545,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupphotos/groupeditphoto.qtpl
 msgid "Use this poster of the video as the cover for the album."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Use your passkey to finish logging in to"
 msgstr ""
 
 #, go-format
@@ -24978,6 +26864,11 @@ msgid "Verify Delete Rows"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/deletegroup.qtpl
+msgid "Verify Delete Subgroup"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
 msgid "Verify Delete Subgroup Category"
 msgstr ""
@@ -25030,11 +26921,6 @@ msgid "Verify Edit"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/sub/editsub.qtpl
-msgid "Verify Leave"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Verify Lock"
 msgstr ""
@@ -25057,17 +26943,13 @@ msgid "Verify Merge"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/group/createsubgroup.qtpl
-msgid "Verify Private"
-msgstr ""
-
-#, go-format
+#: ../../cmd/web/views/group/creategroup.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Verify Private Archive"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/group/creategroup.qtpl
+#: ../../cmd/web/views/group/createsubgroup.qtpl
 msgid "Verify Private Messages"
 msgstr ""
 
@@ -25130,6 +27012,7 @@ msgid "Verify Unlock"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "Verify Unsubscribe"
 msgstr ""
@@ -25146,7 +27029,7 @@ msgid "via"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupchat/groupchat_messages.qtpl
 #: ../../cmd/web/views/groupintegrations/groupaddgdrive.qtpl
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 msgid "Video"
@@ -25259,7 +27142,10 @@ msgid "View Donations"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/calendar/calendar.qtpl
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 #: ../../pkg/notifications/noteviews/upcomingevents.qtpl
 msgid "View Event"
@@ -25310,6 +27196,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 msgid "View Profile"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
+msgid "View revision from"
 msgstr ""
 
 #, go-format
@@ -25462,10 +27353,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
-msgid "Waitlist"
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 msgid "Waitlisted"
 msgstr ""
@@ -25539,11 +27426,21 @@ msgid "Watch a quick demonstration"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+msgid "Watch how to log in"
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
 msgid ""
 "We apologize for the inconvenience this process may cause, but it is necessary "
 "to ensure that we are able to continue delivering group email reliably. Thank "
 "you for using Groups.io."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticabout.qtpl
+msgid "We are the most advanced email group service on the Internet."
 msgstr ""
 
 #, go-format
@@ -25556,6 +27453,25 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "We are unable to read that photo."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/sub/joingroup.qtpl
+msgid ""
+"We can't accept requests to join through a VPN or proxy. Please turn it off and "
+"try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"We could not create the webhook on that repository. Make sure you have admin "
+"access to it."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "We couldn't find"
 msgstr ""
 
 #, go-format
@@ -25586,12 +27502,22 @@ msgid "We have deleted your account."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "We have delivery failures recorded for"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sub/groupacceptedinvite.qtpl
 msgid ""
 "We have logged you into the website and therefore you can now access the "
 "members-only web features of the group. If you need to login in the future, you "
 "can have a login link emailed to you, or you can use the Facebook or Google "
 "buttons to login."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "We have no delivery failures recorded for"
 msgstr ""
 
 #, go-format
@@ -25702,6 +27628,23 @@ msgid "We will contact you shortly to work with you to set up your domain."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "We will retry again in %s seconds."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "We will retry automatically."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"We'll look up that member's delivery status for you, so we can skip a round "
+"trip."
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/membershipnotavailable.qtpl
 msgid ""
 "We're sorry — %[1]s is no longer available in %[2]s, so we were not able to "
@@ -25713,6 +27656,11 @@ msgstr ""
 msgid ""
 "We've just sent you a confirmation email. You must reply to that email to "
 "confirm your account."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "We've received your message and will reply by email as soon as we can."
 msgstr ""
 
 #, go-format
@@ -25760,13 +27708,19 @@ msgid "Website"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Wed"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Wednesday"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/calendar/calendar.qtpl
+#: ../../cmd/web/views/groupcalendar/calendarscript.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 msgid "Week"
 msgstr ""
@@ -25775,6 +27729,12 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 msgid "Weekly"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Weekly on %s"
 msgstr ""
 
 #, go-format
@@ -25813,7 +27773,22 @@ msgid "Weekly on Wednesday"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupchat/groupchat.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../pkg/ics/repeatsummary.qtpl
+msgid "Weekly on weekdays"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "weeks"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "weeks before"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 #: ../../cmd/web/views/sub/groupwelcome.qtpl
 msgid "Welcome"
@@ -25869,8 +27844,18 @@ msgid "Western Sahara"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "What are you using today?"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "What category this subgroup appears under."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "What do you need help with?"
 msgstr ""
 
 #, go-format
@@ -25906,6 +27891,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "What to do when the group is out of space."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "What's happening?"
 msgstr ""
 
 #, go-format
@@ -25960,6 +27950,16 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 msgid "When new members join, their subscription will default to these settings."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"When Paid Memberships is enabled, people choose a tier as part of joining your "
+"group. You decide whether the free default tier is one of the options, or "
+"whether new members must pick a paid tier. For restricted groups, you can "
+"require approval of applicants before they pay, so no one is charged unless you "
+"approve them."
 msgstr ""
 
 #, go-format
@@ -26067,6 +28067,20 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid ""
+"When you save, this column's data will be permanently deleted for every member. "
+"This cannot be undone."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+msgid ""
+"When you save, this column's data will be permanently deleted from every row. "
+"This cannot be undone."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 msgid "When your membership is approved:"
 msgstr ""
@@ -26106,6 +28120,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid "Which editor to use for composing messages on the website."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Which group is this about?"
 msgstr ""
 
 #, go-format
@@ -26211,7 +28230,13 @@ msgid "Who can view the member directory."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Who is this about?"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/staticfeatures.qtpl
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
@@ -26345,6 +28370,16 @@ msgid "Will Not Attend"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid ""
+"With Paid Memberships, Premium and Enterprise groups can charge for access to "
+"their group. Define membership tiers, set monthly or annual pricing, choose "
+"which features each tier can access, and collect payments directly through your "
+"own Stripe account. It's everything you need to run a membership community, "
+"fully integrated with your group."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/sub/joinpay.qtpl
 msgid "Withdraw Application"
 msgstr ""
@@ -26403,6 +28438,11 @@ msgid "Written communication is remote work super power - Snir David"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Yahoo Groups"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 msgid "year?"
 msgstr ""
@@ -26415,6 +28455,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 msgid "Yearly Pricing:"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+msgid "years"
 msgstr ""
 
 #, go-format
@@ -26441,7 +28486,6 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
-#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupchat/groupchatmembers.qtpl
 #: ../../cmd/web/views/groupdonations/groupadddonation.qtpl
@@ -26534,7 +28578,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
-msgid "You are <strong>not atten</strong>ding."
+msgid "You are <strong>not attending</strong>."
 msgstr ""
 
 #, go-format
@@ -26545,6 +28589,12 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/reverifyemail.qtpl
 msgid "You are a member of the following groups hosted by us:"
+msgstr ""
+
+#, go-format
+#. TRANSLATORS: %[1]s is the dollar amount, %[2]s is the donation request name, %[3]s is the group name.
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "You are about to donate %[1]s to %[2]s in %[3]s."
 msgstr ""
 
 #, go-format
@@ -26560,11 +28610,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 msgid "You are attending the %s event"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "You are attending."
 msgstr ""
 
 #, go-format
@@ -26637,11 +28682,6 @@ msgid "You are not attending the %s event"
 msgstr ""
 
 #, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "You are not attending."
-msgstr ""
-
-#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "You are not authorized to access that repository."
 msgstr ""
@@ -26680,11 +28720,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 msgid "You are not sure about attending the %s event"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "You are not sure you will be attending."
 msgstr ""
 
 #, go-format
@@ -26755,6 +28790,13 @@ msgid "You are once again subscribed to the group."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"You are posting too quickly. Please wait a few minutes, then send your message "
+"again."
+msgstr ""
+
+#, go-format
 #: ../../pkg/notifications/noteviews/ownerreverifynotification.qtpl
 msgid ""
 "You are receiving this email because you are an owner or moderator of one or "
@@ -26795,11 +28837,6 @@ msgstr ""
 #, go-format
 #: ../../pkg/rsvputils/rsvpchanged.qtpl
 msgid "You are waitlisted for the %s event"
-msgstr ""
-
-#, go-format
-#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
-msgid "You are waitlisted."
 msgstr ""
 
 #, go-format
@@ -27360,6 +29397,16 @@ msgid "You haven't added any passkeys yet."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticpaidmemberships.qtpl
+msgid "You Keep The Revenue"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/likes.qtpl
+msgid "You liked this"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/base.qtpl
 msgid ""
 "You logged in using a passkey from another device. For faster access next time, "
@@ -27426,6 +29473,11 @@ msgid "You must enter a name for the event."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
+msgid "You must enter a name."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/register.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/login/login.qtpl
@@ -27454,6 +29506,28 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 msgid "You must have at least one column."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+#: ../../cmd/web/views/account/groupeditprofile.qtpl
+#: ../../cmd/web/views/account/settings.qtpl
+#: ../../cmd/web/views/components/messagelib/messagelib.qtpl
+#: ../../cmd/web/views/group/creategroup.qtpl
+#: ../../cmd/web/views/group/createsubgroup.qtpl
+#: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/subgroupaddcategory.qtpl
+#: ../../cmd/web/views/groupchat/groupaddchat.qtpl
+#: ../../cmd/web/views/groupdonations/groupadddonation.qtpl
+#: ../../cmd/web/views/groupmessages/groupaddpoll.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditmessage.qtpl
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#: ../../cmd/web/views/post/groupposttosub.qtpl
+#: ../../cmd/web/views/sub/editsub.qtpl
+msgid "You must include a message."
 msgstr ""
 
 #, go-format
@@ -27521,6 +29595,11 @@ msgstr ""
 #, go-format
 #: ../../cmd/web/views/group/creategroup.qtpl
 msgid "You must specify if the group will be listed in the Groups.io directory."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/likes.qtpl
+msgid "You no longer like this"
 msgstr ""
 
 #, go-format
@@ -27629,6 +29708,14 @@ msgstr ""
 #, go-format
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl
 msgid "You will receive no more emails from those groups."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid ""
+"You're a member of this group, not an owner. Questions about the group's "
+"membership, rules, or messages are handled by the group's own owners, and they "
+"can answer faster than we can."
 msgstr ""
 
 #, go-format
@@ -27838,6 +29925,11 @@ msgid ""
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Your account is protected by a passkey. Use it to finish logging in."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/needreverification.qtpl
 msgid ""
 "Your account requires reverification. We have sent an email to you with a "
@@ -27852,6 +29944,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
+#: ../../cmd/web/views/user/activity.qtpl
 msgid "Your Activity"
 msgstr ""
 
@@ -27928,8 +30021,18 @@ msgid "Your cancellation of the %[1]s tier in %[2]s has been recorded."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "Your card could not be processed. Wait a moment and try again."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Your card does not support this type of purchase."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "Your card does not support this type of purchase. Try a different card."
 msgstr ""
 
 #, go-format
@@ -27943,13 +30046,50 @@ msgid "Your card has expired."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "Your card has expired. Check the expiration date or try a different card."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Your card has insufficient funds."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid "Your card has insufficient funds. Try a smaller amount or a different card."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid ""
+"Your card was declined. Check the card details or try a different card. If it is "
+"declined again, contact your bank."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid ""
+"Your card's postal code is incorrect. Check the postal code your bank has on "
+"file and try again."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Your card's security code is incorrect."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupdonations/groupviewdonation.qtpl
+msgid ""
+"Your card's security code is incorrect. Check the 3 or 4 digit code on your card "
+"and try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#: ../../cmd/web/qtutils/likes.qtpl
+msgid "Your change was not saved. Please try again."
 msgstr ""
 
 #, go-format
@@ -28000,8 +30140,18 @@ msgid "Your donation has been processed."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Your email address"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/static/changedemail.qtpl
 msgid "Your email address has been successfully changed to <b>%s</b>."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/static/staticsupport.qtpl
+msgid "Your email address is currently bouncing."
 msgstr ""
 
 #, go-format
@@ -28011,6 +30161,7 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
+#: ../../cmd/web/views/login/login.qtpl
 msgid "Your email address or password is incorrect."
 msgstr ""
 
@@ -28100,8 +30251,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/views/base.qtpl
-#: ../../cmd/web/views/mutefollow/followedkeywords.qtpl
-#: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl
 #: ../../cmd/web/views/sidebars/usersidebar.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 msgid "Your Groups"
@@ -28142,6 +30291,28 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"Your login has expired, so this file was not uploaded. Log in again in a new "
+"tab, then try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"Your login has expired, so your change was not saved. <a href=\"%s\">Log in "
+"again</a>, then try again."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid ""
+"Your login has expired, so your changes are not being saved. Do not close or "
+"reload this page. <a href=\"/login\" target=\"_blank\" rel=\"noopener\">Log in "
+"again in a new tab</a>, then return here to send your message."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
 msgid "Your login has expired. Please login again."
 msgstr ""
 
@@ -28156,8 +30327,18 @@ msgid "Your membership application to %s has expired"
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/sub/joincompleted.qtpl
+msgid "Your membership in %s is ready. Select Continue to go to the group."
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/group/paidmemberships.qtpl
 msgid "Your membership includes access to these subgroups: %s"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/sub/joincompleted.qtpl
+msgid "Your membership is ready"
 msgstr ""
 
 #, go-format
@@ -28226,6 +30407,11 @@ msgid "Your message will be sent when it's approved by the moderators."
 msgstr ""
 
 #, go-format
+#: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
+msgid "Your Name"
+msgstr ""
+
+#, go-format
 #: ../../cmd/web/views/account/settings.qtpl
 msgid ""
 "Your new API key has been created. Please copy it now, as you won't be able to "
@@ -28271,6 +30457,11 @@ msgstr ""
 msgid ""
 "Your parent group has an underscore in the name. You must remove the underscore "
 "before creating any subgroups."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/login/passkeystep.qtpl
+msgid "Your passkey could not be verified. Please try again, or use a recovery code."
 msgstr ""
 
 #, go-format
@@ -28367,7 +30558,6 @@ msgstr ""
 
 #, go-format
 #: ../../cmd/web/qtutils/flashnotices.qtpl
-#: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 msgid ""
 "Your request has been submitted. Expect an email with a link to download a "
 "zipfile of the data within about 10 minutes."
@@ -28385,6 +30575,17 @@ msgstr ""
 msgid ""
 "Your request to join the %s %s group has been submitted to the group managers. "
 "Here is some information that may be helpful."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
+msgid "Your Response"
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
+#: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
+msgid "Your response"
 msgstr ""
 
 #, go-format
@@ -28408,6 +30609,11 @@ msgstr ""
 msgid ""
 "Your short username. Must be unique, with no punctuation or spaces. This is "
 "unique to your account."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/views/login/login.qtpl
+msgid "Your sign-in timed out. Please log in again."
 msgstr ""
 
 #, go-format
@@ -28482,6 +30688,11 @@ msgstr ""
 msgid ""
 "Your upgrade request has been sent. We'll review it and switch you over — you "
 "keep every setting, member, and message."
+msgstr ""
+
+#, go-format
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+msgid "Your vote was not saved. Please try again."
 msgstr ""
 
 #, go-format
