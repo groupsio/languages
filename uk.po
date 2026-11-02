@@ -550,6 +550,15 @@ msgid "%d of %d complete"
 msgstr "%d з %d завершено"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#, fuzzy
+msgid "%d of %d hashtags"
+msgstr "хештеги %d та %d"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #, fuzzy
@@ -625,6 +634,21 @@ msgid "%d repost"
 msgid_plural "%d reposts"
 msgstr[0] "%d репост"
 msgstr[1] "%d репости"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid ""
+"%d rows are still being located. Refresh the page to add more of them to the "
+"map."
+msgstr ""
+"%d рядки все ще знаходяться. Оновіть сторінку, щоб додати їх на карту."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "%d rows couldn't be placed on the map"
+msgstr "%d рядків не вдалося розмістити на карті"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -793,6 +817,14 @@ msgstr ""
 "%s вимагає від нових учасників обрати рівень членства, що неможливо зробити через електронну пошту. Щоб приєднатися, перейдіть на веб-форму реєстрації та оберіть рівень членства."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] "%s результат"
+msgstr[1] "%s результати"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/newsponsornotificaiton.qtpl
 #, fuzzy
 msgid "%s sponsored your group for $%.02f"
@@ -821,6 +853,12 @@ msgstr ""
 #, fuzzy
 msgid "(Inherited)"
 msgstr "(Успадковано)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#, fuzzy
+msgid "(locks the topic)"
+msgstr "(блокує тему)"
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -995,6 +1033,19 @@ msgstr ""
 "1 нове повідомлення, перейти до останнього"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "1 row couldn't be placed on the map"
+msgstr "1 рядок не вдалося розмістити на карті"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "1 row is still being located. Refresh the page to add it to the map."
+msgstr ""
+"1 рядок ще шукається. Оновіть сторінку, щоб додати його на карту."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "1 TB storage"
@@ -1077,6 +1128,20 @@ msgstr "30 ГБ пам'яті"
 #, fuzzy
 msgid "50 items"
 msgstr "50 найменувань"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid ": topic starters can set this as their topic's status"
+msgstr ""
+": автори тем можуть встановити цей статус для своєї теми"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid ": topic starters can set this as their topic's status, which locks the topic"
+msgstr ""
+": автори тем можуть встановити цей статус для своєї теми, що призведе до її блокування"
 
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #, fuzzy
@@ -2029,6 +2094,13 @@ msgstr ""
 "посиланням у листі, щоб відновити свій акаунт. Якщо ви не бачите листа, "
 "перевірте папку \"Спам\"."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "A status hashtag can't expire. Set Topic Duration to Forever first."
+msgstr ""
+"Термін дії хештегу статусу не може закінчитися. Спочатку встановіть для параметра «Тривалість теми» значення «Назавжди»."
+
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
 msgid ""
@@ -2076,6 +2148,12 @@ msgstr ""
 #, fuzzy
 msgid "a summary message"
 msgstr "+ повідомлення власника"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "A table of contents, numbered sections and a tip"
+msgstr "Зміст, пронумеровані розділи та порада"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
@@ -2220,6 +2298,7 @@ msgstr "Активувати сертифікат заміни"
 msgid "Active"
 msgstr "Активний"
 
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
 msgid "active"
 msgstr "активний"
@@ -2737,6 +2816,12 @@ msgstr ""
 msgid "Admin"
 msgstr "Адміністратор"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Ads, ever"
+msgstr "Реклама, як завжди"
+
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid "Advanced group management."
@@ -3213,6 +3298,12 @@ msgid "Also applying to"
 msgstr "Також застосовується до"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "Also in"
+msgstr "Також у"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #, fuzzy
 msgid "Alternative text"
@@ -3317,6 +3408,12 @@ msgstr ""
 "На вашу електронну пошту було надіслано лист із посиланням для входу у ваш "
 "обліковий запис."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "An empty page"
+msgstr "Порожня сторінка"
+
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 msgid ""
@@ -3325,6 +3422,13 @@ msgid ""
 msgstr ""
 "Існуюче повідомлення в групі %s було відредаговано, і його потрібно "
 "затвердити."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "An introduction and questions that expand to their answers"
+msgstr ""
+"Вступ та запитання, які розкривають відповіді на них"
 
 #. Automatically translated using DeepL
 #: ../../pkg/rsvputils/rsvpremoved.qtpl
@@ -3388,13 +3492,11 @@ msgstr ""
 "Аналітичні дані генеруються щодня, тому після створення групи може пройти деякий час, перш ніж вони з'являться."
 
 #: ../../cmd/web/qtutils/likes.qtpl
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "and"
@@ -3525,11 +3627,17 @@ msgstr ""
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Any Time"
 msgstr "У будь-який час"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Anyone you forward this email to can change your topic's status."
+msgstr ""
+"Кожен, кому ви перешлете цей лист, зможе змінити статус вашої теми."
 
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
 msgid "Aperture"
@@ -3596,11 +3704,16 @@ msgstr "Подано"
 msgid "Applied For Tier"
 msgstr "Подано заявку на рівень"
 
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
 msgid "Apply"
 msgstr "Застосувати"
 
@@ -5193,12 +5306,10 @@ msgid "Better archive organization with hashtags"
 msgstr ""
 "Краща організація архіву за допомогою хештегів"
 
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "Between"
 msgstr "Між"
@@ -5257,6 +5368,12 @@ msgstr "Біографія:"
 #, fuzzy
 msgid "Biweekly on Friday"
 msgstr "Двічі на тиждень у п'ятницю"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Blank"
+msgstr "Порожнє"
 
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 msgid "Block"
@@ -5547,6 +5664,12 @@ msgstr ""
 "скриньки \"Вхідні\", щоб ви могли навчити свій поштовий клієнт надсилати їх "
 "безпосередньо до вашої скриньки."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Button"
+msgstr "Кнопка"
+
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
@@ -5564,6 +5687,7 @@ msgstr ""
 msgid "By"
 msgstr "Від"
 
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 msgid "by"
 msgstr "від"
@@ -5743,6 +5867,24 @@ msgstr ""
 #, fuzzy
 msgid "Calendars"
 msgstr "Календарі"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Callout: Note"
+msgstr "Вставне речення: Примітка"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Callout: Tip"
+msgstr "Вставне речення: Порада"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Callout: Warning"
+msgstr "Вставне зауваження: Попередження"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -5978,6 +6120,12 @@ msgid "Cancelled Event"
 msgstr "Скасувати подію"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Canned answer"
+msgstr "Шаблонна відповідь"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
 msgid ""
@@ -6195,6 +6343,12 @@ msgstr ""
 msgid "Change the RSVP for <span class=\"checkCount\">no members</span> to"
 msgstr ""
 "Змініть RSVP <span class=\"checkCount\">без учасників</span> на"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Change topic status"
+msgstr "Змінити статус теми"
 
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
 #: ../../pkg/notifications/noteviews/chatnotification.qtpl
@@ -6711,11 +6865,37 @@ msgstr "Заявлено користувачем"
 msgid "Claimed by %[1]s on %[2]s"
 msgstr "Заявлено %[1]s на %[2]s"
 
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/static/changelog.qtpl
 msgid "Clear"
 msgstr "Очистити"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Clear all"
+msgstr "Очистити все"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "Clear filters to include them."
+msgstr "Очистіть фільтри, щоб включити їх."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Clear status"
+msgstr "Очистити стан"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Clear the status on \"%s\"?"
+msgstr "Скинути статус для «%s»?"
 
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 #, fuzzy
@@ -6869,7 +7049,7 @@ msgid "Collaborate, but only intermittently, says new study"
 msgstr ""
 "Співпрацюйте, але лише з перервами, - нове дослідження"
 
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #, fuzzy
 msgid "Collapse Topics"
 msgstr "Згорнути теми"
@@ -6879,11 +7059,31 @@ msgstr "Згорнути теми"
 msgid "Colombia"
 msgstr "Колумбія"
 
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Color"
 msgstr "Колір"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+#, fuzzy
+msgid "Color of the column."
+msgstr "Колір стовпчика."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Color of the tag when displayed in the archive."
+msgstr "Колір мітки при відображенні в архіві."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/color.qtpl
+#, fuzzy
+msgid "color.GetTitle()"
+msgstr "color.GetTitle()"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -7727,10 +7927,8 @@ msgid "Custom profile information for each member."
 msgstr ""
 "Індивідуальна інформація про профіль для кожного учасника."
 
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Custom Range"
@@ -7740,7 +7938,6 @@ msgstr "Спеціальний асортимент"
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Custom range..."
@@ -7891,6 +8088,7 @@ msgstr "Бази даних"
 msgid "Databases are disabled"
 msgstr "Бази даних вимкнено"
 
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl
@@ -8867,6 +9065,12 @@ msgstr ""
 msgid "Dispute:"
 msgstr "Суперечка:"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Divider"
+msgstr "Роздільник"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Djibouti"
@@ -9164,6 +9368,12 @@ msgstr "Термін виконання змінено"
 #: ../../cmd/web/views/mutefollow/mutedkeywords.qtpl
 msgid "Duration"
 msgstr "Тривалість"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid "Duration: %s"
+msgstr "Тривалість: %s"
 
 #: ../../cmd/web/qtutils/color.qtpl
 #, fuzzy
@@ -9776,6 +9986,7 @@ msgstr "Електронний зв'язок асинхронний"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -9802,41 +10013,6 @@ msgstr "Доставка електронною поштою"
 msgid "Email Delivery Preferences"
 msgstr ""
 "Налаштування доставки електронної пошти"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Daily Summary"
-msgstr ""
-"Доставка електронною поштою: Щоденний підсумок"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Full Featured Digest"
-msgstr ""
-"Доставка електронною поштою: Повнофункціональний дайджест"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Individual Messages"
-msgstr ""
-"Доставка електронної пошти: Індивідуальні повідомлення"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: No Email"
-msgstr ""
-"Доставка по електронній пошті: Немає електронної пошти"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Plain Digest"
-msgstr "Доставка електронною поштою: Plain Digest"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Special Notices Only"
-msgstr ""
-"Доставка електронною поштою: Тільки спеціальні повідомлення"
 
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
 #, fuzzy
@@ -10028,7 +10204,6 @@ msgstr "Увімкнено"
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "End"
 msgstr "Кінець"
@@ -10039,7 +10214,7 @@ msgid "End Date"
 msgstr "Кінцева дата"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #, fuzzy
 msgid "End date"
 msgstr "Дата закінчення"
@@ -10266,6 +10441,12 @@ msgid "Event Cancellation"
 msgstr "Скасування події"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#, fuzzy
+msgid "Event Color"
+msgstr "Колір події"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 #, fuzzy
 msgid "Event details"
@@ -10297,6 +10478,7 @@ msgstr ""
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "Events"
 msgstr "Події"
@@ -10451,6 +10633,12 @@ msgid ""
 msgstr ""
 "Все готово. Натисніть «Замовити оновлення», і ми переведемо вас на нову версію — усі налаштування, учасники та повідомлення залишаться без змін."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Exclude"
+msgstr "Виключити"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #, fuzzy
 msgid "Exclude city field."
@@ -10461,7 +10649,7 @@ msgstr "Виключити поле міста."
 msgid "Exclude country field."
 msgstr "Виключити підписи"
 
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #, fuzzy
 msgid "Exclude Signatures"
 msgstr "Виключити підписи"
@@ -10656,6 +10844,18 @@ msgstr "Не вдалося завантажити %s"
 msgid "Falkland Islands (Malvinas)"
 msgstr "Фолклендські острови (Мальвінські)"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "FAQ"
+msgstr "Часті запитання"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "FAQ entry"
+msgstr "Запис у розділі «Часті запитання»"
+
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Faroe Islands"
@@ -10836,6 +11036,7 @@ msgstr "Учасники синхронізації файлів"
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -10886,6 +11087,12 @@ msgstr "Фільтр"
 msgid "Filter groups"
 msgstr "Групи фільтрів"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#, fuzzy
+msgid "Filter pages"
+msgstr "Фільтрувати сторінки"
+
 #: ../../cmd/web/views/base.qtpl
 msgid "Find"
 msgstr "Знайти"
@@ -10894,6 +11101,12 @@ msgstr "Знайти"
 #, fuzzy
 msgid "Find a Group"
 msgstr "Знайти групу"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Find a hashtag"
+msgstr "Знайти хештег"
 
 #: ../../cmd/web/views/static/staticwelcome.qtpl
 #, fuzzy
@@ -11490,12 +11703,10 @@ msgstr "На Github натисніть на"
 msgid "Glossary"
 msgstr "Глосарій"
 
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "Go"
 msgstr "Перейти"
@@ -12090,7 +12301,7 @@ msgstr ""
 msgid ""
 "Groups.io is the ultimate <strong>group email service</strong> and "
 "<strong>modern listserv replacement</strong> for teams of any size. From small "
-"clubs of 10 to thriving communities of 100,000+, our <strong>email discussion "
+"clubs of 10 to thriving communities of 45,000+, our <strong>email discussion "
 "list platform</strong> delivers messages directly to members' inboxes so they'll "
 "<strong>never miss a conversation</strong>. Unlike Google Groups or other "
 "alternatives, we offer <strong>photo sharing</strong>, <strong>file "
@@ -12100,7 +12311,7 @@ msgid ""
 "management solution scales effortlessly whether you're running a hobby group, "
 "nonprofit, or large organization."
 msgstr ""
-"Groups.io — це найкращий <strong>сервіс групової електронної пошти</strong> та <strong>сучасна заміна списків розсилки</strong> для команд будь-якого розміру. Від невеликих клубів із 10 учасниками до процвітаючих спільнот із понад 100 000 учасників — наша <strong>платформа для обговорень електронною поштою</strong> доставляє повідомлення безпосередньо до поштових скриньок учасників, щоб вони <strong>ніколи не пропустили розмову</strong>. На відміну від Google Groups та інших альтернатив, ми пропонуємо <strong>обмін фотографіями</strong>, <strong>зберігання файлів</strong>, <strong>календар</strong>, <strong>вікі</strong>, <strong>чат</strong>, <strong>бази даних</strong> та <strong>групову аналітику</strong> — все це без реклами та з акцентом на конфіденційність. Наше рішення для управління списками розсилки легко масштабується, незалежно від того, чи керуєте ви групою за інтересами, некомерційною організацією чи великою компанією."
+"Groups.io — це найкращий <strong>сервіс групової електронної пошти</strong> та <strong>сучасна альтернатива спискам розсилки</strong> для команд будь-якого розміру. Від невеликих клубів із 10 учасниками до процвітаючих спільнот із понад 45 000 учасників — наша <strong>платформа для обговорень через електронну пошту</strong> доставляє повідомлення безпосередньо у вхідні скриньки учасників, щоб вони <strong>ніколи</strong> не пропустили<strong> жодної розмови</strong>. На відміну від Google Groups та інших альтернатив, ми пропонуємо <strong>обмін фотографіями</strong>, <strong>зберігання файлів</strong>, <strong>календар</strong>, <strong>вікі</strong>, <strong>чат</strong>, <strong>бази даних</strong> та <strong>групову аналітику</strong> — і все це без реклами та з акцентом на конфіденційність. Наше рішення для управління списками розсилки легко масштабується незалежно від того, чи керуєте ви групою за інтересами, некомерційною організацією чи великим підприємством."
 
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
 #: ../../pkg/notifications/noteviews/reverifyremoveemail.qtpl
@@ -12184,7 +12395,7 @@ msgstr "Повідомлення"
 msgid ""
 "Groups.io scales effortlessly from small teams to massive communities. Our "
 "platform comfortably supports intimate groups of just 10 members all the way up "
-"to thriving communities with 100,000+ participants. There are no hard limits on "
+"to thriving communities with 45,000+ participants. There are no hard limits on "
 "group size with our paid plans. Free groups can have up to 100 members, while "
 "our Premium and Enterprise plans remove these limitations. Our infrastructure is "
 "designed for high-volume email delivery, ensuring reliable message distribution "
@@ -12192,7 +12403,7 @@ msgid ""
 "your group size, providing the controls needed to manage communities of any size "
 "effectively."
 msgstr ""
-"Groups.io легко масштабується від невеликих команд до величезних спільнот. Наша платформа комфортно підтримує як невеликі групи з 10 учасників, так і процвітаючі спільноти зі 100 000+ учасників. У наших платних планах немає жорстких обмежень на розмір групи. У безкоштовних групах може бути до 100 учасників, тоді як наші преміум- і корпоративні плани знімають ці обмеження. Наша інфраструктура розрахована на великі обсяги електронної пошти, що забезпечує надійну розсилку повідомлень навіть для дуже великих спільнот. Крім того, наші інструменти модерації масштабуються залежно від розміру групи, забезпечуючи контроль, необхідний для ефективного управління спільнотами будь-якого розміру."
+"Groups.io легко масштабується — від невеликих команд до величезних спільнот. Наша платформа з легкістю підтримує як невеликі групи з 10 учасників, так і активні спільноти з понад 45 000 учасників. У наших платних тарифних планах немає жорстких обмежень щодо розміру групи. Безкоштовні групи можуть налічувати до 100 учасників, тоді як наші тарифи «Преміум» та «Ентерпрайз» усувають ці обмеження. Наша інфраструктура розрахована на розсилку великого обсягу електронних листів, що забезпечує надійну доставку повідомлень навіть для дуже великих спільнот. Крім того, наші інструменти модерації масштабуються відповідно до розміру вашої групи, надаючи засоби контролю, необхідні для ефективного управління спільнотами будь-якого розміру."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -12343,6 +12554,12 @@ msgstr "Гуам"
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Guatemala"
 msgstr "Гватемала"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Guide"
+msgstr "Посібник"
 
 #: ../../cmd/web/views/group/groupguidelines.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
@@ -12649,6 +12866,7 @@ msgid "Highlights"
 msgstr "Основні моменти"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 msgid "History"
 msgstr "Історія"
@@ -13763,10 +13981,23 @@ msgstr "Неактивний більше 90 днів"
 msgid "Inactive Member"
 msgstr "Неактивний учасник"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Include"
+msgstr "Включити"
+
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
 msgid "Include Link To Archives"
 msgstr "Включити посилання на архіви"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Include shows only topics with a hashtag. Exclude hides topics with it."
+msgstr ""
+"Функція «Включити» відображає лише теми з цим хештегом. Функція «Виключити» приховує теми з цим хештегом."
 
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
 #, fuzzy
@@ -13870,6 +14101,12 @@ msgstr "Початкова сторінка"
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Insert"
 msgstr "Вставити"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Insert block"
+msgstr "Вставити блок"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
@@ -14891,6 +15128,7 @@ msgstr "LLM"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
+#: ../../cmd/web/views/account/groupprofile.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
@@ -15285,6 +15523,13 @@ msgstr ""
 msgid "Map View"
 msgstr "Перегляд мапи"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
+#, fuzzy
+msgid "Map view is available for tables with up to 1,000 rows."
+msgstr ""
+"Перегляд у вигляді карти доступний для таблиць, що містять до 1 000 рядків."
+
 #: ../../cmd/web/views/group/groupmonth.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../pkg/ics/repeatsummary.qtpl
@@ -15512,6 +15757,12 @@ msgstr "Учасника додано до картки"
 #, fuzzy
 msgid "Member Churn Analysis"
 msgstr "Аналіз відтоку членів"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Member Colors"
+msgstr "Кольори членів"
 
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
@@ -15861,6 +16112,12 @@ msgid "Members cannot view, moderators can edit"
 msgstr ""
 "Користувачі не можуть переглядати, модератори можуть редагувати"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Members in our largest group"
+msgstr "Учасники нашої найбільшої групи"
+
 #: ../../cmd/web/views/groupsync/syncgroup.qtpl
 #, fuzzy
 msgid "Members in Slack will be added to your group."
@@ -16111,6 +16368,12 @@ msgid "Message attachments"
 msgstr "Вкладення до повідомлення"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/base.qtpl
+#, fuzzy
+msgid "Message body"
+msgstr "Текст повідомлення"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat_script.qtpl
 #, fuzzy
 msgid "Message deleted"
@@ -16178,29 +16441,13 @@ msgstr "Політика повідомлень"
 
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 #, fuzzy
 msgid "Message Selection"
 msgstr "Вибір повідомлення"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Message Selection: Auto Follow Replies"
-msgstr ""
-"Відбір повідомлень: Автоматичне відстеження відповідей"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Message Selection: Following Only"
-msgstr "Відбір повідомлень: Тільки підписники"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Message Selection: Following Only With First Message Also"
-msgstr ""
-"Вибір повідомлень: Відслідковувати тільки з першим повідомленням"
 
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
 #: ../../cmd/web/views/groupsync/groupfilesync.qtpl
@@ -16239,6 +16486,7 @@ msgstr "Група на основі повідомлень"
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -16438,12 +16686,14 @@ msgstr ""
 "Повідомлення з цим хештегом будуть модеруватися."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid "Messages with this tag will be sent as special notices."
 msgstr ""
 "Повідомлення з цим тегом будуть надіслані як спеціальні сповіщення."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid "Messages with this tag will not be emailed to the group."
 msgstr ""
@@ -16598,53 +16848,11 @@ msgstr ""
 "Модерує теми через вказану кількість днів. Теми будуть модеруватися протягом "
 "ночі за тихоокеанським часом."
 
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
-msgid ""
-"Moderation Status: Override: moderate all messages of every topic this "
-"person starts"
-msgstr ""
-"Статус модерації: Відмінити: модерувати всі повідомлення в кожній темі, яку "
-"створив користувач"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid ""
-"Moderation Status: Override: moderate the first message of every topic this "
-"person starts"
-msgstr ""
-"Статус модерації: Відмінити: модерувати перше повідомлення в кожній темі, "
-"яку створює користувач"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: moderated"
-msgstr ""
-"Статус модерації: Відмінено: модерується"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: new member moderated"
-msgstr ""
-"Статус модерації: Перевизначено: новий користувач модерується"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: not allowed to post"
-msgstr ""
-"Статус модерації: Відмінено: не дозволено публікувати"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: not moderated"
-msgstr ""
-"Статус модерації: Відмінити: не модерується"
-
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Use Group Moderation Setting"
-msgstr ""
-"Статус модерації: Використовувати групове налаштування модерації"
+msgid "Moderation Status"
+msgstr "Статус модерації"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -16705,6 +16913,15 @@ msgstr "Модератори та власники"
 msgid "Moderators and the Database Owner"
 msgstr "Модератори та власник столу"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Moderators' replies to topics with this status would be sent as special notices. "
+"Turn off Special first."
+msgstr ""
+"Відповіді модераторів на теми з таким статусом надсилатимуться у вигляді спеціальних повідомлень. Спочатку вимкніть опцію «Спеціальні»."
+
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #, fuzzy
 msgid "Moderators, the Database Owner, and the Row Owner"
@@ -16726,11 +16943,6 @@ msgstr "База даних"
 #, fuzzy
 msgid "Modify Group Settings"
 msgstr "Змінити налаштування групи"
-
-#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
-#, fuzzy
-msgid "Mods Only"
-msgstr "Тільки для модераторів"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -17950,6 +18162,19 @@ msgid "No members found."
 msgstr "Учасників не знайдено."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "No members have a color assigned."
+msgstr ""
+"Жодному з учасників не призначено колір."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "No messages match your search."
+msgstr "Пошук не дав жодних результатів."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #, fuzzy
 msgid "No need to use your phone each time"
@@ -18359,10 +18584,24 @@ msgstr ""
 "Нотатки можуть бачити лише модератори груп."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Nothing is emailed to the group."
+msgstr ""
+"Групі нічого не надсилається електронною поштою."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
 msgid "Nothing new in your groups"
 msgstr "У ваших групах нічого нового"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Nothing was emailed to the group."
+msgstr ""
+"Групі не було надіслано жодного листа електронною поштою."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -18417,6 +18656,7 @@ msgstr "Оповіщення"
 #: ../../pkg/notifications/noteviews/subgroupremoval.qtpl
 #: ../../pkg/notifications/noteviews/subscribepaidtierrequired.qtpl
 #: ../../pkg/notifications/noteviews/tierchange.qtpl
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
 #: ../../pkg/notifications/noteviews/welcomenotification.qtpl
 msgid "Notification"
 msgstr "Повідомлення"
@@ -18703,6 +18943,13 @@ msgstr "Одна година"
 #, fuzzy
 msgid "One Month"
 msgstr "Один місяць"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "One short answer, written to be inserted into replies"
+msgstr ""
+"Коротка відповідь, написана для вставки у відповіді"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
@@ -19401,12 +19648,6 @@ msgstr "Упаковані з функціями"
 msgid "Page History"
 msgstr "Історія сторінки"
 
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
-#, fuzzy
-msgid "Page history, last edited"
-msgstr "Історія сторінки, останнє редагування"
-
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 msgid "Pages"
 msgstr "Сторінки"
@@ -19720,7 +19961,6 @@ msgstr "Минуле"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Past 24 Hours"
@@ -19749,7 +19989,6 @@ msgid "Past due"
 msgstr "Прострочений"
 
 #: ../../cmd/web/qtutils/searchfilter.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "Past Hour"
 msgstr "Минула година"
@@ -19762,7 +20001,6 @@ msgstr "Колишні члени"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "Past Month"
 msgstr "Минулий місяць"
@@ -19770,7 +20008,6 @@ msgstr "Минулий місяць"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "Past Week"
 msgstr "Минулий тиждень"
@@ -19778,7 +20015,6 @@ msgstr "Минулий тиждень"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "Past Year"
 msgstr "Минулий рік"
@@ -21660,6 +21896,7 @@ msgid "Remove Extra Storage"
 msgstr "Видалити додаткове сховище"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Remove filter"
@@ -21796,12 +22033,6 @@ msgstr ""
 "від обраного вами параметра \"Відповісти на\"."
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/filenotification.qtpl
-#, fuzzy
-msgid "Renamed Folder %s"
-msgstr "Перейменовано папку %s"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid ""
@@ -21902,6 +22133,13 @@ msgstr ""
 "Замініть стандартний текст внизу сторінки входу."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Replace what you have written with this template?"
+msgstr ""
+"Замінити те, що ви написали, на цей шаблон?"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
 #, fuzzy
 msgid "Replacement Certificate — Awaiting Activation"
@@ -21924,6 +22162,38 @@ msgstr "Відповідати тільки модераторам"
 msgid "Replies to this topic must be sent to the sender, not the group."
 msgstr ""
 "Відповіді на цю тему слід надсилати відправнику, а не групі."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Replies to topics with this status would be moderated. Turn off Moderated first."
+msgstr ""
+"Відповіді на теми з цим статусом підлягатимуть модерації. Спочатку вимкніть опцію «Модерація»."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Replies to topics with this status would be refused. Change Reply To first."
+msgstr ""
+"Відповіді на теми з таким статусом не будуть прийняті. Спочатку змініть поле «Відповісти на»."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Replies to topics with this status would skip group moderation. Turn off Replies "
+"Unmoderated first."
+msgstr ""
+"Відповіді на теми з цим статусом не проходитимуть групову модерацію. Спочатку вимкніть опцію «Відповіді без модерації»."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Replies to topics with this status wouldn't be emailed to the group. Turn off No "
+"Email first."
+msgstr ""
+"Відповіді на теми з цим статусом не надсилатимуться групі електронною поштою. Спочатку вимкніть опцію «Не надсилати електронною поштою»."
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #, fuzzy
@@ -22256,6 +22526,12 @@ msgid "Restricted Membership"
 msgstr "Обмежене членство"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Results"
+msgstr "Результати"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -22394,6 +22670,12 @@ msgstr "Оберт ліворуч"
 msgid "Rotate Right"
 msgstr "Оберт праворуч"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "Row %d"
+msgstr "Рядок %d"
+
 #: ../../cmd/web/views/group/grouphome.qtpl
 msgid "RSS Feed"
 msgstr "RSS стрічка"
@@ -22423,6 +22705,12 @@ msgstr "Російська федерація"
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Rwanda"
 msgstr "Руанда"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "s"
+msgstr "s"
 
 #: ../../cmd/web/qtutils/color.qtpl
 #, fuzzy
@@ -22739,6 +23027,7 @@ msgstr "Дивіться повне порівняння планів"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "See all"
 msgstr "Переглянути все"
@@ -23372,6 +23661,26 @@ msgstr "Встановити пароль"
 msgid "Set Payment Method"
 msgstr "Встановити спосіб оплати"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#, fuzzy
+msgid "Set status"
+msgstr "Встановити статус"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Set status to #%s"
+msgstr "Встановити статус на #%s"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Set the status of \"%s\" to #%s?"
+msgstr ""
+"Встановити для параметра «%s» значення #%s?"
+
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
@@ -23460,6 +23769,12 @@ msgstr "Короткий Опис"
 #, fuzzy
 msgid "Short description of this database."
 msgstr "Короткий опис цієї таблиці."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Show"
+msgstr "Показати"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
@@ -23640,6 +23955,12 @@ msgstr "Розмір"
 #, fuzzy
 msgid "Size Limits"
 msgstr "Обмеження за розміром"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "Skip map"
+msgstr "Пропустити карту"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
@@ -23958,7 +24279,6 @@ msgstr "Стандартний час (15:04)"
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 msgid "Start"
 msgstr "Початок"
@@ -23995,8 +24315,8 @@ msgid "Start Date"
 msgstr "Початкова дата"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/tierroster.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "Start date"
 msgstr "Дата початку"
@@ -24013,6 +24333,12 @@ msgstr ""
 #, fuzzy
 msgid "Start Free Group"
 msgstr "Створити безкоштовну групу"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Start from"
+msgstr "Почніть з"
 
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
@@ -24069,8 +24395,16 @@ msgstr "Область"
 #: ../../cmd/web/views/groupadmin/paidmembershipstiers.qtpl
 #: ../../cmd/web/views/groupadmin/tierroster.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 msgid "Status"
 msgstr "Статус"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#, fuzzy
+msgid "Status: #%s"
+msgstr "Статус: #%s"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -24367,6 +24701,15 @@ msgstr ""
 "функцій батьківських груп; повідомлення підгруп можуть бути повністю "
 "публічними, доступними для перегляду членам батьківської групи, або "
 "приватними для членів підгрупи."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid ""
+"Subgroups can be created once the directory listing for this group has been "
+"approved."
+msgstr ""
+"Підгрупи можна створювати після затвердження списку членів цієї групи."
 
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #, fuzzy
@@ -24764,6 +25107,7 @@ msgstr "Сирійська Арабська Республіка"
 
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 msgid "Table"
 msgstr "Таблиця"
 
@@ -24776,6 +25120,12 @@ msgstr "Зміст"
 msgid "Tag a message topic by including a #hashtag in the subject."
 msgstr ""
 "Позначайте тему повідомлення хештегом #hashtag."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Tag Color"
+msgstr "Колір тегу"
 
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -26324,6 +26674,18 @@ msgstr ""
 "Постачальник SSO повертає несанкціоновану помилку."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The status of \"%s\" is #%s."
+msgstr "Статус «%s» — #%s."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The status on \"%s\" is cleared."
+msgstr "Статус «%s» скинуто."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid ""
@@ -26450,6 +26812,25 @@ msgstr "За темою не слідкують."
 #, fuzzy
 msgid "The topic has been unmuted."
 msgstr "Тему було вимкнено."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The topic is locked."
+msgstr "Тема заблокована."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The topic is open for replies again."
+msgstr "Тема знову відкрита для відповідей."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid "The topic's status has been changed. Nothing was emailed to the group."
+msgstr ""
+"Статус теми було змінено. Групі не було надіслано жодного повідомлення електронною поштою."
 
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #, fuzzy
@@ -27120,6 +27501,16 @@ msgstr ""
 "Дописи мають бути позначені принаймні одним хештегом."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#, fuzzy
+msgid "This hashtag is part of the subject text. Edit the subject to remove it."
+msgstr ""
+"Цей хештег є частиною тексту теми. Відредагуйте тему, щоб видалити його."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "This information is included on all future invoices and payment receipts."
@@ -27155,6 +27546,7 @@ msgstr "Всі учасники можуть писати в групу."
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "This is a repeating event"
 msgstr "Це повторювана подія"
@@ -27259,6 +27651,20 @@ msgstr ""
 #, fuzzy
 msgid "this link"
 msgstr "це посилання"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "This link is no longer valid. Sign in and use Set status on the topic page."
+msgstr ""
+"Це посилання більше не діє. Увійдіть у систему та скористайтеся функцією «Встановити статус» на сторінці теми."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "This locks the topic so members can't reply, and dims it in topic lists."
+msgstr ""
+"Це блокує тему, щоб учасники не могли відповідати, і робить її менш помітною у списках тем."
 
 #: ../../cmd/web/views/group/groupdirectory.qtpl
 #, fuzzy
@@ -27396,6 +27802,13 @@ msgid ""
 msgstr ""
 "Ця ціна є цільовою для запланованої зміни тарифного плану. Скасуйте цю заплановану зміну (або дочекайтеся її введення) перед тим, як вимкнути цю ціну."
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "This reopens the topic so members can reply again."
+msgstr ""
+"Це відкриває тему заново, щоб учасники могли знову залишати коментарі."
+
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
@@ -27514,6 +27927,13 @@ msgid ""
 "(or wait for it to apply) before disabling the tier."
 msgstr ""
 "Цей рівень є об’єктом запланованої зміни рівня. Скасуйте цю заплановану зміну (або дочекайтеся її застосування) перед тим, як вимкнути рівень."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid "This topic already has the maximum number of hashtags."
+msgstr ""
+"У цій темі вже набрано максимальну кількість хештегів."
 
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
 #, fuzzy
@@ -27730,6 +28150,13 @@ msgstr ""
 "Щоб підтвердити це за допомогою електронної пошти, дайте відповідь на це "
 "повідомлення. Вам не потрібно прикріплювати оригінальне повідомлення, просто "
 "відповідайте і надсилайте."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "To assign one, select members and choose Change Color from the Actions menu."
+msgstr ""
+"Щоб призначити колір, виділіть учасників і виберіть пункт «Змінити колір» у меню «Дії»."
 
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 #, fuzzy
@@ -28084,10 +28511,6 @@ msgstr "Помідор"
 msgid "Tonga"
 msgstr "Тонга"
 
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
-msgid "Tools"
-msgstr "Інструменти"
-
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
@@ -28130,6 +28553,41 @@ msgstr "Варіанти тем"
 msgid "Topic Properties"
 msgstr "Властивості теми"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topic starters can set this as their topic's status without emailing the group, "
+"using Set status on the topic page or a link in a private email they get when "
+"they post. A topic has one status at a time. If this hashtag is also Locked, "
+"setting it locks the topic and dims it in topic lists, and clearing it reopens "
+"the topic. Members on No email delivery don't get the private email."
+msgstr ""
+"Автори тем можуть встановити цей статус для своєї теми без надсилання електронного листа групі, скориставшись функцією «Встановити статус» на сторінці теми або посиланням у приватному електронному листі, який вони отримують після публікації. Тема може мати лише один статус одночасно. Якщо цей хештег також має статус «Заблоковано», його встановлення блокує тему та приглушує її відображення у списках тем, а скасування — знову відкриває тему. Учасники з налаштуванням «Без доставки електронної пошти» не отримують приватного листа."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid "Topic starters can set this as their topic's status."
+msgstr ""
+"Автори тем можуть встановити цей статус для своєї теми."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid "Topic starters can set this as their topic's status. It locks the topic."
+msgstr ""
+"Автори тем можуть встановити цей статус для своєї теми. Це блокує тему."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topic starters can't use a hashtag reserved for moderators. Turn off Use by Mods "
+"Only first."
+msgstr ""
+"Автори тем не можуть використовувати хештег, зарезервований для модераторів. Спочатку вимкніть опцію «Використовувати лише модераторам»."
+
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 #, fuzzy
 msgid ""
@@ -28153,6 +28611,7 @@ msgstr "тема.Lead"
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
@@ -28163,6 +28622,24 @@ msgstr "тема.Lead"
 #: ../../cmd/web/views/user/threads.qtpl
 msgid "Topics"
 msgstr "Теми"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topics already locked by #%s stay locked if you turn this or Locked off. "
+"Moderators can unlock them."
+msgstr ""
+"Теми, які вже заблоковано за допомогою #%s, залишаються заблокованими, навіть якщо ви вимкнете цю опцію або функцію «Заблоковано». Модератори можуть розблокувати їх."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topics already tagged #%[1]s aren't changed or locked. If #%[1]s is Locked, "
+"they'll be dimmed in topic lists."
+msgstr ""
+"Теми, які вже мають тег #%[1]s, не змінюються і не блокуються. Якщо #%[1]s заблоковано, вони будуть відображатися у списках тем у затемненому вигляді."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
@@ -28176,12 +28653,19 @@ msgstr[1] ""
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid ""
 "Topics will be locked when they are tagged with this hashtag. Topics that "
 "already have it are not affected."
 msgstr ""
 "Теми будуть заблоковані, коли до них буде додано цей хештег. Це не стосується тем, до яких цей хештег уже додано."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Topics with no replies yet"
+msgstr "Теми, на які ще немає відповідей"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/paidmembershipsreporting.qtpl
@@ -28381,6 +28865,12 @@ msgstr ""
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 msgid "Tuvalu"
 msgstr "Тувалу"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Two columns"
+msgstr "Дві колонки"
 
 #: ../../cmd/web/views/login/sendloginlink.qtpl
 #, fuzzy
@@ -29006,6 +29496,7 @@ msgstr "Оновити файл"
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
@@ -29070,6 +29561,12 @@ msgstr[2] "Оновити файл"
 #, fuzzy
 msgid "updated folder"
 msgstr "Папка оновлення"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/filenotification.qtpl
+#, fuzzy
+msgid "Updated Folder %s"
+msgstr "Оновлена папка %s"
 
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
 #, fuzzy
@@ -30196,6 +30693,12 @@ msgstr "Переглянути на картах Google Maps"
 msgid "View Invoice"
 msgstr "Переглянути рахунок-фактуру"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/account/groupprofile.qtpl
+#, fuzzy
+msgid "View map"
+msgstr "Переглянути карту"
+
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
 msgid "View Member List"
@@ -30241,6 +30744,12 @@ msgstr "Переглянути версію від"
 msgid "View Row"
 msgstr "Рядок перегляду"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "View row"
+msgstr "Переглянути рядок"
+
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
@@ -30258,6 +30767,18 @@ msgstr "Переглянути чат"
 #, fuzzy
 msgid "View this message online"
 msgstr "Використовуйте це повідомлення."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "View topic"
+msgstr "Переглянути тему"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "View topic:"
+msgstr "Переглянути тему:"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy
@@ -31484,6 +32005,7 @@ msgstr ""
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
@@ -31546,6 +32068,12 @@ msgstr "Вікі-сторінка: %s"
 msgid "Wiki Pages"
 msgstr "Вікі-сторінки"
 
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#, fuzzy
+msgid "Wiki pages"
+msgstr "Сторінки Вікі"
+
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 msgid "Wiki Search"
 msgstr "Пошук по Wiki"
@@ -31554,6 +32082,12 @@ msgstr "Пошук по Wiki"
 #, fuzzy
 msgid "Wiki Updates"
 msgstr "Оновлення вікі"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "Wiki, files and events aren't filtered."
+msgstr "Вікі, файли та події не фільтруються."
 
 #: ../../cmd/web/views/groupadmin/enablepaidmemberships.qtpl
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
@@ -31702,6 +32236,12 @@ msgstr "Річні ціни:"
 #, fuzzy
 msgid "years"
 msgstr "роки"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Years serving communities"
+msgstr "Роки роботи на благо громад"
 
 #: ../../cmd/web/qtutils/color.qtpl
 msgid "Yellow"
@@ -32188,6 +32728,13 @@ msgid ""
 msgstr ""
 "Ви можете попросити пожертви у своїй групі. Ось що вам потрібно знати:"
 
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "You can change its status without sending an email to the group:"
+msgstr ""
+"Ви можете змінити його статус, не надсилаючи електронного листа групі:"
+
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
 msgid ""
@@ -32362,6 +32909,12 @@ msgstr ""
 "Ви можете зайти у свою групу, почати читати повідомлення та публікувати їх "
 "тут: <a href=\"%[1]s\">%[1]s</a>. Якщо ви входите в систему вперше або "
 "забули пароль, скористайтеся кнопкою \"надішліть мені посилання для входу\"."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid "You can't change this topic's status."
+msgstr "Ви не можете змінити статус цієї теми."
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
@@ -34403,6 +34956,18 @@ msgid ""
 "payment, your subscription will be canceled and your tier access will end."
 msgstr ""
 "Наразі ваш рівень доступу залишається незмінним. Щоб зберегти доступ, будь ласка, оновте спосіб оплати протягом найближчих 14 днів. Якщо протягом 14 днів не буде здійснено успішний платіж, ваша підписка буде скасована, а доступ до вашого рівня припиниться."
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Your topic \"%s\" is posted to %s."
+msgstr "Ваша тема «%s» опублікована в розділі %s."
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Your topic is posted: \"%s\""
+msgstr "Ваша тема опублікована: «%s»"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl

@@ -506,6 +506,15 @@ msgid "%d of %d complete"
 msgstr "%d van %d voltooid"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#, fuzzy
+msgid "%d of %d hashtags"
+msgstr "%d van %d hashtags"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewrsvps.qtpl
 #, fuzzy
@@ -581,6 +590,21 @@ msgid "%d repost"
 msgid_plural "%d reposts"
 msgstr[0] "%d repost"
 msgstr[1] "%d reposts"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid ""
+"%d rows are still being located. Refresh the page to add more of them to the "
+"map."
+msgstr ""
+"Er worden nog steeds %d-rijen gelokaliseerd. Vernieuw de pagina om er meer aan de kaart toe te voegen."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "%d rows couldn't be placed on the map"
+msgstr "%d rijen konden niet op de kaart worden geplaatst"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
@@ -743,6 +767,14 @@ msgstr ""
 "%s vereist dat nieuwe leden een lidmaatschapsniveau kiezen; dit kan niet via e-mail. Om lid te worden, ga je naar het online aanmeldingsformulier en kies je een niveau."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] "%s resultaat"
+msgstr[1] "%s resultaten"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/newsponsornotificaiton.qtpl
 #, fuzzy
 msgid "%s sponsored your group for $%.02f"
@@ -771,6 +803,12 @@ msgstr "(uitgeschakeld omdat deze groep geen leden meer kan toevoegen)"
 #, fuzzy
 msgid "(Inherited)"
 msgstr "(Geërfd)"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#, fuzzy
+msgid "(locks the topic)"
+msgstr "(het onderwerp vergrendelen)"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupdirectory.qtpl
@@ -945,6 +983,19 @@ msgid "1 new message, jump to latest"
 msgstr "1 nieuw bericht, ga naar het laatste bericht"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "1 row couldn't be placed on the map"
+msgstr "1 rij kon niet op de kaart worden geplaatst"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "1 row is still being located. Refresh the page to add it to the map."
+msgstr ""
+"Er wordt nog gezocht naar 1 rij. Vernieuw de pagina om deze aan de kaart toe te voegen."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticpricing.qtpl
 #, fuzzy
 msgid "1 TB storage"
@@ -1033,6 +1084,20 @@ msgstr "30 GB opslagruimte"
 #, fuzzy
 msgid "50 items"
 msgstr "50 artikelen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid ": topic starters can set this as their topic's status"
+msgstr ""
+": de aanmaker van een onderwerp kan dit instellen als de status van zijn of haar onderwerp"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid ": topic starters can set this as their topic's status, which locks the topic"
+msgstr ""
+": de aanmaker van een onderwerp kan dit instellen als de status van het onderwerp, waardoor het onderwerp wordt vergrendeld"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
@@ -1751,6 +1816,13 @@ msgid "A reverification email has been sent to you. Click the link in the email 
 msgstr "Er is een e-mail ter bevestiging naar je verzonden. Klik op de link in de e-mail om je account te herstellen. Als je de e-mail niet ziet, controleer dan je spammap."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "A status hashtag can't expire. Set Topic Duration to Forever first."
+msgstr ""
+"Een status-hashtag kan niet verlopen. Stel eerst de ‘Duur van het onderwerp’ in op ‘Voor altijd’."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/creategroup.qtpl
 #, fuzzy
 msgid "A subgroup is a group within another group. Subgroups have all the functionality of normal groups, but for someone to be a member of a subgroup, that person must first be a member of the primary (parent) group. Also, subgroups are not listed in the public directory of groups. You can use subgroups for subsets of your primary group's membership. For example, an organization could use a subgroup for its board of directors or use several subgroups for different committees. Or you could create subgroups for different subject areas that are related to your primary group. The GroupManagersForum wiki contains additional information on why one might want to use subgroups. One reason to use subgroups is that their email and web addresses have a common identity with those of the primary group. Subgroups may be listed on the primary group's home page; each subgroup has a Privacy setting to control this. A link back to the primary group is automatically placed on the subgroups' home pages. Subgroups cannot have subgroups of their own, only the primary group may have subgroups. The flip side of this, and a reason not to use a subgroup, is that subgroups are not listed in Groups.io's directory of public groups. If the subject of the new group stands on its own it may be better to create a separate group rather than a subgroup."
@@ -1761,6 +1833,12 @@ msgstr "Een subgroep is een groep binnen een andere groep. Subgroepen hebben all
 #, fuzzy
 msgid "a summary message"
 msgstr "een samenvattend bericht"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "A table of contents, numbered sections and a tip"
+msgstr "Een inhoudsopgave, genummerde paragrafen en een tip"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
@@ -1910,6 +1988,7 @@ msgid "Active"
 msgstr "Actief"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
 #, fuzzy
 msgid "active"
@@ -2500,6 +2579,12 @@ msgid "Admin"
 msgstr "Admin"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Ads, ever"
+msgstr "Advertenties, altijd"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticfeatures.qtpl
 #, fuzzy
 msgid "Advanced group management."
@@ -2989,6 +3074,12 @@ msgid "Also applying to"
 msgstr "Ook van toepassing op"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "Also in"
+msgstr "Ook in"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #, fuzzy
 msgid "Alternative text"
@@ -3084,10 +3175,22 @@ msgid "An email has been sent to you with a link to log into your account."
 msgstr "Er is een e-mail naar je verzonden met een koppeling om je aan te melden bij je account."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "An empty page"
+msgstr "Een lege pagina"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 msgid "An existing message in the group %s was edited, and the edit needs to be approved."
 msgstr "Een bestaand bericht in de groep %s werd bewerkt en de bewerking moet worden goedgekeurd."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "An introduction and questions that expand to their answers"
+msgstr "Een inleiding en vragen die uitmonden in hun antwoorden"
 
 #. Automatically translated using DeepL
 #: ../../pkg/rsvputils/rsvpremoved.qtpl
@@ -3143,13 +3246,11 @@ msgstr "Analytics-gegevens worden dagelijks gegenereerd, dus het kan even duren 
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/likes.qtpl
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessagehistory.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
@@ -3303,11 +3404,17 @@ msgstr ""
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Any Time"
 msgstr "Altijd"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Anyone you forward this email to can change your topic's status."
+msgstr ""
+"Iedereen aan wie je deze e-mail doorstuurt, kan de status van je onderwerp wijzigen."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupphotos/groupphoto.qtpl
@@ -3372,11 +3479,16 @@ msgid "Applied For Tier"
 msgstr "Aangevraagde categorie"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupdirectadd.qtpl
 #: ../../cmd/web/views/groupadmin/subgroupmembers.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
 #, fuzzy
 msgid "Apply"
 msgstr "Toepassen"
@@ -4819,7 +4931,7 @@ msgid ""
 "Before deleting your subgroup, you may want to <a href=\"%s/exportgroup\">export "
 "the subgroup</a>."
 msgstr ""
-"Voordat u uw subgroep verwijdert, wilt u <a href=\"%s/exportgroup\">deze</a> misschien eerst <a href=\"%s/exportgroup\">exporteren</a>."
+"Voordat u uw subgroep verwijdert, wilt u deze misschien eerst <a href=\"%s/exportgroup\">exporteren</a>."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/deleteaccount.qtpl
@@ -4905,12 +5017,10 @@ msgid "Better archive organization with hashtags"
 msgstr "Betere organisatie van archieven met hashtags"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Between"
@@ -4975,6 +5085,12 @@ msgstr "Biografie:"
 #, fuzzy
 msgid "Biweekly on Friday"
 msgstr "Tweewekelijks op vrijdag"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Blank"
+msgstr "Leeg"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
@@ -5300,6 +5416,12 @@ msgid "But most importantly, please add this email address to your safe sender l
 msgstr "Maar het belangrijkste is dat je dit e-mailadres toevoegt aan de lijst met veilige afzenders in de contacten van je e-mailprogramma. Als je merkt dat e-mails van deze groep in spam-, promo- of sociale mappen terechtkomen, verplaats deze e-mails dan naar je primaire inbox zodat je je e-mailprogramma kunt trainen om ze direct in je inbox te plaatsen."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Button"
+msgstr "Knop"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #: ../../cmd/web/views/groupcalendar/groupviewevent.qtpl
 #: ../../cmd/web/views/groupchat/groupchats.qtpl
@@ -5319,6 +5441,7 @@ msgid "By"
 msgstr "Door"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../pkg/notifications/noteviews/githubemail.qtpl
 #, fuzzy
 msgid "by"
@@ -5449,6 +5572,24 @@ msgstr "Agenda, chat, polls, database, foto's, bestanden, wiki en onbeperkte sub
 #, fuzzy
 msgid "Calendars"
 msgstr "Kalenders"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Callout: Note"
+msgstr "Opmerking: Let op"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Callout: Tip"
+msgstr "Kader: Tip"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Callout: Warning"
+msgstr "Opmerking: Waarschuwing"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -5694,6 +5835,12 @@ msgid "Cancelled Event"
 msgstr "Geannuleerd evenement"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Canned answer"
+msgstr "Standaardantwoord"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
 msgid ""
@@ -5936,6 +6083,12 @@ msgstr "Voorkeuren voor sociale aanmelding wijzigen"
 #, fuzzy
 msgid "Change the RSVP for <span class=\"checkCount\">no members</span> to"
 msgstr "Wijzig de RSVP voor <span class=\"checkCount\">geen leden</span> in"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Change topic status"
+msgstr "De status van het onderwerp wijzigen"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/accountchangenotification.qtpl
@@ -6465,12 +6618,38 @@ msgid "Claimed by %[1]s on %[2]s"
 msgstr "Geclaimd door %[1]s op %[2]s"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/managechatmembers.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/static/changelog.qtpl
 #, fuzzy
 msgid "Clear"
 msgstr "Duidelijk"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Clear all"
+msgstr "Alles wissen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "Clear filters to include them."
+msgstr "Wis de filters om ze weer te tonen."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Clear status"
+msgstr "Status wissen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Clear the status on \"%s\"?"
+msgstr "De status van \"%s\" wissen?"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
@@ -6640,7 +6819,7 @@ msgid "Collaborate, but only intermittently, says new study"
 msgstr "Samenwerken, maar alleen met tussenpozen, zegt nieuw onderzoek"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #, fuzzy
 msgid "Collapse Topics"
 msgstr "gesprekken samenvouwen"
@@ -6653,12 +6832,32 @@ msgid "Colombia"
 msgstr "Colombia"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+#: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberlabels.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Color"
 msgstr "Kleur"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/tabletemplates.qtpl
+#, fuzzy
+msgid "Color of the column."
+msgstr "Kleur van de kolom."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Color of the tag when displayed in the archive."
+msgstr "Kleur van het label wanneer het in het archief wordt weergegeven."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/color.qtpl
+#, fuzzy
+msgid "color.GetTitle()"
+msgstr "color.GetTitle()"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -7538,10 +7737,8 @@ msgid "Custom profile information for each member."
 msgstr "Aangepaste profielinformatie voor elk lid."
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Custom Range"
@@ -7552,7 +7749,6 @@ msgstr "Aangepast bereik"
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Custom range..."
@@ -7718,6 +7914,7 @@ msgid "Databases are disabled"
 msgstr "Databases zijn uitgeschakeld"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupadmin/groupattachments.qtpl
@@ -8738,6 +8935,12 @@ msgid "Dispute:"
 msgstr "Geschil:"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Divider"
+msgstr "Scheidingsteken"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 #, fuzzy
@@ -9062,6 +9265,12 @@ msgstr "Vervaldatum gewijzigd"
 #, fuzzy
 msgid "Duration"
 msgstr "Duur"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid "Duration: %s"
+msgstr "Duur: %s"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/color.qtpl
@@ -9714,6 +9923,7 @@ msgstr "E-mailcommunicatie is asynchroon"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -9741,42 +9951,6 @@ msgstr "Opties voor e-maillevering"
 #, fuzzy
 msgid "Email Delivery Preferences"
 msgstr "Voorkeuren voor e-mailbezorging"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Daily Summary"
-msgstr "E-maillevering: Dagelijks overzicht"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Full Featured Digest"
-msgstr "Levering per e-mail: Volledig uitgelichte nieuwsbrief"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Individual Messages"
-msgstr "E-mail afleveren: Individuele berichten"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: No Email"
-msgstr "Levering per e-mail: Geen e-mail"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Plain Digest"
-msgstr "E-maillevering: Algemene samenvatting"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Email Delivery: Special Notices Only"
-msgstr "Levering per e-mail: Alleen speciale kennisgevingen"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticwhyemailgroups.qtpl
@@ -9980,7 +10154,6 @@ msgstr "Ingeschakeld"
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "End"
@@ -9994,7 +10167,7 @@ msgid "End Date"
 msgstr "Einddatum"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #, fuzzy
 msgid "End date"
 msgstr "Einddatum"
@@ -10238,6 +10411,12 @@ msgid "Event Cancellation"
 msgstr "Evenement Annulering"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#, fuzzy
+msgid "Event Color"
+msgstr "Kleur van het evenement"
+
+#. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/eventnotification.qtpl
 #, fuzzy
 msgid "Event details"
@@ -10275,6 +10454,7 @@ msgstr "Samenvatting evenement e-mail"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "Events"
 msgstr "Evenementen"
@@ -10405,6 +10585,12 @@ msgstr ""
 "Alles is klaar. Klik op ‘Upgrade aanvragen’ en wij zorgen ervoor dat je wordt overgezet — al je instellingen, leden en berichten blijven behouden."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Exclude"
+msgstr "Uitsluiten"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #, fuzzy
 msgid "Exclude city field."
@@ -10417,7 +10603,7 @@ msgid "Exclude country field."
 msgstr "Land uitsluiten."
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #, fuzzy
 msgid "Exclude Signatures"
 msgstr "Handtekeningen uitsluiten"
@@ -10630,6 +10816,18 @@ msgid "Falkland Islands (Malvinas)"
 msgstr "Falklandeilanden (Malvinas)"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "FAQ"
+msgstr "Veelgestelde vragen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "FAQ entry"
+msgstr "Veelgestelde vragen"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
 #, fuzzy
@@ -10831,6 +11029,7 @@ msgstr "Bestandssynchronisatie Leden"
 #: ../../cmd/web/views/groupadmin/paidmembershipsedittier.qtpl
 #: ../../cmd/web/views/groupfiles/groupfiles.qtpl
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
 #: ../../cmd/web/views/static/staticpricing.qtpl
@@ -10887,6 +11086,12 @@ msgid "Filter groups"
 msgstr "Filtergroepen"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#, fuzzy
+msgid "Filter pages"
+msgstr "Pagina's filteren"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #, fuzzy
 msgid "Find"
@@ -10897,6 +11102,12 @@ msgstr "Zoek"
 #, fuzzy
 msgid "Find a Group"
 msgstr "Zoek een groep"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Find a hashtag"
+msgstr "Zoek een hashtag"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticwelcome.qtpl
@@ -11548,12 +11759,10 @@ msgid "Glossary"
 msgstr "Woordenlijst"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Go"
@@ -12168,8 +12377,20 @@ msgstr ""
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "Groups.io is the ultimate <strong>group email service</strong> and <strong>modern listserv replacement</strong> for teams of any size. From small clubs of 10 to thriving communities of 100,000+, our <strong>email discussion list platform</strong> delivers messages directly to members' inboxes so they'll <strong>never miss a conversation</strong>. Unlike Google Groups or other alternatives, we offer <strong>photo sharing</strong>, <strong>file storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, <strong>chat</strong>, <strong>databases</strong>, and <strong>group analytics</strong> — all ad-free and privacy-focused. Our mailing list management solution scales effortlessly whether you're running a hobby group, nonprofit, or large organization."
-msgstr "Groups.io is de ultieme <strong>e-maildienst voor groepen</strong> en <strong>een moderne vervanging</strong> voor <strong>listservs</strong> voor teams van elke omvang. Van kleine clubs met 10 leden tot bloeiende gemeenschappen met meer dan 100.000 leden: ons <strong>platform voor e-maildiscussielijsten</strong> bezorgt berichten rechtstreeks in de inbox van leden, zodat ze <strong>nooit een gesprek missen</strong>. In tegenstelling tot Google Groups of andere alternatieven bieden wij <strong>het delen van foto's</strong>, <strong>bestandsopslag</strong>, <strong>agenda's</strong>, <strong>wiki's</strong>, <strong>chat</strong>, <strong>databases</strong> en <strong>groepsanalyses</strong> – allemaal zonder advertenties en met de nadruk op privacy. Onze oplossing voor het beheer van mailinglijsten is moeiteloos schaalbaar, of u nu een hobbygroep, non-profitorganisatie of grote organisatie runt."
+msgid ""
+"Groups.io is the ultimate <strong>group email service</strong> and "
+"<strong>modern listserv replacement</strong> for teams of any size. From small "
+"clubs of 10 to thriving communities of 45,000+, our <strong>email discussion "
+"list platform</strong> delivers messages directly to members' inboxes so they'll "
+"<strong>never miss a conversation</strong>. Unlike Google Groups or other "
+"alternatives, we offer <strong>photo sharing</strong>, <strong>file "
+"storage</strong>, <strong>calendar</strong>, <strong>wiki</strong>, "
+"<strong>chat</strong>, <strong>databases</strong>, and <strong>group "
+"analytics</strong> — all ad-free and privacy-focused. Our mailing list "
+"management solution scales effortlessly whether you're running a hobby group, "
+"nonprofit, or large organization."
+msgstr ""
+"Groups.io is de ultieme <strong>e-maildienst voor groepen</strong> en <strong>een moderne vervanging</strong> <strong>voor listservs,</strong> geschikt voor teams van elke omvang. Van kleine clubs met 10 leden tot bloeiende gemeenschappen met meer dan 45.000 leden: ons <strong>platform voor e-maildiscussielijsten</strong> bezorgt berichten rechtstreeks in de inbox van de leden, zodat ze <strong>nooit een gesprek</strong> missen. In tegenstelling tot Google Groups of andere alternatieven bieden wij <strong>het delen van foto’s</strong>, <strong>bestandsopslag</strong>, <strong>een agenda</strong>, <strong>een wiki</strong>, <strong>chat</strong>, <strong>databases</strong> en <strong>groepsanalyses</strong> — allemaal zonder advertenties en met de nadruk op privacy. Onze oplossing voor het beheer van mailinglijsten is moeiteloos schaalbaar, of je nu een hobbygroep, een non-profitorganisatie of een grote organisatie runt."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/reverifiedemail.qtpl
@@ -12230,8 +12451,18 @@ msgstr "Groepen.io Omkering"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
 #, fuzzy
-msgid "Groups.io scales effortlessly from small teams to massive communities. Our platform comfortably supports intimate groups of just 10 members all the way up to thriving communities with 100,000+ participants. There are no hard limits on group size with our paid plans. Free groups can have up to 100 members, while our Premium and Enterprise plans remove these limitations. Our infrastructure is designed for high-volume email delivery, ensuring reliable message distribution even for very large communities. Additionally, our moderation tools scale with your group size, providing the controls needed to manage communities of any size effectively."
-msgstr "Groups.io schaalt moeiteloos van kleine teams naar enorme gemeenschappen. Ons platform ondersteunt met gemak intieme groepen van slechts 10 leden tot aan bloeiende gemeenschappen met 100.000+ deelnemers. Er zijn geen harde grenzen aan de groepsgrootte met onze betaalde plannen. Gratis groepen kunnen maximaal 100 leden hebben, terwijl onze Premium- en Enterprise-plannen deze beperkingen opheffen. Onze infrastructuur is ontworpen voor het afleveren van grote hoeveelheden e-mail, waardoor een betrouwbare distributie van berichten wordt gegarandeerd, zelfs voor zeer grote gemeenschappen. Bovendien schalen onze moderatietools mee met de grootte van uw groep en bieden ze de controle die nodig is om gemeenschappen van elke grootte effectief te beheren."
+msgid ""
+"Groups.io scales effortlessly from small teams to massive communities. Our "
+"platform comfortably supports intimate groups of just 10 members all the way up "
+"to thriving communities with 45,000+ participants. There are no hard limits on "
+"group size with our paid plans. Free groups can have up to 100 members, while "
+"our Premium and Enterprise plans remove these limitations. Our infrastructure is "
+"designed for high-volume email delivery, ensuring reliable message distribution "
+"even for very large communities. Additionally, our moderation tools scale with "
+"your group size, providing the controls needed to manage communities of any size "
+"effectively."
+msgstr ""
+"Groups.io is moeiteloos schaalbaar, van kleine teams tot enorme communities. Ons platform ondersteunt zowel kleine groepen van slechts 10 leden als bloeiende communities met meer dan 45.000 deelnemers. Bij onze betaalde abonnementen gelden geen strikte limieten voor de grootte van groepen. Gratis groepen kunnen maximaal 100 leden hebben, terwijl onze Premium- en Enterprise-abonnementen deze beperkingen opheffen. Onze infrastructuur is ontworpen voor het verzenden van grote hoeveelheden e-mails, waardoor betrouwbare berichtverzending gegarandeerd is, zelfs voor zeer grote gemeenschappen. Bovendien schalen onze moderatietools mee met de grootte van je groep en bieden ze de nodige controle om gemeenschappen van elke omvang effectief te beheren."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/user/homeloggedout.qtpl
@@ -12374,6 +12605,12 @@ msgstr "Guam"
 #, fuzzy
 msgid "Guatemala"
 msgstr "Guatemala"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Guide"
+msgstr "Gids"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupguidelines.qtpl
@@ -12687,6 +12924,7 @@ msgstr "Hoogtepunten"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #, fuzzy
 msgid "History"
@@ -13585,10 +13823,23 @@ msgid "Inactive Member"
 msgstr "Inactief lid"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Include"
+msgstr "Opnemen"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouppromote.qtpl
 #, fuzzy
 msgid "Include Link To Archives"
 msgstr "Link naar archief opnemen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Include shows only topics with a hashtag. Exclude hides topics with it."
+msgstr ""
+"Met ‘Opnemen’ worden alleen onderwerpen met een hashtag weergegeven. Met ‘Uitsluiten’ worden onderwerpen met die hashtag verborgen."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/exportgroup.qtpl
@@ -13703,6 +13954,12 @@ msgstr "Eerste pagina"
 #, fuzzy
 msgid "Insert"
 msgstr "Invoegen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Insert block"
+msgstr "Blok invoegen"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat.qtpl
@@ -14838,6 +15095,7 @@ msgstr "LLM"
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
 #: ../../cmd/web/views/account/groupeditprofile.qtpl
+#: ../../cmd/web/views/account/groupprofile.qtpl
 #: ../../cmd/web/views/account/settings.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendar.qtpl
@@ -15270,6 +15528,12 @@ msgid "Map View"
 msgstr "Kaart bekijken"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/grouptable.qtpl
+#, fuzzy
+msgid "Map view is available for tables with up to 1,000 rows."
+msgstr "De kaartweergave is beschikbaar voor tabellen met maximaal 1.000 rijen."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupmonth.qtpl
 #: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
 #: ../../pkg/ics/repeatsummary.qtpl
@@ -15506,6 +15770,12 @@ msgstr "Lid toegevoegd aan kaart"
 #, fuzzy
 msgid "Member Churn Analysis"
 msgstr "Analyse van het verloop van leden"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "Member Colors"
+msgstr "Ledenkleuren"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupanalytics.qtpl
@@ -15860,6 +16130,12 @@ msgid "Members cannot view, moderators can edit"
 msgstr "Leden kunnen niet bekijken, moderators kunnen bewerken"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Members in our largest group"
+msgstr "Leden van onze grootste groep"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupsync/syncgroup.qtpl
 #, fuzzy
 msgid "Members in Slack will be added to your group."
@@ -16108,6 +16384,12 @@ msgid "Message attachments"
 msgstr "Bijlagen bij berichten"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/base.qtpl
+#, fuzzy
+msgid "Message body"
+msgstr "Tekst van het bericht"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupchat/groupchat_script.qtpl
 #, fuzzy
 msgid "Message deleted"
@@ -16185,30 +16467,13 @@ msgstr "Beleid berichten"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/defaultsubsettings.qtpl
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #: ../../cmd/web/views/sub/editsub.qtpl
 #: ../../cmd/web/views/sub/groupinvite.qtpl
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
 #, fuzzy
 msgid "Message Selection"
 msgstr "Bericht selecteren"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Message Selection: Auto Follow Replies"
-msgstr "Bericht selecteren: Automatisch antwoorden volgen"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Message Selection: Following Only"
-msgstr "Selectie van berichten: Alleen volgen"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Message Selection: Following Only With First Message Also"
-msgstr "Selectie berichten: Alleen volgen met ook eerste bericht"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupdirectadd.qtpl
@@ -16250,6 +16515,7 @@ msgstr "Groep op basis van berichten"
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads-test.qtpl
 #: ../../cmd/web/views/groupmessages/groupthreads.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -16433,12 +16699,14 @@ msgstr "Berichten met deze hashtag worden gemodereerd."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid "Messages with this tag will be sent as special notices."
 msgstr "Berichten met deze tag worden verzonden als speciale berichten."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid "Messages with this tag will not be emailed to the group."
 msgstr "Berichten met deze tag worden niet naar de groep gemaild."
@@ -16604,44 +16872,8 @@ msgstr "Modereert gesprekken na het opgegeven aantal dagen. gesprekken worden 's
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
-msgid "Moderation Status: Override: moderate all messages of every topic this person starts"
-msgstr "Moderatiestatus: Overschrijven: alle berichten van elk gesprek dat deze persoon start modereren"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: moderate the first message of every topic this person starts"
-msgstr "Moderatiestatus: Overschrijven: modereert het eerste bericht van elk gesprek dat deze persoon start."
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: moderated"
-msgstr "Moderatiestatus: Overschrijven: gemodereerd"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: new member moderated"
-msgstr "Moderatiestatus: Overschrijven: nieuw lid gemodereerd"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: not allowed to post"
-msgstr "Moderatiestatus: Overschrijven: niet toegestaan om te posten"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Override: not moderated"
-msgstr "Moderatiestatus: Overschrijven: niet gemodereerd"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
-#, fuzzy
-msgid "Moderation Status: Use Group Moderation Setting"
-msgstr "Moderatiestatus: Gebruik de instelling voor groepsmoderatie"
+msgid "Moderation Status"
+msgstr "Moderatiestatus"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
@@ -16715,6 +16947,15 @@ msgid "Moderators and the Database Owner"
 msgstr "Moderators en de Database-eigenaar"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Moderators' replies to topics with this status would be sent as special notices. "
+"Turn off Special first."
+msgstr ""
+"Antwoorden van moderators op onderwerpen met deze status worden als speciale mededelingen verzonden. Schakel eerst ‘Speciaal’ uit."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
 #, fuzzy
 msgid "Moderators, the Database Owner, and the Row Owner"
@@ -16737,12 +16978,6 @@ msgstr "Database wijzigen"
 #, fuzzy
 msgid "Modify Group Settings"
 msgstr "Groepsinstellingen wijzigen"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
-#, fuzzy
-msgid "Mods Only"
-msgstr "Alleen mods"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -18107,6 +18342,18 @@ msgid "No members found."
 msgstr "Er zijn geen leden gevonden."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "No members have a color assigned."
+msgstr "Aan geen enkel lid is een kleur toegewezen."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "No messages match your search."
+msgstr "Er zijn geen berichten gevonden die aan je zoekopdracht voldoen."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #, fuzzy
 msgid "No need to use your phone each time"
@@ -18513,10 +18760,22 @@ msgid "Notes are only viewable by group moderators."
 msgstr "Notities kunnen alleen bekeken worden door groepseigenaren."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Nothing is emailed to the group."
+msgstr "Er wordt niets per e-mail naar de groep gestuurd."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
 msgid "Nothing new in your groups"
 msgstr "Geen nieuws in je groepen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Nothing was emailed to the group."
+msgstr "Er is niets per e-mail naar de groep gestuurd."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticenterprisecontactus.qtpl
@@ -18575,6 +18834,7 @@ msgstr "Mededelingen"
 #: ../../pkg/notifications/noteviews/subgroupremoval.qtpl
 #: ../../pkg/notifications/noteviews/subscribepaidtierrequired.qtpl
 #: ../../pkg/notifications/noteviews/tierchange.qtpl
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
 #: ../../pkg/notifications/noteviews/welcomenotification.qtpl
 #, fuzzy
 msgid "Notification"
@@ -18863,6 +19123,12 @@ msgstr "Een uur"
 #, fuzzy
 msgid "One Month"
 msgstr "Een maand"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "One short answer, written to be inserted into replies"
+msgstr "Een kort antwoord, bedoeld om in reacties te worden ingevoegd"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
@@ -19563,12 +19829,6 @@ msgstr "Pagina Geschiedenis"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #, fuzzy
-msgid "Page history, last edited"
-msgstr "Paginageschiedenis, laatst bewerkt op"
-
-#. Automatically translated using DeepL
-#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
-#, fuzzy
 msgid "Pages"
 msgstr "Pagina's"
 
@@ -19894,7 +20154,6 @@ msgstr "Verleden"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Past 24 Hours"
@@ -19926,7 +20185,6 @@ msgstr "Achterstallig"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/searchfilter.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "Past Hour"
 msgstr "Verleden Uur"
@@ -19941,7 +20199,6 @@ msgstr "Voormalige leden"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Past Month"
@@ -19951,7 +20208,6 @@ msgstr "Afgelopen maand"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Past Week"
@@ -19961,7 +20217,6 @@ msgstr "Past Week"
 #: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Past Year"
@@ -21931,6 +22186,7 @@ msgid "Remove Extra Storage"
 msgstr "Extra opslagruimte verwijderen"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 #, fuzzy
 msgid "Remove filter"
@@ -22071,12 +22327,6 @@ msgid "Removes links on the website and digest to reply options other than your 
 msgstr "Verwijdert koppelingen op de website en in de samenvatting naar andere antwoordopties dan de door jou geselecteerde optie Beantwoorden."
 
 #. Automatically translated using DeepL
-#: ../../pkg/notifications/noteviews/filenotification.qtpl
-#, fuzzy
-msgid "Renamed Folder %s"
-msgstr "Map hernoemd %s"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
 #, fuzzy
 msgid ""
@@ -22192,6 +22442,12 @@ msgid "Replace the standard text at the bottom of the login page."
 msgstr "Vervang de standaardtekst onderaan de aanmeldingspagina."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Replace what you have written with this template?"
+msgstr "Wil je wat je hebt geschreven vervangen door dit sjabloon?"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/user/enterprise.qtpl
 #, fuzzy
 msgid "Replacement Certificate — Awaiting Activation"
@@ -22214,6 +22470,38 @@ msgstr "Alleen antwoorden door Mods"
 #, fuzzy
 msgid "Replies to this topic must be sent to the sender, not the group."
 msgstr "Antwoorden op dit gesprek moeten naar de afzender gestuurd worden, niet naar de groep."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Replies to topics with this status would be moderated. Turn off Moderated first."
+msgstr ""
+"Reacties op onderwerpen met deze status worden gemodereerd. Schakel eerst ‘Gemodereerd’ uit."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Replies to topics with this status would be refused. Change Reply To first."
+msgstr ""
+"Reacties op onderwerpen met deze status worden geweigerd. Wijzig eerst het veld ‘Reageren op’."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Replies to topics with this status would skip group moderation. Turn off Replies "
+"Unmoderated first."
+msgstr ""
+"Reacties op onderwerpen met deze status zouden de groepsmoderatie overslaan. Schakel eerst ‘Reacties niet gemodereerd’ uit."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Replies to topics with this status wouldn't be emailed to the group. Turn off No "
+"Email first."
+msgstr ""
+"Reacties op onderwerpen met deze status worden niet per e-mail naar de groep verzonden. Schakel eerst ‘Geen e-mail’ uit."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
@@ -22579,6 +22867,12 @@ msgid "Restricted Membership"
 msgstr "Beperkt lidmaatschap"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Results"
+msgstr "Resultaten"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
 #: ../../cmd/web/views/sidebars/accountsidebar.qtpl
 #: ../../cmd/web/views/sidebars/groupsidebar.qtpl
@@ -22734,6 +23028,12 @@ msgid "Rotate Right"
 msgstr "Rechts draaien"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "Row %d"
+msgstr "Rij %d"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
 #, fuzzy
 msgid "RSS Feed"
@@ -22771,6 +23071,12 @@ msgstr "Russische Federatie"
 #, fuzzy
 msgid "Rwanda"
 msgstr "Rwanda"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "s"
+msgstr "s"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/color.qtpl
@@ -23112,6 +23418,7 @@ msgstr "Bekijk een volledige planvergelijking"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "See all"
 msgstr "Alles bekijken"
@@ -23778,6 +24085,25 @@ msgid "Set Payment Method"
 msgstr "Betaalmethode instellen"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#, fuzzy
+msgid "Set status"
+msgstr "Status instellen"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Set status to #%s"
+msgstr "Stel de status in op #%s"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "Set the status of \"%s\" to #%s?"
+msgstr "Moet de status van \"%s\" worden ingesteld op #%s?"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmembersubgroups.qtpl
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
@@ -23879,6 +24205,12 @@ msgstr "Korte beschrijving"
 #, fuzzy
 msgid "Short description of this database."
 msgstr "Korte beschrijving van deze database."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Show"
+msgstr "Weergeven"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupsubgrouplist.qtpl
@@ -24085,6 +24417,12 @@ msgstr "Maat"
 #, fuzzy
 msgid "Size Limits"
 msgstr "Groottelimieten"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "Skip map"
+msgstr "Kaart overslaan"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/base.qtpl
@@ -24447,7 +24785,6 @@ msgstr "Standaardtijd (3:04pm)"
 #: ../../cmd/web/views/groupadmin/groupactivity.qtpl
 #: ../../cmd/web/views/groupadmin/groupmemberactivity.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/user/activity.qtpl
 #, fuzzy
 msgid "Start"
@@ -24487,8 +24824,8 @@ msgid "Start Date"
 msgstr "Startdatum"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
 #: ../../cmd/web/views/groupadmin/tierroster.qtpl
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "Start date"
 msgstr "Startdatum"
@@ -24504,6 +24841,12 @@ msgstr "Start gratis proefperiode van 30 dagen"
 #, fuzzy
 msgid "Start Free Group"
 msgstr "Start gratis groep"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Start from"
+msgstr "Begin bij"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupmessages/groupsearch.qtpl
@@ -24573,9 +24916,17 @@ msgstr "Staat"
 #: ../../cmd/web/views/groupadmin/paidmembershipstiers.qtpl
 #: ../../cmd/web/views/groupadmin/tierroster.qtpl
 #: ../../cmd/web/views/groupdonations/groupdonationpayments.qtpl
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid "Status"
 msgstr "Status"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupthread.qtpl
+#, fuzzy
+msgid "Status: #%s"
+msgstr "Status: %s"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -24873,6 +25224,15 @@ msgstr "Subgroepen"
 #, fuzzy
 msgid "Subgroups are a great way to segment your members. You can easily add members from your parent group to each subgroup and you can see on one page which subgroups each member is a part of. Subgroups have the full feature set of parent groups; subgroup messages can be fully public, viewable by members of the parent group, or private to members of the subgroup."
 msgstr "Subgroepen zijn een geweldige manier om je leden te segmenteren. U kunt eenvoudig leden van uw bovenliggende groep toevoegen aan elke subgroep en u kunt op één pagina zien van welke subgroepen elk lid deel uitmaakt. Subgroepen hebben de volledige functieset van bovenliggende groepen; subgroepberichten kunnen volledig openbaar zijn, zichtbaar voor leden van de bovenliggende groep, of privé voor leden van de subgroep."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid ""
+"Subgroups can be created once the directory listing for this group has been "
+"approved."
+msgstr ""
+"Er kunnen subgroepen worden aangemaakt zodra de lijst met leden van deze groep is goedgekeurd."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/static/staticplancomparison.qtpl
@@ -25313,6 +25673,7 @@ msgstr "Arabische Republiek Syrië"
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupmaptable.qtpl
 #: ../../cmd/web/views/groupdb/grouptable.qtpl
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #, fuzzy
 msgid "Table"
 msgstr "Tabel"
@@ -25328,6 +25689,12 @@ msgstr "Inhoudsopgave"
 #, fuzzy
 msgid "Tag a message topic by including a #hashtag in the subject."
 msgstr "Tag een berichtonderwerp door een #hashtag in het onderwerp op te nemen."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid "Tag Color"
+msgstr "Kleur van het label"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/tabletemplates.qtpl
@@ -26794,6 +27161,18 @@ msgid "The SSO provider is returning an unauthorized error."
 msgstr "De SSO-provider retourneert een onbevoegde fout."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The status of \"%s\" is #%s."
+msgstr "De status van \"%s\" is #%s."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The status on \"%s\" is cleared."
+msgstr "De status van \"%s\" is gewist."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "The storage will be removed at the start of your next billing period. You will continue to have access to the extra storage until then."
@@ -26922,6 +27301,25 @@ msgstr "Het gesprek is niet meer gevolgd."
 #, fuzzy
 msgid "The topic has been unmuted."
 msgstr "Het gesprek is ongemuted."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The topic is locked."
+msgstr "Het onderwerp is vergrendeld."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "The topic is open for replies again."
+msgstr "Het onderwerp is weer open voor reacties."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid "The topic's status has been changed. Nothing was emailed to the group."
+msgstr ""
+"De status van het onderwerp is gewijzigd. Er is geen e-mail naar de groep gestuurd."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupdb/groupaddtable.qtpl
@@ -27549,6 +27947,16 @@ msgid "This group requires all posts to be tagged with at least one hashtag."
 msgstr "Deze groep vereist dat alle berichten worden getagd met ten minste één hashtag."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
+#: ../../cmd/web/views/groupcalendar/groupaddevent.qtpl
+#: ../../cmd/web/views/groupmessages/groupeditthread.qtpl
+#: ../../cmd/web/views/post/grouppost.qtpl
+#, fuzzy
+msgid "This hashtag is part of the subject text. Edit the subject to remove it."
+msgstr ""
+"Deze hashtag maakt deel uit van de onderwerptekst. Bewerk het onderwerp om deze te verwijderen."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #, fuzzy
 msgid "This information is included on all future invoices and payment receipts."
@@ -27585,6 +27993,7 @@ msgstr "Dit is een discussiegroep; alle leden kunnen berichten plaatsen in de gr
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/calendar/calendarsearch.qtpl
 #: ../../cmd/web/views/groupcalendar/groupcalendarsearch.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #, fuzzy
 msgid "This is a repeating event"
 msgstr "Dit is een terugkerend evenement"
@@ -27681,6 +28090,20 @@ msgstr ""
 #, fuzzy
 msgid "this link"
 msgstr "deze link"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "This link is no longer valid. Sign in and use Set status on the topic page."
+msgstr ""
+"Deze link is niet meer geldig. Log in en gebruik de optie ‘Status instellen’ op de onderwerpspagina."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "This locks the topic so members can't reply, and dims it in topic lists."
+msgstr ""
+"Hierdoor wordt het onderwerp vergrendeld, zodat leden er niet op kunnen reageren, en wordt het in de lijst met onderwerpen minder opvallend weergegeven."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/group/groupdirectory.qtpl
@@ -27811,6 +28234,13 @@ msgstr ""
 "Deze prijs maakt deel uit van een geplande wijziging in het tariefniveau. Annuleer die geplande wijziging (of wacht tot deze van kracht wordt) voordat je deze prijs uitschakelt."
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "This reopens the topic so members can reply again."
+msgstr ""
+"Hiermee wordt het onderwerp opnieuw geopend, zodat leden opnieuw kunnen reageren."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
@@ -27918,6 +28348,12 @@ msgid ""
 "(or wait for it to apply) before disabling the tier."
 msgstr ""
 "Dit niveau is het doelwit van een geplande niveauwijziging. Annuleer die geplande wijziging (of wacht tot deze is doorgevoerd) voordat u het niveau uitschakelt."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid "This topic already has the maximum number of hashtags."
+msgstr "Dit onderwerp bevat al het maximale aantal hashtags."
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/membernoticenotificationdata.qtpl
@@ -28144,6 +28580,13 @@ msgstr "Om dit lid via e-mail goed te keuren, hoef je alleen maar op dit bericht
 #, fuzzy
 msgid "To approve this using email, reply to this message. You do not need to attach the original message, just reply and send."
 msgstr "Om dit goed te keuren via e-mail, antwoord je op dit bericht. U hoeft het oorspronkelijke bericht niet bij te voegen, maar gewoon te antwoorden en te verzenden."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupadmin/groupmembers.qtpl
+#, fuzzy
+msgid "To assign one, select members and choose Change Color from the Actions menu."
+msgstr ""
+"Om een kleur toe te wijzen, selecteer je de leden en kies je ‘Kleur wijzigen’ in het menu ‘Acties’."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/sub/joinedgroup.qtpl
@@ -28485,12 +28928,6 @@ msgid "Tonga"
 msgstr "Tonga"
 
 #. Automatically translated using DeepL
-#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
-#, fuzzy
-msgid "Tools"
-msgstr "Gereedschap"
-
-#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/user/feed.qtpl
 #, fuzzy
@@ -28540,6 +28977,41 @@ msgstr "Gesprekseigenschappen"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topic starters can set this as their topic's status without emailing the group, "
+"using Set status on the topic page or a link in a private email they get when "
+"they post. A topic has one status at a time. If this hashtag is also Locked, "
+"setting it locks the topic and dims it in topic lists, and clearing it reopens "
+"the topic. Members on No email delivery don't get the private email."
+msgstr ""
+"De aanmaker van een onderwerp kan dit als status van het onderwerp instellen zonder de groep een e-mail te sturen, via de optie ‘Status instellen’ op de onderwerppagina of via een link in een privé-e-mail die hij of zij ontvangt bij het plaatsen van het bericht. Een onderwerp kan slechts één status tegelijk hebben. Als deze hashtag ook op ‘Vergrendeld’ staat, wordt het onderwerp vergrendeld en vaal weergegeven in de onderwerplijsten; als de hashtag wordt verwijderd, wordt het onderwerp weer geopend. Leden die ‘Geen e-mailontvangst’ hebben ingesteld, ontvangen de privé-e-mail niet."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid "Topic starters can set this as their topic's status."
+msgstr ""
+"De aanmaker van een onderwerp kan dit als status van zijn of haar onderwerp instellen."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
+#, fuzzy
+msgid "Topic starters can set this as their topic's status. It locks the topic."
+msgstr ""
+"Auteurs van onderwerpen kunnen dit instellen als de status van hun onderwerp. Hierdoor wordt het onderwerp vergrendeld."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topic starters can't use a hashtag reserved for moderators. Turn off Use by Mods "
+"Only first."
+msgstr ""
+"Gebruikers die een nieuw onderwerp starten, mogen geen hashtag gebruiken die is voorbehouden aan moderators. Schakel eerst de optie ‘Alleen voor moderators’ uit."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Topic will be locked instead of deleted after the specified time period."
 msgstr "Gesprek wordt vergrendeld in plaats van verwijderd na de opgegeven tijdsperiode."
 
@@ -28559,6 +29031,7 @@ msgstr "onderwerp.Lead"
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #: ../../cmd/web/views/groupmessages/groupallthread.qtpl
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessage.qtpl
 #: ../../cmd/web/views/groupmessages/groupmessages.qtpl
 #: ../../cmd/web/views/groupmessages/grouppolls.qtpl
@@ -28572,6 +29045,24 @@ msgid "Topics"
 msgstr "Gesprekken"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topics already locked by #%s stay locked if you turn this or Locked off. "
+"Moderators can unlock them."
+msgstr ""
+"Onderwerpen die al zijn vergrendeld door %s blijven vergrendeld als je deze optie of ‘Vergrendeld’ uitschakelt. Moderators kunnen ze ontgrendelen."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#, fuzzy
+msgid ""
+"Topics already tagged #%[1]s aren't changed or locked. If #%[1]s is Locked, "
+"they'll be dimmed in topic lists."
+msgstr ""
+"Onderwerpen die al zijn voorzien van de tag #%[1]s worden niet gewijzigd of vergrendeld. Als %[1]s is vergrendeld, worden ze in de lijst met onderwerpen grijs weergegeven."
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/group/grouphome.qtpl
 #, fuzzy
 msgid "Topics are automatically closed after %d day"
@@ -28581,12 +29072,19 @@ msgstr[1] "Gesprekken worden automatisch gesloten na %d dagen"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
+#: ../../cmd/web/views/grouphashtags/grouphashtags.qtpl
 #, fuzzy
 msgid ""
 "Topics will be locked when they are tagged with this hashtag. Topics that "
 "already have it are not affected."
 msgstr ""
 "Onderwerpen worden vergrendeld zodra ze met deze hashtag worden getagd. Onderwerpen die deze hashtag al hebben, worden hierdoor niet beïnvloed."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/searchfilter.qtpl
+#, fuzzy
+msgid "Topics with no replies yet"
+msgstr "Onderwerpen waarop nog niet is gereageerd"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/paidmembershipsreporting.qtpl
@@ -28795,6 +29293,12 @@ msgstr "Maak van je community een ledenorganisatie."
 #, fuzzy
 msgid "Tuvalu"
 msgstr "Tuvalu"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
+#, fuzzy
+msgid "Two columns"
+msgstr "Twee kolommen"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/login/sendloginlink.qtpl
@@ -29477,6 +29981,7 @@ msgstr "Update video"
 #: ../../cmd/web/views/groupfiles/groupfilessearch.qtpl
 #: ../../cmd/web/views/groupphotos/groupalbum.qtpl
 #: ../../cmd/web/views/groupphotos/groupphotos.qtpl
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #: ../../cmd/web/views/membernotices/groupmembernotices.qtpl
@@ -29547,6 +30052,12 @@ msgstr[1] "Bijgewerkte bestanden"
 #, fuzzy
 msgid "updated folder"
 msgstr "bijgewerkte map"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/filenotification.qtpl
+#, fuzzy
+msgid "Updated Folder %s"
+msgstr "Bijgewerkte map %s"
 
 #. Automatically translated using DeepL
 #: ../../pkg/notifications/noteviews/photonotification.qtpl
@@ -30746,6 +31257,12 @@ msgid "View Invoice"
 msgstr "Factuur bekijken"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/account/groupprofile.qtpl
+#, fuzzy
+msgid "View map"
+msgstr "Kaart bekijken"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
 msgid "View Member List"
@@ -30796,6 +31313,12 @@ msgid "View Row"
 msgstr "Bekijk rij"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupdb/groupmaptable.qtpl
+#, fuzzy
+msgid "View row"
+msgstr "Rij bekijken"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/components/messagelib/messagelib.qtpl
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
@@ -30815,6 +31338,18 @@ msgstr "Bekijk deze chat"
 #, fuzzy
 msgid "View this message online"
 msgstr "Bekijk dit bericht online"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupmarktopicconfirm.qtpl
+#, fuzzy
+msgid "View topic"
+msgstr "Onderwerp bekijken"
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "View topic:"
+msgstr "Onderwerp bekijken:"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/account/settings.qtpl
@@ -31941,6 +32476,7 @@ msgstr "Breedte van de kolom, voor weergave (0 betekent standaard)."
 #: ../../cmd/web/views/group/grouphome.qtpl
 #: ../../cmd/web/views/groupadmin/groupbilling.qtpl
 #: ../../cmd/web/views/groupadmin/groupsettings.qtpl
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
 #: ../../cmd/web/views/groupwiki/groupeditwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwiki.qtpl
 #: ../../cmd/web/views/groupwiki/groupwikihistory.qtpl
@@ -32009,6 +32545,12 @@ msgid "Wiki Pages"
 msgstr "Wiki-pagina's"
 
 #. Automatically translated using DeepL
+#: ../../cmd/web/views/groupwiki/groupwiki.qtpl
+#, fuzzy
+msgid "Wiki pages"
+msgstr "Wiki-pagina's"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupwiki/groupwikisearch.qtpl
 #, fuzzy
 msgid "Wiki Search"
@@ -32019,6 +32561,12 @@ msgstr "Wiki zoeken"
 #, fuzzy
 msgid "Wiki Updates"
 msgstr "Wiki updates"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/groupmessages/groupsearch.qtpl
+#, fuzzy
+msgid "Wiki, files and events aren't filtered."
+msgstr "Wiki, bestanden en evenementen worden niet gefilterd."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/enablepaidmemberships.qtpl
@@ -32167,6 +32715,12 @@ msgstr "Jaarlijkse prijzen:"
 #, fuzzy
 msgid "years"
 msgstr "jaren"
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/views/user/homeloggedout.qtpl
+#, fuzzy
+msgid "Years serving communities"
+msgstr "Jaren in dienst van de gemeenschap"
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/color.qtpl
@@ -32610,6 +33164,13 @@ msgid "You can ask for donations from your group. Here's what you need to know:"
 msgstr "Je kunt donaties vragen aan je groep. Dit is wat je moet weten:"
 
 #. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "You can change its status without sending an email to the group:"
+msgstr ""
+"Je kunt de status ervan wijzigen zonder een e-mail naar de groep te sturen:"
+
+#. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/groupplans.qtpl
 #, fuzzy
 msgid "You can change plans at any time. If downgrading, the downgrade will take effect after the currently paid period."
@@ -32742,6 +33303,12 @@ msgstr "Je kunt je groep bezoeken, berichten lezen en ze hier posten:"
 #, fuzzy
 msgid "You can visit your group, start reading messages and posting them here: <a href=\"%[1]s\">%[1]s</a>. If it's your first time logging in or you have forgotten your password, please use the \"email me a link to login\" button."
 msgstr "Je kunt je groep bezoeken, berichten lezen en ze hier posten: <a href=\"%[1]s\">%[1]s</a> . Als het de eerste keer is dat je inlogt of je bent je wachtwoord vergeten, gebruik dan de knop \"E-mail me een link om in te loggen\"."
+
+#. Automatically translated using DeepL
+#: ../../cmd/web/qtutils/flashnotices.qtpl
+#, fuzzy
+msgid "You can't change this topic's status."
+msgstr "Je kunt de status van dit onderwerp niet wijzigen."
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/qtutils/flashnotices.qtpl
@@ -34487,6 +35054,18 @@ msgid ""
 "payment, your subscription will be canceled and your tier access will end."
 msgstr ""
 "Je toegang tot het abonnement blijft voorlopig ongewijzigd. Om je toegang te behouden, moet je je betaalmethode binnen 14 dagen bijwerken. Als er na 14 dagen nog geen succesvolle betaling is uitgevoerd, wordt je abonnement opgezegd en vervalt je toegang tot het abonnement."
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Your topic \"%s\" is posted to %s."
+msgstr "Je onderwerp \"%s\" is geplaatst op %s."
+
+#. Automatically translated using DeepL
+#: ../../pkg/notifications/noteviews/topicpostednotification.qtpl
+#, fuzzy
+msgid "Your topic is posted: \"%s\""
+msgstr "Je onderwerp is geplaatst: \"%s\""
 
 #. Automatically translated using DeepL
 #: ../../cmd/web/views/groupadmin/enterprisesetup.qtpl
